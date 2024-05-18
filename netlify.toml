@@ -1,0 +1,7 @@
+[build]
+publish = "public"
+command = "npm install && npm project-setup && npm build"
+
+[build.environment]
+HUGO_VERSION = "0.121.1"
+GO_VERSION = "1.20.5"
