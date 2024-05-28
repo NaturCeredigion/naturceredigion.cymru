@@ -150,20 +150,15 @@ sidebar = [
 ############################# social site ########################
 [[social]]
 icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.facebook.com" 
-title = "facebook" 
+link = "https://www.facebook.com/naturceredigion"
+title = "Facebook"
 
 [[social]]
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://twitter.com" 
-title = "twitter" 
+icon = "fab fa-x" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://x.com/naturceredigion"
+title = "X"
 
 [[social]]
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://github.com" 
-title = "github" 
-
-[[social]]
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com" 
-title = "linkedin" 
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://instagram.com/naturceredigion"
+title = "Instagram"
