@@ -2,14 +2,14 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.svg"
+logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = ""
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "northendlab"
+logo_text = "Partneriaeth Natur Ceredigion Nature Partnership"
 
 # purgeCSS
 purge_css = true
