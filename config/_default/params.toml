@@ -44,7 +44,7 @@ theme_copyright = true
 # Banner
 [banner]
 bg_image = "images/banner/banner-shape.png"
-title = "Ceredigion Nature Partnership <br> My Blogsite is About <br> <strong>Website & Development</strong>"
+title = "Ceredigion Nature Partnership <br><i>Nature recovery in everything we do</i>"
 image = "images/banner-image.png"
 
 # Preloader
