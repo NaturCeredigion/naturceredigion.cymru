@@ -3,15 +3,15 @@
 # --------------------------
 [en]
 languageName = "En"
-languageCode = "en-us"
+languageCode = "en-gb"
 contentDir = "content/english"
 weight = 1
 
 # --------------------------
 # French language 
 # --------------------------
-[fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+[cy]
+languageName = "Cy"
+languageCode = "cy-cy"
+contentDir = "content/cymraeg"
 weight = 2

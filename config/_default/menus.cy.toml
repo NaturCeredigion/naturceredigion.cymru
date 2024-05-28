@@ -1,70 +1,74 @@
 ############# English navigation ##############
-
-# main menu
+# ----- Main Menu ----- 
 [[main]]
-name = "Home"
-url = "" # don't use a slash for home url
+name = "Maison"
+url = "/"
 weight = 1
 hasChildren = true
 
 [[main]]
-parent = "Home"
-name = "Home Classic"
+parent = "Maison"
+name = "Accueil Classique"
 url = "homepage/classic/"
+weight = 1
 
 [[main]]
-parent = "Home"
-name = "Home Creative"
+parent = "Maison"
+name = "Accueil Créatif"
 url = "homepage/creative/"
+weight = 2
 
 [[main]]
-name = "About"
+name = "Quelque"
 url = "about/"
+weight = 2
+
+[[main]]
+name = "Contacter"
+url = "contact/"
 weight = 3
 
 [[main]]
-name = "Contact"
-url = "contact/"
-weight = 4
-
-[[main]]
-name = "Tools"
+name = "Outils"
 url = "tools/"
-weight = 5
+weight = 4
 
 [[main]]
 name = "Pages"
 url = "#"
-weight = 6
+weight = 5
 hasChildren = true
 
 [[main]]
 parent = "Pages"
-name = "Tag"
+name = "Mots clés"
 url = "tags/tech/"
+weight = 1
 
 [[main]]
 parent = "Pages"
-name = "Category"
+name = "Catégorie"
 url = "categories/hugo/"
+weight = 2
 
 [[main]]
 parent = "Pages"
-name = "Elements"
+name = "Éléments"
 url = "elements/"
- 
-# Footer Menu 
+weight = 3
+
+# ----- Footer Menu -----
 [[footer]]
-name = "About"
+name = "Quelque"
 url = "about/"
 weight = 1
 
 [[footer]]
-name = "Privacy"
+name = "Vie privée"
 url = "privacy/"
-weight = 3
+weight = 2
 
 [[footer]]
-name = "Terms & Conditions"
+name = "Termes et conditions"
 url = "terms-conditions/"
-weight = 4
+weight = 3
