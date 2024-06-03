@@ -40,6 +40,7 @@
   background-size: auto !important;
 
   .banner-image {
+    border-radius: 50%;
     @include mobile {
       max-width: 280px !important;
     }

@@ -8210,9 +8210,11 @@ button.tab-nav-button {
   background-color: #F8F8F8;
   padding: 70px 0;
   background-size: auto !important; }
-  @media (max-width: 575px) {
-    .banner-creative .banner-image {
-      max-width: 280px !important; } }
+  .banner-creative .banner-image {
+    border-radius: 50%; }
+    @media (max-width: 575px) {
+      .banner-creative .banner-image {
+        max-width: 280px !important; } }
   .banner-creative .title {
     font-weight: 400; }
     @media (max-width: 767px) {

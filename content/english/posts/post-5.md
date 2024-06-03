@@ -1,6 +1,6 @@
 ---
-title: "The power of using symbolism in design"
-image: "images/post/post-3.jpg"
+title: "Wood meadows for the win"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1711209171/woodmeadows/110529-laelatu-wooded-meadow.jpg"
 author: "Mark Dinn"
 date: 2019-11-07T05:00:00Z
 description: "This is meta description"

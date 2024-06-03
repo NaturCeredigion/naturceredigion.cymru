@@ -6,7 +6,7 @@ date: 2019-11-07T05:00:00Z
 description: "This is meta description"
 categories: ["Meta Data"]
 tags: ["Meta", "Data", "Tech"]
-featured: true
+featured: false
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Apple's M1 ARM Pivot Step Int the Reality Field"
-image: "images/post/post-4.jpg"
+title: "Newsletter relaunched"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1714250373/240427-buttondown-email-newsletter.png"
 author: "John Doe"
 date: 2019-11-07T05:00:00Z
 description: "This is meta description"
