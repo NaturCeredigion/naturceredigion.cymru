@@ -9782,6 +9782,22 @@ iframe.wait-autoplay {
 .slider-block {
   top: -1rem; }
 
-h1.title, .title.h1 {
+.banner-creative .title {
   color: white !important;
   filter: drop-shadow(3px 3px 4px black); }
+
+.card-block {
+  background-color: #fcfbf2 !important;
+  border-radius: 3px; }
+
+.img {
+  border-radius: 2px; }
+
+.navbar-nav .nav-item a {
+  color: #4470a2 !important;
+  font-size: 1rem;
+  font-weight: bold; }
+
+.card-overlapped .badge {
+  background-color: #4470a2 !important;
+  border-radius: 2px; }

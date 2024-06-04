@@ -2,7 +2,28 @@
   top: -1rem;
 }
 
-h1.title {
+.banner-creative .title {
   color: white !important;
   filter: drop-shadow(3px 3px 4px rgba(0, 0, 0, 1));
+}
+
+.card-block {
+  background-color: #fcfbf2 !important;
+  border-radius: 3px;
+}
+
+.img {
+  border-radius: 2px;
+}
+
+.navbar-nav .nav-item a {
+  // color: #ea4a2c !important;
+  color: #4470a2 !important;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.card-overlapped .badge {
+  background-color: #4470a2 !important;
+  border-radius: 2px;
 }
