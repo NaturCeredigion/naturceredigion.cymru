@@ -44,7 +44,7 @@ theme_copyright = true
 # Banner
 [banner]
 bg_image = "images/banner/banner-background.jpg"
-title = "<span class='u-tape'>Ceredigion Nature Partnership</span> <br><i class='u-tape'>Nature recovery in everything we do</span></i>"
+title = "Ceredigion Nature Partnership <br><i>Nature recovery in everything we do</i>"
 image = "images/banner-meadow-brown.png"
 
 # Preloader
