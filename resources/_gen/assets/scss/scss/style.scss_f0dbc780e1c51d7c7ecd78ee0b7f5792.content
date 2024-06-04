@@ -7582,16 +7582,16 @@ body {
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
-  color: #666666; }
+  color: #555555; }
 
 p, .paragraph {
   font-weight: 400;
-  color: #666666;
+  color: #555555;
   font-size: 16px;
   font-family: "Open Sans", sans-serif; }
 
 a {
-  color: #666666; }
+  color: #555555; }
   a:hover {
     text-decoration: underline;
     color: #4470a2; }
@@ -7880,7 +7880,7 @@ a.bg-light:hover {
   color: #4470a2 !important; }
 
 .text-color {
-  color: #666666; }
+  color: #555555; }
 
 a.text-dark:hover,
 a.text-primary:hover {
@@ -8371,7 +8371,7 @@ button.tab-nav-button {
       height: 40px;
       line-height: 26px;
       text-align: center;
-      color: #666666;
+      color: #555555;
       border: 0;
       border-radius: 0;
       font-weight: bold; }
@@ -8697,7 +8697,7 @@ button.tab-nav-button {
 /* nav tab */
 .nav-tab .nav-link {
   padding: 15px;
-  color: #666666;
+  color: #555555;
   border-radius: 5px; }
   .nav-tab .nav-link.active {
     color: #fff;

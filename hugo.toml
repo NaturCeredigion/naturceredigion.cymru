@@ -10,7 +10,7 @@
 color_primary = "#4470a2" # Blue
 color_secondary = "#6e9a68" # Green
 body_color = "#fff"
-text_color = "#666666"
+text_color = "#555555"
 text_dark = "#222222"
 border_color = "#ACB9C4"
 black = "#000"
