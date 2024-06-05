@@ -9800,9 +9800,22 @@ iframe.wait-autoplay {
 .navbar-nav li a:hover {
   background-color: #4470a2; }
 
+.navbar-nav li a:active {
+  background-color: #ea4a2c; }
+
 .card-overlapped .badge {
   background-color: #555555 !important;
   border-radius: 2px; }
 
 .navbar-nav {
   font-size: 1rem; }
+
+a:active {
+  color: #ea4a2c; }
+
+a.text-dark:active {
+  color: #ea4a2c !important; }
+
+.pagination .page-item .page-link:active,
+.social-icon a:active {
+  background-color: #ea4a2c; }
