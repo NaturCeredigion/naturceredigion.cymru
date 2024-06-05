@@ -17,7 +17,6 @@
 }
 
 
-
 .navbar-nav li a {
   // color: #ea4a2c !important;
   color: $color_primary !important;
@@ -51,4 +50,14 @@ a.text-dark:active {
 .pagination .page-item .page-link:active,
 .social-icon a:active {
   background-color: $hilite;
+}
+
+.copyright {
+  font-size: 0.8rem;
+}
+
+.footer-nav a {
+  color: $text_color;
+  font-size: 1rem;
+  font-weight: bold;
 }

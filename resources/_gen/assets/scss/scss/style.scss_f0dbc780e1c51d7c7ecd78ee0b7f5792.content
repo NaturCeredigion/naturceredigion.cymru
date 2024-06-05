@@ -9819,3 +9819,11 @@ a.text-dark:active {
 .pagination .page-item .page-link:active,
 .social-icon a:active {
   background-color: #ea4a2c; }
+
+.copyright {
+  font-size: 0.8rem; }
+
+.footer-nav a {
+  color: #555555;
+  font-size: 1rem;
+  font-weight: bold; }
