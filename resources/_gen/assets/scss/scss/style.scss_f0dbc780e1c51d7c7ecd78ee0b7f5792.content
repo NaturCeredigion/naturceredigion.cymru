@@ -8044,7 +8044,7 @@ button.tab-nav-button {
       display: inline-block;
       text-transform: capitalize; }
       .navigation .navbar-light .nav-item .nav-link:hover {
-        color: #4470a2; }
+        color: white !important; }
     .navigation .navbar-light .nav-item.dropdown .dropdown-menu {
       border-radius: 0;
       border: 0;
@@ -9793,11 +9793,16 @@ iframe.wait-autoplay {
 .img {
   border-radius: 2px; }
 
-.navbar-nav .nav-item a {
+.navbar-nav li a {
   color: #4470a2 !important;
-  font-size: 1rem;
   font-weight: bold; }
 
+.navbar-nav li a:hover {
+  background-color: #4470a2; }
+
 .card-overlapped .badge {
-  background-color: #4470a2 !important;
+  background-color: #555555 !important;
   border-radius: 2px; }
+
+.navbar-nav {
+  font-size: 1rem; }

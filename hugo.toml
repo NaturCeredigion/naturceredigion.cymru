@@ -9,6 +9,7 @@
 [params.variables]
 color_primary = "#4470a2" # Blue
 color_secondary = "#6e9a68" # Green
+hilite = "#ea4a2c" # Orange
 body_color = "#fff"
 text_color = "#555555"
 text_dark = "#222222"
