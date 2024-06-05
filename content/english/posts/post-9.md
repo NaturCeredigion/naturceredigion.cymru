@@ -1,6 +1,6 @@
 ---
-title: "What is WebP? Pros and cons of this next-gen image format"
-image: "images/post/post-3.jpg"
+title: "The magic of dead hedges"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1600029523/dead-hedge-200905.jpg"
 author: "John Doe"
 date: 2019-11-07T05:00:00Z
 description: "This is meta description"

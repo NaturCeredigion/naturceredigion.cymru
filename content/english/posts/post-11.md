@@ -1,6 +1,6 @@
 ---
-title: "What is web hosting? A quick guide for new websites"
-image: "images/post/post-1.jpg"
+title: "Amazing moss"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1548015253/mossfungi-1943BF3D.jpg"
 author: "Mark Dinn"
 date: 2019-11-07T05:00:00Z
 description: "This is meta description"

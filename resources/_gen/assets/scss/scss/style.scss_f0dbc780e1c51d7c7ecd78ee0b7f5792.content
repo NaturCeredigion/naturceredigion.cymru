@@ -9784,7 +9784,7 @@ iframe.wait-autoplay {
 
 .banner-creative .title {
   color: white !important;
-  filter: drop-shadow(3px 3px 4px black); }
+  text-shadow: 1.5px 1.5px 5px black; }
 
 .card-block {
   background-color: #fcfbf2 !important;

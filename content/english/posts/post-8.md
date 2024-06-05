@@ -1,6 +1,6 @@
 ---
-title: "The principles of ethical design (and how to use them)"
-image: "images/post/post-2.jpg"
+title: "Accessible footpaths"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1709914213/tir/240308-path-main-woodland-curve.webp"
 author: "Mark Dinn"
 date: 2019-11-07T05:00:00Z
 description: "This is meta description"

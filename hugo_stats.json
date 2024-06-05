@@ -133,6 +133,7 @@
       "dropdown-item",
       "dropdown-menu",
       "dropdown-toggle",
+      "embeddable-buttondown-form",
       "experiences",
       "experiences-item",
       "experiences-items",
@@ -291,6 +292,7 @@
       "widget-title"
     ],
     "ids": [
+      "bd-email",
       "blockquote",
       "code-and-syntax-highlighting",
       "collaboration-in-figma-is-simple-and-familiar",

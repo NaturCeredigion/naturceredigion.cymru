@@ -1,6 +1,6 @@
 ---
-title: "How crisis shapes creativity: marketing in 2020 and beyond"
-image: "images/post/post-3.jpg"
+title: "Your plants need to be eaten"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1655895713/insects/tenthredo-livida-060630.jpg"
 author: "John Doe"
 date: 2019-11-07T05:00:00Z
 description: "This is meta description"
