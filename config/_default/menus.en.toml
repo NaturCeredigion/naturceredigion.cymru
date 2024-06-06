@@ -17,8 +17,8 @@ url = "partners/"
 weight = 3
 
 [[main]]
-name = "Documents"
-url = "documents/"
+name = "Grants"
+url = "grants/"
 weight = 4
  
 # Footer Menu 
