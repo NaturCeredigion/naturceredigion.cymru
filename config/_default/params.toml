@@ -38,12 +38,12 @@ contact_form_action = "#" # contact form works with [https://airform.io/] or [ht
 custom_script = ""
 
 # copyright
-copyright = "Copyright © Ceredigion Nature Partnership under <a href='https://creativecommons.org/'><b>Creative Commons licensing</b></a>.<br>Photos licensed <a href='https://creativecommons.org/licenses/by-sa/4.0/'><b>CC BY-SA 4.0</b></a>, words licensed <a href='https://creativecommons.org/licenses/by-nd/4.0/'><b>CC BY-ND 4.0</b></a>, <em>unless stated otherwise</em>. Hare in grassland copyright <a href='https://www.flickr.com/photos/18805800@N05/'><b>Shane Jones</b></a>.  Ringlet butterfly <a href='https://creativecommons.org/licenses/by/4.0/'><b>CC BY 4.0</b></a> copyright <a href='https://adriancolston.wordpress.com/2015/07/03/the-brown-butterflies-how-to-identify/'><b>Adrian Colston</b></a>."
+copyright = "Copyright © Ceredigion Nature Partnership under <a href='https://creativecommons.org/'><b>Creative Commons licensing</b></a>.<br>Photos licensed <a href='https://creativecommons.org/licenses/by-sa/4.0/'><b>CC BY-SA 4.0</b></a>, words licensed <a href='https://creativecommons.org/licenses/by-nd/4.0/'><b>CC BY-ND 4.0</b></a>, <em>unless stated otherwise</em>. Hare in grassland © <a href='https://www.flickr.com/photos/18805800@N05/'><b>Shane Jones</b></a>. Ringlet butterfly <a href='https://creativecommons.org/licenses/by/4.0/'><b>CC BY 4.0</b></a> © <a href='https://adriancolston.wordpress.com/2015/07/03/the-brown-butterflies-how-to-identify/'><b>Adrian Colston</b></a>."
 theme_copyright = true
 
 # Banner
 [banner]
-bg_image = "images/banner/background.jpg"
+bg_image = "images/banner/banner-background.jpg"
 title = "Ceredigion Nature Partnership <br><i>Nature recovery in everything we do</i>"
 image = "images/banner/ringlet.png"
 
