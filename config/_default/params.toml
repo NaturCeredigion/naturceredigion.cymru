@@ -43,9 +43,9 @@ theme_copyright = true
 
 # Banner
 [banner]
-bg_image = "images/banner/banner-background.jpg"
+bg_image = "images/banner/background.jpg"
 title = "Ceredigion Nature Partnership <br><i>Nature recovery in everything we do</i>"
-image = "images/banner/ringlet.png"
+image = "images/banner/butterfly.png"
 
 # Preloader
 [preloader]
