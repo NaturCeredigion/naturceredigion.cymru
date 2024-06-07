@@ -9827,3 +9827,7 @@ a.text-dark:active {
   color: #555555;
   font-size: 1rem;
   font-weight: bold; }
+
+.banner-creative .banner-image {
+  transform: rotate(15deg);
+  opacity: 0.9; }
