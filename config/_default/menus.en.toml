@@ -8,7 +8,7 @@ weight = 1
 
 [[main]]
 name = "Newsletter"
-url = "categories/newsletter/"
+url = "newsletter/"
 weight = 2
 
 [[main]]
@@ -21,26 +21,31 @@ name = "Grants"
 url = "grants/"
 weight = 4
 
-[[main]]
+# Footer Menu
+[[footer]]
+name = "Events"
+url = "events/"
+weight = 1
+
+[[footer]]
 name = "Plans"
 url = "plans/"
-weight = 5
- 
-# Footer Menu 
+weight = 2
+
 [[footer]]
 name = "Contact"
 url = "contact/"
-weight = 1
+weight = 3
 
 [[footer]]
 name = "About"
 url = "about/"
-weight = 2
+weight = 4
 
 [[footer]]
 name = "Privacy"
 url = "privacy/"
-weight = 3
+weight = 5
 
 [[footer]]
 name = "Policies"

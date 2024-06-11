@@ -1,7 +1,7 @@
 ---
-title: "Amazing dragonflies"
+title: "Dynamic dragonflies"
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1596913693/dragonfly-200808.jpg"
-author: "Mark Dinn"
+author: "Jake Rayson"
 date: 2019-11-07T05:00:00Z
 description: "This is meta description"
 categories: ["Development Tools"]
