@@ -16,7 +16,6 @@
         </ul>
       </div>
       <div class="col-lg-4 text-lg-end text-center mb-4 mb-lg-0">
-        <a href="https://gov.wales"><img loading="lazy" class="img-fluid" src="/images/footer/welsh-govt-funded-logo.svg" alt="{{ i18n `funded_welsh_govt` }}"></a>
         <ul class="list-inline social-icon mb-0">
           {{ range site.Params.social }}
           <li class="list-inline-item">
@@ -29,6 +28,7 @@
       </div>
     </div>
     <div class="text-center mt-4">
+      <a href="https://gov.wales"><img loading="lazy" style="width:9rem;" src="/images/footer/welsh-govt-funded-logo.svg" alt="{{ i18n `funded_welsh_govt` }}"></a>
       <p class="copyright">
         {{ site.Params.copyright | markdownify }}
         {{ if site.Params.theme_copyright }}
