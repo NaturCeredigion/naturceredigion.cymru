@@ -93,3 +93,6 @@
 
 - id: post_related_to
   translation: Des postes liés à
+
+- id: funded_welsh_govt
+  translation: Funded by Welsh government logo
