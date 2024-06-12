@@ -4,6 +4,7 @@ description: "this is meta description"
 draft: false
 ---
 
+* Add licensing for bespoke images ie Shane Jones, hare, butterfly, owlets and waterfall (so far)
 
 #### Responsibility of Contributors
 
