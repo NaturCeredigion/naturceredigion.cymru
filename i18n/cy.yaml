@@ -94,5 +94,21 @@
 - id: post_related_to
   translation: Des postes liés à
 
-- id: funded_welsh_govt
+- id: alt_funded_welsh_govt
   translation: Funded by Welsh government logo
+
+- id: url_funded_welsh_govt
+  translation: https://www.llyw.cymru/
+
+- id: alt_caru
+  translation: Caru Ceredigion logo
+
+- id: url_caru
+  translation: https://www.ceredigion.gov.uk/preswyliwr/caru-ceredigion/
+
+- id: alt_ceredigion
+  translation: Cyngor Sir Ceredigion logo
+
+- id: url_ceredigion
+  translation: https://www.ceredigion.gov.uk/preswyliwr/
+
