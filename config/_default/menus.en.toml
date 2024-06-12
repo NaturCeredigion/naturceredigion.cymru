@@ -1,6 +1,6 @@
 ############# English navigation ##############
 
-# main menu
+# Main menu
 [[main]]
 name = "Home"
 url = "" # don't use a slash for home url
@@ -12,25 +12,41 @@ url = "newsletter/"
 weight = 2
 
 [[main]]
-name = "Partners"
-url = "partners/"
+name = "Grants"
+url = "grants/"
 weight = 3
 
 [[main]]
-name = "Grants"
-url = "grants/"
+name = "Happenings"
+url = "#"
+hasChildren = true
+weight = 4
+
+[[main]]
+parent = "Happenings"
+name = "Partners"
+url = "partners/"
+weight = 1
+
+[[main]]
+parent = "Happenings"
+name = "Events"
+url = "events/"
+weight = 2
+
+[[main]]
+parent = "Happenings"
+name = "Plans"
+url = "plans/"
+weight = 3
+
+[[main]]
+parent = "Happenings"
+name = "Contact"
+url = "contact/"
 weight = 4
 
 # Footer Menu
-[[footer]]
-name = "Events"
-url = "events/"
-weight = 1
-
-[[footer]]
-name = "Plans"
-url = "plans/"
-weight = 2
 
 [[footer]]
 name = "Contact"

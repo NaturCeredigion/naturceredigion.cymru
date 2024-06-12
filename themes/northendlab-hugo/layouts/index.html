@@ -57,22 +57,28 @@
 <!-- Newsletter -->
 <div class="newsletter">
   <div class="container">
-    <div class="row">
-      <h1>Newsletter</h1>
-      <h3>Sign up to the Natur Ceredigion newsletter</h3>
-      <p>Monthly round-up of all the nature news in Ceredigion, with weekly catch-up news flash</p>
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/NaturCeredigion"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/NaturCeredigion', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
+    <div class="row  align-items-center justify-content-between">
+      <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
+        <h1>Newsletter</h1>
 
-  <input type="submit" value="Subscribe" />
-</form>
+        <h3>Sign up to the Natur Ceredigion newsletter</h3>
+        <p>Monthly round-up of nature news in Ceredigion, with weekly catch-up news flash</p>
+        <form
+          action="https://buttondown.email/api/emails/embed-subscribe/NaturCeredigion"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.email/NaturCeredigion', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <label for="bd-email"><i>Enter your email</i></label>
+          <input type="email" name="email" id="bd-email" />
+
+          <input type="submit" value="Subscribe" />
+        </form>
+      </div>
+      <div class="col-lg-5 p-0 d-none d-lg-block">
+        <img class="img" src="/images/home/waterfall.jpg" alt="Waterfall slow mo">
+      </div>
     </div>
   </div>
 </div>
