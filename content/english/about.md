@@ -1,31 +1,39 @@
 ---
 title: "About"
 layout: "about"
-image: "images/about.jpg"
+image: "/images/rachel.jpg"
 background_shape: "images/banner-shape.png"
 draft: false
 
 # My Experiences
 my_experiences:
   enable: true
-  title: "My Experiences"
+  title: "Our experience"
   description: "Are you Developer and recently started your own business and Already made a  to ensure online presence"
   
   experiences_item:
-  - title: "Affinity Design Limited"
-    requisition: "Front End Developer"
+  - title: "Alison Heal"
+    requisition: "Senior Ecologist"
     time_period: "2015 Jan - 2017 March"
 
-  - title: "The coders trust"
-    requisition: "Front End Developer"
+  - title: "Rachel Auckland"
+    requisition: "Biodiversity Officer"
     time_period: "2015 Jan - 2017 March"
     
-  - title: "Gethugothemes"
-    requisition: "Front End Developer"
+  - title: "Gillian Clarke"
+    requisition: "Service Support Officer"
     time_period: "2015 Jan - 2017 March"
     
-  - title: "Themefisher"
-    requisition: "Front End Developer"
+  - title: "Fiona Moran"
+    requisition: "Biodiversity Assistant"
+    time_period: "2015 Jan - 2017 March"
+
+  - title: "Jake Rayson"
+    requisition: "Biodiversity Assistant"
+    time_period: "2015 Jan - 2017 March"
+
+  - title: "Chris Harris"
+    requisition: "Biodiversity Assistant"
     time_period: "2015 Jan - 2017 March"
 
     
@@ -33,17 +41,17 @@ my_experiences:
 about_info:
   enable: true
   item:
-  - name: "My Approach"
+  - name: "Our approach"
     content: "Lorem ipsum dolor sit amet, consectetur adipisdf bicing elit. Quas offiscs cuque, harum dicta neces sitatrrthr thrth iujhs reprehenderit, delsectsus molesdtiae, impedit alias adipi thsci distinctio volusd ptas. Tempora modi amet volufy jnfyp tatlje  provide nsdv sdvt solusfta consequatur. oresaam ipsum dolor sit amhet, consec dassetur  facere tempore soluta Lorsgem ipsum shghu ugisdvg srgvsrgv vswrgv srgt lias adipi thsci distiio voslusd"
 
-  - name: "My Skills"
+  - name: "Our skills"
     content: "Lorem ipsum dolor sit amet, consectetur adipisdf bicing elit. Quas offiscs cuque, harum dicta neces sitatrrthr thrth iujhs reprehenderit, delsectsus molesdtiae, impedit alias adipi thsci distinctio volusd ptas. Tempora modi amet volufy jnfyp tatlje  provide nsdv sdvt solusfta consequatur. oresaam ipsum dolor sit amhet, consec dassetur  facere tempore soluta Lorsgem ipsum shghu ugisdvg srgvsrgv vswrgv srgt lias adipi thsci distiio voslusd"
 
     
 # Compatibility
 compatibility:
   enable: true
-  title: "I am Compatible With This Tools"
+  title: "Proud to work with these organisations"
   item:
     - image: "images/compatibility/01.png"
     - image: "images/compatibility/02.png"
@@ -60,9 +68,8 @@ compatibility:
  
 ---
 
-## I’m Mike George Asslemia <br> <strong>An User interface Designer</strong>
+## We are the Biodiversity Team at<br><strong>Ceredigion Nature Partnership</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. consectetur adipisicing elit olores quibusdam sed. 
-  
   
 Lorem ipsum dolor sit amet, consectetur adipisic dfbdfing elit. Incidunt, rem eaafa que facilis. ratione, magnam a minima incidunt! Suscipit facilis, ut maxime libero necessit atibder gesus, rerum aut voluptates aliquam maiores iusto qui
