@@ -6,7 +6,7 @@
       <div class="col-lg-5">
         <h2 class="mb-4">{{ .Title | markdownify }}</h2>
         <div class="content">{{ .Content }}</div>
-        <form method="POST" action="{{ site.Params.contact_form_action | safeURL}}" class="row">
+        <form method="POST" action="{{ site.Params.contact_form_action | safeURL}}" class="row mb-4">
           <div class="col-md-6">
             <input type="text" class="form-control mb-4" placeholder="Name" name="name" id="name" required>
           </div>
@@ -24,6 +24,13 @@
             <button class="btn btn-primary btn-block w-100" type="submit">Send</button>
           </div>
         </form>
+        <h3>Social media</h3>
+        <p>We are on the following social media channels:</p>
+        <ul>
+          <li><strong>Facebook</strong>: <a href="https://facebook.com/NaturCeredigion" target="_blank">facebook.com/NaturCeredigion</a></li>
+          <li><strong>Twitter</strong>: <a href="https://x.com/NaturCeredigion" target="_blank">x.com/NaturCeredigion</a></li>
+          <li><strong>Instagram</strong>: <a href="https://instagram.com/NaturCeredigion" target="_blank">instagram.com/NaturCeredigion</a></li>
+
       </div>
       {{ if .Params.Image }}
       <div class="col-lg-5 text-md-end">
