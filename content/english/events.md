@@ -1,9 +1,11 @@
 ---
-title: "Nature events in Ceredigion"
+title: "Natur Ceredigion events"
 draft: false
 description: "A curated list of nature & wildlife events in Ceredigion"
 image: "images/contact.svg"
 ---
+
+[Subscribe to events calendar in ICS](https://outlook.office365.com/owa/calendar/f5be4d0281bd4d42afa3c036b6eaa3e9@ceredigion.gov.uk/11134a16746f4081b384e830f2dacc7a17535814671574127600/calendar.ics)
 
 | Event                                                                                                                                                                                               | Date          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
