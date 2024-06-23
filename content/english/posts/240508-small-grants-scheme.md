@@ -16,7 +16,7 @@ alias: "small-grants-scheme"
 Projects must:
 * Support activities and actions that restore and enhance nature.
 * Create 'places for nature’ that can be seen ‘from your doorstep’. This includes where people live, work and access public services. 
-* Focus on areas of deprivation, urban and peri-urban areas and those with gaalittle access to nature.
+* Focus on areas of deprivation, urban and peri-urban areas and those with little access to nature.
 * Focus on supporting underrepresented groups and disadvantaged communities.
 * Deliver nature and people friendly improvements to a space without any detrimental effects to the native biodiversity already there.
 * Encourage community participation and engagement to enable people to experience and value nature
