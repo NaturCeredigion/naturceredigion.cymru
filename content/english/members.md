@@ -7,4 +7,4 @@ layout: newsletter
 ---
 
 * **Jake Rayson** - Wood meadows enthusiast, Cardigan
-* **Gillian Clark** - Newsletter expert, Ceredigion
+* **A Nonymous** - Newsletter expert, Ceredigion
