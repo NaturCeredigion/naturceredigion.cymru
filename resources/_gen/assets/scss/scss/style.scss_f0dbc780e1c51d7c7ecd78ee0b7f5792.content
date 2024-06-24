@@ -9840,3 +9840,6 @@ a.text-dark:active {
   background-color: #f6fbff;
   background-repeat: no-repeat;
   background-position: right; }
+
+.content ul li {
+  list-style-type: disc; }
