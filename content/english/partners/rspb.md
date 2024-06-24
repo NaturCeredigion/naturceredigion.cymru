@@ -1,14 +1,14 @@
 ---
-title: "Ceredigion County Council"
-date: 2020-02-07T05:00:00Z
+title: "RSPB Cymru"
+date: 2020-05-07T05:00:00Z
 draft: false
-description: "Ceredigion County Council (Welsh: Cyngor Sir Ceredigion) is the governing body for the county of Ceredigion, since 1996 one of the unitary authorities of Wales. The council's main offices are in Aberaeron."
+description: "RSPB Cymru manages 18 reserves across the country, ranging from offshore islands to mountain tops, from wetlands to woodlands. "
 
-weight: 1
-categories: ["Government"]
+weight: 3
+categories: ["Charity"]
 
-thumbnail: "/images/partners/ceredigion-county-council.png"
-tools_website_link: "{{ i18n `url_ceredigion` }}"
+thumbnail: "images/partners/rspb.png"
+tools_website_link: "https://www.rspb.org.uk/wales"
 
 tools_info:
 - title: "Types :"
@@ -17,25 +17,24 @@ tools_info:
   content: "Blue, Purple, White, Orange"
 
 tools_images:
-- image: "images/tools/figma-lg.jpg"
-- image: "images/tools/figma.jpg"
+- image: "images/tools/hotjar.jpg"
 ---
 
-## What is Ceredigion Council?
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
+## What Is RSPB?
+The Royal Society for the Protection of Birds. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas? Errdvs zsor soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt! Susd scipit quidem odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipiasci iste optio ea libero laboriosam praesentium aperiam nobis vero olorem quidem similique, deleaca scctus
 
 
-### Collaboration in the Council is easy
+### Collaboration with birds is a cinch
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potea adanti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
 
 Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
 
 
-### Ceredigion works in all the departments
+### Let’s build more habitat
 1. Sll the Themefisher items are designed to be with the latest , We check Impliments.
 2. comments that threaten or harm the reputation of any person or organization.
 3. personal information including, but  limited to, email addresses, telephone numbers.

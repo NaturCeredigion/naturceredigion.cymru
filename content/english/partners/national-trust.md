@@ -1,14 +1,14 @@
 ---
-title: "Ceredigion County Council"
-date: 2020-02-07T05:00:00Z
+title: "National Trust"
+date: 2020-06-07T05:04:00Z
 draft: false
-description: "Ceredigion County Council (Welsh: Cyngor Sir Ceredigion) is the governing body for the county of Ceredigion, since 1996 one of the unitary authorities of Wales. The council's main offices are in Aberaeron."
+description: "The National Trust is a charity and membership organisation for heritage conservation in England, Wales and Northern Ireland."
 
 weight: 1
-categories: ["Government"]
+categories: ["Charity"]
 
-thumbnail: "/images/partners/ceredigion-county-council.png"
-tools_website_link: "{{ i18n `url_ceredigion` }}"
+thumbnail: "images/partners/national-trust.png"
+tools_website_link: "https://www.nationaltrust.org.uk/visit/wales"
 
 tools_info:
 - title: "Types :"
@@ -17,25 +17,25 @@ tools_info:
   content: "Blue, Purple, White, Orange"
 
 tools_images:
-- image: "images/tools/figma-lg.jpg"
 - image: "images/tools/figma.jpg"
+- image: "images/tools/figma-lg.jpg"
 ---
 
-## What is Ceredigion Council?
+## What Is Figma??
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas? Errdvs zsor soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt! Susd scipit quidem odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipiasci iste optio ea libero laboriosam praesentium aperiam nobis vero olorem quidem similique, deleaca scctus
 
 
-### Collaboration in the Council is easy
+### Collaboration in Figma Is Simple and Familiar
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potea adanti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
 
 Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
 
 
-### Ceredigion works in all the departments
+### Figma Works on Any Platform
 1. Sll the Themefisher items are designed to be with the latest , We check Impliments.
 2. comments that threaten or harm the reputation of any person or organization.
 3. personal information including, but  limited to, email addresses, telephone numbers.
