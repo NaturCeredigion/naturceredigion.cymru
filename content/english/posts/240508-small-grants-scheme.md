@@ -7,7 +7,9 @@ description: "Ein Cartref, Ein Cynefin -- Local Places for Nature Small Grants S
 categories: ["Grants"]
 tags: ["Grants", "Scheme", "Funding", "Local Places for Nature", "LPN"]
 featured: true
-alias: "small-grants-scheme"
+aliases: 
+- /small-grants-scheme
+- /grants
 
 ---
 
