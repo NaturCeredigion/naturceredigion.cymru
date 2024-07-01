@@ -7,7 +7,7 @@ description: "A not-for-profit company which supplies drinking water and wastewa
 weight: 1
 categories: ["Company"]
 
-thumbnail: "images/partners/dwr-cymru.png"
+thumbnail: "images/partners/logos/dwr-cymru.png"
 tools_website_link: "https://figma.com/"
 
 tools_info:

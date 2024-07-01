@@ -7,7 +7,7 @@ description: "The National Trust is a charity and membership organisation for he
 weight: 1
 categories: ["Charity"]
 
-thumbnail: "images/partners/national-trust.png"
+thumbnail: "images/partners/logos/national-trust.png"
 tools_website_link: "https://www.nationaltrust.org.uk/visit/wales"
 
 tools_info:

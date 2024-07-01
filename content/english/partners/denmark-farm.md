@@ -7,7 +7,7 @@ description: "Conservation centre with eco-friendly holidays, campsite, nature t
 weight: 2
 categories: ["Charity"]
 
-thumbnail: "images/partners/denmark-farm.png"
+thumbnail: "images/partners/logos/denmark-farm.png"
 tools_website_link: "https://www.denmarkfarm.org.uk/"
 
 tools_info:

@@ -7,7 +7,7 @@ description: "Ceredigion County Council (Welsh: Cyngor Sir Ceredigion) is the go
 weight: 1
 categories: ["Government"]
 
-thumbnail: "/images/partners/ceredigion-county-council.png"
+thumbnail: "/images/partners/logos/ceredigion-county-council.png"
 tools_website_link: "{{ i18n `url_ceredigion` }}"
 
 tools_info:

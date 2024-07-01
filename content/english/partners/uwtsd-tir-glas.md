@@ -7,7 +7,7 @@ description: "UWTSD is offering an ambitious and bold vision for Lampeter and th
 weight: 2
 categories: ["Education"]
 
-thumbnail: "images/partners/uwtsd-tir-glas.png"
+thumbnail: "images/partners/logos/uwtsd-tir-glas.png"
 tools_website_link: "https://tirglas.cymru/"
 
 tools_info:

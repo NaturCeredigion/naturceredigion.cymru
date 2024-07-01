@@ -7,7 +7,7 @@ description: "RSPB Cymru manages 18 reserves across the country, ranging from of
 weight: 3
 categories: ["Charity"]
 
-thumbnail: "images/partners/rspb.png"
+thumbnail: "images/partners/logos/rspb.png"
 tools_website_link: "https://www.rspb.org.uk/wales"
 
 tools_info:

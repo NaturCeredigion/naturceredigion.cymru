@@ -7,7 +7,7 @@ description: "The UNESCO Dyfi Biosphere inspires people and organisations to wor
 weight: 2
 categories: ["Partnership"]
 
-thumbnail: "images/partners/dyfi-biosphere.png"
+thumbnail: "images/partners/logos/dyfi-biosphere.png"
 tools_website_link: "https://www.dyfibiosphere.wales/"
 
 tools_info:

@@ -7,7 +7,7 @@ description: "Aberystwyth University (Welsh: Prifysgol Aberystwyth) is a public 
 weight: 2
 categories: ["Education"]
 
-thumbnail: "images/partners/aberystwyth-university.png"
+thumbnail: "images/partners/logos/aberystwyth-university.png"
 tools_website_link: "https://www.aber.ac.uk/en/"
 
 tools_info:

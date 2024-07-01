@@ -7,7 +7,7 @@ description: "A community that’s designing and providing positive outcomes for
 weight: 2
 categories: ["Company"]
 
-thumbnail: "images/partners/tir-canol.jpg"
+thumbnail: "images/partners/logos/tir-canol.jpg"
 tools_website_link: "https://tircanol.cymru/"
 
 tools_info:
