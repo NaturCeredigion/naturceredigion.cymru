@@ -12,9 +12,9 @@ url = "newsletter/"
 weight = 2
 
 [[main]]
-name = "Grants"
-url = "posts/240508-small-grants-scheme/"
-weight = 3
+name = "Gathering"
+url = "gathering/"
+weight = 2
 
 [[main]]
 name = "Happenings"
@@ -23,10 +23,21 @@ hasChildren = true
 weight = 4
 
 [[main]]
+name = "Grants"
+url = "posts/240508-small-grants-scheme/"
+weight = 3
+
+[[main]]
 parent = "Happenings"
-name = "Posts"
+name = "Blog"
 url = "posts/"
 weight = 1
+
+[[main]]
+parent = "Happenings"
+name = "Events"
+url = "events/"
+weight = 4
 
 [[main]]
 parent = "Happenings"
@@ -40,17 +51,11 @@ name = "Members"
 url = "members/"
 weight = 3
 
-[[main]]
-parent = "Happenings"
-name = "Events"
-url = "events/"
-weight = 4
-
-[[main]]
-parent = "Happenings"
-name = "Plans"
-url = "plans/"
-weight = 5
+# [[main]]
+# parent = "Happenings"
+# name = "Plans"
+# url = "plans/"
+# weight = 5
 
 [[main]]
 parent = "Happenings"
