@@ -12,9 +12,9 @@ url = "newsletter/"
 weight = 2
 
 [[main]]
-name = "Gathering"
-url = "gathering/"
-weight = 2
+name = "Meetings"
+url = "meetings/"
+weight = 3
 
 [[main]]
 name = "Happenings"
@@ -23,45 +23,34 @@ hasChildren = true
 weight = 4
 
 [[main]]
+parent = "Happenings"
 name = "Grants"
 url = "posts/240508-small-grants-scheme/"
-weight = 3
+weight = 1
 
 [[main]]
 parent = "Happenings"
 name = "Blog"
 url = "posts/"
-weight = 1
+weight = 2
 
 [[main]]
 parent = "Happenings"
 name = "Events"
 url = "events/"
-weight = 4
+weight = 3
 
 [[main]]
 parent = "Happenings"
 name = "Partners"
 url = "partners/"
-weight = 2
-
-[[main]]
-parent = "Happenings"
-name = "Members"
-url = "members/"
-weight = 3
+weight = 4
 
 # [[main]]
 # parent = "Happenings"
-# name = "Plans"
-# url = "plans/"
+# name = "Members"
+# url = "members/"
 # weight = 5
-
-[[main]]
-parent = "Happenings"
-name = "Contact"
-url = "contact/"
-weight = 6
 
 # Footer Menu
 
