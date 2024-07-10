@@ -7,16 +7,16 @@ description: "West Wales Biodiversity Information Centre is the Local Environmen
 weight: 2
 categories: ["Public body"]
 
-thumbnail: "images/partners/wwbic.png"
-tools_website_link: "https://www.wwbic.org.uk/"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/v1720623557/wwbic.png"
+partners_website_link: "https://www.wwbic.org.uk/"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/figma.jpg"
 - image: "images/tools/figma-lg.jpg"
 ---

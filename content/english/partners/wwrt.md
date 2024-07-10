@@ -7,16 +7,16 @@ description: "The West Wales Rivers Trust is a charity dedicated to restoring an
 weight: 2
 categories: ["Charity"]
 
-thumbnail: "images/partners/logos/wwrt.png"
-tools_website_link: "https://westwalesriverstrust.org/"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623558/wwrt.png"
+partners_website_link: "https://westwalesriverstrust.org/"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/figma.jpg"
 - image: "images/tools/figma-lg.jpg"
 ---

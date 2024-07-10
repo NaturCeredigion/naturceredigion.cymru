@@ -7,16 +7,16 @@ description: "UWTSD is offering an ambitious and bold vision for Lampeter and th
 weight: 2
 categories: ["Education"]
 
-thumbnail: "images/partners/logos/uwtsd-tir-glas.png"
-tools_website_link: "https://tirglas.cymru/"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623554/uwtsd-tir-glas.png"
+partners_website_link: "https://tirglas.cymru/"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/figma.jpg"
 - image: "images/tools/figma-lg.jpg"
 ---

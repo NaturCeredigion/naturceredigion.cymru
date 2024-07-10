@@ -1,5 +1,5 @@
 .slider-block {
-  top: -1rem;
+  top: -2rem;
 }
 
 .banner-creative {
@@ -89,4 +89,8 @@ a.text-dark:active {
 h1.title {
   position: relative;
   top: -38px;
+}
+
+.featured-post-slider::before {
+  height: 0;
 }

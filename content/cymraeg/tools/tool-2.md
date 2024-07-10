@@ -8,15 +8,15 @@ weight: 2
 categories: ["Dev Tools"]
 
 thumbnail: "images/tools/vs-code.jpg"
-tools_website_link: "https://figma.com/"
+partners_website_link: "https://figma.com/"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/figma.jpg"
 - image: "images/tools/figma-lg.jpg"
 ---

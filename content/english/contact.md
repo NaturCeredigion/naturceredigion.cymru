@@ -2,7 +2,7 @@
 title: "Contact us"
 draft: false
 description : "Contact Ceredigion Nature Partnership"
-image: "/images/owlets-squareish.jpg"
+image: "https://res.cloudinary.com/naturceredigion/image/upload/v1720624187/owlets-squareish.jpg"
 layout : contact
 ---
 

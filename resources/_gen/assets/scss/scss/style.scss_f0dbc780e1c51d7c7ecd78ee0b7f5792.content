@@ -9780,7 +9780,7 @@ iframe.wait-autoplay {
     color: #fff !important; }
 
 .slider-block {
-  top: -1rem; }
+  top: -2rem; }
 
 .banner-creative {
   background-size: cover !important; }
@@ -9850,3 +9850,6 @@ a.text-dark:active {
 h1.title, .title.h1 {
   position: relative;
   top: -38px; }
+
+.featured-post-slider::before {
+  height: 0; }

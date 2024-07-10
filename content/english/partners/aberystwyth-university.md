@@ -7,16 +7,16 @@ description: "Aberystwyth University (Welsh: Prifysgol Aberystwyth) is a public 
 weight: 2
 categories: ["Education"]
 
-thumbnail: "images/partners/logos/aberystwyth-university.png"
-tools_website_link: "https://www.aber.ac.uk/en/"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623543/aberystwyth-university.png"
+partners_website_link: "https://www.aber.ac.uk/en/"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/figma.jpg"
 - image: "images/tools/figma-lg.jpg"
 ---

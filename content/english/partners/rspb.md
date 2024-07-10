@@ -7,16 +7,16 @@ description: "RSPB Cymru manages 18 reserves across the country, ranging from of
 weight: 3
 categories: ["Charity"]
 
-thumbnail: "images/partners/logos/rspb.png"
-tools_website_link: "https://www.rspb.org.uk/wales"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623551/rspb.png"
+partners_website_link: "https://www.rspb.org.uk/wales"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/hotjar.jpg"
 ---
 

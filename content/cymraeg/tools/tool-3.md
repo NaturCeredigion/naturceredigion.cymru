@@ -8,15 +8,15 @@ weight: 3
 categories: ["Other Tools"]
 
 thumbnail: "images/tools/MailChimp.jpg"
-tools_website_link: "https://figma.com/"
+partners_website_link: "https://figma.com/"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/MailChimp.jpg"
 ---
 

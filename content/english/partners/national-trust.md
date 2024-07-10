@@ -7,16 +7,16 @@ description: "The National Trust is a charity and membership organisation for he
 weight: 1
 categories: ["Charity"]
 
-thumbnail: "images/partners/logos/national-trust.png"
-tools_website_link: "https://www.nationaltrust.org.uk/visit/wales"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623549/national-trust.png"
+partners_website_link: "https://www.nationaltrust.org.uk/visit/wales"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/figma.jpg"
 - image: "images/tools/figma-lg.jpg"
 ---

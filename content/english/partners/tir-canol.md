@@ -7,16 +7,16 @@ description: "A community that’s designing and providing positive outcomes for
 weight: 2
 categories: ["Company"]
 
-thumbnail: "images/partners/logos/tir-canol.jpg"
-tools_website_link: "https://tircanol.cymru/"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623552/tir-canol.jpg"
+partners_website_link: "https://tircanol.cymru/"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/figma.jpg"
 - image: "images/tools/figma-lg.jpg"
 ---

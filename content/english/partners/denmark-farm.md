@@ -7,16 +7,16 @@ description: "Conservation centre with eco-friendly holidays, campsite, nature t
 weight: 2
 categories: ["Charity"]
 
-thumbnail: "images/partners/logos/denmark-farm.png"
-tools_website_link: "https://www.denmarkfarm.org.uk/"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623545/denmark-farm.png"
+partners_website_link: "https://www.denmarkfarm.org.uk/"
 
-tools_info:
+partners_info:
 - title: "Types :"
   content: "Design Tool, Prototype, Development Tools, App, Software"
 - title: "Colors :"
   content: "Blue, Purple, White, Orange"
 
-tools_images:
+partners_images:
 - image: "images/tools/figma.jpg"
 - image: "images/tools/figma-lg.jpg"
 ---
