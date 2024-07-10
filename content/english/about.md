@@ -20,7 +20,7 @@ my_experiences:
     requisition: "Biodiversity Officer"
     time_period: "2015 Jan - 2017 March"
     
-  - title: "Gillian Clarke"
+  - title: "Gillian Clark"
     requisition: "Service Support Officer"
     time_period: "2015 Jan - 2017 March"
     

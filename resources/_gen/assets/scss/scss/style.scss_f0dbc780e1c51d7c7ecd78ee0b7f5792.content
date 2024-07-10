@@ -9782,6 +9782,9 @@ iframe.wait-autoplay {
 .slider-block {
   top: -1rem; }
 
+.banner-creative {
+  background-size: cover !important; }
+
 .banner-creative .title {
   color: white !important;
   text-shadow: 1.5px 1.5px 5px black; }
