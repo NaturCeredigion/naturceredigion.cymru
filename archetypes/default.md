@@ -4,7 +4,7 @@ date: {{ .Date }}
 description: 
 categories: 
 tags: 
-  - Nature
+  - NaturCeredigion
 images: 
 imageAlt: 
 imageCap: 
