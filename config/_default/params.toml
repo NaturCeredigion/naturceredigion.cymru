@@ -7,7 +7,7 @@ logo = "https://res.cloudinary.com/naturceredigion/image/upload/v1720616053/logo
 # Note: logo_width is not work with .svg file
 logo_width = ""
 # if logo_webp set false, will not generate WEBP version of logo | default is true
-logo_webp = false
+logo_webp = true
 # logo text will only show when logo is missing.
 logo_text = "Partneriaeth Natur Ceredigion Nature Partnership"
 
@@ -43,9 +43,9 @@ theme_copyright = true
 
 # Banner
 [banner]
-bg_image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618622/hare-grassland-background.jpg"
+bg_image = "images/banner/background.jpg"
 title = "Ceredigion Nature Partnership <br><i>Nature recovery in everything we do</i>"
-image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618980/butterfly-ringlet.png"
+image = "images/banner/butterfly.png"
 
 # Preloader
 [preloader]
