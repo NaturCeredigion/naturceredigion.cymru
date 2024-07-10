@@ -1,8 +1,8 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "https://res.cloudinary.com/naturceredigion/image/upload/v1720616052/favicon.png"
 # logo
-logo = "images/logo.svg"
+logo = "https://res.cloudinary.com/naturceredigion/image/upload/v1720616053/logo.svg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = ""
