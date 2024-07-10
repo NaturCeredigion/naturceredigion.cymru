@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: "about"
-image: "/images/rachel.jpg"
+image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720624188/rachel.jpg"
 background_shape: "images/banner-shape.png"
 draft: false
 
@@ -9,7 +9,7 @@ draft: false
 my_experiences:
   enable: true
   title: "Our experience"
-  description: "Are you Developer and recently started your own business and Already made a  to ensure online presence"
+  description: "Are you Developer and recently started your own business and Already made a to ensure online presence"
   
   experiences_item:
   - title: "Alison Heal"
@@ -68,7 +68,7 @@ compatibility:
  
 ---
 
-## We are the Biodiversity Team at<br><strong>Ceredigion Nature Partnership</strong>
+## We are the Biodiversity Team&nbsp;at <strong>Ceredigion Nature Partnership</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. consectetur adipisicing elit olores quibusdam sed. 
   

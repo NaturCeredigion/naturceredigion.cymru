@@ -2,7 +2,7 @@
 title: "Newsletter of Natur Ceredigion"
 draft: false
 description: "The newsletter of Ceredigion Nature Partnership"
-image: "/images/waterfall-squareish.jpg"
+image: "https://res.cloudinary.com/naturceredigion/image/upload/v1720624189/waterfall-squareish.jpg"
 layout: newsletter
 ---
 

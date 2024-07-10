@@ -1,6 +1,6 @@
 {{define "main"}}
 
-<section class="section about-banner overflow-hidden" {{ partial `bg-image.html` (dict `Src` site.Params.banner.bg_image ) | safeHTMLAttr }}>
+<section class="section about-banner overflow-hidden"style="background-image:url({{ site.Params.Banner.background | absURL }});background-size:cover;background-position:50%;background-repeat:no-repeat">
   {{ with site.Params.background_shape}}
   {{ partial "image.html" (dict "Src" . "Alt" "background shape" "Class" `background_shape`) }}
   {{ end }}
@@ -12,8 +12,8 @@
         {{ partial "image.html" (dict "Src" . "Alt" "banner image") }}
       </div>
       {{ end }}
-      <div class="col-lg-7">
-        <div class="block content">
+    <div class="col-lg-7 about--words">
+        <div class="content">
           {{ .Content | markdownify }}
         </div>
       </div>
