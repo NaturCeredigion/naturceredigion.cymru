@@ -48,10 +48,10 @@ about_info:
     content: "Lorem ipsum dolor sit amet, consectetur adipisdf bicing elit. Quas offiscs cuque, harum dicta neces sitatrrthr thrth iujhs reprehenderit, delsectsus molesdtiae, impedit alias adipi thsci distinctio volusd ptas. Tempora modi amet volufy jnfyp tatlje  provide nsdv sdvt solusfta consequatur. oresaam ipsum dolor sit amhet, consec dassetur  facere tempore soluta Lorsgem ipsum shghu ugisdvg srgvsrgv vswrgv srgt lias adipi thsci distiio voslusd"
 
     
-# Compatibility
-compatibility:
+# partneriaid
+partneriaid:
   enable: true
-  title: "Proud to work with these organisations"
+  title: "Proud to work with our partners"
   item:
     - image: "images/compatibility/01.png"
     - image: "images/compatibility/02.png"

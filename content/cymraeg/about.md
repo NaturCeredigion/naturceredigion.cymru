@@ -40,23 +40,23 @@ about_info:
     content: "Lorem ipsum dolor sit amet, consectetur adipisdf bicing elit. Quas offiscs cuque, harum dicta neces sitatrrthr thrth iujhs reprehenderit, delsectsus molesdtiae, impedit alias adipi thsci distinctio volusd ptas. Tempora modi amet volufy jnfyp tatlje  provide nsdv sdvt solusfta consequatur. oresaam ipsum dolor sit amhet, consec dassetur  facere tempore soluta Lorsgem ipsum shghu ugisdvg srgvsrgv vswrgv srgt lias adipi thsci distiio voslusd"
 
     
-# Compatibility
-compatibility:
+# partneriaid
+partneriaid:
   enable: true
-  title: "I am Compatible With This Tools"
+  title: "Our partners"
   item:
-    - image: "images/compatibility/01.png"
-    - image: "images/compatibility/02.png"
-    - image: "images/compatibility/03.png"
-    - image: "images/compatibility/04.png"
-    - image: "images/compatibility/05.png"
-    - image: "images/compatibility/06.png"
-    - image: "images/compatibility/07.png"
-    - image: "images/compatibility/08.png"
-    - image: "images/compatibility/09.png"
-    - image: "images/compatibility/10.png"
-    - image: "images/compatibility/11.png"
-    - image: "images/compatibility/12.png"
+    - image: "images/partneriaid/01.png"
+    - image: "images/partneriaid/02.png"
+    - image: "images/partneriaid/03.png"
+    - image: "images/partneriaid/04.png"
+    - image: "images/partneriaid/05.png"
+    - image: "images/partneriaid/06.png"
+    - image: "images/partneriaid/07.png"
+    - image: "images/partneriaid/08.png"
+    - image: "images/partneriaid/09.png"
+    - image: "images/partneriaid/10.png"
+    - image: "images/partneriaid/11.png"
+    - image: "images/partneriaid/12.png"
  
 ---
 

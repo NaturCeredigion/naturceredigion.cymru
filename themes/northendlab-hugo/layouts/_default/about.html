@@ -78,8 +78,8 @@
 {{ end }}
 
 
-{{ if .Params.compatibility.enable }}
-{{ with .Params.compatibility }}
+{{ if .Params.partneriaid.enable }}
+{{ with .Params.partneriaid }}
 <section class="section">
   <div class="container bg-light py-5">
     <div class="row justify-content-center mt-5">
@@ -91,7 +91,7 @@
       <div class="col-lg-10 text-center">
       {{ range .item }}
       <div class="m-4 d-inline-block">
-        {{ partial "image.html" (dict "Src" .image "Alt" "compatibility-image") }}
+        {{ partial "image.html" (dict "Src" .image "Alt" "partneriaid-image") }}
       </div>
       {{ end }}
       </div>
