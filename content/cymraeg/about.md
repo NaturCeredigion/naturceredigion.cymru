@@ -60,9 +60,16 @@ compatibility:
  
 ---
 
-## Je suis Mike George Asslemia <br> <strong>Un concepteur d'interface utilisateur</strong>
+Ceredigion Local Nature Partnership (CLNP) is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. consectetur adipisicing elit olores quibusdam sed. 
-  
-  
-Lorem ipsum dolor sit amet, consectetur adipisic dfbdfing elit. Incidunt, rem eaafa que facilis. ratione, magnam a minima incidunt! Suscipit facilis, ut maxime libero necessit atibder gesus, rerum aut voluptates aliquam maiores iusto qui
+From Rhos pastures and ancient woodland to its rich coastline, Ceredigion has an amazing diversity of landscapes and wildlife; but they are precious, fragile, and under threat from a variety of environmental pressures.
+
+CLNP is part of the [Local Nature Partnership Cymru](https://lnp.cymru/) and hosted by [Ceredigion County Council](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/).
+
+At this time of climate and ecological emergency the Ceredigion Local Nature Partnership (LNP) aims to:
+- Engage communities and raise awareness of the vital benefits that a healthy natural environment brings to people and the economy.
+- Steer the collective work of individuals, conservationists and business to work in partnership to protect, improve, create and connect Ceredigion’s natural landscape.
+- Collaborate with the Public Service Board and support other public bodies to protect and enhance nature across the county.
+- Work to maintain, restore and create habitats that are thriving with wildlife including mammals, birds, reptiles, amphibians, fish, invertebrates, plants, fungi and more.
+- Ensure Ceredigion’s marine, intertidal, terrestrial and freshwater environments retain and regain good health.
+- Make sure consideration for the environment and incorporating nature recovery objectives are put right at the heart of local decision-making.
