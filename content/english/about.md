@@ -59,19 +59,20 @@ partneriaid:
   enable: true
   title: "Proud to work with our partners"
   item:
-    - image: "images/compatibility/01.png"
-    - image: "images/compatibility/02.png"
-    - image: "images/compatibility/03.png"
-    - image: "images/compatibility/04.png"
-    - image: "images/compatibility/05.png"
-    - image: "images/compatibility/06.png"
-    - image: "images/compatibility/07.png"
-    - image: "images/compatibility/08.png"
-    - image: "images/compatibility/09.png"
-    - image: "images/compatibility/10.png"
-    - image: "images/compatibility/11.png"
-    - image: "images/compatibility/12.png"
- 
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721050348/aberystwyth-university-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/ceredigion-county-council-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/denmark-farm-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/dwr-cymru-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/dyfi-biosphere-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721050349/national-trust-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051641/rspb-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/tir-canol-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/uwtsd-tir-glas-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/wildlife-trust-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/wwbic-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051641/wwrt-square.png"
+  link:
+    - "https://er.com"
 ---
 
 ## We are the Biodiversity Team&nbsp;at <strong>Ceredigion Nature Partnership</strong>
