@@ -72,7 +72,18 @@ partneriaid:
     - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/wwbic-square.png"
     - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051641/wwrt-square.png"
   link:
-    - "https://er.com"
+    - "https://www.aber.ac.uk/en/"
+    - "https://ceredigion.gov.uk/"
+    - "https://www.denmarkfarm.org.uk/"
+    - "https://www.dwrcymru.com/"
+    - "https://www.dyfibiosphere.wales/"
+    - "https://www.nationaltrust.org.uk/visit/wales"
+    - "https://www.rspb.org.uk/wales"
+    - "https://tircanol.cymru/"
+    - "https://www.uwtsd.ac.uk/?lang=en"
+    - "https://www.welshwildlife.org/"
+    - "https://wwbic.org.uk/"
+    - "https://westwalesriverstrust.org/"
 ---
 
 ## We are the Biodiversity Team&nbsp;at <strong>Ceredigion Nature Partnership</strong>

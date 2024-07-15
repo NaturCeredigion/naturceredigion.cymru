@@ -55,7 +55,6 @@
 {{ end }}
 {{ end }}
 
-
 {{ if .Params.about_info.enable }}
 {{ with .Params.about_info }}
 <section class="section pb-0">
@@ -77,7 +76,6 @@
 {{ end }}
 {{ end }}
 
-
 {{ if .Params.partneriaid.enable }}
 {{ with .Params.partneriaid }}
 <section class="section">
@@ -91,7 +89,7 @@
       <div class="col-lg-10 text-center">
       {{ range .item }}
       <div class="m-4 d-inline-block">
-        {{ partial "image.html" (dict "Src" .image "Alt" "partneriaid-image") }}
+          {{ partial "image.html" (dict "Src" .image "Alt" "partneriaid-image") }}
       </div>
       {{ end }}
       </div>
@@ -100,7 +98,5 @@
 </section>
 {{ end }}
 {{ end }}
-
-
 
 {{end}}
