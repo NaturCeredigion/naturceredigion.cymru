@@ -79,11 +79,11 @@
 - id: subscribe
   translation: Subscribe Now
 
-- id: requisition
-  translation: Requisition
+- id: job_title
+  translation: Job title
 
-- id: time_period
-  translation: Time Period
+- id: enthusiasms
+  translation: Interests
 
 - id: visit_website
   translation: Visit Website

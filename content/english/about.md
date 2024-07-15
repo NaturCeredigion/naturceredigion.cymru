@@ -8,44 +8,50 @@ draft: false
 # My Experiences
 my_experiences:
   enable: true
-  title: "Our experience"
-  description: "Are you Developer and recently started your own business and Already made a to ensure online presence"
-  
+  title: "Our team"
+  description: "Our team is committed to improving nature in Ceredigion, working with a range of dedicated partners."
+
   experiences_item:
   - title: "Alison Heal"
-    requisition: "Senior Ecologist"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Senior Ecologist"
+    enthusiasms: "Life"
 
   - title: "Rachel Auckland"
-    requisition: "Biodiversity Officer"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Biodiversity Officer"
+    enthusiasms: "Life"
     
   - title: "Gillian Clark"
-    requisition: "Service Support Officer"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Service Support Officer"
+    enthusiasms: "Life"
     
   - title: "Fiona Moran"
-    requisition: "Biodiversity Assistant"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Biodiversity Assistant"
+    enthusiasms: "Life, north Ceredigion"
 
   - title: "Jake Rayson"
-    requisition: "Biodiversity Assistant"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Biodiversity Assistant"
+    enthusiasms: "Glaswelltir Ceredigion Grassland group, wood meadows, forest gardens, south Ceredigion"
 
   - title: "Chris Harris"
-    requisition: "Biodiversity Assistant"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Biodiversity Assistant"
+    enthusiasms: "Life, mid-Ceredigion"
 
     
 # About info
 about_info:
   enable: true
   item:
-  - name: "Our approach"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisdf bicing elit. Quas offiscs cuque, harum dicta neces sitatrrthr thrth iujhs reprehenderit, delsectsus molesdtiae, impedit alias adipi thsci distinctio volusd ptas. Tempora modi amet volufy jnfyp tatlje  provide nsdv sdvt solusfta consequatur. oresaam ipsum dolor sit amhet, consec dassetur  facere tempore soluta Lorsgem ipsum shghu ugisdvg srgvsrgv vswrgv srgt lias adipi thsci distiio voslusd"
-
-  - name: "Our skills"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisdf bicing elit. Quas offiscs cuque, harum dicta neces sitatrrthr thrth iujhs reprehenderit, delsectsus molesdtiae, impedit alias adipi thsci distinctio volusd ptas. Tempora modi amet volufy jnfyp tatlje  provide nsdv sdvt solusfta consequatur. oresaam ipsum dolor sit amhet, consec dassetur  facere tempore soluta Lorsgem ipsum shghu ugisdvg srgvsrgv vswrgv srgt lias adipi thsci distiio voslusd"
+  - name: "Our aims"
+    content: "At this time of climate and ecological emergency the Ceredigion Local Nature Partnership (LNP) aims to:
+    <li><b>Engage communities</b> and raise awareness of the vital benefits that a healthy natural environment brings to people and the economy.  </li>
+    <li>Steer the collective work of individuals, conservationists and business to <b>work in partnership</b> to protect, improve, create and connect Ceredigion’s natural landscape.</li>
+    <li><b>Collaborate</b> with the Public Service Board and support other public bodies to protect and enhance nature across the county.</li>
+    <li>Work to maintain, restore and create <b>habitats</b> that are thriving with wildlife including mammals, birds, reptiles, amphibians, fish, invertebrates, plants, fungi and more.</li>
+    <li>Ensure Ceredigion’s marine, intertidal, terrestrial and freshwater environments <b>retain and regain good health</b>.</li>
+    <li>Make sure consideration for the environment and incorporating nature recovery objectives are put right at the <b>heart of local decision-making</b>.</li>
+    "
+  - name: "Our structure"
+    content: "CLNP is part of the [Local Nature Partnership Cymru](https://lnp.cymru/) and hosted by [Ceredigion County Council](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/)."
 
     
 # partneriaid
@@ -70,6 +76,7 @@ partneriaid:
 
 ## We are the Biodiversity Team&nbsp;at <strong>Ceredigion Nature Partnership</strong>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. consectetur adipisicing elit olores quibusdam sed. 
-  
-Lorem ipsum dolor sit amet, consectetur adipisic dfbdfing elit. Incidunt, rem eaafa que facilis. ratione, magnam a minima incidunt! Suscipit facilis, ut maxime libero necessit atibder gesus, rerum aut voluptates aliquam maiores iusto qui
+Ceredigion Local Nature Partnership (CLNP) is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature
+
+From Rhos pastures and ancient woodland to its rich coastline, Ceredigion has an amazing diversity of landscapes and wildlife; but they are precious, fragile, and under threat from a variety of environmental pressures.
+

@@ -79,10 +79,10 @@
 - id: subscribe
   translation: Abonnez-vous maintenant
 
-- id: requisition
+- id: job_title
   translation: Réquisition
 
-- id: time_period
+- id: enthusiasms
   translation: Période de temps
 
 - id: visit_website

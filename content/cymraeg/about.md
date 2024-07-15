@@ -13,20 +13,20 @@ my_experiences:
   
   experiences_item:
   - title: "Affinity Design Limited"
-    requisition: "Front End Developer"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Front End Developer"
+    enthusiasms: "2015 Jan - 2017 March"
 
   - title: "The coders trust"
-    requisition: "Front End Developer"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Front End Developer"
+    enthusiasms: "2015 Jan - 2017 March"
     
   - title: "Gethugothemes"
-    requisition: "Front End Developer"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Front End Developer"
+    enthusiasms: "2015 Jan - 2017 March"
     
   - title: "Themefisher"
-    requisition: "Front End Developer"
-    time_period: "2015 Jan - 2017 March"
+    job_title: "Front End Developer"
+    enthusiasms: "2015 Jan - 2017 March"
 
     
 # About info
@@ -45,18 +45,18 @@ partneriaid:
   enable: true
   title: "Our partners"
   item:
-    - image: "images/partneriaid/01.png"
-    - image: "images/partneriaid/02.png"
-    - image: "images/partneriaid/03.png"
-    - image: "images/partneriaid/04.png"
-    - image: "images/partneriaid/05.png"
-    - image: "images/partneriaid/06.png"
-    - image: "images/partneriaid/07.png"
-    - image: "images/partneriaid/08.png"
-    - image: "images/partneriaid/09.png"
-    - image: "images/partneriaid/10.png"
-    - image: "images/partneriaid/11.png"
-    - image: "images/partneriaid/12.png"
+    - image: "images/compatibility/01.png"
+    - image: "images/compatibility/02.png"
+    - image: "images/compatibility/03.png"
+    - image: "images/compatibility/04.png"
+    - image: "images/compatibility/05.png"
+    - image: "images/compatibility/06.png"
+    - image: "images/compatibility/07.png"
+    - image: "images/compatibility/08.png"
+    - image: "images/compatibility/09.png"
+    - image: "images/compatibility/10.png"
+    - image: "images/compatibility/11.png"
+    - image: "images/compatibility/12.png"
  
 ---
 
