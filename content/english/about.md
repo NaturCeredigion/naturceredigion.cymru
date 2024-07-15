@@ -52,7 +52,6 @@ about_info:
     "
   - name: "Our structure"
     content: "CLNP is part of the [Local Nature Partnership Cymru](https://lnp.cymru/) and hosted by [Ceredigion County Council](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/)."
-
     
 # partneriaid
 partneriaid:

@@ -52,6 +52,12 @@ weight = 4
 # url = "members/"
 # weight = 5
 
+[[main]]
+parent = "Happenings"
+name = "About"
+url = "about/"
+weight = 6
+
 # Footer Menu
 
 [[footer]]
