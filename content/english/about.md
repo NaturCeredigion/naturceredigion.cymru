@@ -9,7 +9,7 @@ draft: false
 my_experiences:
   enable: true
   title: "Our team"
-  description: "Our team is committed to improving nature in Ceredigion, working with a range of dedicated partners."
+  description: "Our team is committed to improving nature in Ceredigion, working with a range of dedicated partners and engaged members of the public"
 
   experiences_item:
   - title: "Alison Heal"
