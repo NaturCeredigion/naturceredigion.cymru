@@ -33,3 +33,18 @@ We welcome bids for small projects worth up to £5,000 or larger projects of up 
 Expressions of interest welcomed at this stage.  Closing date to be confirmed.
 
 For an application form or more details, please email your project outline or any queries to <biodiversity@ceredigion.gov.uk>
+
+## Schedule
+| Date                  | Description                       |
+| :-------------------- | :-------------------------------- |
+| `Fri 19 Jul 2024`     | Scheme launches                   |
+| `Mon 22 Jul 2024`     | Press release & newsflash         |
+| `Mon 02 Sep 2024`     | **Closing date for applications** |
+| `Mon 16 Sep 2024`     | Panel meets w/c                   |
+| `Mon 30 Sep 2024 5pm` | Notifications & agreements        |
+| `Mon 07 Oct 2024 9am` | Agreements returned               |
+| `Tue 08 Oct 2024 9am` | **Project start date**            |
+| `Tue 31 Dec 2024`     | **Last spend date, project end**  |
+| `Fri 17 Jan 2025`     | Draft monitoring & claims         |
+| `Fri 31 Jan 2025`     | Final monitoring & claims         |
+| `Mon 31 Mar 2025`     | Last grant reimbursement          |
