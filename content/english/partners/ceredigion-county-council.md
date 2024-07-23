@@ -8,35 +8,28 @@ weight: 1
 categories: ["Government"]
 
 thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623544/ceredigion-county-council.png"
-partners_website_link: "{{ i18n `url_ceredigion` }}"
+partners_website_link: "https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/"
 
 partners_info:
-- title: "Types :"
-  content: "Design Tool, Prototype, Development Tools, App, Software"
-- title: "Colors :"
-  content: "Blue, Purple, White, Orange"
+- title: "Sites:"
+  content: "Coed y Cwm, Pen Dinas & Tanybwlch, Parc Natur Penglais"
 
 partners_images:
-- image: "images/tools/figma-lg.jpg"
-- image: "images/tools/figma.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721732647/ceredigion-council-coastal-walk-castell-bach.jpg"
+
 ---
 
-## What is Ceredigion Council?
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
+At Ceredigion County Council we are dedicated to managing Local Nature Reserves, marine areas and green spaces. We believe that conserving biodiversity is an integral component of sustainable development.
 
+We work in partnership with other environmental organisations and the community to protect Ceredigion’s wildlife sites, habitats and species.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas? Errdvs zsor soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt! Susd scipit quidem odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipiasci iste optio ea libero laboriosam praesentium aperiam nobis vero olorem quidem similique, deleaca scctus
-
-
-### Collaboration in the Council is easy
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potea adanti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-
-### Ceredigion works in all the departments
-1. Sll the Themefisher items are designed to be with the latest , We check Impliments.
-2. comments that threaten or harm the reputation of any person or organization.
-3. personal information including, but  limited to, email addresses, telephone numbers.
-4. Any Update come in The technology  Customer will get automatic  Notification.
+* [Local Nature Reserves & Wildlife Sites](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/local-nature-reserves-and-wildlife-sites-new/)
+* [Marine SACs & Heritage Coast](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/marine-sacs-and-heritage-coast-new/)
+* [Trees, Hedgerows & Woodlands](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/trees-hedgerows-and-woodlands-new/)
+* [Ash Dieback Disease](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/ash-dieback-disease-new/)
+* [Fresh Water](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/freshwater-new/)
+* [Ceredigion Local Nature Partnership](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/ceredigion-local-nature-partnership-new/)
+* [Nature Recovery Action Plan](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/nature-recovery-action-plan-new/)
+* [Ceredigion Biodiversity Action Plan](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/ceredigion-biodiversity-action-plan-new/)
+* [Science & Policy](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/science-and-policy-new/)
+* [Ceredigion County Council Actions](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/ceredigion-county-council-actions-new/)

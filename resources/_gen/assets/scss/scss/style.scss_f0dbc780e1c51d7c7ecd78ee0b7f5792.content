@@ -7584,7 +7584,7 @@ body {
   font-size: 15px;
   color: #555555; }
 
-p, .paragraph {
+p, .paragraph, li {
   font-weight: 400;
   color: #555555;
   font-size: 16px;
@@ -7728,7 +7728,6 @@ h2,
 .btn {
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
-  text-transform: capitalize;
   padding: 12px 20px;
   border-radius: 5px;
   border: 1px solid;
@@ -8041,8 +8040,7 @@ button.tab-nav-button {
     .navigation .navbar-light .nav-item .nav-link {
       color: #222222;
       position: relative;
-      display: inline-block;
-      text-transform: capitalize; }
+      display: inline-block; }
       .navigation .navbar-light .nav-item .nav-link:hover {
         color: white !important; }
     .navigation .navbar-light .nav-item.dropdown .dropdown-menu {

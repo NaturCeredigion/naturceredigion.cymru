@@ -11,32 +11,18 @@ thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720
 partners_website_link: "https://www.denmarkfarm.org.uk/"
 
 partners_info:
-- title: "Types :"
-  content: "Design Tool, Prototype, Development Tools, App, Software"
-- title: "Colors :"
-  content: "Blue, Purple, White, Orange"
+- title: "Projects:"
+  content: "Green Match Fund, My Tree Our Forest, Celebrating our 30th Anniversary, Water Sustainability"
 
 partners_images:
-- image: "images/tools/figma.jpg"
-- image: "images/tools/figma-lg.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721736351/bog-field-denmark-farm.webp"
+
 ---
 
-## Conservation centre
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
+At Denmark Farm Conservation Centre, we aim to highlight the relationships between people and nature, exploring the value and diversity of life and landscapes.
 
+The study of such relationships and the associated biodiversity is known as ecology, a subject that we value greatly and that is key to our work to conserve and enhance the site, its surroundings and other projects we are involved with.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas? Errdvs zsor soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt! Susd scipit quidem odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipiasci iste optio ea libero laboriosam praesentium aperiam nobis vero olorem quidem similique, deleaca scctus
+Natural systems are not static – over the years the site has developed from farmland focused on the production of animals to a site of great conservation value, with woodlands, wildflower meadows, and abundant amphibians, breeding birds and a great diversity of insects.
 
-
-### Nature trails
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potea adanti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-
-### Courses
-1. Sll the Themefisher items are designed to be with the latest , We check Impliments.
-2. comments that threaten or harm the reputation of any person or organization.
-3. personal information including, but  limited to, email addresses, telephone numbers.
-4. Any Update come in The technology  Customer will get automatic  Notification.
+And the changes continue – our woodlands mature, our meadows become more diverse and we introduce new components, such as our wetland water treatment system.

@@ -11,32 +11,16 @@ thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720
 partners_website_link: "https://www.aber.ac.uk/en/"
 
 partners_info:
-- title: "Types :"
-  content: "Design Tool, Prototype, Development Tools, App, Software"
-- title: "Colors :"
-  content: "Blue, Purple, White, Orange"
+- title: "Sites:"
+  content: "Penglais Campus, Gogerddan Campus, Llanbadarn Campus, School of Art, Plas Woods, Pwll Crwn Woods, Gogerddan Woods"
 
 partners_images:
-- image: "images/tools/figma.jpg"
-- image: "images/tools/figma-lg.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721735840/about-aberystwyth-university.webp"
+
 ---
 
-## What Is VS Code??
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
+We’re living through a climate emergency. At Aberystwyth, we’re leading the sector in sustainability, not just in our ambitions to become a carbon neutral campus by 2030 but also through our teaching and our ground-breaking research into combatting climate change.  
 
+We’re proud to be one of the first UK universities to declare a climate emergency. Over the past 10 years we have reduced our C02 emissions by 40%. We’re proud to be a member of a consortium of UK universities to strike a £50m landmark green energy deal, reducing emissions and our carbon footprint as part of an aggregated purchase power agreement (PPA).  We have recently invested £2.9 million in a new solar farm with 4,500 solar panels to contribute towards our electricity requirements and reduce our C02 emissions by over 500 tonnes annually.  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas? Errdvs zsor soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt! Susd scipit quidem odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipiasci iste optio ea libero laboriosam praesentium aperiam nobis vero olorem quidem similique, deleaca scctus
-
-
-### Collaboration in VS Code Is Simple and Familiar
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potea adanti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-
-### VS Code Works on Any Platform
-1. Sll the Themefisher items are designed to be with the latest , We check Impliments.
-2. comments that threaten or harm the reputation of any person or organization.
-3. personal information including, but  limited to, email addresses, telephone numbers.
-4. Any Update come in The technology  Customer will get automatic  Notification.
+At Aberystwyth, we have world-leading researchers in environmental sustainability who have been awarded over £2 million to speed up the breeding of perennial energy grass miscanthus, as part of a wider £37 million UK government package to boost biomass production.

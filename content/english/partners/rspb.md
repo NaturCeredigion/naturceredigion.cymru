@@ -11,31 +11,14 @@ thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720
 partners_website_link: "https://www.rspb.org.uk/wales"
 
 partners_info:
-- title: "Types :"
-  content: "Design Tool, Prototype, Development Tools, App, Software"
-- title: "Colors :"
-  content: "Blue, Purple, White, Orange"
+- title: "Sites:"
+  content: "Conwy, Newport Wetlands, Ynys-hir, Ramsey Island, South Stack Cliffs"
 
 partners_images:
-- image: "images/tools/hotjar.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/v1721752441/Reed-Bunting-on-reed-with-warm-sunlight.webp"
+
 ---
 
-## What Is RSPB?
-The Royal Society for the Protection of Birds. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
+We work across Wales to give wildlife a home. RSPB Cymru manages 18 reserves across the country, ranging from offshore islands to mountain tops, from wetlands to woodlands. We’re safeguarding diverse habitats for the species that live in them, so wild spaces and wild creatures are around for generations to come.  
 
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas? Errdvs zsor soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt! Susd scipit quidem odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipiasci iste optio ea libero laboriosam praesentium aperiam nobis vero olorem quidem similique, deleaca scctus
-
-
-### Collaboration with birds is a cinch
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potea adanti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-
-### Let’s build more habitat
-1. Sll the Themefisher items are designed to be with the latest , We check Impliments.
-2. comments that threaten or harm the reputation of any person or organization.
-3. personal information including, but  limited to, email addresses, telephone numbers.
-4. Any Update come in The technology  Customer will get automatic  Notification.
+In a country where Choughs swoop above steep cliffs, Red Kites soar over rugged hillsides and Grey Seals laze along the coast, it can be hard to believe that nature is in trouble. But it is. Wales is now one of the most nature depleted countries in the world, with populations of wild birds, mammals, amphibians, insects and invertebrates under serious pressure. That’s why our efforts matter more than ever.  

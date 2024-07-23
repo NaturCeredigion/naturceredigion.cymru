@@ -11,32 +11,18 @@ thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720
 partners_website_link: "https://www.dyfibiosphere.wales/"
 
 partners_info:
-- title: "Types :"
-  content: "Design Tool, Prototype, Development Tools, App, Software"
-- title: "Colors :"
-  content: "Blue, Purple, White, Orange"
+- title: "Sites:"
+  content: "Cors Fochno, Coed Cwm Einion, Pen Llŷn a’r Sarnau"
 
 partners_images:
-- image: "images/tools/figma.jpg"
-- image: "images/tools/figma-lg.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721736803/dyfi-biosphere-view-trees.jpg"
+
 ---
 
-## Conservation centre
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas? Errdvs zsor soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt! Susd scipit quidem odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipiasci iste optio ea libero laboriosam praesentium aperiam nobis vero olorem quidem similique, deleaca scctus
-
-
-### Nature trails
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potea adanti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-
-### Courses
-1. Sll the Themefisher items are designed to be with the latest , We check Impliments.
-2. comments that threaten or harm the reputation of any person or organization.
-3. personal information including, but  limited to, email addresses, telephone numbers.
-4. Any Update come in The technology  Customer will get automatic  Notification.
+## Principles of Dyfi Biosphere
+1. People – their attitudes and activities – are central to the Biosphere process.
+2. The Dyfi Biosphere is a place where people’s feeling of well being is enhanced, where people are empowered and involved in deliberation, decision-making and co-delivery.
+3. The role of government and statutory organizations is to facilitate sustainable development and to encourage and enable people to take responsibility.
+4. The Dyfi Biosphere is an exemplary area, setting the benchmark for “green”, bilingual living.
+5. Our economy is becoming more self reliant and less carbon intensive, based largely on local culture, resources, products and environmental assets.
+6. Constructive change occurs, but almost incidentally as a result of protecting, strengthening and celebrating elements of life and the world which the community values and wants to pass on to future generations.

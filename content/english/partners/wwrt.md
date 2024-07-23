@@ -11,32 +11,16 @@ thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720
 partners_website_link: "https://westwalesriverstrust.org/"
 
 partners_info:
-- title: "Types :"
-  content: "Design Tool, Prototype, Development Tools, App, Software"
-- title: "Colors :"
-  content: "Blue, Purple, White, Orange"
+- title: "Rivers:"
+  content: "Cleddau Trail, Teifi Valley Trail"
 
 partners_images:
-- image: "images/tools/figma.jpg"
-- image: "images/tools/figma-lg.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721751043/west-wales-rivers-trust-towy.jpg"
+
 ---
 
-## What Is WWBIC??
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
+Our vision is an enhanced living landscape, where communities value their local rivers and where productive land use and clean rivers with flourishing wildlife populations exist in harmony in catchments that are resilient to changing climates, so that rivers may continue to provide benefits for both people and wildlife.
 
+WWRT will work towards achieving this by getting our feet wet and our hands dirty and taking local, targeted action to make a real, positive impact using best practice and developments in science, as well as by working with our umbrella body Afonydd Cymru to influence policy changes for the benefit of our rivers and wider catchments.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas? Errdvs zsor soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt! Susd scipit quidem odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipiasci iste optio ea libero laboriosam praesentium aperiam nobis vero olorem quidem similique, deleaca scctus
-
-
-### What magic powers does it possess?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potea adanti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-
-### You can’t save what you don’t know
-1. Sll the Themefisher items are designed to be with the latest , We check Impliments.
-2. comments that threaten or harm the reputation of any person or organization.
-3. personal information including, but  limited to, email addresses, telephone numbers.
-4. Any Update come in The technology  Customer will get automatic  Notification.
+But we are only a small team and we can’t do this on our own. To achieve sustainable water environments, we need an efficient regulator and companies and land managers that are accountable for minimising their impacts on our rivers.  We also rely on our growing network of volunteers who act as our eyes and ears on the ground, as guardians for their local rivers.

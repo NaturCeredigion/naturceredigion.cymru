@@ -11,32 +11,28 @@ thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720
 partners_website_link: "https://tirglas.cymru/"
 
 partners_info:
-- title: "Types :"
-  content: "Design Tool, Prototype, Development Tools, App, Software"
-- title: "Colors :"
-  content: "Blue, Purple, White, Orange"
+- title: "Centres:"
+  content: "Tir Glas Food Academy, Rural Enterprise, CWIC Welsh Timber & Building Performance Development Centre"
 
 partners_images:
-- image: "images/tools/figma.jpg"
-- image: "images/tools/figma-lg.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721748768/view-of-uwtsd-lampeter-and-town.jpg"
+
 ---
 
-## Lampeter
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta 
+UWTSD is offering an ambitious and bold vision for Lampeter and the vicinity. It is a long-term scheme that will stimulate economic, social and cultural activity in the area and inject new life and energy into the town. It is a collaborative venture that will see the University working closely with Ceredigion County Council, Coleg Ceredigion and Coleg Sir Gâr, Lampeter Town Council, the Mid Wales Partnership and both the Welsh and UK Governments.
 
+Tir Glas will develop and maintain an eco-system that will support rural infrastructure and act as a catalyst for the promotion of a resilient culture with a clear focus on food and hospitality. Sustainability and resilience will be at the core of the entire scheme, with these themes permeating through all its various components.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas? Errdvs zsor soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt! Susd scipit quidem odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipiasci iste optio ea libero laboriosam praesentium aperiam nobis vero olorem quidem similique, deleaca scctus
+The vision has three key components
 
+1. Tir Glas Food Academy
+2. Rural Enterprise
+3. CWIC Welsh Timber & Building Performance Development Centre 
 
-### Tir Glas
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potea adanti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+These components will all be interconnected providing a unique opportunity for the town and the University to work together strategically for the benefit and prosperity of the local economy for years to come.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+However, the most significant development will be the Tir Glas Food Academy on the University’s campus. The aim is to apply for funds from the Mid Wales Growth Deal in order to establish a central hub for food education in the region, providing a strategic forum with partner organisations to assist in the direction an co-ordination of all aspects of food training across Mid and South West Wales.   
 
+Rural Enterprise will have an important role to play in promoting and supporting small businesses in a rural context, with a specific focus on the food and hospitality industries. This will concentrate on providing support and training for those wishing to develop higher business skills and gain access to professional training.
 
-### The vision
-1. Sll the Themefisher items are designed to be with the latest , We check Impliments.
-2. comments that threaten or harm the reputation of any person or organization.
-3. personal information including, but  limited to, email addresses, telephone numbers.
-4. Any Update come in The technology  Customer will get automatic  Notification.
+By establishing The CWIC Welsh Timber and Building Performance Development Centre, the University aims to collaborate with Wood Knowledge Wales to bring together dedicated resources and research in order to promote modern and sustainable methods of construction with the aim of decarbonising the construction industry in Wales in due course.
