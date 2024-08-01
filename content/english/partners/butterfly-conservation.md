@@ -6,7 +6,7 @@ description: "UK-wide charity dedicated to conserving butterflies, moths, and th
 weight: 2
 categories: ["Charity"]
 thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1722522351/butterfly-conservation.png"
-partners_website_link: "https://www.aber.ac.uk/en/"
+partners_website_link: "https://butterfly-conservation.org/in-your-area/wales-office"
 partners_info:
 - title: "Projects:"
   content: "High Brown Fritillary in Vale of Glamorgan, South Rhondda Marsh Fritillary Project, Forestry Partnership Project"
