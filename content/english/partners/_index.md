@@ -1,5 +1,5 @@
 ---
 title: "Partners"
 draft: false
-description : "this is meta description"
+description : "Natur Ceredigion partners"
 ---

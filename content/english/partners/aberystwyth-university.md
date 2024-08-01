@@ -3,20 +3,15 @@ title: "Aberystwyth University"
 date: 2020-08-07T05:00:00Z
 draft: false
 description: "Aberystwyth University (Welsh: Prifysgol Aberystwyth) is a public research university in Aberystwyth, Wales."
-
 weight: 2
 categories: ["Education"]
-
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623543/aberystwyth-university.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623543/aberystwyth-university.png"
 partners_website_link: "https://www.aber.ac.uk/en/"
-
 partners_info:
 - title: "Sites:"
   content: "Penglais Campus, Gogerddan Campus, Llanbadarn Campus, School of Art, Plas Woods, Pwll Crwn Woods, Gogerddan Woods"
-
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721735840/about-aberystwyth-university.webp"
-
 ---
 
 We’re living through a climate emergency. At Aberystwyth, we’re leading the sector in sustainability, not just in our ambitions to become a carbon neutral campus by 2030 but also through our teaching and our ground-breaking research into combatting climate change.  
