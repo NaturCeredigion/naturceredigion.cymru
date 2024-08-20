@@ -11,7 +11,7 @@ partners_info:
 - title: "Centres:"
   content: "Tir Glas Food Academy, Rural Enterprise, CWIC Welsh Timber & Building Performance Development Centre"
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721748768/view-of-uwtsd-lampeter-and-town.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1724150515/trinity-quad.webp"
 ---
 
 UWTSD is committed to the fostering, maintaining and enhancing ecosystems and nature for Lampeter and the vicinity. Their steadfast commitment is demonstrated by the campus Green Heritage Site Accreditation, awarded for the quality and accessibility of its green spaces, meadows, and woodland.
