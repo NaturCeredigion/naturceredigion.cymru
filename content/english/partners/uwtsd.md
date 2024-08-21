@@ -8,8 +8,8 @@ categories: ["Education"]
 thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/v1724149741/uwtsd.png"
 partners_website_link: "https://www.uwtsd.ac.uk/"
 partners_info:
-- title: "Centres:"
-  content: "Tir Glas Food Academy, Rural Enterprise, CWIC Welsh Timber & Building Performance Development Centre"
+- title: "Features:"
+  content: "Wellbeing Walk by the River Dulas & through the Lower Meadow"
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1724150515/trinity-quad.webp"
 ---
