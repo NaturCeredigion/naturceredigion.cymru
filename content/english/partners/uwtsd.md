@@ -18,6 +18,6 @@ UWTSD is committed to the fostering, maintaining and enhancing ecosystems and na
 
 Management of the site is informed by the university Biodiversity Action Plan and prioritises species conservation. Onsite hives, as part of an apiary, support pollination of existing plant species. Planting and wildflower reseeding is designed to promote a diversity of pollinating insects. 
 
-Its woodlands and hedgerows provide habitats and vital corridors for mammals and birds. Ecological surveys have highlighted key conservation species, informing nesting box constructions for vulnerable wildlife including hedgehogs, birds, and bats. The Teifi river meanders through the site and is a Site of Special Scientific Interest (SSSI) important for fish spawning and supports species such as otters and the wider ecosystem. 
+Its woodlands and hedgerows provide habitats and vital corridors for mammals and birds. Ecological surveys have highlighted key conservation species, informing nesting box constructions for vulnerable wildlife including hedgehogs, birds, and bats. The Dulas river, a tributary of the Teifi, meanders through the site and is a Site of Special Scientific Interest (SSSI) important for fish spawning and supports species such as otters and the wider ecosystem. 
 
 Ambitious plans aim to improve and increase habitat provision, introduce further native species and create overall biodiversity net gain. 
