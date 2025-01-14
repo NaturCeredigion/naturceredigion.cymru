@@ -1,0 +1,114 @@
+- id: search_placeholder
+  translation: Type & hit enter…
+
+- id: our_instagram
+  translation: Our Instagram
+
+- id: name
+  translation: Your Name
+
+- id: email
+  translation: Email Address
+
+- id: subject
+  translation: Subject
+
+- id: message
+  translation: Your Message Here
+
+- id: send_message
+  translation: Send Message
+
+- id: search_result_for
+  translation: Search results for
+
+- id: you_may_also_like
+  translation: You May Also Like
+
+- id: most_recent_post
+  translation: Our Most Recent Post
+
+- id: written_by
+  translation: Written By
+
+- id: read_more
+  translation: Read More
+  
+- id: read_article
+  translation: Read Article
+
+- id: showing_posts_from
+  translation: Showing posts from
+
+- id: home
+  translation: Home
+
+- id: search
+  translation: Search
+
+- id: categories
+  translation: Categories
+
+- id: tags
+  translation: Tags
+
+- id: social
+  translation: Social
+
+- id: copyright-text
+  translation: Designed & Developed By
+
+- id: popular_categories
+  translation: Popular Categories
+
+- id: our_impact
+  translation: Our Impact
+
+- id: about_me
+  translation: About Me
+
+- id: featured_post
+  translation: Featured Post
+
+- id: recent_post
+  translation: Recent Post
+
+- id: subscribe_newsletter
+  translation: Never Miss A News
+
+- id: subscribe
+  translation: Subscribe Now
+
+- id: job_title
+  translation: Job title
+
+- id: enthusiasms
+  translation: Interests
+
+- id: visit_website
+  translation: Visit website
+
+- id: added
+  translation: Added
+
+- id: post_related_to
+  translation: Posts related to
+
+- id: alt_funded_welsh_govt
+  translation: Funded by Welsh government logo
+
+- id: url_funded_welsh_govt
+  translation: https://www.gov.wales/
+
+- id: alt_caru
+  translation: Love Ceredigion logo
+
+- id: url_caru
+  translation: https://www.ceredigion.gov.uk/resident/caru-ceredigion/
+
+- id: alt_ceredigion
+  translation: Ceredigion County Council logo
+
+- id: url_ceredigion
+  translation: https://www.ceredigion.gov.uk/resident/
+
