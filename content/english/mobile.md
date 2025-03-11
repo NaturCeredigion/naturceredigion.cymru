@@ -3,7 +3,6 @@ title: "Mobile Wildlife Garden"
 draft: false
 description: "Ideas for super easy to install wildlife garden, by John Little"
 image: "https://res.cloudinary.com/naturceredigion/image/upload/v1740140051/250216-john-little-mobile-pond.jpg"
-layout: newsletter
 ---
 1. Pond - 1000mm high, 1000mm diameter, durable plastic pipe fitted on waterproof wooden base. Delivered empty (!), please include delivery price. 
 2. Planter -  1 tonne bag filled with assorted rubble/sand/growing medium (TBC). 
