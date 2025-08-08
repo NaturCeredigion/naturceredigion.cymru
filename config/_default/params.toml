@@ -50,7 +50,7 @@ image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618
 
 # Preloader
 [preloader]
-enable = false
+enable = false 
 preloader = "" # use jpg, png, svg or gif format.
 
 # contact info
@@ -82,10 +82,10 @@ mobile = "+447966312065"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-author = "Natur Ceredigion"
+author = "Partneriaeth Natur Ceredigion"
 description = "We embed nature recovery in everything we do "
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
+keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"] 
 
 # matomo tracking: see https://matomo.org/
 # [matomo]

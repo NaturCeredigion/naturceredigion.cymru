@@ -2,7 +2,7 @@
 title: "Small Grants Scheme"
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1543959573/the-peoples-orchard-39482524460.jpg"
 author: "Gillian Clark"
-date: 2025-08-08T15:00:00Z
+date: 2024-05-08T15:00:00Z
 description: "Ein Cartref, Ein Cynefin -- Local Places for Nature Small Grants Scheme"
 categories: ["Grants"]
 tags: ["Grants", "Scheme", "Funding", "Local Places for Nature", "LPN"]

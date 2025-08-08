@@ -53,7 +53,7 @@ link = "plugins/font-awesome/v6/brands.css"
 [[params.plugins.css]]
 link = "plugins/font-awesome/v6/solid.css"
 [[params.plugins.css]]
-link = "plugins/font-awesome/v6/icons.css"
+link = "plugins/font-awesome/v6/icons.css" 
 [[params.plugins.css]]
 link = "plugins/glightbox/glightbox.css"
 
