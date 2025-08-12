@@ -7,7 +7,7 @@
           {{ partial "image.html" (dict "Src" (site.Params.logo) "Alt" (site.Title)) }}
         </a>
       </div>
-      <div class="col-lg-5 text-center mb-4 mb-lg-0">
+      <div class="col-lg-6 text-center mb-4 mb-lg-0">
         <ul class="footer-nav list-inline mb-0">
           {{ range site.Menus.footer }}
           <li class="list-inline-item"><a class="text-dark d-block p-2" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
