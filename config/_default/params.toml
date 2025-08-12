@@ -154,12 +154,12 @@ icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons
 link = "https://www.facebook.com/naturceredigion"
 title = "Facebook"
 
-[[social]]
-icon = "fab fa-x" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://x.com/naturceredigion"
-title = "X"
+# [[social]]
+# icon = "fab fa-x" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "https://x.com/naturceredigion"
+# title = "X"
 
-[[social]]
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://instagram.com/naturceredigion"
-title = "Instagram"
+# [[social]]
+# icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "https://instagram.com/naturceredigion"
+# title = "Instagram"
