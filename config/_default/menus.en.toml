@@ -8,18 +8,39 @@ weight = 1
 
 [[main]]
 name = "Partners"
+hasChildren = true
 url = "partners/"
 weight = 3
 
 [[main]]
+parent = "Partners"
+name = "Map"
+url = "map/"
+weight = 1
+
+[[main]]
 name = "Funding"
+hasChildren = true
 url = "funding/"
 weight = 4
 
 [[main]]
+parent = "Funding"
+name = "Small Grant Scheme"
+url = "small-grant-scheme/"
+weight = 1
+
+[[main]]
 name = "Events"
+hasChildren = true
 url = "events/"
 weight = 4
+
+[[main]]
+parent = "Events"
+name = "Partnership meetings"
+url = "partnership-meetings/"
+weight = 1
 
 # [[main]]
 # name = "Happenings"

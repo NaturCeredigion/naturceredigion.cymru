@@ -20,11 +20,10 @@
   border-radius: 2px;
 }
 
-
 .navbar-nav li a {
   // color: #ea4a2c !important;
   color: $color_primary !important;
-  font-size: 1.7rem;
+  // font-size: 1.7rem;
   font-weight: bold;
 }
 
@@ -40,8 +39,15 @@
   border-radius: 2px;
 }
 
-.navbar-nav {
-  font-size: 1rem;
+.navbar-nav li, .navbar-nav .dropdown-item {
+  font-size: 1.7rem;
+}
+
+// Do we need this? TODO
+@media (min-width: 991px) {
+  .navigation .dropdown-menu {
+    width: auto;
+  }
 }
 
 a:active {
