@@ -1,7 +1,8 @@
 ---
-title: "Policies & Privacy"
+title: "Partnership meetings"
 description: "this is meta description"
 draft: false
+alias: "/small-grant-scheme"
 ---
 
 * Add licensing for bespoke images ie Shane Jones, hare, butterfly, owlets and waterfall (so far)

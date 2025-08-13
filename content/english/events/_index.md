@@ -1,8 +1,7 @@
 ---
-title: "Natur Ceredigion events"
+title: "Ceredigion nature events"
 draft: false
 description: "A curated list of nature & wildlife events in Ceredigion"
-image: "images/contact.svg"
 ---
 
 <iframe

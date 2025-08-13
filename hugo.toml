@@ -36,7 +36,7 @@ font_scale = "1.17" # default is "majorThird": 1.25
 
 # go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
 # example: "Work+Sans:wght@400;500;600"
-font_primary = "Alegreya Sans:wght@400;700"
+font_primary = "Fira Sans:wght@400;700"
 font_primary_type = "sans-serif"            # [serif/sans-serif]
 font_secondary = "Corben:wght@400"
 font_secondary_type = "serif"               # [serif/sans-serif]

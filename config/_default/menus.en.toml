@@ -9,14 +9,20 @@ weight = 1
 [[main]]
 name = "Partners"
 hasChildren = true
-url = "partners/"
+url = ""
 weight = 3
 
 [[main]]
 parent = "Partners"
-name = "Map"
-url = "map/"
+name = "Partner list"
+url = "partners/"
 weight = 1
+
+[[main]]
+parent = "Partners"
+name = "Partner map"
+url = "map/"
+weight = 2
 
 [[main]]
 name = "Funding"
