@@ -1,6 +1,7 @@
 ---
 title: "Policies & Privacy"
 description: "this is meta description"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1753896665/250613-cilgerran-dragonfly.webp"
 draft: false
 ---
 

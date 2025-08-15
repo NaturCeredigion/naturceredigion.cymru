@@ -33,7 +33,7 @@ weight = 4
 [[main]]
 parent = "Funding"
 name = "Small Grant Scheme"
-url = "small-grant-scheme/"
+url = "/funding/small-grant-scheme/"
 weight = 1
 
 [[main]]
@@ -44,9 +44,15 @@ weight = 4
 
 [[main]]
 parent = "Events"
-name = "Partnership meetings"
-url = "partnership-meetings/"
+name = "Calendar"
+url = "/events/calendar/"
 weight = 1
+
+[[main]]
+parent = "Events"
+name = "Partnership meetings"
+url = "/events/partnership-meetings/"
+weight = 2
 
 # [[main]]
 # name = "Happenings"

@@ -19,7 +19,7 @@ Natur Ceredigion’s newsletter
 >
   <label for="bd-email">Enter your email</label>
   <input type="email" name="email" id="bd-email" />
-
+  <label for="bd-member">If you agree with our <a href="https://cnp.cymru/aims/">aims</a>, become a member</label><input type="" name="member" id="bd-member">
   <input type="submit" value="Subscribe" />
 </form>
 

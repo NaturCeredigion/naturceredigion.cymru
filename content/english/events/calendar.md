@@ -1,7 +1,8 @@
 ---
-title: "Ceredigion nature events"
-draft: false
+title: "Calendar of Ceredigion nature events"
 description: "A curated list of nature & wildlife events in Ceredigion"
+draft: false
+alias: "/calendar/"
 ---
 
 <iframe
