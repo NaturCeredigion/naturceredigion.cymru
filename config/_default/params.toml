@@ -45,7 +45,7 @@ theme_copyright = true
 [banner]
 # was bg_image
 background = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618622/hare-grassland-background.jpg"
-title = "Ceredigion Nature Partnership <br><i>Nature recovery in everything we do</i>"
+title = "Ceredigion Nature Partnership <br><i>Working together for nature recovery</i>"
 image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618980/butterfly-ringlet.png"
 
 # Preloader
