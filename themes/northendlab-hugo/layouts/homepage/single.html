@@ -4,7 +4,7 @@
 {{ if eq $layout "classic" }}
 
 <!-- banner -->
-<section class="section about-banner overflow-hidden"style="background-image:url({{ site.Params.Banner.background | absURL }});background-size:cover;background-position:50%;background-repeat:no-repeat">
+<section class="banner bg-cover" {{ partial `bg-image.html` (dict `Src` .Params.banner.bg_image ) | safeHTMLAttr }}>
  {{ if .Params.banner.image }}
   {{ partial "image.html" (dict "Src" .Params.banner.image "Alt" .Title "Class" "illustration") }}
   {{ end }}

@@ -1,7 +1,33 @@
+$hilite: #ea4a2c;
+
+body {
+  font-size: 19px;
+}
+p, .paragraph, li {
+  font-size: 19px;
+}
+.btn {
+  text-transform: none;
+}
+.banner-image {
+  border-radius: 50%;
+}
+.nav-link {
+  text-transform: none;
+  &:hover {
+    color: white !important;
+  }
+}
+.search-box {
+  min-width: 10rem;
+}
 .slider-block {
   top: -2rem;
 }
-
+h1,h2,h3,h4,h5,h6 {
+  font-family: $font-secondary;
+  font-weight: 400;
+}
 .banner-creative {
   background-size: cover !important;
 }
@@ -83,9 +109,9 @@ a.text-dark:active {
 }
 
 .newsletter {
-    background-color: #f6fbff;
-    background-repeat: no-repeat;
-    background-position: right;
+  background-color: #f6fbff;
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
 .content ul li {

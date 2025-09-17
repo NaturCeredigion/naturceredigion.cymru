@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- banner -->
-<section class="banner-creative" {{ partial `bg-image.html` (dict `Src` site.Params.banner.bg_image ) | safeHTMLAttr }}>
+<section class="banner-creative" style="background-image:url({{ site.Params.Banner.background | absURL }});background-size:cover;background-position:50%;background-repeat:no-repeat">
   <div class="container">
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-8 mb-4 mb-lg-0 order-1 order-lg-0">
@@ -15,7 +15,7 @@
     </div>
   </div>
 </section>
-<!-- /banner -->
+<!-- /banner --> 
 
 <!-- featured-post-slider -->
 <div class="featured-post-slider">
@@ -33,7 +33,7 @@
                 {{ end }}
                 <div class="card-block">
                   <h2 class="h4 mb-4 fw-normal"><a class="post-title" href="{{ .Permalink }}">{{ .Title | markdownify
-                      }}</a></h2>
+                    }}</a></h2>
                   <div class="mb-3 post-meta">
                     <a href="{{ `author/` | absLangURL }}{{ .Params.Author | urlize | lower }}/">{{ .Params.Author |
                       title
@@ -54,8 +54,62 @@
 </div>
 <!-- /featured-post-slider -->
 
+<!-- Newsletter -->
+<div class="newsletter">
+  <div class="container">
+    <div class="row  align-items-center justify-content-between">
+      <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
+        <h1>Newsletter</h1>
+
+        <h3>Sign up to the Natur Ceredigion newsletter</h3>
+        <p>Monthly round-up of nature news in Ceredigion, with weekly catch-up news flash</p>
+        <form
+          action="https://buttondown.email/api/emails/embed-subscribe/NaturCeredigion"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.email/NaturCeredigion', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <label for="bd-email"><i>Enter your email</i></label>
+          <input type="email" name="email" id="bd-email" /><br>
+          <!-- Comment out membership options -->
+          <!-- <label>Become a Partnership member? <input type="checkbox" name="metadata__member" id="member" /></label> -->
+          <!-- <label>Appear on Partners page? <input type="checkbox" name="metadata__member_details" id="member_details" /></label></br> -->
+          <input type="submit" value="Subscribe" />
+        </form>
+      </div>
+      <div class="col-lg-5 p-0 d-none d-lg-block">
+        <img class="img" src="https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720623469/waterfall.jpg" alt="Waterfall slow mo">
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /Newsletter -->
+
+<!-- Aims -->
+<div class="our-aims">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title mb-4 mb-md-3">
+          <h2 class="h4 fw-normal">{{ i18n "our_aims" }}</h2>
+        </div>
+      </div>
+      <div class="col-12">
+        <ul>
+          <li>Engage communities & raise awareness of the benefits of a healthy natural environment</li>
+          <li>Work in partnership with individuals, conservationists and business</li>
+          <li>Collaborate with the Public Service Board</li>
+          <li>Maintain, restore & create habitats</li>
+          <li>Ensure nature recovery is at the heart of local decision making</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- Popular Categories -->
-<div class="popular-categories">
+<!-- <div class="popular-categories">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -79,7 +133,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <!-- /Popular Categories -->
 
 <!-- blog -->
