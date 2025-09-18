@@ -1,74 +1,95 @@
-############# English navigation ##############
-# ----- Main Menu ----- 
+############# Welsh navigation ##############
+
+# Main menu
 [[main]]
-name = "Maison"
-url = "/"
+name = "Home (cy)"
+url = "" # don't use a slash for home url
 weight = 1
+
+[[main]]
+name = "Partners"
 hasChildren = true
-
-[[main]]
-parent = "Maison"
-name = "Accueil Classique"
-url = "homepage/classic/"
-weight = 1
-
-[[main]]
-parent = "Maison"
-name = "Accueil Créatif"
-url = "homepage/creative/"
-weight = 2
-
-[[main]]
-name = "Quelque"
-url = "about/"
-weight = 2
-
-[[main]]
-name = "Contacter"
-url = "contact/"
+url = ""
 weight = 3
 
 [[main]]
-name = "Outils"
-url = "tools/"
+parent = "Partners"
+name = "Partner list"
+url = "partners/"
+weight = 1
+
+[[main]]
+parent = "Partners"
+name = "Partner map"
+url = "map/"
+weight = 2
+
+[[main]]
+name = "Funding"
+hasChildren = true
+url = "funding/"
 weight = 4
 
 [[main]]
-name = "Pages"
-url = "#"
-weight = 5
+parent = "Funding"
+name = "Small Grant Scheme"
+url = "/funding/small-grant-scheme/"
+weight = 1
+
+[[main]]
+name = "Events"
 hasChildren = true
+url = "events/"
+weight = 4
 
 [[main]]
-parent = "Pages"
-name = "Mots clés"
-url = "tags/tech/"
+parent = "Events"
+name = "Calendar"
+url = "/events/calendar/"
 weight = 1
 
 [[main]]
-parent = "Pages"
-name = "Catégorie"
-url = "categories/hugo/"
+parent = "Events"
+name = "Partnership meetings"
+url = "/events/partnership-meetings/"
 weight = 2
 
-[[main]]
-parent = "Pages"
-name = "Éléments"
-url = "elements/"
-weight = 3
+# [[main]]
+# name = "Happenings"
+# url = "#"
+# hasChildren = true
+# weight = 4
 
-# ----- Footer Menu -----
+# [[main]]
+# parent = "Happenings"
+# name = "Grants"
+# url = "posts/240508-small-grants-scheme/"
+# weight = 1
+
+
+# Footer Menu
+
 [[footer]]
-name = "Quelque"
+name = "Newsletter"
+url = "newsletter/"
+weight = 1
+
+[[footer]]
+name = "Posts"
+url = "posts/"
+weight = 2
+
+[[footer]]
+name = "About"
 url = "about/"
-weight = 1
-
-[[footer]]
-name = "Vie privée"
-url = "privacy/"
-weight = 2
-
-[[footer]]
-name = "Termes et conditions"
-url = "terms-conditions/"
 weight = 3
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+[[footer]]
+name = "Policies"
+url = "policies/"
+weight = 5
