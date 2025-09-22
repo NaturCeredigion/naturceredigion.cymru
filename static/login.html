@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+</head>
+<body>
+<h1>Restricted Page</h1>
+<p>You must log in to view this content.</p>
+<button id="login-btn">Login</button>
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  const netlifyIdentity = window.netlifyIdentity;
+  netlifyIdentity.init();
+
+  document.getElementById('login-btn').addEventListener('click', () => {
+    netlifyIdentity.open();
+  });
+</script>
+</body>
+</html>
