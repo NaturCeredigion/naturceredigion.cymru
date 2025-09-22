@@ -1,7 +1,0 @@
-# English homepage is public
-/en/            /en/index.html  200
-/cy/           /cy/index.html 200
-
-# All other English pages require login
-/en/*           /login        401
-/cy/*          /login        401
