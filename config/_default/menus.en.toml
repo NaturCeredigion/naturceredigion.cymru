@@ -7,64 +7,76 @@ url = "" # don't use a slash for home url
 weight = 1
 
 [[main]]
-name = "Partners"
+name = "About"
+hasChildren = true
+url = ""
+weight = 2
+
+[[main]]
+parent = "About"
+name = "About Us"
+url = "about/"
+weight = 1
+
+[[main]]
+parent = "About"
+name = "Contact Us"
+url = "contact/"
+weight = 1
+
+[[main]]
+name = "News & Events"
 hasChildren = true
 url = ""
 weight = 3
 
 [[main]]
+parent = "News & Events"
+name = "Latest News"
+url = "news/"
+weight = 1
+
+[[main]]
+parent = "News & Events"
+name = "Events Calendar"
+url = "/events/calendar/"
+weight = 2
+
+[[main]]
+parent = "News & Events"
+name = "Partnership Meetings"
+url = "/events/partnership-meetings/"
+weight = 3
+
+[[main]]
+name = "Partners"
+hasChildren = true
+url = ""
+weight = 4
+
+[[main]]
 parent = "Partners"
-name = "Partner list"
+name = "Our Partners"
 url = "partners/"
 weight = 1
 
 [[main]]
 parent = "Partners"
-name = "Partner map"
+name = "Partner Map"
 url = "map/"
-weight = 2
+weight = 1
 
 [[main]]
 name = "Funding"
 hasChildren = true
 url = "funding/"
-weight = 4
+weight = 5
 
 [[main]]
 parent = "Funding"
 name = "Small Grant Scheme"
 url = "/funding/small-grant-scheme/"
 weight = 1
-
-[[main]]
-name = "Events"
-hasChildren = true
-url = "events/"
-weight = 4
-
-[[main]]
-parent = "Events"
-name = "Calendar"
-url = "/events/calendar/"
-weight = 1
-
-[[main]]
-parent = "Events"
-name = "Partnership meetings"
-url = "/events/partnership-meetings/"
-weight = 2
-
-# [[main]]
-# name = "Happenings"
-# url = "#"
-# hasChildren = true
-# weight = 4
-
-# [[main]]
-# parent = "Happenings"
-# name = "Grants"
-# url = "posts/240508-small-grants-scheme/"
-# weight = 1
 
 
 # Footer Menu
@@ -74,22 +86,10 @@ name = "Newsletter"
 url = "newsletter/"
 weight = 1
 
-[[footer]]
-name = "Posts"
-url = "posts/"
-weight = 2
+
+
 
 [[footer]]
-name = "About"
-url = "about/"
-weight = 3
-
-[[footer]]
-name = "Contact"
-url = "contact/"
-weight = 4
-
-[[footer]]
-name = "Policies"
+name = "Privacy Policy"
 url = "policies/"
 weight = 5

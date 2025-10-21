@@ -1,5 +1,5 @@
 - id: search_placeholder
-  translation: Type & hit enter…
+  translation: Search…
 
 - id: our_instagram
   translation: Our Instagram
@@ -33,7 +33,7 @@
 
 - id: read_more
   translation: Read More
-  
+
 - id: read_article
   translation: Read Article
 

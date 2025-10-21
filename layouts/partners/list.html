@@ -3,6 +3,10 @@
 <section class="section">
   <div class="container">
     <div class="row">
+      <h1>Our Partners</h1>
+      <p class="lead mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+    </div>
+    <div class="row">
       <div class="col-md-3 mb-4 mb-md-0">
         <div class="position-sticky" style="top:110px">
           <div class="tools-filter-btn btn-group btn-group-toggle justify-content-center d-flex flex-column"
@@ -23,23 +27,26 @@
             {{ end }}
           </div>
         </div>
-
       </div>
       <div class="col-md-9">
         <div class="row shuffle-wrapper">
           {{ range .Data.Pages }}
-          <div class="col-lg-6 mb-4 pb-2 shuffle-item"
-            data-groups="[{{range $index, $element:= .Params.categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
-            <div class="card border-0 shadow">
-              <a href="{{ .Permalink }}" aria-label="{{ .Params.description }}">
-                {{ partial "image.html" (dict "Src" .Params.thumbnail "Alt" "thumbnail-image" "Class" `card-img-top`) }}
+          <div class="col-12 mb-4 pb-2 shuffle-item"
+               data-groups="[{{range $index, $element:= .Params.categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
+            <div class="card border-0 shadow-sm flex-row align-items-center p-2">
+              <a href="{{ .Permalink }}" style="flex-shrink: 0; width: 200px;">
+                {{ partial "image.html" (dict "Src" .Params.thumbnail "Alt" "thumbnail-image" "Class" `img-fluid rounded`) }}
               </a>
-              <div class="card-body">
-                <h4 class="mb-3"><a class="text-dark" href="{{ .Permalink }}" aria-label="{{ .Params.description }}">{{
-                    .Params.title }}</a></h4>
-                <p class="mb-2">{{ .Params.description | truncate 90 }}</p>
-                <a href="{{ .Permalink }}" class="btn btn-transparent" aria-label="{{ .Params.description }}">Read
-                  More</a>
+              <div class="card-body d-flex justify-content-between align-items-center w-100">
+                <div class="me-3">
+                  <h4 class="mb-2">
+                    <a class="text-dark" href="{{ .Permalink }}" aria-label="{{ .Params.description }}">{{ .Params.title }}</a>
+                  </h4>
+                  <p class="mb-0">{{ .Params.description | truncate 160 }}</p>
+                </div>
+                <a href="{{ .Permalink }}" class="btn btn-outline-primary btn-sm" style="white-space:nowrap;" aria-label="{{ .Params.description }}">
+                  Read More
+                </a>
               </div>
             </div>
           </div>

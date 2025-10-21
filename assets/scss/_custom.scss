@@ -1,10 +1,10 @@
 $hilite: #ea4a2c;
 
 body {
-  font-size: 19px;
+  font-size: 16px;
 }
 p, .paragraph, li {
-  font-size: 19px;
+  font-size: 16px;
 }
 .btn {
   text-transform: none;
@@ -14,6 +14,7 @@ p, .paragraph, li {
 }
 .nav-link {
   text-transform: none;
+  font-size: 1.2rem;
   &:hover {
     color: white !important;
   }
@@ -26,7 +27,7 @@ p, .paragraph, li {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: $font-secondary;
-  font-weight: 400;
+  font-weight: 500;
 }
 .banner-creative {
   background-size: cover !important;
@@ -65,7 +66,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .navbar-nav li, .navbar-nav .dropdown-item {
-  font-size: 1.6rem;
+  font-size: 1.1rem;
 }
 
 // Do we need this? TODO
@@ -73,6 +74,10 @@ h1,h2,h3,h4,h5,h6 {
   .navigation .dropdown-menu {
     width: auto;
   }
+}
+
+.navigation {
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.161)
 }
 
 a:active {

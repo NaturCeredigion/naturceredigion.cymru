@@ -20,7 +20,7 @@ dark = "#333"
 light = "#fcfbf2"
 
 # font variables
-# base font size for full website, 
+# base font size for full website,
 font_size = "16px" # default is 16px
 
 # Font Scale Sizes
@@ -36,9 +36,11 @@ font_scale = "1.17" # default is "majorThird": 1.25
 
 # go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
 # example: "Work+Sans:wght@400;500;600"
-font_primary = "Fira Sans:wght@400;700"
+#font_primary = "Fira Sans:wght@400;700"
+font_primary = "Open+Sans:ital,wght@0,300..800;1,300..800"
 font_primary_type = "sans-serif"            # [serif/sans-serif]
-font_secondary = "Corben:wght@400"
+#font_secondary = "Corben:wght@400"
+font_secondary = "Scheherazade+New:wght@400;500;600;700"
 font_secondary_type = "serif"               # [serif/sans-serif]
 font_icon = "Font Awesome 6 Free"           # https://fontawesome.com/v6/icons
 
@@ -53,7 +55,7 @@ link = "plugins/font-awesome/v6/brands.css"
 [[params.plugins.css]]
 link = "plugins/font-awesome/v6/solid.css"
 [[params.plugins.css]]
-link = "plugins/font-awesome/v6/icons.css" 
+link = "plugins/font-awesome/v6/icons.css"
 [[params.plugins.css]]
 link = "plugins/glightbox/glightbox.css"
 

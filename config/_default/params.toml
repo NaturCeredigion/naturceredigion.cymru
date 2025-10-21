@@ -25,7 +25,7 @@ menu_align = "center"
 sidebar = "right" # Sidebar value ("left", "right" or false)
 
 # Main Sections
-mainSections = ["posts"]
+mainSections = ["news"]
 
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
@@ -50,7 +50,7 @@ image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618
 
 # Preloader
 [preloader]
-enable = false 
+enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # contact info
@@ -85,7 +85,7 @@ mobile = "+447966312065"
 author = "Partneriaeth Natur Ceredigion"
 description = "We embed nature recovery in everything we do "
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"] 
+keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
 
 # matomo tracking: see https://matomo.org/
 # [matomo]

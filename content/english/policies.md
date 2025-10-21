@@ -5,6 +5,8 @@ image: "https://res.cloudinary.com/growdigital/image/upload/v1753896665/250613-c
 draft: false
 ---
 
+# Privacy Policy
+
 * Add licensing for bespoke images ie Shane Jones, hare, butterfly, owlets and waterfall (so far)
 
 #### Responsibility of Contributors
