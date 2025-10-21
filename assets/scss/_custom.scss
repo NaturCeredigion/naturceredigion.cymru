@@ -12,6 +12,15 @@ p, .paragraph, li {
 .banner-image {
   border-radius: 50%;
 }
+.banner-creative .container {
+  margin-left: -15px;
+  padding-left: 0;
+}
+.banner-creative .title {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem 1.5rem 1rem 4rem;
+  border-radius: 5px;
+}
 .nav-link {
   text-transform: none;
   font-size: 1.2rem;
@@ -35,14 +44,21 @@ h1,h2,h3,h4,h5,h6 {
 
 .banner-creative .title {
   color: white !important;
-  text-shadow: 1.5px 1.5px 5px black;
 }
 
 .card-block {
   background-color: #fcfbf2 !important;
-  border-radius: 3px;
+  border-radius: 5px;
 }
 
+
+.card-overlapped .card-block {
+  background-color: #3e6693 !important;
+  a, p, div {
+    color: #f0f0f0 !important;
+  }
+
+}
 .img {
   border-radius: 2px;
 }
@@ -61,12 +77,45 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .card-overlapped .badge {
-  background-color: $text_color !important;
+  background-color: #e7e567 !important;
+  color:black;
   border-radius: 2px;
+}
+.card-overlapped img, .article-overlapped-list img {
+  border-radius:5px;
+  box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.1);
+}
+.article-overlapped-list .card-block {
+  box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-nav li, .navbar-nav .dropdown-item {
   font-size: 1.1rem;
+}
+
+.custom-bullets li {
+  list-style: none;          /* remove default bullets */
+  position: relative;
+  padding-left: 4rem;        /* space for the icon */
+}
+
+.custom-bullets li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;                  /* vertically center */
+  transform: translateY(-50%);
+  width: 3rem;               /* icon size */
+  height: 3rem;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.experiences ::before, .experiences ::after {
+  display: none;
+}
+.experiences .card {
+  margin-bottom:50px
 }
 
 // Do we need this? TODO
@@ -76,8 +125,11 @@ h1,h2,h3,h4,h5,h6 {
   }
 }
 
-.navigation {
-  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.161)
+.navigation, .navigation.nav-bg {
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.05)
+}
+.navigation.nav-bg, .navigation {
+  background-color:#fcfbf2 !important;
 }
 
 a:active {
@@ -93,8 +145,13 @@ a.text-dark:active {
   background-color: $hilite;
 }
 
+.social-icon a {
+  border:none;
+  font-size:22px;
+}
+
 .copyright {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
 }
 
 .footer-nav a {
@@ -111,10 +168,19 @@ a.text-dark:active {
 .footer-logos {
   margin: 0 0.5rem 1rem;
   width:9rem;
+  filter: invert(1);
+}
+.footer.bg-dark, .footer.bg-dark p, .footer.bg-dark a {
+  color:#f0f0f0 !important;
+  background-color:#3e6693 !important;
+}
+
+.footer-nav a {
+  font-size:0.9rem;
 }
 
 .newsletter {
-  background-color: #f6fbff;
+  background-color: #ecf2f8;
   background-repeat: no-repeat;
   background-position: right;
 }

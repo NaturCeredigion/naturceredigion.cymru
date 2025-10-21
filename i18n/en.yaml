@@ -68,13 +68,19 @@
   translation: About Me
 
 - id: featured_post
-  translation: Featured Post
+  translation: Featured Posts
 
 - id: recent_post
   translation: Recent Post
 
 - id: subscribe_newsletter
   translation: Never Miss A News
+
+- id: newsletter_intro
+  translation: Sign up to the Natur Ceredigion newsletter and you'll get a monthly round-up of nature news in Ceredigion plus a weekly catch-up news flash!
+
+- id: our_newsletter
+  translation: Our Newsletter
 
 - id: subscribe
   translation: Subscribe Now
@@ -112,3 +118,32 @@
 - id: url_ceredigion
   translation: https://www.ceredigion.gov.uk/resident/
 
+- id: aims_1_title
+  translation: Engage communities & raise awareness of the benefits of a healthy natural environment
+- id: aims_1_text
+  translation: Engage communities and raise awareness of the vital benefits that a healthy natural environment brings to people and the economy.
+
+- id: aims_2_title
+  translation: Work in partnership with individuals, conservationists and business
+- id: aims_2_text
+  translation: Steer the collective work of individuals, conservationists and business to work in partnership to protect, improve, create and connect Ceredigion’s natural landscape.
+
+- id: aims_3_title
+  translation: Collaborate with the Public Service Board
+- id: aims_3_text
+  translation: Collaborate with the Public Service Board and support other public bodies to protect and enhance nature across the county.
+
+- id: aims_4_title
+  translation: Maintain, restore & create habitats
+- id: aims_4_text
+  translation: Work to maintain, restore and create habitats that are thriving with wildlife including mammals, birds, reptiles, amphibians, fish, invertebrates, plants, fungi and more.
+
+- id: aims_5_title
+  translation: Protect Ceredigion’s marine, intertidal, terrestrial and freshwater environments
+- id: aims_5_text
+  translation: Ensure Ceredigion’s marine, intertidal, terrestrial and freshwater environments retain and regain good health.
+
+- id: aims_6_title
+  translation: Ensure nature recovery is at the heart of local decision making
+- id: aims_6_text
+  translation: Make sure consideration for the environment and incorporating nature recovery objectives are put right at the heart of local decision-making.

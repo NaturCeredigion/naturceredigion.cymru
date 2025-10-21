@@ -3,7 +3,7 @@
 # Main menu
 [[main]]
 name = "Home"
-url = "" # don't use a slash for home url
+url = "preview/" # don't use a slash for home url
 weight = 1
 
 [[main]]
@@ -49,6 +49,12 @@ url = "/events/partnership-meetings/"
 weight = 3
 
 [[main]]
+parent = "News & Events"
+name = "Our Newsletter"
+url = "newsletter/"
+weight = 4
+
+[[main]]
 name = "Partners"
 hasChildren = true
 url = ""
@@ -82,14 +88,13 @@ weight = 1
 # Footer Menu
 
 [[footer]]
-name = "Newsletter"
-url = "newsletter/"
+name = "Contact Us"
+url = "contact/"
 weight = 1
-
-
-
 
 [[footer]]
 name = "Privacy Policy"
 url = "policies/"
-weight = 5
+weight = 2
+
+
