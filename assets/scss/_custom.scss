@@ -93,24 +93,6 @@ h1,h2,h3,h4,h5,h6 {
   font-size: 1.1rem;
 }
 
-.custom-bullets li {
-  list-style: none;          /* remove default bullets */
-  position: relative;
-  padding-left: 4rem;        /* space for the icon */
-}
-
-.custom-bullets li::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 50%;                  /* vertically center */
-  transform: translateY(-50%);
-  width: 3rem;               /* icon size */
-  height: 3rem;
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-
 .experiences ::before, .experiences ::after {
   display: none;
 }

@@ -1,21 +1,16 @@
 {{ $showText := .Get "showText" | default "true" }}
-<style>
-  .custom-bullets li::before {
-    background-image: url('{{ site.Params.favicon }}');
-  }
-</style>
 <div class="our-aims">
   <div class="container">
     <div class="row">
       <div class="col-12">
         <h3 class="mt-4 mb-4">Our Aims</h3>
-        <ul  class="custom-bullets mb-5">
+        <ul  class="mb-5 fa-ul">
           {{ range $i, $v := seq 1 7 }}
           {{ $title := i18n (printf "aims_%d_title" $i) }}
           {{ $text  := i18n (printf "aims_%d_text" $i) }}
           {{ if or $title $text }}
             <li>
-              <p class="lead mt-3">{{ i18n (printf "aims_%d_title" $i) }}</p>
+              <p class="fs-4 mb-0 mt-3"><span class="fa-li"><i class=" fs-5 fa-solid fa-circle-check text-primary"></i></span>{{ i18n (printf "aims_%d_title" $i) }}</p>
               {{ if eq $showText "true" }}
               {{ i18n (printf "aims_%d_text" $i) | safeHTML }}
               {{ end }}
