@@ -102,4 +102,9 @@ name = "Privacy"
 url = "privacy/"
 weight = 3
 
+[[footer]]
+name = "Licensing"
+url = "licensing/"
+weight = 4
+
 

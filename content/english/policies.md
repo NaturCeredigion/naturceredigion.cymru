@@ -1,34 +1,15 @@
 ---
-title: "Policies & Privacy"
-description: "this is meta description"
+title: "Licensing"
+description: "Copyright and licensing for Ceredigion Nature Partnership"
 image: "https://res.cloudinary.com/growdigital/image/upload/v1753896665/250613-cilgerran-dragonfly.webp"
 draft: false
 ---
 
-# Privacy Policy
-
-* Add licensing for bespoke images ie Shane Jones, hare, butterfly, owlets and waterfall (so far)
-
-#### Responsibility of Contributors
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
-
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
-
-#### Gathering of Personal Information
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-
-#### Protection of  Personal- Information
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-#### Privacy Policy Changes
-
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+- Logos & idents copyright of individual organisations
+- All other content copyright © [Ceredigion Local Nature Partnership](https://naturceredigion.cymru/) _unless otherwise stated_
+- Content licensed under [Creative Commons licensing](https://creativecommons.org/)
+- Photos licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- Words licensed [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
+- Theme [NorthendLab](https://gethugothemes.com/products/northendlab) designed by [Gethugothemes](https://gethugothemes.com/), modified by Jake Rayson & made beautiful by [Aye-aye Design](https://www.ayeayedesign.co.uk/)
+- Hare in grassland © [Shane Jones](https://www.flickr.com/photos/18805800@N05/), used with permission
+- Ringlet butterfly [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © [Adrian Colston](https://adriancolston.wordpress.com/2015/07/03/the-brown-butterflies-how-to-identify/)
