@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: "about"
-image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720624188/rachel.jpg"
+image: "https://res.cloudinary.com/naturceredigion/image/upload/v1762885497/f_auto/090211-Gliophorus-psittacinus-Chukchi-waxcap-portrait.webp"
 background_shape: "images/banner-shape.png"
 draft: false
 
@@ -12,18 +12,18 @@ my_experiences:
   description: "Our team is committed to improving nature in Ceredigion, working with a range of dedicated partners and engaged members of the public"
 
   experiences_item:
-  - title: "Alison Heal"
-    job_title: "Senior Ecologist"
+  - title: "Sarah Smyth"
+    job_title: "Interim Senior Ecologist"
     enthusiasms: "Life"
 
-  - title: "Rachel Auckland"
-    job_title: "Biodiversity Officer"
-    enthusiasms: "Life"
-    
   - title: "Gillian Clark"
     job_title: "Service Support Officer"
     enthusiasms: "Life"
     
+  - title: "Chris Harris"
+    job_title: "Biodiversity Assistant"
+    enthusiasms: "Life, mid-Ceredigion"
+
   - title: "Fiona Moran"
     job_title: "Biodiversity Assistant"
     enthusiasms: "Life, north Ceredigion"
@@ -31,18 +31,13 @@ my_experiences:
   - title: "Jake Rayson"
     job_title: "Biodiversity Assistant"
     enthusiasms: "Glaswelltir Ceredigion Grassland group, wood meadows, forest gardens, south Ceredigion"
-
-  - title: "Chris Harris"
-    job_title: "Biodiversity Assistant"
-    enthusiasms: "Life, mid-Ceredigion"
-
     
 # About info
 about_info:
   enable: true
   item:
   - name: "Our structure"
-    content: "CLNP is part of the [Local Nature Partnership Cymru](https://lnp.cymru/) and hosted by [Ceredigion County Council](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/)."
+    content: "Ceredigion Nature Partnership is part of the [Local Nature Partnership Cymru](https://lnp.cymru/) and hosted by [Ceredigion County Council](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/)."
     
 # partneriaid
 partneriaid:
