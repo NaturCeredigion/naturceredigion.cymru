@@ -73,7 +73,7 @@ partneriaid:
 
 ## We are the Biodiversity Team&nbsp;at <strong>Ceredigion Nature Partnership</strong>
 
-Ceredigion Local Nature Partnership (CLNP) is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature
+The Ceredigion Nature Partnership is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature
 
 From Rhos pastures and ancient woodland to its rich coastline, Ceredigion has an amazing diversity of landscapes and wildlife; but they are precious, fragile, and under threat from a variety of environmental pressures.
 
