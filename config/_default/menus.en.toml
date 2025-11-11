@@ -93,8 +93,8 @@ url = "contact/"
 weight = 1
 
 [[footer]]
-name = "Policies"
-url = "policies/"
+name = "Code of Conduct"
+url = "conduct/"
 weight = 2
 
 [[footer]]
