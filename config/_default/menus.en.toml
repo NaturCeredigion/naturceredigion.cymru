@@ -39,13 +39,13 @@ weight = 1
 [[main]]
 parent = "News & Events"
 name = "Events Calendar"
-url = "/events/calendar/"
+url = "events/calendar/"
 weight = 2
 
 [[main]]
 parent = "News & Events"
 name = "Partnership Meetings"
-url = "/events/partnership-meetings/"
+url = "events/partnership-meetings/"
 weight = 3
 
 [[main]]
@@ -81,7 +81,7 @@ weight = 5
 [[main]]
 parent = "Funding"
 name = "Small Grant Scheme"
-url = "/funding/small-grant-scheme/"
+url = "funding/small-grant-scheme/"
 weight = 1
 
 
@@ -93,8 +93,18 @@ url = "contact/"
 weight = 1
 
 [[footer]]
-name = "Privacy Policy"
-url = "policies/"
+name = "Code of Conduct"
+url = "conduct/"
 weight = 2
+
+[[footer]]
+name = "Privacy"
+url = "privacy/"
+weight = 3
+
+[[footer]]
+name = "Licensing"
+url = "licensing/"
+weight = 4
 
 
