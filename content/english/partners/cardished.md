@@ -27,9 +27,3 @@ Wood carving tuition is available at CardiShed with our skilled volunteer Bob. P
 ## Contact
 
 Contact You can either phone or send us an email through the contact form below. Matt Hatter Project Co-ordinator info@cardished.cymru 0791 0517 514 Old Timber Yard Queens Terrace Cardigan SA43 1BY
-Cymraeg
-
-Elusen sy'n cael ei rhedeg gan wirfoddolwyr yng Ngorllewin Cymru yw CardiShed sy'n helpu i adeiladu cymuned wydn drwy greadigrwydd. Mae gennym siop peiriannau gwaith coed a gweithdy greenwood sy'n hygyrch i unrhyw un dros 18 oed.
-Events & Workshops
-
-Stained Glass Window Making More info Young People's Craft Project More info 
