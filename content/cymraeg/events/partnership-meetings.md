@@ -6,4 +6,4 @@ draft: false
 alias: "/cyfarfodydd-y-bartneriaeth/"
 ---
 
-Mae’r dudalen hon yn fwriadol wag
+Yn dod yn fuan...

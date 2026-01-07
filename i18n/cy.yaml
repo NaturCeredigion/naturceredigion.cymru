@@ -7,6 +7,12 @@
 - id: our_instagram
   translation: Ein Instagram
 
+- id: our_partners
+  translation: Ein partneriaid
+
+- id: all_partners
+  translation: Holl partneriaid
+
 - id: name
   translation: Eich enw
 

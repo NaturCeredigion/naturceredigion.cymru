@@ -7,6 +7,12 @@
 - id: our_instagram
   translation: Our Instagram
 
+- id: our_partners
+  translation: Our Partners
+
+- id: all_partners
+  translation: All Partners
+
 - id: name
   translation: Your Name
 

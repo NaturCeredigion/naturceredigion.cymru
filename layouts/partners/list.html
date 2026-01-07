@@ -3,7 +3,7 @@
 <section class="section">
   <div class="container">
     <div class="row">
-      <h1>Our Partners</h1>
+      <h1>{{ i18n `our_partners` }}</h1>
       <p class="lead mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
     </div>
     <div class="row">
@@ -12,7 +12,7 @@
           <div class="tools-filter-btn btn-group btn-group-toggle justify-content-center d-flex flex-column"
             data-bs-toggle="buttons">
             <label class="btn active mb-2 text-start">
-              <input type="radio" name="shuffle-filter" value="all" checked="checked" />All Partners
+              <input type="radio" name="shuffle-filter" value="all" checked="checked" />{{ i18n `all_partners` }}
             </label>
             {{ $categories := slice }}
             {{ range .Data.Pages }}
