@@ -15,3 +15,14 @@ Dyma ffurflen gyswllt Partneriaeth Natur Ceredigion neu gallwch anfon e-bost ato
 I roi gwybod am droseddau cefn gwlad, ffoniwch yr Heddlu ar [111](tel:+44111) neu defnyddiwch wefan [Heddlu Dyfed Powys](https://www.dyfed-powys.police.uk/cy-GB/riportio/riportio/ocr/af/riportio-trosedd/?&rid=&cid=&lid=&stepId=1).
 
 I roi gwybod am ddigwyddiadau natur, ffoniwch Cyfoeth Naturiol Cymru ar[0300 065 300](tel:~+44300065300) neu ewch i'w [wefan](https://naturalresources.wales/reportit?lang=cy).
+
+### Cyfryngau cymdeithasol
+
+Rydym ar y sianeli cyfryngau cymdeithasol canlynol, defnyddiwch yr hashnod **#NaturCeredigion**
+
+**Facebook**: [facebook.com/NaturCeredigion](https://facebook.com/NaturCeredigion)  
+**Pixelfed ar [the Fediverse](https://jointhefediverse.net/learn/?lang=en-us)**: [pixelfed.social/NaturCeredigion](https://pixelfed.social/NaturCeredigion)  
+**Twitter**: [x.com/NaturCeredigion](https://x.com/NaturCeredigion)  
+**Instagram**: [instagram.com/NaturCeredigion](https://instagram.com/NaturCeredigion)
+
+### Cysylltwch â ni
