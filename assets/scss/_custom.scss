@@ -23,7 +23,7 @@ p, .paragraph, li {
 }
 .nav-link {
   text-transform: none;
-  font-size: 1.2rem;
+  font-size: 1rem !important;
   &:hover {
     color: white !important;
   }
