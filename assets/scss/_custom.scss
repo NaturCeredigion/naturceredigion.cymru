@@ -182,6 +182,9 @@ h1.title {
 .featured-post-slider::before {
   height: 0;
 }
+.post-item img {
+  max-width: 100%;
+}
 
 .about--words {
   background-color: white;
