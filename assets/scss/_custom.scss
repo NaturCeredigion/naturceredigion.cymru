@@ -109,12 +109,6 @@ h1,h2,h3,h4,h5,h6 {
   margin-bottom:50px
 }
 
-// Do we need this? TODO
-@media (min-width: 991px) {
-  .navigation .dropdown-menu {
-    width: auto;
-  }
-}
 
 .navigation, .navigation.nav-bg {
   box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.05)
