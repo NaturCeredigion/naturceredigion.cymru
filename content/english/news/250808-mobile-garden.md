@@ -2,7 +2,7 @@
 title: "Mobile Wildlife Garden"
 date: 2025-08-08T17:47:19+01:00
 description: "Ideas for super easy to install wildlife garden, by John Little"
-image: "https://res.cloudinary.com/naturceredigion/image/upload/v1740140051/250216-john-little-mobile-pond.jpg"
+image: "https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1740140051/250216-john-little-mobile-pond.jpg"
 author: "Jake Rayson"
 draft: false
 featured: false
