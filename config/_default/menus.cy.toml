@@ -7,19 +7,19 @@ url = "" # don't use a slash for home url
 weight = 1
 
 [[main]]
-name = "Amdanom ni"
+name = "Amdanom"
 hasChildren = true
 url = ""
 weight = 2
 
 [[main]]
-parent = "Amdanom ni"
+parent = "Amdanom"
 name = "Amdanom ni"
 url = "about/"
 weight = 1
 
 [[main]]
-parent = "Amdanom ni"
+parent = "Amdanom"
 name = "Cysylltu â ni"
 url = "contact/"
 weight = 1
