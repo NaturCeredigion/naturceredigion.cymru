@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ with .Params.image }}
+<div class="section about-banner mb-5 overflow-hidden"
+         style="background-image:url('{{ . }}');
+         background-size:cover;
+         background-position:50%;
+         background-repeat:no-repeat;
+         height:40vh">
+</div>
+{{ end }}
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <div class="content">
+          <h1 class="mb-4">{{ $.Title }}</h1>
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

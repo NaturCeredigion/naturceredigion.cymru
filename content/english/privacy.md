@@ -1,9 +1,11 @@
 ---
 title: "Privacy Notice"
+layout: "page-with-image"
 description: "A privacy notice is a statement that describes how the Council collects, uses, retains and discloses personal information. Different organisations sometimes use different terms and it can be referred to as a privacy statement, a fair processing notice or a privacy policy."
-image: "https://res.cloudinary.com/growdigital/image/upload/w_640/f_auto/v1753896665/250613-cilgerran-dragonfly.webp"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1920/f_auto/v1753896665/250613-cilgerran-dragonfly.webp"
 draft: false
 ---
+
 The Ceredigion Local Nature Partnership is hosted by Ceredigion County Council. This means that our privacy policies are governed by the Council.
 
 A privacy notice is a statement that describes how the Council collects, uses, retains and discloses personal information. Different organisations sometimes use different terms and it can be referred to as a privacy statement, a fair processing notice or a privacy policy.

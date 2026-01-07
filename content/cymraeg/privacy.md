@@ -1,7 +1,8 @@
 ---
 title: "Hysbysiad Preifatrwydd"
+layout: "page-with-image"
 description: “Mae hysbysiad preifatrwydd yn ddatganiad sy’n disgrifio’r modd y mae’r Cyngor yn casglu gwybodaeth bersonol, ei defnyddio, ei chadw a’i datgelu. Defnyddir gwahanol dermau am hyn mewn gwahanol sefydliadau, ac mae rhai’n cyfeirio ato fel datganiad preifatrwydd, hysbysiad prosesu teg, neu bolisi preifatrwydd.”
-image: "https://res.cloudinary.com/growdigital/image/upload/w_640/f_auto/v1753896665/250613-cilgerran-dragonfly.webp"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1920/f_auto/v1753896665/250613-cilgerran-dragonfly.webp" 
 draft: false
 ---
 Mae Partneriaeth Natur Ceredigion yn cael ei lletya gan Gyngor Sir Ceredigion. Mae hyn yn golygu bod ein polisïau preifatrwydd yn cael eu llywodraethu gan y Cyngor.

@@ -1,7 +1,8 @@
 ---
 title: "Code of Conduct"
+layout: "page-with-image"
 description: "The Code of Conduct for Ceredigion Local Nature Partnership"
-image: "https://res.cloudinary.com/growdigital/image/upload/v1753896665/w_640/f_auto/250613-cilgerran-dragonfly.webp"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1753896665/w_1920/f_auto/250613-cilgerran-dragonfly.webp"
 draft: false
 ---
 

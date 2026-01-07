@@ -1,7 +1,8 @@
 ---
 title: "Trwyddedu"
+layout: "page-with-image"
 description: "Manylion hawlfraint a thrwyddedu Partneriaeth Natur Ceredigion"
-image: "https://res.cloudinary.com/growdigital/image/upload/w_640/f_auto/v1753896665/250613-cilgerran-dragonfly.webp"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1920/f_auto/v1753896665/250613-cilgerran-dragonfly.webp"
 draft: false
 ---
 
