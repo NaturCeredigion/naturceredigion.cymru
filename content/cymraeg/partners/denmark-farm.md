@@ -5,7 +5,7 @@ draft: false
 description: "Canolfan gadwraeth yn y Gorllewin sy’n darparu gwyliau ecogyfeillgar, maes gwersylla, llwybrau natur a chyrsiau"
 weight: 2
 categories: ["Elusen"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623545/denmark-farm.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1720623545/denmark-farm.png"
 partners_website_link: "https://www.denmarkfarm.org.uk/"
 partners_info:
 - title: "Prosiectau:"

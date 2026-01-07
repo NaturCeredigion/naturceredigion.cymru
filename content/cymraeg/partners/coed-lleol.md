@@ -5,13 +5,13 @@ draft: false
 description: "Rydym yn helpu i wella iechyd a llesiant pobl ledled Cymru drwy weithgareddau sy’n ymwneud â choetiroedd a natur."
 weight: 2
 categories: ["Elusen"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1722525826/coed-lleo.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1722525826/coed-lleo.png"
 partners_website_link: "https://www.smallwoods.org.uk/en/coedlleol/"
 partners_info:
 - title: "Safleoedd:"
   content: ""
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722534359/coed-lleol-team.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722534359/coed-lleol-team.jpg"
 ---
 
 Mae [Small Woods](https://www.smallwoods.org.uk/) yn elusen genedlaethol ac yn gwmni cyfyngedig drwy warant sy’n rhoi rhaglenni coetir ar waith yng Nghymru, Lloegr a’r Alban. Ffurfiwyd Small Woods yn 1988 yn gorff cenedlaethol ar gyfer coetiroedd bach. Cafwyd cryn lwyddiant o ran rheoli prosiectau Coedwigaeth Gymdeithasol, yn ogystal â phrosiectau i hyrwyddo gwaith rheoli coetiroedd bach mewn ffordd gynaliadwy er budd y gymdeithas, yr amgylchedd a’r economi.

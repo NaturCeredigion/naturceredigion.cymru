@@ -5,13 +5,13 @@ draft: false
 description: "Ceredigion County Council (Welsh: Cyngor Sir Ceredigion) is the governing body for the county of Ceredigion, since 1996 one of the unitary authorities of Wales. The council's main offices are in Aberaeron."
 weight: 1
 categories: ["Government"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623544/ceredigion-county-council.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1720623544/ceredigion-county-council.png"
 partners_website_link: "https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/"
 partners_info:
 - title: "Sites:"
   content: "Coed y Cwm, Pen Dinas & Tanybwlch, Parc Natur Penglais"
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721732647/ceredigion-council-coastal-walk-castell-bach.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721732647/ceredigion-council-coastal-walk-castell-bach.jpg"
 ---
 
 At Ceredigion County Council we are dedicated to managing Local Nature Reserves, marine areas and green spaces. We believe that conserving biodiversity is an integral component of sustainable development.

@@ -5,13 +5,13 @@ draft: false
 description: "Building a strong resilient community through creativity, with a carpentry and greenwood workshop accessible everyone over the age of 18."
 weight: 2
 categories: ["Charity"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1722525380/CAVO.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1722525380/CAVO.png"
 partners_website_link: "https://cardished.cymru/ "
 partners_info:
 - title: "Sites:"
   content: ""
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/v1766320053/251221-cardished-carving-workshop.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_640/v1766320053/251221-cardished-carving-workshop.jpg"
 ---
 
 ## Carpentry

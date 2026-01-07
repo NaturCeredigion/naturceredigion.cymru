@@ -5,7 +5,7 @@ draft: false
 description: "RSPB Cymru manages 18 reserves across the country, ranging from offshore islands to mountain tops, from wetlands to woodlands. "
 weight: 3
 categories: ["Charity"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623551/rspb.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1720623551/rspb.png"
 partners_website_link: "https://www.rspb.org.uk/wales"
 partners_info:
 - title: "Sites:"

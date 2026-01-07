@@ -5,13 +5,13 @@ draft: false
 description: "Cyngor Sir Ceredigion yw’r corff sy’n llywodraethu Ceredigion ac, ers 1996, mae’n un o awdurdodau unedol Cymru. Mae prif swyddfeydd y Cyngor yn Aberaeron."
 weight: 1
 categories: ["Llywodraeth"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623544/ceredigion-county-council.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1720623544/ceredigion-county-council.png"
 partners_website_link: "https://www.ceredigion.gov.uk/preswyliwr/yr-arfordir-a-chefn-gwlad/bywyd-gwyllt-a-chadwraeth/"
 partners_info:
 - title: "Safleoedd:"
   content: "Coed y Cwm, Pen Dinas a Thanybwlch, Parc Natur Penglais"
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721732647/ceredigion-council-coastal-walk-castell-bach.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721732647/ceredigion-council-coastal-walk-castell-bach.jpg"
 ---
 
 Mae Cyngor Sir Ceredigion wedi ymrwymo i reoli gwarchodfeydd natur lleol, ardaloedd morol a mannau gwyrdd. Rydym yn credu bod diogelu bioamrywiaeth yn rhan annatod o ddatblygu cynaliadwy.

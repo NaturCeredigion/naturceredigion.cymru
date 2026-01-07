@@ -5,13 +5,13 @@ draft: false
 description: "Llais y Goedwig was formed in 2008 by a collective of Community Woodland groups who realised that by working together their impact, potential to advocate for Community Woodland at all levels and  their ‘voice’ would be much greater"
 weight: 2
 categories: ["Charity"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1722526636/llais-y-goedwig.webp"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1722526636/llais-y-goedwig.webp"
 partners_website_link: "https://llaisygoedwig.org.uk/"
 partners_info:
 - title: "Sites:"
   content: ""
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722534148/llais-y-goedwig-axe.webp"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722534148/llais-y-goedwig-axe.webp"
 ---
 
 Llais y Goedwig literally translates as ‘voice of the woodlands’. We continue to be steered by a volunteer board made up of CWG members and supporters and continue to adhere to the original LlyG ethos of responding to the needs and direction of our members.

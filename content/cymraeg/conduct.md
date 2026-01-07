@@ -1,7 +1,7 @@
 ---
 title: "Cod Ymddygiad"
 description: "Cod Ymddygiad Partneriaeth Natur Ceredigion"
-image: "https://res.cloudinary.com/growdigital/image/upload/v1753896665/250613-cilgerran-dragonfly.webp"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_640/f_auto/v1753896665/250613-cilgerran-dragonfly.webp"
 draft: false
 ---
 

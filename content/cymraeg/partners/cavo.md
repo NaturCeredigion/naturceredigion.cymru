@@ -5,13 +5,13 @@ draft: false
 description: "Mae CAVO yn hyrwyddo, yn cefnogi ac yn grymuso gweithredu gwirfoddol yng nghymunedau Ceredigion."
 weight: 2
 categories: ["Elusen"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1722525380/CAVO.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1722525380/CAVO.png"
 partners_website_link: "https://cavo.org.uk/"
 partners_info:
 - title: "Safleoedd:"
   content: ""
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722525603/cavo-website.webp"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722525603/cavo-website.webp"
 ---
 
 Ers 1997, mae Tîm CAVO wedi hyrwyddo a chefnogi gwirfoddolwyr a gweithredu gwirfoddol yng nghymunedau Ceredigion – o gael hyd i’r rôl ddelfrydol ar gyfer gwirfoddolwyr i roi grantiau i brosiectau cymunedol, mae Tîm CAVO yma i helpu.

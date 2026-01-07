@@ -6,13 +6,13 @@ description: UK-wide charity dedicated to conserving butterflies, moths, and the
 weight: 2
 categories:
   - Charity
-thumbnail: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1722522351/butterfly-conservation.png
+thumbnail: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1722522351/butterfly-conservation.png
 partners_website_link: https://butterfly-conservation.org/in-your-area/wales-office
 partners_info:
   - title: "Projects:"
     content: High Brown Fritillary in Vale of Glamorgan, South Rhondda Marsh Fritillary Project, Forestry Partnership Project
 partners_images:
-  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722523415/butterfly-conservation-high-brown-fritillary-iain-h-leach.jpg
+  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722523415/butterfly-conservation-high-brown-fritillary-iain-h-leach.jpg
 relations:
   - "[[partner]]"
   - "[[wild-spaces]]"
