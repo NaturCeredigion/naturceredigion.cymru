@@ -28,6 +28,9 @@ p, .paragraph, li {
     color: white !important;
   }
 }
+.navbar-brand {
+  max-width:400px;
+}
 .search-box {
   min-width: 10rem;
 }
