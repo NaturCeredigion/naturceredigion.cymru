@@ -1,95 +1,75 @@
 ---
-title: "About (cymraeg version)"
+title: "Amdanom ni"
 layout: "about"
-image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720624188/rachel.jpg"
+image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/090211-Gliophorus-psittacinus-Chukchi-waxcap-portrait.webp"
 background_shape: "images/banner-shape.png"
 draft: false
 
-# My Experiences
+# Fy mhrofiadau
 my_experiences:
   enable: true
-  title: "Our team"
-  description: "Our team is committed to improving nature in Ceredigion, working with a range of dedicated partners and engaged members of the public"
+  title: "Ein tîm"
+  description: "Mae ein tîm wedi ymrwymo i wella natur yng Ngheredigion, gan gydweithio ag amrywiaeth o bartneriaid ymroddedig ac aelodau gweithgar o’r cyhoedd"
 
   experiences_item:
-    - title: "Alison Heal"
-      job_title: "Senior Ecologist"
-      enthusiasms: "Life"
+  - title: "Sarah Smyth"
+    job_title: "Uwch-ecolegydd Dros Dro"
+    enthusiasms: "Bywyd"
 
-    - title: "Rachel Auckland"
-      job_title: "Biodiversity Officer"
-      enthusiasms: "Life"
+  - title: "Gillian Clark"
+    job_title: "Swyddog Cymorth Gwasanaethau"
+    enthusiasms: "Bywyd"    
 
-    - title: "Gillian Clark"
-      job_title: "Service Support Officer"
-      enthusiasms: "Life"
+  - title: "Chris Harris"
+    job_title: "Cynorthwyydd Bioamrywiaeth"
+    enthusiasms: "Bywyd, canol Ceredigion"
 
-    - title: "Fiona Moran"
-      job_title: "Biodiversity Assistant"
-      enthusiasms: "Life, north Ceredigion"
+  - title: "Fiona Moran"
+    job_title: "Cynorthwyydd Bioamrywiaeth"
+    enthusiasms: "Bywyd, gogledd Ceredigion"
 
-    - title: "Jake Rayson"
-      job_title: "Biodiversity Assistant"
-      enthusiasms: "Glaswelltir Ceredigion Grassland group, wood meadows, forest gardens, south Ceredigion"
+  - title: "Jake Rayson"
+    job_title: "Cynorthwyydd Bioamrywiaeth"
+    enthusiasms: "Grŵp Glaswelltir Ceredigion, gweirgloddiau coetir, gerddi coedwig, de Ceredigion"
 
-    - title: "Chris Harris"
-      job_title: "Biodiversity Assistant"
-      enthusiasms: "Life, mid-Ceredigion"
-
-
-# About info
 about_info:
   enable: true
   item:
-    - name: "Our aims"
-      content: "At this time of climate and ecological emergency the Ceredigion Local Nature Partnership (LNP) aims to:
-    <li><b>Engage communities</b> and raise awareness of the vital benefits that a healthy natural environment brings to people and the economy.  </li>
-    <li>Steer the collective work of individuals, conservationists and business to <b>work in partnership</b> to protect, improve, create and connect Ceredigion’s natural landscape.</li>
-    <li><b>Collaborate</b> with the Public Service Board and support other public bodies to protect and enhance nature across the county.</li>
-    <li>Work to maintain, restore and create <b>habitats</b> that are thriving with wildlife including mammals, birds, reptiles, amphibians, fish, invertebrates, plants, fungi and more.</li>
-    <li>Ensure Ceredigion’s marine, intertidal, terrestrial and freshwater environments <b>retain and regain good health</b>.</li>
-    <li>Make sure consideration for the environment and incorporating nature recovery objectives are put right at the <b>heart of local decision-making</b>.</li>
-    "
-    - name: "Our structure"
-      content: "CLNP is part of the [Local Nature Partnership Cymru](https://lnp.cymru/) and hosted by [Ceredigion County Council](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/)."
+    - name: "Ein strwythur"
+      content: "Mae Partneriaeth Natur Ceredigion yn rhan o [Bartneriaethau Natur Lleol Cymru](https://lnp.cymru/) a letyir gan [Gyngor Sir Ceredigion](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/)."
 
 # partneriaid
 partneriaid:
   enable: true
-  title: "Proud to work with our partners"
+  title: "Yn falch o gydweithio â’n partneriaid"
   item:
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721050348/aberystwyth-university-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/ceredigion-county-council-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/denmark-farm-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/dwr-cymru-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/dyfi-biosphere-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721050349/national-trust-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051641/rspb-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/tir-canol-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/uwtsd-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/wildlife-trust-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/wwbic-square.png"
-    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051641/wwrt-square.png"
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721050348/aberystwyth-university-square.png" #1
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/ceredigion-county-council-square.png" #2
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/denmark-farm-square.png" #3
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/dwr-cymru-square.png" #4
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/dyfi-biosphere-square.png" #5
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721050349/national-trust-square.png" #6
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051641/rspb-square.png" #7
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051639/wildlife-trust-square.png" #8
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051640/wwbic-square.png" #9
+    - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_55/v1721051641/wwrt-square.png" #10
   link:
-    - "https://www.aber.ac.uk/en/"
-    - "https://ceredigion.gov.uk/"
-    - "https://www.denmarkfarm.org.uk/"
-    - "https://www.dwrcymru.com/"
-    - "https://www.dyfibiosphere.wales/"
-    - "https://www.nationaltrust.org.uk/visit/wales"
-    - "https://www.rspb.org.uk/wales"
-    - "https://www.uwtsd.ac.uk/"
-    - "https://www.uwtsd.ac.uk/?lang=en"
-    - "https://www.welshwildlife.org/"
-    - "https://wwbic.org.uk/"
-    - "https://westwalesriverstrust.org/"
+    - "https://www.aber.ac.uk/cy/" #1
+    - "https://ceredigion.gov.uk/" #2
+    - "https://www.denmarkfarm.org.uk/" #3
+    - "https://www.dwrcymru.com/" #4
+    - "https://www.biosfferdyfi.cymru/" #5
+    - "https://www.nationaltrust.org.uk/cy/visit/wales" #6
+    - "https://www.rspb.org.uk/cy-gb/wales" #7
+    - "https://www.welshwildlife.org/cy" #8
+    - "https://www.wwbic.org.uk/cy/" #9
+    - "https://westwalesriverstrust.org/cy/" #10
 ---
 
-## We are the Biodiversity Team&nbsp;at <strong>Ceredigion Nature Partnership</strong>
-<h3>(cymraeg version)</h3>
+## Tîm Bioamrywiaeth&nbsp; <strong>Partneriaeth Natur Ceredigion</strong> ydym ni
 
+Mae Partneriaeth Natur Ceredigion yn bartneriaeth gydweithredol strategol o asiantaethau cyhoeddus, sefydliadau gwirfoddol lleol, busnesau, grwpiau cymunedol ac unigolion sy’n cydweithio i ddiogelu natur ac i fynd ati mewn ffordd radical i’w chyfoethogi.
 
-Ceredigion Local Nature Partnership (CLNP) is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature
+O’i phorfeydd rhos a’i choetiroedd hynafol i’w harfordir cyfoethog, mae gan Geredigion amrywiaeth anhygoel o dirweddau a bywyd gwyllt; ond mae'r rhain yn werthfawr ac yn fregus, ac mae amrywiaeth o ffactorau amgylcheddol yn eu bygwth.
 
-From Rhos pastures and ancient woodland to its rich coastline, Ceredigion has an amazing diversity of landscapes and wildlife; but they are precious, fragile, and under threat from a variety of environmental pressures.
 

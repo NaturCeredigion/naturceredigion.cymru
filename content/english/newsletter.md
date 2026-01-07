@@ -10,4 +10,4 @@ layout: newsletter
 {{< newsletter-signup >}}
 <h2 class="mt-5">Archives</h2>
 
-List of archives here, with paging
+Coming soon...

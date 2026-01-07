@@ -1,9 +1,9 @@
 ---
-title: "Partnership meetings"
+title: "Cyfarfodydd y Bartneriaeth"
 description: ""
 image: "https://res.cloudinary.com/naturceredigion/image/upload/v1755272175/250717-mapping-penparcau-carol-claire-again-crop.jpg"
 draft: false
-alias: "/partnership-meetings/"
+alias: "/cyfarfodydd-y-bartneriaeth/"
 ---
 
-This page intentionally left blank
+Mae’r dudalen hon yn fwriadol wag
