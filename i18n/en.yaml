@@ -88,7 +88,7 @@
 - id: our_newsletter
   translation: Our Newsletter
 
-- id: lastest_news
+- id: latest_news
   translation: Latest News
 
 - id: subscribe
