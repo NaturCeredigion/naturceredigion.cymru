@@ -6,7 +6,7 @@
         <a href="{{ site.BaseURL | absLangURL }}" class="d-block mb-4">
           {{ partial "image.html" (dict "Src" (site.Params.footer_logo) "Alt" (site.Title)) }}
         </a>
-        <p>Ceredigion Nature Partnership is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature. <b>#NaturCeredigion</b></p>
+        <p>{{ i18n `cnp_desc` }} <b>#NaturCeredigion</b></p>
         <ul class="list-inline social-icon mb-0 mt-0">
           {{ range site.Params.social }}
           <li class="list-inline-item">
@@ -20,7 +20,7 @@
       <div class="col-lg-3 text-lg-start text-left
        mb-4 mb-lg-0">
         <div class="footer-news">
-          <h3 class="mb-3 text-light">Latest News</h3>
+          <h3 class="mb-3 text-light">{{ i18n `latest_news` }}</h3>
           <ul class=" mb-0">
             {{ range first 5 (where site.RegularPages "Section" "in" site.Params.mainSections) }}
             <li class="mb-1">

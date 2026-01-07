@@ -1,3 +1,6 @@
+- id: cnp_desc
+  translation: Mae Partneriaeth Natur Ceredigion yn bartneriaeth gydweithredol strategol o asiantaethau cyhoeddus, sefydliadau gwirfoddol lleol, busnesau, grwpiau cymunedol ac unigolion sy’n cydweithio i ddiogelu natur ac i fynd ati mewn ffordd radical i’w chyfoethogi.
+
 - id: search_placeholder
   translation: Chwilio…
 
@@ -80,10 +83,13 @@
   translation: Cofrestrwch i gael ein crynodeb misol o newyddion natur Ceredigion, ynghyd â phenawdau wythnosol! Gallwch hefyd ymuno â'n rhwydwaith adfer natur am ddim i'n helpu i fonitro a diogelu bywyd gwyllt ac i wella llesiant cymunedol.
 
 - id: newsletter_label
-  translation: Cofrestrwch i gael ein cylchlythyr
+  translation: Cofrestrwch i gael cylchlythyr Natur Ceredigion
 
 - id: our_newsletter
   translation: Ein cylchlythyr
+
+- id: lastest_news
+  translation: Newyddion Diweddaraf
 
 - id: subscribe
   translation: Tanysgrifiwch nawr
@@ -110,7 +116,7 @@
   translation: https://www.llyw.cymru/
 
 - id: alt_caru
-  translation: Logo Caru Ceredigion 
+  translation: Logo Caru Ceredigion
 
 - id: url_caru
   translation: https://www.ceredigion.gov.uk/preswyliwr/caru-ceredigion/
@@ -137,7 +143,7 @@
   translation: Cydweithio â'r Bwrdd Gwasanaethau Cyhoeddus a chynorthwyo cyrff cyhoeddus eraill i ddiogelu ac i warchod natur ledled y sir.
 
 - id: aims_4_title
-  translation: Cynnal, adfer a chreu cynefinoedd 
+  translation: Cynnal, adfer a chreu cynefinoedd
 - id: aims_4_text
   translation: Gweithio i gynnal, i adfer ac i greu cynefinoedd llawn bywyd gwyllt, gan gynnwys mamaliaid, adar, ymlusgiaid, amffibiaid, pysgod, anifeiliaid-di-asgwrn-cefn, planhigion, ffyngau a mwy.
 

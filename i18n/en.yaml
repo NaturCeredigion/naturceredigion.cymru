@@ -1,3 +1,6 @@
+- id: cnp_desc
+  translation: Ceredigion Nature Partnership is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature.
+
 - id: search_placeholder
   translation: Search…
 
@@ -80,10 +83,13 @@
   translation: Sign up for a monthly round-up of nature news in Ceredigion plus a weekly news flash! You can also join our nature recovery network for free, to help monitor and protect wildlife and improve community well-being.
 
 - id: newsletter_label
-  translation: Sign up to our newsletter
+  translation: Sign up to Natur Ceredigion newsletter
 
 - id: our_newsletter
   translation: Our Newsletter
+
+- id: lastest_news
+  translation: Latest News
 
 - id: subscribe
   translation: Subscribe Now
