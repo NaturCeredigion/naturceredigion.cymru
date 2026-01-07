@@ -85,9 +85,9 @@ mobile = "+447966312065"
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 author = "Partneriaeth Natur Ceredigion"
-description = "We embed nature recovery in everything we do "
+description = "Ceredigion Nature Partnership is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature."
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
+keywords = []
 
 # matomo tracking: see https://matomo.org/
 # [matomo]

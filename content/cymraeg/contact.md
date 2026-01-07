@@ -1,7 +1,7 @@
 ---
 title: "Cysylltu â ni"
 draft: false
-description : "Cysylltu â Phartneriaeth Natur Ceredigion"
+description : "Mae Tîm Bioamrywiaeth Partneriaeth Natur Ceredigion yn gyfrifol am iechyd cyffredinol bywyd gwyllt ac ecosystemau Ceredigion."
 image: "https://res.cloudinary.com/naturceredigion/image/upload/v1720624187/owlets-squareish.jpg"
 layout : contact
 ---

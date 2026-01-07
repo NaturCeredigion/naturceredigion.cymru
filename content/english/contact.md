@@ -1,7 +1,7 @@
 ---
 title: "Contact us"
 draft: false
-description : "Contact Ceredigion Nature Partnership"
+description : "The Biodiversity Team at Ceredigion Nature Partnership are responsible for the overall health of our wildlife and ecosystems in Ceredigion."
 image: "https://res.cloudinary.com/naturceredigion/image/upload/v1720624187/owlets-squareish.jpg"
 layout : contact
 ---

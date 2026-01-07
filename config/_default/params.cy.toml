@@ -15,9 +15,9 @@ image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 author = "Partneriaeth Natur Ceredigion"
-description = "Adfer natur sydd wrth wraidd popeth rydym ni'n ei wneud"
+description = "Mae Partneriaeth Natur Ceredigion yn bartneriaeth gydweithredol strategol o asiantaethau cyhoeddus, sefydliadau gwirfoddol lleol, busnesau, grwpiau cymunedol ac unigolion sy’n cydweithio i ddiogelu natur ac i fynd ati mewn ffordd radical i’w chyfoethogi."
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
+keywords = []
 
 # cookies
 [cookies]

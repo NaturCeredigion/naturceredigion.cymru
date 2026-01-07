@@ -1,4 +1,4 @@
 ---
-title: "Preview"
+title: "Partneriaeth Natur Ceredigion"
 layout: "preview"
 ---
