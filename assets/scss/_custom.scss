@@ -28,6 +28,9 @@ p, .paragraph, li {
     color: white !important;
   }
 }
+.navbar-nav li, .navbar-nav .dropdown-item {
+  font-size: 0.9rem !important;
+}
 .navbar-brand {
   max-width:400px;
 }
