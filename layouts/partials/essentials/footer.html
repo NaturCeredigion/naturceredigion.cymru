@@ -2,11 +2,11 @@
 <footer class="footer py-4 bg-dark">
   <div class="container">
     <div class="row justify-content-between align-items-top pt-5">
-      <div class="col-lg-5 text-center text-lg-start mb-4 mb-lg-0">
-        <a href="{{ site.BaseURL | absLangURL }}" class="d-block mb-4">
+      <div class="col-lg-12 col-xl-5 text-center text-lg-start mb-4 ">
+        <a href="{{ site.BaseURL | absLangURL }}" class="d-block mb-4" style="max-width: 500px">
           {{ partial "image.html" (dict "Src" (site.Params.footer_logo) "Alt" (site.Title)) }}
         </a>
-        <p>Ceredigion Nature Partnership is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature. <b>#NaturCeredigion</b></p>
+        <p>{{ i18n `cnp_desc` }} <b>#NaturCeredigion</b></p>
         <ul class="list-inline social-icon mb-0 mt-0">
           {{ range site.Params.social }}
           <li class="list-inline-item">
@@ -17,10 +17,10 @@
           {{ end }}
         </ul>
       </div>
-      <div class="col-lg-3 text-lg-start text-left
+      <div class="col-lg-6 col-xl-3 text-lg-start text-left
        mb-4 mb-lg-0">
         <div class="footer-news">
-          <h3 class="mb-3 text-light">Latest News</h3>
+          <h3 class="mb-3 text-light">{{ i18n `latest_news` }}</h3>
           <ul class=" mb-0">
             {{ range first 5 (where site.RegularPages "Section" "in" site.Params.mainSections) }}
             <li class="mb-1">
@@ -33,16 +33,16 @@
         </div>
         
       </div>
-      <div class="col-lg-3 text-lg-start text-left mb-4 mb-lg-0">
+      <div class="col-lg-6 col-xl-3 text-lg-start text-left mb-4 mb-lg-0">
         <h3 class="text-light">{{ i18n `our_newsletter` }}</h3>
         {{ i18n `newsletter_intro` }}
         {{ .Page.RenderString `{{< newsletter-signup >}}` }}
       </div>
     </div>
     <div class="text-center mt-4 align-items-center">
-      <a href="{{ i18n `url_caru` }}"><img class="footer-logos" src="https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720622380/caru-ceredigion.png" alt="{{ i18n `alt_caru` }}"></a>
-      <a href="{{ i18n `url_ceredigion` }}"><img class="footer-logos" style="filter:none;" src="https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720622381/ceredigion-council-wo.png" alt="{{ i18n `alt_ceredigion` }}"></a>
-      <a href="{{ i18n `url_funded_welsh_govt` }}"><img class="footer-logos" src="https://res.cloudinary.com/naturceredigion/image/upload/v1720622381/welshgov.svg" alt="{{ i18n `alt_funded_welsh_govt` }}"></a>
+      <a href="{{ i18n `url_caru` }}"><img class="footer-logos" src="https://res.cloudinary.com/naturceredigion/image/upload/w_200/v1720622380/caru-ceredigion.png" alt="{{ i18n `alt_caru` }}"></a>
+      <a href="{{ i18n `url_ceredigion` }}"><img class="footer-logos" style="filter:none;" src="https://res.cloudinary.com/naturceredigion/image/upload/w_200/v1720622381/ceredigion-council-wo.png" alt="{{ i18n `alt_ceredigion` }}"></a>
+      <a href="{{ i18n `url_funded_welsh_govt` }}"><img class="footer-logos" src="https://res.cloudinary.com/naturceredigion/image/upload/w_200/v1720622381/welshgov.svg" alt="{{ i18n `alt_funded_welsh_govt` }}"></a>
       <div class="text-center mb-4 mb-lg-0">
         <ul class="footer-nav list-inline mb-0">
           {{ $len := len site.Menus.footer }}

@@ -1,25 +1,25 @@
 ---
-title: "Dwr Cymru"
+title: "Dŵr Cymru"
 date: 2020-07-07T05:00:00Z
 draft: false
-description: "A not-for-profit company which supplies drinking water and wastewater services to most of Wales"
+description: "Cwmni nid er elw sy’n cyflenwi dŵr yfed a gwasanaethau dŵr gwastraff i’r rhan fwyaf o Gymru"
 weight: 1
-categories: ["Company"]
+categories: ["Cwmni"]
 thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623547/dwr-cymru.jpg"
 partners_website_link: "https://www.dwrcymru.com/"
 partners_info:
-- title: "Sites:"
-  content: "Llys-y-Frân, Pembrokeshire"
+- title: "Safleoedd:"
+  content: "Llys-y-frân, Sir Benfro"
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1720623561/dwr-cymru-valley.jpg"
 ---
-<h2>Dwr Cymru Cymraeg LANG PAGE TEST!</h2>
-<small><i>Photo copyright © Dwr Cymru, all rights reserved</i></small>
 
-Biodiversity and our wider ecosystem services face threats including habitat loss, fragmentation and over-exploitation. In the longer term, temperature and changed rainfall patterns will also impact biodiversity.
+<small><i>Hawlfraint y llun © Dŵr Cymru, cedwir pob hawl</i></small>
 
-We will look for ways to help nature, enhance biodiversity and promote ecosystem resilience, while we carry out our water and sewerage activities. Reliable drinking water sources are also dependent on healthy functioning ecosystems.
+Mae bioamrywiaeth a’n gwasanaethau ecosystemau ehangach yn wynebu bygythiadau sy'n cynnwys colli, chwalu a gor-ddefnyddio cynefinoedd. Yn y tymor hwy, bydd y tymheredd a'r newidiadau o ran patrymau glawiad yn effeithio ar fioamrywiaeth hefyd. 
 
-Welsh Water has a duty under the Environment (Wales) Act (2016) and in support of the Well-being of Future Generations Act to enhance biodiversity and promote the resilience of ecosystems in the exercise of our functions.
+Byddwn ni'n chwilio am ffyrdd o helpu byd natur, cyfoethogi bioamrywiaeth a hybu gwytnwch ecosystemau wrth gyflawni ein gweithgareddau dŵr a charthffosiaeth. Mae ffynonellau dŵr yfed hefyd yn dibynnu ar ecosystemau sy'n gweithredu'n iach.
 
-We are shifting our emphasis to proactive management of water in the wider environment rather than reactive treatment within our treatment works. By working closely with our partners and regulators, we aim to implement more nature-based solutions in our catchments. This includes activities such as management of habitats, or adapting farming practices to reduce or avoid risks to water quality, rather than building more steel & concrete structures.
+O dan Ddeddf yr Amgylchedd (Cymru) 2016 a Deddf Llesiant Cenedlaethau'r Dyfodol, mae dyletswydd ar Ddŵr Cymru i gyfoethogi bioamrywiaeth ac i hyrwyddo gwytnwch ecosystemau wrth inni gyflawni ein swyddogaethau. 
+
+Rydyn ni'n symud y pwyslais i reoli dŵr mewn ffordd ragweithiol yn yr amgylchedd ehangach yn hytrach na'i drin yn adweithiol yn ein gweithfeydd trin. Drwy gydweithio'n agos â'n partneriaid a'n rheoleiddwyr, ein nod yw rhoi atebion sy’n fwy seiliedig ar natur ar waith yn ein dalgylchoedd. Mae hyn yn cynnwys gweithgareddau fel rheoli cynefinoedd neu addasu arferion ffermio er mwyn lleihau neu osgoi risgiau i ansawdd dŵr, yn hytrach nag adeiladu mwy o strwythurau dur a choncrit.

@@ -1,114 +1,164 @@
+- id: cnp_desc
+  translation: Mae Partneriaeth Natur Ceredigion yn bartneriaeth gydweithredol strategol o asiantaethau cyhoeddus, sefydliadau gwirfoddol lleol, busnesau, grwpiau cymunedol ac unigolion sy’n cydweithio i ddiogelu natur ac i fynd ati mewn ffordd radical i’w chyfoethogi.
+
 - id: search_placeholder
-  translation: Tapez et entrez ...
+  translation: Chwilio…
 
 - id: our_instagram
-  translation: Notre Instagram
+  translation: Ein Instagram
+
+- id: our_partners
+  translation: Ein partneriaid
+
+- id: all_partners
+  translation: Holl partneriaid
 
 - id: name
-  translation: Votre Nom
+  translation: Eich enw
 
-- id: email 
-  translation: Adresse E-mail
+- id: email
+  translation: Cyfeiriad e-bost
 
 - id: subject
-  translation: Sujette
+  translation: Testun
 
 - id: message
-  translation: Votre Message Ici
+  translation: Eich neges yma
 
 - id: send_message
-  translation: Envoyer Maintenant
+  translation: Anfon y neges
 
 - id: search_result_for
-  translation: Résultats de recherche pour
+  translation: Canlyniadau chwilio ar gyfer
 
 - id: you_may_also_like
-  translation: Tu Pourrais Aussi Aimer
+  translation: Efallai y byddwch hefyd yn hoffi
 
 - id: most_recent_post
-  translation: Notre Article le plus récent
+  translation: Ein postiadau diweddaraf
 
 - id: written_by
-  translation: Écrit par
+  translation: Ysgrifennwyd gan
 
 - id: read_more
-  translation: Lire la suite
+  translation: Darllen mwy
 
 - id: read_article
-  translation: Lire l'article
+  translation: Darllen yr erthygl
 
 - id: showing_posts_from
-  translation: Affichage des messages de
+  translation: Dangos postiadau o
 
 - id: home
-  translation: Maison
+  translation: Hafan
 
 - id: search
-  translation: Chercher
+  translation: Chwilio
 
 - id: categories
-  translation: Catégories
+  translation: Categorïau
 
 - id: tags
-  translation: Mots Clés
+  translation: Tagiau
 
 - id: social
-  translation: Sociale
+  translation: Cyfryngau cymdeithasol
 
 - id: copyright-text
-  translation: Conçu et Développé Par
+  translation: Dyluniwyd a datblygwyd gan
 
 - id: popular_categories
-  translation: Ein Heffaith
+  translation: Categorïau poblogaidd
 
 - id: our_aims
-  translation: Our aims
+  translation: Ein nodau
 
 - id: about_me
-  translation: À propos de moi
+  translation: Amdanaf i
 
 - id: featured_post
-  translation: Après Sélectionnée
+  translation: Postiadau nodedig
 
 - id: recent_post
-  translation: Recent Post
+  translation: Postiad diweddar
 
 - id: subscribe_newsletter
-  translation: Ne Manquez Jamais Une Nouvelle
+  translation: Tanysgrifio
+
+- id: newsletter_intro
+  translation: Cofrestrwch i gael ein crynodeb misol o newyddion natur Ceredigion, ynghyd â phenawdau wythnosol! Gallwch hefyd ymuno â'n rhwydwaith adfer natur am ddim i'n helpu i fonitro a diogelu bywyd gwyllt ac i wella llesiant cymunedol.
+
+- id: newsletter_label
+  translation: Cofrestrwch i gael cylchlythyr Natur Ceredigion
+
+- id: our_newsletter
+  translation: Ein cylchlythyr
+
+- id: latest_news
+  translation: Newyddion Diweddaraf
 
 - id: subscribe
-  translation: Abonnez-vous maintenant
+  translation: Tanysgrifiwch nawr
 
 - id: job_title
-  translation: Réquisition
+  translation: Teitl swydd
 
 - id: enthusiasms
-  translation: Période de temps
+  translation: Diddordebau
 
 - id: visit_website
-  translation: Visitez le site Web
+  translation: Mynd i'r wefan
 
 - id: added
-  translation: Ajoutée
+  translation: Wedi'i ychwanegu
 
 - id: post_related_to
-  translation: Des postes liés à
+  translation: Postiadau sy'n ymwneud â
 
 - id: alt_funded_welsh_govt
-  translation: Funded by Welsh government logo
+  translation: Logo wedi ei ariannu gan Lywodraeth Cymru
 
 - id: url_funded_welsh_govt
   translation: https://www.llyw.cymru/
 
 - id: alt_caru
-  translation: Caru Ceredigion logo
+  translation: Logo Caru Ceredigion
 
 - id: url_caru
   translation: https://www.ceredigion.gov.uk/preswyliwr/caru-ceredigion/
 
 - id: alt_ceredigion
-  translation: Cyngor Sir Ceredigion logo
+  translation: Logo Cyngor Sir Ceredigion
 
 - id: url_ceredigion
   translation: https://www.ceredigion.gov.uk/preswyliwr/
 
+- id: aims_1_title
+  translation: Ennyn diddordeb cymunedau a chodi ymwybyddiaeth o fanteision amgylchedd naturiol iach.
+- id: aims_1_text
+  translation: Ennyn diddordeb cymunedau a chodi ymwybyddiaeth o fanteision hanfodol amgylchedd naturiol iach i bobl ac i'r economi.
+
+- id: aims_2_title
+  translation: Gweithio mewn partneriaeth ag unigolion, cadwraethwyr a busnesau
+- id: aims_2_text
+  translation: Llywio gwaith cydweithredol unigolion, cadwraethwyr a busnesau er mwyn gweithio mewn partneriaeth i ddiogelu, gwella, creu a chysylltu tirwedd naturiol Ceredigion.
+
+- id: aims_3_title
+  translation: Cydweithio â'r Bwrdd Gwasanaethau Cyhoeddus
+- id: aims_3_text
+  translation: Cydweithio â'r Bwrdd Gwasanaethau Cyhoeddus a chynorthwyo cyrff cyhoeddus eraill i ddiogelu ac i warchod natur ledled y sir.
+
+- id: aims_4_title
+  translation: Cynnal, adfer a chreu cynefinoedd
+- id: aims_4_text
+  translation: Gweithio i gynnal, i adfer ac i greu cynefinoedd llawn bywyd gwyllt, gan gynnwys mamaliaid, adar, ymlusgiaid, amffibiaid, pysgod, anifeiliaid-di-asgwrn-cefn, planhigion, ffyngau a mwy.
+
+- id: aims_5_title
+  translation: Diogelu amgylcheddau morol, rhynglanw, tir a dŵr croyw Ceredigion.
+- id: aims_5_text
+  translation: Cynnal ac adfer iechyd amgylcheddau morol, rhynglanw, tir a dŵr croyw Ceredigion.
+
+- id: aims_6_title
+  translation: Sicrhau bod adfer natur wrth galon prosesau penderfynu lleol
+- id: aims_6_text
+  translation: Sicrhau bod ystyried yr amgylchedd ac ymgorffori amcanion adfer natur wrth galon prosesau penderfynu lleol.

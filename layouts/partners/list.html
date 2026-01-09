@@ -3,7 +3,7 @@
 <section class="section">
   <div class="container">
     <div class="row">
-      <h1>Our Partners</h1>
+      <h1>{{ i18n `our_partners` }}</h1>
       <p class="lead mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
     </div>
     <div class="row">
@@ -12,7 +12,7 @@
           <div class="tools-filter-btn btn-group btn-group-toggle justify-content-center d-flex flex-column"
             data-bs-toggle="buttons">
             <label class="btn active mb-2 text-start">
-              <input type="radio" name="shuffle-filter" value="all" checked="checked" />All Partners
+              <input type="radio" name="shuffle-filter" value="all" checked="checked" />{{ i18n `all_partners` }}
             </label>
             {{ $categories := slice }}
             {{ range .Data.Pages }}
@@ -33,7 +33,7 @@
           {{ range .Data.Pages }}
           <div class="col-12 mb-4 pb-2 shuffle-item"
                data-groups="[{{range $index, $element:= .Params.categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
-            <div class="card border-0 shadow-sm flex-row align-items-center p-2">
+            <div class="card border-0 shadow-sm flex-column flex-md-row align-items-center p-2">
               <a href="{{ .Permalink }}" style="flex-shrink: 0; width: 200px;">
                 {{ partial "image.html" (dict "Src" .Params.thumbnail "Alt" "thumbnail-image" "Class" `img-fluid rounded`) }}
               </a>

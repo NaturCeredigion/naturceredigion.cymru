@@ -1,6 +1,6 @@
 ---
-title: "Search Result"
-description : "this is meta description"
+title: "Canlyniad chwilio"
+description : ""
 layout: "search"
 draft: false
 ---

@@ -2,85 +2,85 @@
 
 # Main menu
 [[main]]
-name = "HomeCy"
+name = "Hafan"
 url = "" # don't use a slash for home url
 weight = 1
 
 [[main]]
-name = "About"
+name = "Amdanom"
 hasChildren = true
 url = ""
 weight = 2
 
 [[main]]
-parent = "About"
-name = "About Us"
+parent = "Amdanom"
+name = "Amdanom ni"
 url = "about/"
 weight = 1
 
 [[main]]
-parent = "About"
-name = "Contact Us"
+parent = "Amdanom"
+name = "Cysylltu â ni"
 url = "contact/"
 weight = 1
 
 [[main]]
-name = "News & Events"
+name = "Newyddion a digwyddiadau"
 hasChildren = true
 url = ""
 weight = 3
 
 [[main]]
-parent = "News & Events"
-name = "Latest News"
+parent = "Newyddion a digwyddiadau"
+name = "Y newyddion diweddaraf"
 url = "news/"
 weight = 1
 
 [[main]]
-parent = "News & Events"
-name = "Events Calendar"
+parent = "Newyddion a digwyddiadau"
+name = "Calendr digwyddiadau"
 url = "/events/calendar/"
 weight = 2
 
 [[main]]
-parent = "News & Events"
-name = "Partnership Meetings"
+parent = "Newyddion a digwyddiadau"
+name = "Cyfarfodydd y Bartneriaeth"
 url = "/events/partnership-meetings/"
 weight = 3
 
 [[main]]
-parent = "News & Events"
-name = "Our Newsletter"
+parent = "Newyddion a digwyddiadau"
+name = "Ein cylchlythyr"
 url = "newsletter/"
 weight = 4
 
 [[main]]
-name = "Partners"
+name = "Partneriaid"
 hasChildren = true
 url = ""
 weight = 4
 
 [[main]]
-parent = "Partners"
-name = "Our Partners"
+parent = "Partneriaid"
+name = "Ein partneriaid"
 url = "partners/"
 weight = 1
 
 [[main]]
-parent = "Partners"
-name = "Partner Map"
+parent = "Partneriaid"
+name = "Map o'r partneriaid"
 url = "map/"
 weight = 1
 
 [[main]]
-name = "Funding"
+name = "Cyllid"
 hasChildren = true
 url = "funding/"
 weight = 5
 
 [[main]]
-parent = "Funding"
-name = "Small Grant Scheme"
+parent = "Cyllid"
+name = "Cynllun Grantiau Bach"
 url = "/funding/small-grant-scheme/"
 weight = 1
 
@@ -88,6 +88,21 @@ weight = 1
 # Footer Menu
 
 [[footer]]
-name = "Privacy Policy"
-url = "policies/"
-weight = 5
+name = "Cysylltu â ni"
+url = "contact/"
+weight = 1
+
+[[footer]]
+name = "Cod Ymddygiad"
+url = "conduct/"
+weight = 2
+
+[[footer]]
+name = "Preifatrwydd"
+url = "privacy/"
+weight = 3
+
+[[footer]]
+name = "Trwyddedu"
+url = "licensing/"
+weight = 4

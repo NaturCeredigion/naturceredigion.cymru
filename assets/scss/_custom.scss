@@ -23,10 +23,16 @@ p, .paragraph, li {
 }
 .nav-link {
   text-transform: none;
-  font-size: 1.2rem;
+  font-size: 1rem !important;
   &:hover {
     color: white !important;
   }
+}
+.navbar-nav li, .navbar-nav .dropdown-item {
+  font-size: 0.9rem !important;
+}
+.navbar-brand {
+  max-width:400px;
 }
 .search-box {
   min-width: 10rem;
@@ -103,12 +109,6 @@ h1,h2,h3,h4,h5,h6 {
   margin-bottom:50px
 }
 
-// Do we need this? TODO
-@media (min-width: 991px) {
-  .navigation .dropdown-menu {
-    width: auto;
-  }
-}
 
 .navigation, .navigation.nav-bg {
   box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.05)
@@ -181,6 +181,9 @@ h1.title {
 
 .featured-post-slider::before {
   height: 0;
+}
+.post-item img {
+  max-width: 100%;
 }
 
 .about--words {

@@ -5,13 +5,13 @@ draft: false
 description: "Conservation centre with eco-friendly holidays, campsite, nature trails & courses in West Wales"
 weight: 2
 categories: ["Charity"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623545/denmark-farm.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1720623545/denmark-farm.png"
 partners_website_link: "https://www.denmarkfarm.org.uk/"
 partners_info:
 - title: "Projects:"
   content: "Green Match Fund, My Tree Our Forest, Celebrating our 30th Anniversary, Water Sustainability"
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721736351/bog-field-denmark-farm.webp"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721736351/bog-field-denmark-farm.webp"
 ---
 
 At Denmark Farm Conservation Centre, we aim to highlight the relationships between people and nature, exploring the value and diversity of life and landscapes.

@@ -5,13 +5,13 @@ draft: false
 description: "We are a leading UK charity conducting conservation science to enhance the British countryside for public benefit. "
 weight: 2
 categories: ["Charity"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_482/v1722526446/gwct.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_482/v1722526446/gwct.png"
 partners_website_link: "https://www.gwct.org.uk/"
 partners_info:
 - title: "Sites:"
   content: ""
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722535605/gwct-game-cover-wwwlauriecampbellcom.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722535605/gwct-game-cover-wwwlauriecampbellcom.jpg"
 ---
 
 **We aim for a thriving countryside rich in game and other wildlife**

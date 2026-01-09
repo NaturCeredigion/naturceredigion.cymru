@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h3 class="mt-4 mb-4">Our Aims</h3>
+        <h3 class="mt-4 mb-4">{{ i18n `our_aims` }}</h3>
         <ul  class="mb-5 fa-ul">
           {{ range $i, $v := seq 1 7 }}
           {{ $title := i18n (printf "aims_%d_title" $i) }}

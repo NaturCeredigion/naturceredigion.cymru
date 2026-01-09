@@ -6,13 +6,13 @@ description: "Aberystwyth University (Welsh: Prifysgol Aberystwyth) is a public 
 weight: 2
 categories:
   - Education
-thumbnail: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623543/aberystwyth-university.png
+thumbnail: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1720623543/aberystwyth-university.png
 partners_website_link: https://www.aber.ac.uk/en/
 partners_info:
   - title: "Sites:"
     content: Penglais Campus, Gogerddan Campus, Llanbadarn Campus, School of Art, Plas Woods, Pwll Crwn Woods, Gogerddan Woods
 partners_images:
-  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721735840/about-aberystwyth-university.webp
+  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721735840/about-aberystwyth-university.webp
 relations:
   - "[[partner]]"
   - "[[penglais-campus]]"

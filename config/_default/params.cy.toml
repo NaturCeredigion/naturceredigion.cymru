@@ -1,0 +1,27 @@
+#################### default parameters ################################
+
+# copyright
+copyright = "Hawlfraint © Partneriaeth Natur Ceredigion o dan drwydded <a href='https://creativecommons.org/'><b>Creative Commons</b></a>.<br>Lluniau wedi'u trwyddedu o dan drwydded <a href='https://creativecommons.org/licenses/by-sa/4.0/'><b>CC BY-SA 4.0</b></a>, geiriau wedi'u trwyddedu o dan drwydded <a href='https://creativecommons.org/licenses/by-nd/4.0/'><b>CC BY-ND 4.0</b></a>, <em>oni nodir fel arall</em>. Ysgyfarnog ar laswelltir © <a href='https://www.flickr.com/photos/18805800@N05/'><b>Shane Jones</b></a>. Gweirlöyn y glaw <a href='https://creativecommons.org/licenses/by/4.0/'><b>CC BY 4.0</b></a> © <a href='https://adriancolston.wordpress.com/2015/07/03/the-brown-butterflies-how-to-identify/'><b>Adrian Colston</b></a>."
+theme_copyright = true
+
+# Banner
+[banner]
+# was bg_image
+background = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618622/hare-grassland-background.jpg"
+title = "Partneriaeth Natur Ceredigion <br><small><i>Cydweithio i adfer natur</i></small>"
+image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618980/butterfly-ringlet.png"
+
+
+# seo meta data for OpenGraph / Twitter Card
+[metadata]
+author = "Partneriaeth Natur Ceredigion"
+description = "Mae Partneriaeth Natur Ceredigion yn bartneriaeth gydweithredol strategol o asiantaethau cyhoeddus, sefydliadau gwirfoddol lleol, busnesau, grwpiau cymunedol ac unigolion sy’n cydweithio i ddiogelu natur ac i fynd ati mewn ffordd radical i’w chyfoethogi."
+image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
+keywords = []
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+button = "Rwy'n derbyn"
+content = "Mae'r wefan hon yn defnyddio cwcis. Drwy barhau i ddefnyddio'r wefan hon, rydych chi'n cytuno iddynt gael eu defnyddio."

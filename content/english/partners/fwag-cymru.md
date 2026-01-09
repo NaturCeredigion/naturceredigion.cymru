@@ -5,7 +5,7 @@ draft: false
 description: "Environmental conservation organisation providing, advice and guidance, soil testing, organic advice and management plans"
 weight: 2
 categories: ["Charity"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1722526195/fwag.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1722526195/fwag.png"
 partners_website_link: "https://www.facebook.com/FWAGCymru"
 partners_info:
 - title: "Sites:"

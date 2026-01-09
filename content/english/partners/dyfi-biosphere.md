@@ -5,13 +5,13 @@ draft: false
 description: "The UNESCO Dyfi Biosphere inspires people and organisations to work together in creating sustainable futures we can all be proud of"
 weight: 2
 categories: ["Partnership"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623548/dyfi-biosphere.png"
+thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1720623548/dyfi-biosphere.png"
 partners_website_link: "https://www.dyfibiosphere.wales/"
 partners_info:
 - title: "Sites:"
   content: "Cors Fochno, Coed Cwm Einion, Pen Llŷn a’r Sarnau"
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721736803/dyfi-biosphere-view-trees.jpg"
+- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721736803/dyfi-biosphere-view-trees.jpg"
 ---
 
 ## Principles of Dyfi Biosphere
