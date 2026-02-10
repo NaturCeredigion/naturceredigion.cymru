@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/licensing.md",
+                "file": "english/partners/aberystwyth-university.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "licensing"
+              "title": "aberystwyth-university"
             }
           }
         ]
@@ -172,11 +172,15 @@
   },
   "active": "9e53bbacbaa91adf",
   "lastOpenFiles": [
+    "english/partners/projects/_index.md",
+    "english/partners/projects/resilient-grassland.md",
+    "english/partners/projects/wild-spaces.md",
+    "english/docs/branding.md",
     "english/docs/_index.md",
+    "english/licensing.md",
     "Untitled.base",
     "Untitled 1.base",
     "english/partners/butterfly-conservation.md",
-    "english/licensing.md",
     "cymraeg/privacy.md",
     "cymraeg/partners/wwwbic.md",
     "cymraeg/partners/wwrt.md",
@@ -196,9 +200,6 @@
     "cymraeg/partners/bwyd-ceredigion.md",
     "cymraeg/partners/butterfly-conservation.md",
     "cymraeg/partners/aberystwyth-university.md",
-    "cymraeg/partners/_index.md",
-    "cymraeg/newsletter.md",
-    "cymraeg/news/251221-your-wild-patch.md",
     "cymraeg/news",
     "cymraeg/funding",
     "cymraeg/events",

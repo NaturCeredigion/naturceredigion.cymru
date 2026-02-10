@@ -1,6 +1,6 @@
 ---
 title: Documentation
-draft: false
+draft: true
 description: Documentation for website and newsletter
 ---
 ## Newsletter

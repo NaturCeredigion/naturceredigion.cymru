@@ -20,6 +20,10 @@ my_experiences:
     job_title: "Service Support Officer"
     enthusiasms: "Life"
     
+  - title: "Norman Birch"
+    job_title: "Tree Officer"
+    enthusiasms: "Life"
+    
   - title: "Chris Harris"
     job_title: "Biodiversity Assistant"
     enthusiasms: "Life, mid-Ceredigion"
