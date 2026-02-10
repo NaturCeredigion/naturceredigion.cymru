@@ -25,16 +25,16 @@ my_experiences:
     enthusiasms: "Life"
     
   - title: "Chris Harris"
-    job_title: "Biodiversity Assistant"
-    enthusiasms: "Life, mid-Ceredigion"
+    job_title: "Biodiversity Assistant, Reserves Manager"
+    enthusiasms: "Mid/north-Ceredigion"
 
   - title: "Fiona Moran"
     job_title: "Biodiversity Assistant"
-    enthusiasms: "Life, north Ceredigion"
+    enthusiasms: "North Ceredigion. Life."
 
   - title: "Jake Rayson"
     job_title: "Biodiversity Assistant"
-    enthusiasms: "Glaswelltir Ceredigion Grassland group, wood meadows, forest gardens, south Ceredigion"
+    enthusiasms: "South Ceredigion. Wood meadows, forest gardens, wildlife habitat."
     
 # About info
 about_info:
