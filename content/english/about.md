@@ -18,7 +18,7 @@ my_experiences:
 
   - title: "Gillian Clark"
     job_title: "Service Support Officer"
-    enthusiasms: "Life"
+    enthusiasms: "West Ceredigion. Oceans and seas. Seals. Reptiles… Heavy Metal 🤘."
     
   - title: "Norman Birch"
     job_title: "Tree Officer"
@@ -34,7 +34,7 @@ my_experiences:
 
   - title: "Jake Rayson"
     job_title: "Biodiversity Assistant"
-    enthusiasms: "South Ceredigion. Wood meadows, forest gardens, wildlife habitat."
+    enthusiasms: "South Ceredigion. Wood meadows, forest gardens, native plants, Open Source Software 🤓."
     
 # About info
 about_info:
