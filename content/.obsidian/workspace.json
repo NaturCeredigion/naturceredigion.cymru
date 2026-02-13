@@ -11,14 +11,10 @@
             "id": "9e53bbacbaa91adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english/projects/log-it-bin-it.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "log-it-bin-it"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -172,8 +168,12 @@
   },
   "active": "9e53bbacbaa91adf",
   "lastOpenFiles": [
-    "english/projects/_index.md",
+    "english/privacy.md",
+    "partner.md",
+    "english/partners/teifi-nutrient-management-board.md",
+    "english/partners/the-flower-meadow.md",
     "english/projects/log-it-bin-it.md",
+    "english/projects/_index.md",
     "english/partners/aberystwyth-university.md",
     "english/projects/resilient-grassland.md",
     "english/projects/wild-spaces.md",
@@ -196,10 +196,6 @@
     "cymraeg/partners/fwag-cymru.md",
     "cymraeg/partners/dyfi-biosphere.md",
     "cymraeg/partners/denmark-farm.md",
-    "cymraeg/partners/coed-lleol.md",
-    "cymraeg/partners/ceredigion-county-council.md",
-    "cymraeg/partners/cavo.md",
-    "cymraeg/partners/bwyd-ceredigion.md",
     "cymraeg/news",
     "cymraeg/funding",
     "cymraeg/events",

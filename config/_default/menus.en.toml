@@ -25,31 +25,31 @@ url = "contact/"
 weight = 1
 
 [[main]]
-name = "News & Events"
+name = "Latest"
 hasChildren = true
 url = ""
 weight = 3
 
 [[main]]
-parent = "News & Events"
-name = "Latest News"
+parent = "Latest"
+name = "News"
 url = "news/"
 weight = 1
 
 [[main]]
-parent = "News & Events"
+parent = "Latest"
 name = "Events Calendar"
 url = "events/calendar/"
 weight = 2
 
 [[main]]
-parent = "News & Events"
+parent = "Latest"
 name = "Partnership Meetings"
 url = "events/partnership-meetings/"
 weight = 3
 
 [[main]]
-parent = "News & Events"
+parent = "Latest"
 name = "Our Newsletter"
 url = "newsletter/"
 weight = 4
@@ -64,6 +64,12 @@ weight = 4
 parent = "Partners"
 name = "Our Partners"
 url = "partners/"
+weight = 1
+
+[[main]]
+parent = "Partners"
+name = "Partner Projects"
+url = "projects/"
 weight = 1
 
 [[main]]
