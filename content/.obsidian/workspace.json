@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/projects/_index.md",
+                "file": "english/projects/log-it-bin-it.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "log-it-bin-it"
             }
           }
         ]
@@ -170,10 +170,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b09e5c6d035385e7",
+  "active": "9e53bbacbaa91adf",
   "lastOpenFiles": [
-    "english/partners/aberystwyth-university.md",
     "english/projects/_index.md",
+    "english/projects/log-it-bin-it.md",
+    "english/partners/aberystwyth-university.md",
     "english/projects/resilient-grassland.md",
     "english/projects/wild-spaces.md",
     "english/docs/branding.md",
@@ -199,7 +200,6 @@
     "cymraeg/partners/ceredigion-county-council.md",
     "cymraeg/partners/cavo.md",
     "cymraeg/partners/bwyd-ceredigion.md",
-    "cymraeg/partners/butterfly-conservation.md",
     "cymraeg/news",
     "cymraeg/funding",
     "cymraeg/events",
