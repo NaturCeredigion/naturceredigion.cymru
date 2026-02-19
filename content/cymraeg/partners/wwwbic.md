@@ -13,7 +13,6 @@ partners_info:
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721751874/wwbic-Ramalina-fraxinea-Tremella-ramalinae.jpg"
 ---
-
 Mae Canolfan Gwybodaeth Bioamrywiaeth Gorllewin Cymru yn un o bedair Canolfan Gofnodi Leol ac mae'n cwmpasu siroedd Sir Benfro, Ceredigion a Sir Gaerfyrddin (ac eithrio Parc Cenedlaethol Bannau Brycheiniog).
 
 Prif swyddogaeth y cwmni yw casglu, coladu a dosbarthu gwybodaeth am fioamrywiaeth ar gyfer y rhanbarth. Gan reoli cronfa ddata sy’n cynnwys mwy na 4 miliwn o rywogaethau ac sy’n dal i dyfu, ynghyd â chasgliad o wybodaeth am gynefinoedd a safleoedd a warchodir, rydym yn ymateb i geisiadau am ddata gan ein partneriaid, gan gynnwys awdurdodau lleol, cyrff y llywodraeth ac ymgynghorwyr preifat. Rydym hefyd yn cynnal prosiectau amrywiol ac yn cydweithio’n agos â’r gymuned gofnodi.

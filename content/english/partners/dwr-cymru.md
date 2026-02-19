@@ -1,19 +1,19 @@
 ---
-title: "Welsh Water"
+title: Welsh Water
 date: 2020-07-07T05:00:00Z
-draft: false
-description: "A not-for-profit company which supplies drinking water and wastewater services to most of Wales"
+draft: true
+description: A not-for-profit company which supplies drinking water and wastewater services to most of Wales
 weight: 1
-categories: ["Company"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1720623547/dwr-cymru.jpg"
-partners_website_link: "https://www.dwrcymru.com/"
+categories:
+  - Company
+thumbnail: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1720623547/dwr-cymru.jpg
+partners_website_link: https://www.dwrcymru.com/
 partners_info:
-- title: "Sites:"
-  content: "Llys-y-Frân, Pembrokeshire"
+  - title: "Sites:"
+    content: Llys-y-Frân, Pembrokeshire
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1720623561/dwr-cymru-valley.jpg"
+  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1720623561/dwr-cymru-valley.jpg
 ---
-
 <small><i>Photo copyright © Dwr Cymru, all rights reserved</i></small>
 
 Biodiversity and our wider ecosystem services face threats including habitat loss, fragmentation and over-exploitation. In the longer term, temperature and changed rainfall patterns will also impact biodiversity.

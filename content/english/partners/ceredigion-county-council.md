@@ -13,11 +13,9 @@ partners_info:
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721732647/ceredigion-council-coastal-walk-castell-bach.jpg"
 ---
-
 At Ceredigion County Council we are dedicated to managing Local Nature Reserves, marine areas and green spaces. We believe that conserving biodiversity is an integral component of sustainable development.
 
 We work in partnership with other environmental organisations and the community to protect Ceredigion’s wildlife sites, habitats and species.
-
 * [Local Nature Reserves & Wildlife Sites](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/local-nature-reserves-and-wildlife-sites-new/)
 * [Marine SACs & Heritage Coast](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/marine-sacs-and-heritage-coast-new/)
 * [Trees, Hedgerows & Woodlands](https://www.ceredigion.gov.uk/resident/coast-countryside/conservation-and-wildlife-new/trees-hedgerows-and-woodlands-new/)

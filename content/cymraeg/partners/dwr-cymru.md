@@ -1,19 +1,19 @@
 ---
-title: "Dŵr Cymru"
+title: Dŵr Cymru
 date: 2020-07-07T05:00:00Z
-draft: false
-description: "Cwmni nid er elw sy’n cyflenwi dŵr yfed a gwasanaethau dŵr gwastraff i’r rhan fwyaf o Gymru"
+draft: true
+description: Cwmni nid er elw sy’n cyflenwi dŵr yfed a gwasanaethau dŵr gwastraff i’r rhan fwyaf o Gymru
 weight: 1
-categories: ["Cwmni"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623547/dwr-cymru.jpg"
-partners_website_link: "https://www.dwrcymru.com/"
+categories:
+  - Cwmni
+thumbnail: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623547/dwr-cymru.jpg
+partners_website_link: https://www.dwrcymru.com/
 partners_info:
-- title: "Safleoedd:"
-  content: "Llys-y-frân, Sir Benfro"
+  - title: "Safleoedd:"
+    content: Llys-y-frân, Sir Benfro
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1720623561/dwr-cymru-valley.jpg"
+  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1720623561/dwr-cymru-valley.jpg
 ---
-
 <small><i>Hawlfraint y llun © Dŵr Cymru, cedwir pob hawl</i></small>
 
 Mae bioamrywiaeth a’n gwasanaethau ecosystemau ehangach yn wynebu bygythiadau sy'n cynnwys colli, chwalu a gor-ddefnyddio cynefinoedd. Yn y tymor hwy, bydd y tymheredd a'r newidiadau o ran patrymau glawiad yn effeithio ar fioamrywiaeth hefyd. 

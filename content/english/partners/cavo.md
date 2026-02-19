@@ -1,17 +1,18 @@
 ---
-title: "Ceredigion Association of Voluntary Organisations CAVO"
+title: Ceredigion Association of Voluntary Organisations CAVO
 date: 2020-08-07T05:00:00Z
-draft: false
-description: "CAVO promotes, supports and empowers voluntary community action in Ceredigion."
+draft: true
+description: CAVO promotes, supports and empowers voluntary community action in Ceredigion.
 weight: 2
-categories: ["Charity"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1722525380/CAVO.png"
-partners_website_link: "https://www.cavo.org.uk/"
+categories:
+  - Charity
+thumbnail: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_480/v1722525380/CAVO.png
+partners_website_link: https://www.cavo.org.uk/
 partners_info:
-- title: "Sites:"
-  content: ""
+  - title: "Sites:"
+    content: ""
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722525603/cavo-website.webp"
+  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722525603/cavo-website.webp
 ---
 
 Since 1997, the CAVO Team have promoted and supported volunteers and voluntary community action in Ceredigion – from finding volunteers their perfect role to giving grants for community projects, the CAVO Team are here to help.

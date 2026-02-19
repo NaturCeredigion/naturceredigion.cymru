@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "31144b4a05a09492",
+        "id": "25d181048b543150",
         "type": "tabs",
         "children": [
           {
-            "id": "ce45e95b2cfd9e81",
+            "id": "44b3c0ed92053397",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english/docs/branding/logos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "logos"
+              "title": "New tab"
             }
           }
         ]
@@ -170,30 +166,8 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce45e95b2cfd9e81",
+  "active": "44b3c0ed92053397",
   "lastOpenFiles": [
-    "english/docs/branding/colours.md",
-    "english/docs/branding/logos.md",
-    "english/docs/branding/_index.md",
-    "english/docs/branding",
-    "english/docs/_index.md",
-    "english/licensing.md",
-    "english/sites/penglais-campus.md",
-    "english/sites/_index.md",
-    "english/sites",
-    "english/privacy.md",
-    "partner.md",
-    "english/partners/teifi-nutrient-management-board.md",
-    "english/partners/the-flower-meadow.md",
-    "english/projects/log-it-bin-it.md",
-    "english/projects/_index.md",
-    "english/partners/aberystwyth-university.md",
-    "english/projects/resilient-grassland.md",
-    "english/projects/wild-spaces.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "english/partners/butterfly-conservation.md",
-    "cymraeg/privacy.md",
     "cymraeg/partners/wwwbic.md",
     "cymraeg/partners/wwrt.md",
     "cymraeg/partners/wildlife-trust.md",
@@ -202,6 +176,28 @@
     "cymraeg/partners/rspb.md",
     "cymraeg/partners/national-trust.md",
     "cymraeg/partners/llais-y-goedwig.md",
+    "cymraeg/partners/gwct.md",
+    "cymraeg/partners/fwag-cymru.md",
+    "cymraeg/partners/dyfi-biosphere.md",
+    "cymraeg/partners/dwr-cymru.md",
+    "cymraeg/partners/denmark-farm.md",
+    "cymraeg/partners/coed-lleol.md",
+    "cymraeg/partners/ceredigion-county-council.md",
+    "cymraeg/partners/cavo.md",
+    "cymraeg/partners/bwyd-ceredigion.md",
+    "cymraeg/partners/butterfly-conservation.md",
+    "cymraeg/partners/aberystwyth-university.md",
+    "english/partners/wwrt.md",
+    "english/partners/wildlife-trust.md",
+    "english/partners/tir-canol.md",
+    "english/partners/wwwbic.md",
+    "english/partners/the-flower-meadow.md",
+    "english/partners/teifi-nutrient-management-board.md",
+    "english/partners/rspb.md",
+    "english/docs/branding",
+    "english/sites",
+    "Untitled.base",
+    "Untitled 1.base",
     "cymraeg/news",
     "cymraeg/funding",
     "cymraeg/events",
