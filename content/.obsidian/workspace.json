@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c34695af8f28b387",
+        "id": "31144b4a05a09492",
         "type": "tabs",
         "children": [
           {
-            "id": "9e53bbacbaa91adf",
+            "id": "ce45e95b2cfd9e81",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "english/docs/branding/logos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "logos"
             }
           }
         ]
@@ -166,8 +170,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9e53bbacbaa91adf",
+  "active": "ce45e95b2cfd9e81",
   "lastOpenFiles": [
+    "english/docs/branding/_index.md",
+    "english/docs/branding/logos.md",
+    "english/docs/branding",
+    "english/docs/_index.md",
+    "english/licensing.md",
     "english/sites/penglais-campus.md",
     "english/sites/_index.md",
     "english/sites",
@@ -180,9 +189,6 @@
     "english/partners/aberystwyth-university.md",
     "english/projects/resilient-grassland.md",
     "english/projects/wild-spaces.md",
-    "english/docs/branding.md",
-    "english/docs/_index.md",
-    "english/licensing.md",
     "Untitled.base",
     "Untitled 1.base",
     "english/partners/butterfly-conservation.md",
@@ -196,7 +202,6 @@
     "cymraeg/partners/national-trust.md",
     "cymraeg/partners/llais-y-goedwig.md",
     "cymraeg/partners/gwct.md",
-    "cymraeg/partners/fwag-cymru.md",
     "cymraeg/news",
     "cymraeg/funding",
     "cymraeg/events",
