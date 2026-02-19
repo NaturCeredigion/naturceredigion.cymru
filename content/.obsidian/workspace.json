@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/funding/opportunities.md",
+                "file": "english/funding/small-grant-scheme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "opportunities"
+              "title": "small-grant-scheme"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "a5387f7e9141bca1",
   "lastOpenFiles": [
-    "cymraeg/funding/opportunities.md",
     "english/funding/opportunities.md",
+    "cymraeg/funding/opportunities.md",
     "cymraeg/funding/small-grant-scheme.md",
     "english/news/251221-your-wild-patch.md",
     "english/docs/branding/logos.md",
