@@ -172,8 +172,9 @@
   },
   "active": "ce45e95b2cfd9e81",
   "lastOpenFiles": [
-    "english/docs/branding/_index.md",
+    "english/docs/branding/colours.md",
     "english/docs/branding/logos.md",
+    "english/docs/branding/_index.md",
     "english/docs/branding",
     "english/docs/_index.md",
     "english/licensing.md",
@@ -201,7 +202,6 @@
     "cymraeg/partners/rspb.md",
     "cymraeg/partners/national-trust.md",
     "cymraeg/partners/llais-y-goedwig.md",
-    "cymraeg/partners/gwct.md",
     "cymraeg/news",
     "cymraeg/funding",
     "cymraeg/events",
