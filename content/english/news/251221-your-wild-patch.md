@@ -2,7 +2,7 @@
 title: Introducing Your Wild Patch
 date: 2025-12-21T12:28:34+00:00
 description: Exciting new project, with custom wildlife ID areas and dashboards. Guest post by Yusef Samari
-image: https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto,ar_16:9/v1764533266/251130-your-wild-patch-dashboard.jpg
+image: https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto,ar_1.777/v1764533266/251130-your-wild-patch-dashboard.jpg
 draft: false
 featured: true
 categories:

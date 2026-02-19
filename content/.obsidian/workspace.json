@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cymraeg/newsletter.md",
+                "file": "english/news/251221-your-wild-patch.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "newsletter"
+              "title": "251221-your-wild-patch"
             }
           }
         ]
@@ -173,6 +173,7 @@
   "active": "44b3c0ed92053397",
   "lastOpenFiles": [
     "english/newsletter.md",
+    "cymraeg/newsletter.md",
     "english/licensing.md",
     "english/map.md",
     "english/search.md",
@@ -197,7 +198,6 @@
     "cymraeg/partners/bwyd-ceredigion.md",
     "cymraeg/partners/butterfly-conservation.md",
     "cymraeg/partners/aberystwyth-university.md",
-    "english/partners/wwrt.md",
     "english/docs/branding",
     "english/sites",
     "Untitled.base",
