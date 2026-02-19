@@ -7,3 +7,5 @@ alias: /cynllun-grantiau-bach
 ---
 
 Yn dod yn fuan...
+
+Climate Cymru signup for newsletter: [climate.cymru/sign-up-for-our-newsletter/](https://climate.cymru/sign-up-for-our-newsletter/ "https://climate.cymru/sign-up-for-our-newsletter/")
