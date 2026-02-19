@@ -2,9 +2,14 @@
 title: Partnership meetings
 description: ""
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1771518127/260219-partnership-meeting-uwtsd.jpg
+altText: Meeting being held in university room with wood panelling and portraits on the wall, speaker at a podium with a crest of arms
+caption: Partnership meeting at University Wales Trinity St David
 draft: false
 alias: /partnership-meetings/
 ---
+# Partnership meetings
+![Meeting being held in university room with wood panelling and portraits on the wall, speaker at a podium with a crest of arms](https://res.cloudinary.com/naturceredigion/image/upload/v1771518127/260219-partnership-meeting-uwtsd.jpg)<br>*Partnership meeting at University Wales Trinity St David*
+
 The Ceredigion Local Nature Partnership (LNP) holds quarterly meetings that bring together members of the public, organisations and practitioners with a shared interest in nature.
 
 Meetings provide a friendly and open space to discuss what’s happening locally and nationally, share ideas, and explore what more can be done to support nature across Ceredigion. Each year includes three hybrid meetings (in person with an online option) and one online-only meeting in January, making it easy for everyone to take part.
