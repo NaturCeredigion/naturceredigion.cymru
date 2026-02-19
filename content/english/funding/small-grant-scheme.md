@@ -8,14 +8,14 @@ alias: /small-grant-scheme
 # Small Grant Scheme
 The Ceredigion Nature Partnership manages funding for capital projects focussed on "nature on your doorstep," targeting biodiversity and disadvantaged communities.
 
-![Grainy photo showing rows of new beds and fruit trees in a row](https://res.cloudinary.com/naturceredigion/image/upload/v1771514260/260219-fruit-tree-planting-small-grants-scheme-169.jpg)
+![Grainy photo showing rows of new beds and fruit trees in a row](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771514260/260219-fruit-tree-planting-small-grants-scheme-169.jpg)
 *Fruit trees and allotment*
 ## Local Places for Nature Grant Scheme 25/26
 We are no longer accepting applications for this scheme, as all available funding has been allocated. Announcements regarding any future grant schemes will be made here and in the Natur Ceredigion website.
 ## Local Places for Nature Grant Scheme 24/25
 Ceredigion Nature Partnership launched their Local Places for Nature grants scheme for 2024 with £350,000 to distribute. The scheme was inviting applications for projects worth up to £50,000 to apply for the Capital funding.
 
-![Three Friends of Netpool on a bench, holding 3 signs that say THANKS CEREDIGION LOCAL NATURE PARTNERSHIP](https://res.cloudinary.com/naturceredigion/image/upload/v1771514259/260219-friends-netpool-park-thanks-small-grants-scheme-169.jpg)
+![Three Friends of Netpool on a bench, holding 3 signs that say THANKS CEREDIGION LOCAL NATURE PARTNERSHIP](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771514259/260219-friends-netpool-park-thanks-small-grants-scheme-169.jpg)
 *Friends of Netpool Park, Cardigan*
 
 In total 35 applications were received with a total value of £758,093.69.
