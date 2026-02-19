@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/news/251221-your-wild-patch.md",
+                "file": "english/newsletter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251221-your-wild-patch"
+              "title": "newsletter"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "44b3c0ed92053397",
   "lastOpenFiles": [
+    "english/news/251221-your-wild-patch.md",
     "english/newsletter.md",
     "cymraeg/partners/wwwbic.md",
     "cymraeg/partners/wwrt.md",
@@ -197,7 +198,6 @@
     "english/partners/tir-canol.md",
     "english/partners/wwwbic.md",
     "english/partners/the-flower-meadow.md",
-    "english/partners/teifi-nutrient-management-board.md",
     "english/docs/branding",
     "english/sites",
     "Untitled.base",

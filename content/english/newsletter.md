@@ -9,5 +9,6 @@ layout: newsletter
 <p class="lead">{{< translate "newsletter_intro" >}}</p>
 {{< newsletter-signup >}}
 <h2 class="mt-5">Archives</h2>
+The newsletter archives can be viewed online here:<br>
+[buttondown.com/NaturCeredigion/archive](https://buttondown.com/NaturCeredigion/archive/)
 
-Coming soon...
