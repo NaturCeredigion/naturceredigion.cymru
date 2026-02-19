@@ -86,10 +86,15 @@ weight = 5
 
 [[main]]
 parent = "Funding"
-name = "Small Grant Scheme"
-url = "funding/small-grant-scheme/"
+name = "Funding Opportunities"
+url = "funding/funding-opportunities/"
 weight = 1
 
+[[main]]
+parent = "Funding"
+name = "Small Grant Scheme"
+url = "funding/small-grant-scheme/"
+weight = 2
 
 # Footer Menu
 

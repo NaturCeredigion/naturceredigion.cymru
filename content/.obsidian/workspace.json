@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c68822d0605278c6",
+        "id": "1478c6914d93314e",
         "type": "tabs",
         "children": [
           {
-            "id": "55a15e54810e15c8",
+            "id": "a5387f7e9141bca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/news/251221-your-wild-patch.md",
+                "file": "english/funding/opportunities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251221-your-wild-patch"
+              "title": "opportunities"
             }
           }
         ]
@@ -170,10 +170,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "55a15e54810e15c8",
+  "active": "a5387f7e9141bca1",
   "lastOpenFiles": [
-    "english/docs/branding/logos.md",
+    "cymraeg/funding/opportunities.md",
+    "english/funding/opportunities.md",
+    "cymraeg/funding/small-grant-scheme.md",
     "english/news/251221-your-wild-patch.md",
+    "english/docs/branding/logos.md",
     "english/newsletter.md",
     "cymraeg/newsletter.md",
     "english/licensing.md",
@@ -195,9 +198,6 @@
     "cymraeg/partners/denmark-farm.md",
     "cymraeg/partners/coed-lleol.md",
     "cymraeg/partners/ceredigion-county-council.md",
-    "cymraeg/partners/cavo.md",
-    "cymraeg/partners/bwyd-ceredigion.md",
-    "cymraeg/partners/butterfly-conservation.md",
     "english/docs/branding",
     "english/sites",
     "Untitled.base",
