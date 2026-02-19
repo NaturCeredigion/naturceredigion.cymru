@@ -5,10 +5,17 @@ description: "Sign up for a monthly round-up of nature news in Ceredigion plus a
 image: "https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1720624189/waterfall-squareish.jpg"
 layout: newsletter
 ---
+Welcome to **Newyddion Natur Ceredigion** — your go-to source for everything wild, wonderful and green across Ceredigion.
 
-<p class="lead">{{< translate "newsletter_intro" >}}</p>
 {{< newsletter-signup >}}
-<h2 class="mt-5">Archives</h2>
+
+From local wildlife sightings to biodiversity projects and environmental news, we bring you the stories shaping nature in our county.
+
+The Ceredigion Nature Partnership newsletter is published monthly, with shorter weekly news flashes to keep you up to date. The Partnership is based at [Ceredigion County Council](https://ceredigion.gov.uk/?utm_source=NaturCeredigion&utm_medium=email "https://ceredigion.gov.uk/?utm_source=NaturCeredigion&utm_medium=email") — you can learn more about our aims at [cnp.cymru/aims.](https://cnp.cymru/aims?utm_source=NaturCeredigion&utm_medium=email "https://cnp.cymru/aims?utm_source=NaturCeredigion&utm_medium=email")
+
+Have a story to share? We’d love to hear from you.
+
+Send your news events, photos or comments to [biodiversity@ceredigion.gov.uk](mailto:biodiversity@ceredigion.gov.uk "mailto:biodiversity@ceredigion.gov.uk")
+## Archives
 The newsletter archives can be viewed online here:<br>
 [buttondown.com/NaturCeredigion/archive](https://buttondown.com/NaturCeredigion/archive/)
-

@@ -5,9 +5,17 @@ description: "Cofrestrwch i gael ein crynodeb misol o newyddion natur Ceredigion
 image: "https://res.cloudinary.com/naturceredigion/image/upload/w_500/f_auto/v1720624187/owlets-squareish.jpg"
 layout : newsletter
 ---
+Croeso i **Newyddion Natur Ceredigion** — eich prif ffynhonnell ar gyfer popeth sy’n wyllt, yn rhyfeddol ac yn wyrdd yng Ngheredigion.  
 
-<p class="lead">{{< translate "newsletter_intro" >}}</p>
 {{< newsletter-signup >}}
-<h2 class="mt-5">Archifau</h2>
 
-Yn dod yn fuan...
+O weld bywyd gwyllt lleol i brosiectau bioamrywiaeth a newyddion amgylcheddol, rydyn ni’n dod â’r storiau sy’n llunio natur ein sir.
+
+Caiff cylchlythyr Partneriaeth Natur Ceredigion ei gyhoeddi bob mis, gyda phytiau byr bob wythnos gyda’r newyddion diweddaraf. Mae’r Bartneriaeth yn rhan o [Gyngor Sir  Ceredigion](https://ceredigion.gov.uk/?utm_source=NaturCeredigion&utm_medium=email "https://ceredigion.gov.uk/?utm_source=NaturCeredigion&utm_medium=email") — gallwch weld mwy am ein hamcanion yn [cnp.cymru/aims](https://cnp.cymru/aims?utm_source=NaturCeredigion&utm_medium=email "https://cnp.cymru/aims?utm_source=NaturCeredigion&utm_medium=email")
+
+Oes gennych chi stori i’w rhannu? Byddem wrth ein bodd yn ei chlywed.
+
+Anfonwch eich newyddion, digwyddiadau, lluniau neu sylwadau i [biodiversity@ceredigion.gov.uk](mailto:biodiversity@ceredigion.gov.uk "mailto:biodiversity@ceredigion.gov.uk")
+## Archifau
+Mae archifau'r cylchlythyrau i'w gweld yma:<br>
+[buttondown.com/NaturCeredigion/archive](https://buttondown.com/NaturCeredigion/archive/)
