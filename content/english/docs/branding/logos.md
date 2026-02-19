@@ -4,6 +4,7 @@ draft: true
 description: Logos, colours, fonts & usage for Ceredigion Nature Partnership
 ---
 ## Ceredigion Nature Partnership
+Logos available here:<br>[github.com/NaturCeredigion/graphics/tree/main/logos/partnership](https://github.com/NaturCeredigion/graphics/tree/main/logos/partnership)
 ### Logo
 - **Full colour logo**<br>![](https://raw.githubusercontent.com/NaturCeredigion/graphics/a00cce06c792b8912e39e762644e0ff203617b7e/logos/partnership/cnp-logo.svg) *SVG*
   ![](https://raw.githubusercontent.com/NaturCeredigion/graphics/refs/heads/main/logos/partnership/cnp-logo.png) *PNG*  
