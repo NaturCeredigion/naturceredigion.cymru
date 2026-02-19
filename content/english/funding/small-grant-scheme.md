@@ -1,10 +1,11 @@
 ---
-title: Partnership meetings
+title: Small Grant Scheme
 description: this is meta description
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1771514260/260219-wildlife-pond-small-grants-scheme.jpg
 draft: false
 alias: /small-grant-scheme
 ---
+# Small Grant Scheme
 The Ceredigion Nature Partnership manages funding for capital projects focussed on "nature on your doorstep," targeting biodiversity and disadvantaged communities.
 
 ![Grainy photo showing rows of new beds and fruit trees in a row](https://res.cloudinary.com/naturceredigion/image/upload/v1771514260/260219-fruit-tree-planting-small-grants-scheme-169.jpg)
