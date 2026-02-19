@@ -87,7 +87,7 @@ weight = 5
 [[main]]
 parent = "Funding"
 name = "Funding Opportunities"
-url = "funding/funding-opportunities/"
+url = "funding/opportunities/"
 weight = 1
 
 [[main]]
