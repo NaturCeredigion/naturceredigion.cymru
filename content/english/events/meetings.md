@@ -8,7 +8,7 @@ draft: false
 alias: /partnership-meetings/
 ---
 # Partnership meetings
-![Meeting being held in university room with wood panelling and portraits on the wall, speaker at a podium with a crest of arms](https://res.cloudinary.com/naturceredigion/image/upload/v1771518127/260219-partnership-meeting-uwtsd.jpg)<br>*Partnership meeting at University Wales Trinity St David*
+![Meeting being held in university room with wood panelling and portraits on the wall, speaker at a podium with a crest of arms](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771518127/260219-partnership-meeting-uwtsd.jpg)<br>*Partnership meeting at University Wales Trinity St David*
 ## Next meetings
 *Tuesday Meetings: 10am-4pm.*
 - 21st April 2026 - [New Quay Memorial Hall](https://neuaddgoffaceinewydd.cymru/gb/)

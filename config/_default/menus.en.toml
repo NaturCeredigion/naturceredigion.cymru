@@ -45,7 +45,7 @@ weight = 2
 [[main]]
 parent = "Latest"
 name = "Partnership Meetings"
-url = "events/partnership-meetings/"
+url = "events/meetings/"
 weight = 3
 
 [[main]]

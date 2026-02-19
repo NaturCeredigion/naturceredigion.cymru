@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/events/meetings.md",
+                "file": "english/events/calendar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meetings"
+              "title": "calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,11 +184,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ab6973c9ff24d1bf",
+  "active": "a5387f7e9141bca1",
   "lastOpenFiles": [
-    "english/funding/small-grant-scheme.md",
-    "english/events/meetings.md",
     "english/events/calendar.md",
+    "english/events/meetings.md",
+    "english/funding/small-grant-scheme.md",
     "english/partners/_index.md",
     "english/funding/opportunities.md",
     "cymraeg/funding/opportunities.md",
