@@ -1,7 +1,7 @@
 ---
-title: "Partners"
+title: Partners
 draft: false
-description : "Natur Ceredigion partners"
+description: Ceredigion Nature Partnership partners
 ---
 Nature recovery is a shared endeavour. Our partners bring together skills, experience and passion from across Ceredigion to help restore and protect our natural environment. By working together, we can deliver bigger, better and more joined-up outcomes for nature and communities.
 
