@@ -17,6 +17,8 @@ Logos available here:<br>[github.com/NaturCeredigion/graphics/tree/main/logos/pa
   ![](https://raw.githubusercontent.com/NaturCeredigion/graphics/refs/heads/main/logos/partnership/cnp-logotype-hoz.png) *PNG*  
 - **Full colour logotype**<br>![](https://raw.githubusercontent.com/NaturCeredigion/graphics/a00cce06c792b8912e39e762644e0ff203617b7e/logos/partnership/cnp-logotype.svg) *SVG*
   ![](https://raw.githubusercontent.com/NaturCeredigion/graphics/refs/heads/main/logos/partnership/cnp-logotype.png) *PNG* 
+- **Full colour logotype white background**<br>![](https://raw.githubusercontent.com/NaturCeredigion/graphics/d0e81c14852ba734fd7742688585de76a5ac1098/logos/partnership/cnp-logotype-white-bg.svg) *SVG*
+  ![](https://github.com/NaturCeredigion/graphics/blob/main/logos/partnership/cnp-logotype-white-bg.png?raw=true) *PNG* 
 - **Grayscale logotype**<br>![](https://raw.githubusercontent.com/NaturCeredigion/graphics/a00cce06c792b8912e39e762644e0ff203617b7e/logos/partnership/cnp-logotype-grayscale.svg) *SVG*
   ![](https://raw.githubusercontent.com/NaturCeredigion/graphics/refs/heads/main/logos/partnership/cnp-logotype-grayscale.png) *PNG*  
 - **Black & white logotype**<br>![](https://raw.githubusercontent.com/NaturCeredigion/graphics/a00cce06c792b8912e39e762644e0ff203617b7e/logos/partnership/cnp-logotype-b+w.svg) *SVG*

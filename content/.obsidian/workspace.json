@@ -11,10 +11,14 @@
             "id": "383866336f77997d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "english/docs/branding/logos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "logos"
             }
           }
         ]
