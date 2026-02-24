@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8423bbec1a49eecd",
+        "id": "fd2a24b85d8af298",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab7ae45b06e2c36",
+            "id": "383866336f77997d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english/partners/rspb.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "rspb"
+              "title": "New tab"
             }
           }
         ]
@@ -170,8 +166,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ab7ae45b06e2c36",
+  "active": "383866336f77997d",
   "lastOpenFiles": [
+    "english/docs/infrastructure/_index.md",
+    "english/docs/infrastructure/url-shortener.md",
+    "english/docs/branding/_index.md",
+    "english/docs/branding/fonts.md",
+    "english/docs/branding/logos.md",
+    "english/docs/infrastructure",
+    "english/partners/rspb.md",
     "english/partners/dwr-cymru.md",
     "english/partners/cavo.md",
     "english/partners/cardished.md",
@@ -183,7 +186,6 @@
     "cymraeg/funding/opportunities.md",
     "cymraeg/funding/small-grant-scheme.md",
     "english/news/251221-your-wild-patch.md",
-    "english/docs/branding/logos.md",
     "english/newsletter.md",
     "cymraeg/newsletter.md",
     "english/licensing.md",
@@ -193,11 +195,6 @@
     "cymraeg/partners/wwwbic.md",
     "cymraeg/partners/wwrt.md",
     "cymraeg/partners/wildlife-trust.md",
-    "cymraeg/partners/tir-canol.md",
-    "cymraeg/partners/the-flower-meadow.md",
-    "cymraeg/partners/rspb.md",
-    "cymraeg/partners/national-trust.md",
-    "cymraeg/partners/llais-y-goedwig.md",
     "english/docs/branding",
     "english/sites",
     "Untitled.base",

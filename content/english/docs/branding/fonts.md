@@ -6,4 +6,4 @@ description: Logos, colours, fonts & usage for Ceredigion Nature Partnership
 ## Heading
 Corben
 ## Body
-Open Sans
+Open Sans - *change to Droid Sans!*

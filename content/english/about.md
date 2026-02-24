@@ -14,7 +14,7 @@ my_experiences:
   experiences_item:
   - title: "Sarah Smyth"
     job_title: "Interim Senior Ecologist"
-    enthusiasms: "Life"
+    enthusiasms: "Mid North Ceredigion. Woodlands, marine Life, Otters and Hedgehogs, sea swimming and paddleboarding 🏊️."
 
   - title: "Gillian Clark"
     job_title: "Service Support Officer"
