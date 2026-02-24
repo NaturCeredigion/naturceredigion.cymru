@@ -22,15 +22,15 @@ my_experiences:
     
   - title: "Norman Birch"
     job_title: "Tree Officer"
-    enthusiasms: "Life"
+    enthusiasms: "Dyffryn Aeron. Trees, arboriculture, woodland management, sustainable coppice restoration, working gundogs, self-sufficiency & regenerative agriculture, carpentry & traditional building techniques, politics, travel 🌳"
     
   - title: "Chris Harris"
     job_title: "Biodiversity Assistant, Reserves Manager"
-    enthusiasms: "Mid-North Ceredigion, 1000ft up, woodlands, wildlife, conservation, sport, history, family, healthy eating, travelling 🐿️"
+    enthusiasms: "Mid-North Ceredigion. 1000ft up, woodlands, wildlife, conservation, sport, history, family, healthy eating, travelling 🐿️"
 
   - title: "Fiona Moran"
     job_title: "Biodiversity Assistant"
-    enthusiasms: "North Ceredigion. Life."
+    enthusiasms: "North Ceredigion. Dyfi Biosphere, woodlands, ecology, community, nature connection, camping 🏕️"
 
   - title: "Jake Rayson"
     job_title: "Biodiversity Assistant"
