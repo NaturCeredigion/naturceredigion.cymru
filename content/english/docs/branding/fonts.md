@@ -1,6 +1,6 @@
 ---
 title: Fonts
-draft: true
+draft: false
 description: Logos, colours, fonts & usage for Ceredigion Nature Partnership
 ---
 ## Heading
