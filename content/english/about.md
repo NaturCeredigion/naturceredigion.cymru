@@ -14,7 +14,7 @@ my_experiences:
   experiences_item:
   - title: "Sarah Smyth"
     job_title: "Interim Senior Ecologist"
-    enthusiasms: "Mid North Ceredigion. Woodlands, marine life, Otters and Hedgehogs, sea swimming and paddleboarding 🏊️"
+    enthusiasms: "Mid-North Ceredigion. Woodlands, marine life, Otters and Hedgehogs, sea swimming and paddleboarding 🏊️"
 
   - title: "Gillian Clark"
     job_title: "Service Support Officer"
@@ -26,7 +26,7 @@ my_experiences:
     
   - title: "Chris Harris"
     job_title: "Biodiversity Assistant, Reserves Manager"
-    enthusiasms: "Mid/north-Ceredigion"
+    enthusiasms: "Mid-North Ceredigion, 1000ft up, woodlands, wildlife, conservation, sport, history, family, healthy eating, travelling 🐿️"
 
   - title: "Fiona Moran"
     job_title: "Biodiversity Assistant"
