@@ -13,7 +13,6 @@ partners_info:
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722535217/bwyd-ceredigion-facebook.webp"
 ---
-
 The Partnership invites individuals and private businesses, farmers and growers, local government, health services, educators and academics as well as charities and community organisations to collaborate in creating a sustainable and resilient food strategy for the people of Ceredigion.
 
 We believe that everybody should have access to fresh food, regardless of income, and that more of this food can be grown and produced locally in a sustainable manner supporting biodiversity, nature recovery and a vibrant local economy.

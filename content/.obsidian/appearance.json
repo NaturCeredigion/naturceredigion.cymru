@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Prism",
+  "cssTheme": "Everforest",
   "accentColor": "#5c82f5",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 18
 }

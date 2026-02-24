@@ -1,19 +1,19 @@
 ---
-title: "Biosffer Dyfi"
+title: Biosffer Dyfi
 date: 2020-08-07T05:00:00Z
-draft: false
-description: "Mae Biosffer Dyfi, sydd wedi ennill statws Biosffer UNSECO, yn ysbrydoli pobl a sefydliadau i gydweithio i greu dyfodol cynaliadwy y gall pob un ohonom ymfalchïo ynddo"
+draft: true
+description: Mae Biosffer Dyfi, sydd wedi ennill statws Biosffer UNSECO, yn ysbrydoli pobl a sefydliadau i gydweithio i greu dyfodol cynaliadwy y gall pob un ohonom ymfalchïo ynddo
 weight: 2
-categories: ["Partneriaeth"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623548/dyfi-biosphere.png"
-partners_website_link: "https://www.biosfferdyfi.cymru/"
+categories:
+  - Partneriaeth
+thumbnail: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623548/dyfi-biosphere.png
+partners_website_link: https://www.biosfferdyfi.cymru/
 partners_info:
-- title: "Safleoedd:"
-  content: "Cors Fochno, Coed Cwm Einion, Pen Llŷn a’r Sarnau"
+  - title: "Safleoedd:"
+    content: Cors Fochno, Coed Cwm Einion, Pen Llŷn a’r Sarnau
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721736803/dyfi-biosphere-view-trees.jpg"
+  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721736803/dyfi-biosphere-view-trees.jpg
 ---
-
 ## Egwyddorion Biosffer Dyfi
 1. Mae pobl – eu hagweddau a’u gweithgareddau – wrth galon proses y Biosffer.
 2. Mae Biosffer Dyfi yn fan sy’n cyfoethogi ymdeimlad pobl o lesiant ac yn grymuso pobl i gymryd rhan mewn trafodaethau, penderfyniadau a chydgyflenwi.

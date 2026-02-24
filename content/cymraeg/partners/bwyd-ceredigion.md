@@ -13,7 +13,6 @@ partners_info:
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722535217/bwyd-ceredigion-facebook.webp"
 ---
-
 Mae’r Bartneriaeth yn gwahodd unigolion a busnesau preifat, ffermwyr a thyfwyr, llywodraeth leol, gwasanaethau iechyd, addysgwyr ac academyddion, yn ogystal ag elusennau a sefydliadau cymunedol, i gydweithio er mwyn creu strategaeth fwyd gynaliadwy a gwydn ar gyfer pobl Ceredigion. 
 
 Rydym yn credu y dylai pawb gael mynediad at fwyd ffres, beth bynnag eu hincwm, ac y gall mwy o’r bwyd hwn gael ei dyfu a’i gynhyrchu yn lleol mewn modd cynaliadwy gan gefnogi bioamrywiaeth, camau i adfer natur ac economi leol lewyrchus.

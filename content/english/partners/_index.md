@@ -1,5 +1,5 @@
 ---
-title: "Partners"
+title: Partners
 draft: false
-description : "Natur Ceredigion partners"
+description: Ceredigion Nature Partnership partners
 ---

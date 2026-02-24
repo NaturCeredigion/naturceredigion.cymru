@@ -25,31 +25,31 @@ url = "contact/"
 weight = 1
 
 [[main]]
-name = "News & Events"
+name = "Latest"
 hasChildren = true
 url = ""
 weight = 3
 
 [[main]]
-parent = "News & Events"
-name = "Latest News"
+parent = "Latest"
+name = "News"
 url = "news/"
 weight = 1
 
 [[main]]
-parent = "News & Events"
+parent = "Latest"
 name = "Events Calendar"
 url = "events/calendar/"
 weight = 2
 
 [[main]]
-parent = "News & Events"
+parent = "Latest"
 name = "Partnership Meetings"
-url = "events/partnership-meetings/"
+url = "events/meetings/"
 weight = 3
 
 [[main]]
-parent = "News & Events"
+parent = "Latest"
 name = "Our Newsletter"
 url = "newsletter/"
 weight = 4
@@ -68,6 +68,12 @@ weight = 1
 
 [[main]]
 parent = "Partners"
+name = "Partner Projects"
+url = "projects/"
+weight = 1
+
+[[main]]
+parent = "Partners"
 name = "Partner Map"
 url = "map/"
 weight = 1
@@ -80,10 +86,15 @@ weight = 5
 
 [[main]]
 parent = "Funding"
-name = "Small Grant Scheme"
-url = "funding/small-grant-scheme/"
+name = "Funding Opportunities"
+url = "funding/opportunities/"
 weight = 1
 
+[[main]]
+parent = "Funding"
+name = "Small Grant Scheme"
+url = "funding/small-grant-scheme/"
+weight = 2
 
 # Footer Menu
 

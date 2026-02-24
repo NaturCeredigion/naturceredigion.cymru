@@ -21,10 +21,9 @@ tags:
 ---
 
 Butterfly Conservation chooses to be a leader in the fight for our natural world. To do that we need to build on our successes and be even more effective, to focus our resources to have a greater impact. We must build stronger collaborations, be part of nature’s recovery at a larger scale, and broaden our reach to ensure that everyone has access to and can enjoy the wonders of butterflies and moths.
-
 ### Saving Butterflies and Moths’ strategy has three Strategic Goals
 1. Halve the number of the UK’s threatened species of butterflies and moths 
 2. Improve the condition of 100 of the most important landscapes for butterflies and moths 
 3. Transform 100,000 wild spaces in the UK for people, butterflies and moths  
 
-[[partner]]
+Link to [Saving Butterflies and Moths: our 2021-2026 strategy](https://butterfly-conservation.org/our-work/our-strategy)

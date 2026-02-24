@@ -1,7 +1,7 @@
 ---
 title: Aberystwyth University
 date: 2020-08-07T05:00:00Z
-draft: false
+draft: true
 description: "Aberystwyth University (Welsh: Prifysgol Aberystwyth) is a public research university in Aberystwyth, Wales."
 weight: 2
 categories:
