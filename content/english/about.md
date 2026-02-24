@@ -14,11 +14,11 @@ my_experiences:
   experiences_item:
   - title: "Sarah Smyth"
     job_title: "Interim Senior Ecologist"
-    enthusiasms: "Mid North Ceredigion. Woodlands, marine Life, Otters and Hedgehogs, sea swimming and paddleboarding 🏊️."
+    enthusiasms: "Mid North Ceredigion. Woodlands, marine Life, Otters and Hedgehogs, sea swimming and paddleboarding 🏊️"
 
   - title: "Gillian Clark"
     job_title: "Service Support Officer"
-    enthusiasms: "West Ceredigion. Oceans and seas. Seals. Reptiles… Heavy Metal 🤘."
+    enthusiasms: "West Ceredigion. Oceans and seas. Seals. Reptiles… Heavy Metal 🤘"
     
   - title: "Norman Birch"
     job_title: "Tree Officer"
@@ -34,7 +34,7 @@ my_experiences:
 
   - title: "Jake Rayson"
     job_title: "Biodiversity Assistant"
-    enthusiasms: "South Ceredigion. Wood meadows, forest gardens, native plants, Open Source Software 🤓."
+    enthusiasms: "South Ceredigion. Wood meadows, forest gardens, native plants, Open Source Software 🤓"
     
 # About info
 about_info:
