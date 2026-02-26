@@ -2,8 +2,11 @@
 title: Policy
 draft: false
 description: Nature Recovery Policy Landscape
+author: " Gabriella Waugh"
 ---
-This piece of work will be a summary of all the key laws and policies that relate to nature recovery in Wales. This information will be useful for any non-legal personnel that work in ecology and conservation.  
+*Author: Gabriella Waugh*
+
+A summary of the key laws and policies that relate to nature recovery in Wales. This information will be useful for any non-legal personnel that work in ecology and conservation.  
 
 1. Section 6 of the Environment (Wales) Act 2016:
 2. Planning (Wales) Act 2015

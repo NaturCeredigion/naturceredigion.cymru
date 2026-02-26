@@ -17,7 +17,7 @@ my_experiences:
     enthusiasms: "Mid-North Ceredigion. Woodlands, marine life, Otters and Hedgehogs, sea swimming and paddleboarding 🏊️"
 
   - title: "Gillian Clark"
-    job_title: "Service Support Officer"
+    job_title: "Biodiversity Coordinator"
     enthusiasms: "West Ceredigion. Oceans and seas, seals, reptiles… Heavy Metal 🤘"
     
   - title: "Norman Birch"
