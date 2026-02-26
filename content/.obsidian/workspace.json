@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/about.md",
+                "file": "english/docs/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "test"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/partners/aberystwyth-university.md",
+                "file": "english/docs/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aberystwyth-university"
+              "title": "Backlinks for test"
             }
           },
           {
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +172,14 @@
   "active": "e8ed05c97d0bfd2c",
   "lastOpenFiles": [
     "english/docs/_index.md",
+    "english/docs/test.md",
+    "english/docs/process/_index.md",
     "english/docs/reference/_index.md",
+    "english/partner.md",
+    "english/docs/process",
+    "english/privacy.md",
+    "english/partners/aberystwyth-university.md",
+    "english/about.md",
     "english/docs/reference/policy.md",
     "english/docs/infrastructure/url-shortener.md",
     "english/docs/infrastructure/_index.md",
@@ -194,19 +200,12 @@
     "cymraeg/funding/opportunities.md",
     "cymraeg/funding/small-grant-scheme.md",
     "english/news/251221-your-wild-patch.md",
-    "english/newsletter.md",
-    "cymraeg/newsletter.md",
-    "english/licensing.md",
-    "english/map.md",
-    "english/search.md",
-    "english/privacy.md",
     "english/docs/branding",
     "english/sites",
     "Untitled.base",
     "Untitled 1.base",
     "cymraeg/news",
     "cymraeg/funding",
-    "cymraeg/events",
-    "english/projects"
+    "cymraeg/events"
   ]
 }
