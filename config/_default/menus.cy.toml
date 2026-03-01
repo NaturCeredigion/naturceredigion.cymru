@@ -15,43 +15,43 @@ weight = 2
 [[main]]
 parent = "Amdanom"
 name = "Amdanom ni"
-url = "about/"
+url = "amdanom/"
 weight = 1
 
 [[main]]
 parent = "Amdanom"
 name = "Cysylltu â ni"
-url = "contact/"
+url = "cysylltu/"
 weight = 1
 
 [[main]]
-name = "Newyddion a digwyddiadau"
+name = "Diweddaraf"
 hasChildren = true
 url = ""
 weight = 3
 
 [[main]]
-parent = "Newyddion a digwyddiadau"
+parent = "Diweddaraf"
 name = "Y newyddion diweddaraf"
-url = "news/"
+url = "newyddion/"
 weight = 1
 
 [[main]]
-parent = "Newyddion a digwyddiadau"
+parent = "Diweddaraf"
 name = "Calendr digwyddiadau"
-url = "/events/calendar/"
+url = "/digwyddiadau/calendr/"
 weight = 2
 
 [[main]]
-parent = "Newyddion a digwyddiadau"
+parent = "Diweddaraf"
 name = "Cyfarfodydd y Bartneriaeth"
-url = "/events/partnership-meetings/"
+url = "/digwyddiadau/cyfarfodydd-bartneriaeth/"
 weight = 3
 
 [[main]]
-parent = "Newyddion a digwyddiadau"
+parent = "Diweddaraf"
 name = "Ein cylchlythyr"
-url = "newsletter/"
+url = "cylchlythyr/"
 weight = 4
 
 [[main]]
@@ -63,7 +63,7 @@ weight = 4
 [[main]]
 parent = "Partneriaid"
 name = "Ein partneriaid"
-url = "partners/"
+url = "partneriaid/"
 weight = 1
 
 [[main]]
@@ -75,34 +75,40 @@ weight = 1
 [[main]]
 name = "Cyllid"
 hasChildren = true
-url = "funding/"
+url = "cyllid/"
 weight = 5
 
 [[main]]
 parent = "Cyllid"
 name = "Cynllun Grantiau Bach"
-url = "/funding/small-grant-scheme/"
+url = "cyllid/cynllun-grantiau-bach/"
 weight = 1
+
+[[main]]
+parent = "Cyllid"
+name = "Cyfleoedd Cyllid"
+url = "cyllid/cyfleoedd/"
+weight = 2
 
 
 # Footer Menu
 
 [[footer]]
 name = "Cysylltu â ni"
-url = "contact/"
+url = "cysylltu/"
 weight = 1
 
 [[footer]]
 name = "Cod Ymddygiad"
-url = "conduct/"
+url = "ymddygiad/"
 weight = 2
 
 [[footer]]
 name = "Preifatrwydd"
-url = "privacy/"
+url = "preifatrwydd/"
 weight = 3
 
 [[footer]]
 name = "Trwyddedu"
-url = "licensing/"
+url = "trwyddedu/"
 weight = 4
