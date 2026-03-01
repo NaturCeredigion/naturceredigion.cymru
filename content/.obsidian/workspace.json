@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/partners/tir-canol.md",
+                "file": "english/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tir-canol"
+              "title": "about"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/partners/tir-canol.md",
+                "file": "english/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tir-canol"
+              "title": "Backlinks for about"
             }
           },
           {
@@ -171,6 +171,7 @@
   },
   "active": "9690bb68ddb11ec2",
   "lastOpenFiles": [
+    "english/partners/tir-canol.md",
     "cymraeg/trwyddedu.md",
     "cymraeg/preifatrwydd.md",
     "cymraeg/ymddygiad.md",
@@ -197,7 +198,6 @@
     "cymraeg/partneriaid/cavo.md",
     "cymraeg/partneriaid/bwyd-ceredigion.md",
     "cymraeg/partneriaid/butterfly-conservation.md",
-    "cymraeg/partneriaid/aberystwyth-university.md",
     "cymraeg/partneriaid",
     "cymraeg/digwyddiadau",
     "cymraeg/newyddion",
