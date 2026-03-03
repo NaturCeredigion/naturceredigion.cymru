@@ -14,7 +14,7 @@ partners_info:
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722534941/fwag-cymru-group.jpg
 translationKey: "Farmers Wildlife Advisory Group Cymru"
-
+type: "partners"
 ---
 Ers dros bum degawd, mae’r Grŵp Cynghori ar Ffermio a Bywyd Gwyllt wedi darparu cyngor amgylcheddol annibynnol yr ymddiredir ynddi i’r gymuned ffermio, gan ennill enw da iddo’i hun am ei ethos moesegol ac am safonau uchel ei wasanaethau.
 

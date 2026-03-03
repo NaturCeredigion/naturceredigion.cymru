@@ -14,7 +14,7 @@ partners_info:
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722525603/cavo-website.webp
 translationKey: "CAVO"
-
+type: "partners"
 ---
 Ers 1997, mae Tîm CAVO wedi hyrwyddo a chefnogi gwirfoddolwyr a gweithredu gwirfoddol yng nghymunedau Ceredigion – o gael hyd i’r rôl ddelfrydol ar gyfer gwirfoddolwyr i roi grantiau i brosiectau cymunedol, mae Tîm CAVO yma i helpu.
 

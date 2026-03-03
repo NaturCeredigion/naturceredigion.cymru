@@ -13,7 +13,7 @@ partners_info:
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721751043/west-wales-rivers-trust-towy.jpg"
 translationKey: "West Wales Rivers Trust"
-
+type: "partners"
 ---
 Ein gweledigaeth yw tirwedd fyw well, lle mae cymunedau yn gwerthfawrogi eu hafonydd lleol a lle mae defnydd tir cynhyrchiol ac afonydd glân gyda phoblogaethau bywyd gwyllt llewyrchus yn bodoli mewn cytgord o fewn dalgylchoedd sy’n gallu gwrthsefyll hinsawdd sy’n newid, fel y gall afonydd barhau i ddarparu buddion i bobl a bywyd gwyllt.
 

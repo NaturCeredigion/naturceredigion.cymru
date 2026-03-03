@@ -9,6 +9,6 @@ categories:
   - Partnership
 author: Jake Rayson
 translationKey: "New Partnership newsletter"
-
+type: "news"
 ---
 We’ve upgraded our newsletter to a new system called Buttondown. Archives are now available online, and you can control your subscription preferences.

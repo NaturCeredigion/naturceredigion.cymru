@@ -14,6 +14,7 @@ partners_info:
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1720623561/dwr-cymru-valley.jpg
 translationKey: "Welsh Water"
+type: "partners"
 
 ---
 <small><i>Hawlfraint y llun © Dŵr Cymru, cedwir pob hawl</i></small>

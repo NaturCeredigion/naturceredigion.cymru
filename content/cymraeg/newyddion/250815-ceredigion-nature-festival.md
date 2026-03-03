@@ -9,6 +9,6 @@ categories:
   - Partnership
 author: Jake Rayson
 translationKey: "Inaugural Ceredigion Nature Festival"
-
+type: "news"
 ---
 The Ceredigion Nature Festival was fantastic. There were lots of people there and charities and donkeys.

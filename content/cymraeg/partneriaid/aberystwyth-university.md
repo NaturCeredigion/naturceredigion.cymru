@@ -14,6 +14,7 @@ partners_info:
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721735840/about-aberystwyth-university.webp
 translationKey: "Aberystwyth University"
+type: "partners"
 
 ---
 Rydym yn byw drwy argyfwng hinsawdd. Yn Aberystwyth, rydym yn arwain y sector o ran cynaliadwyedd, nid dim ond drwy ein hucheglais i ddod yn gampws carbon niwtral erbyn 2030, ond hefyd drwy ein haddysgu a’n hymchwil sy’n torri tir newydd i fynd i’r afael â’r newid yn yr hinsawdd.

@@ -14,7 +14,7 @@ partners_info:
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721746175/tir-canol-valley.jpg
 translationKey: "Tir Canol"
-
+type: "partners"
 ---
 ### Beth yw Tir Canol?
 Cymuned sy’n dylunio ac yn darparu canlyniadau positif i natur a phobl drwy ein defnydd o’r tir a’r môr.

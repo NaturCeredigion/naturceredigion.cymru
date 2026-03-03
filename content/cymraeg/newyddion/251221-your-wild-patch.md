@@ -9,7 +9,7 @@ categories:
   - Partnership
 author: Yusef Samari
 translationKey: "Introducing Your Wild Patch"
-
+type: "news"
 ---
 *Yusef Samari, WWBIC GIS Officer and Project Lead [yusef@westwalesbiodiversity.org.uk](mailto:yusef@westwalesbiodiversity.org.uk)*
 # Your Wild Patch

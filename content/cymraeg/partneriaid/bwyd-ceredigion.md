@@ -13,7 +13,7 @@ partners_info:
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722535217/bwyd-ceredigion-facebook.webp"
 translationKey: "Ceredigion Food Partnership"
-
+type: "partners"
 ---
 Mae’r Bartneriaeth yn gwahodd unigolion a busnesau preifat, ffermwyr a thyfwyr, llywodraeth leol, gwasanaethau iechyd, addysgwyr ac academyddion, yn ogystal ag elusennau a sefydliadau cymunedol, i gydweithio er mwyn creu strategaeth fwyd gynaliadwy a gwydn ar gyfer pobl Ceredigion. 
 

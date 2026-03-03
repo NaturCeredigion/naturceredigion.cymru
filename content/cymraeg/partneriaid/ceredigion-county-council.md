@@ -13,7 +13,7 @@ partners_info:
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721732647/ceredigion-council-coastal-walk-castell-bach.jpg"
 translationKey: "Ceredigion County Council"
-
+type: "partners"
 ---
 Mae Cyngor Sir Ceredigion wedi ymrwymo i reoli gwarchodfeydd natur lleol, ardaloedd morol a mannau gwyrdd. Rydym yn credu bod diogelu bioamrywiaeth yn rhan annatod o ddatblygu cynaliadwy.
 
