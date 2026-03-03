@@ -13,6 +13,8 @@ partners_info:
     content: Mwnt, Ystad yr Hafod, Penbryn, Ystad Llanerchaeron
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721731751/240720-llanerchaeron-meadow-house.webp
+translationKey: "National Trust"
+
 ---
 Fel elusen gadwraeth fwyaf Ewrop, rydym yn gofalu am natur, harddwch a hanes er mwyn i bawb eu mwynhau. Rydym yn gwneud hyn gyda chymorth miliynau o aelodau, gwirfoddolwyr, staff a rhoddwyr. Heb y cymorth hwn, ni fyddai modd inni ofalu am y milltiroedd o dir ar hyd yr arfordir, y coetiroedd, yr ardaloedd cefn gwlad na’r cannoedd o adeiladau, gerddi a chasgliadau hanesyddol gwerthfawr yr ydym yn eu gwarchod.
 

@@ -12,6 +12,8 @@ partners_info:
   content: "Coed y Cwm, Pen Dinas & Tanybwlch, Parc Natur Penglais"
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721732647/ceredigion-council-coastal-walk-castell-bach.jpg"
+translationKey: "Ceredigion County Council"
+
 ---
 At Ceredigion County Council we are dedicated to managing Local Nature Reserves, marine areas and green spaces. We believe that conserving biodiversity is an integral component of sustainable development.
 

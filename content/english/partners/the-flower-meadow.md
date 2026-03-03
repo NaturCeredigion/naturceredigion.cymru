@@ -13,6 +13,8 @@ partners_info:
     content: Situated in Penrhiwpal, a small village just north of Newcastle Emlyn
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1755099104/the-flower-meadow-background.jpg
+translationKey: "The Flower Meadow"
+
 ---
 Sara is a passionate flower farmer and the heart behind The Flower Meadow. On her small, sustainable flower farm in West Wales, she grows a variety of seasonal flowers, from vibrant sunflowers to delicate dahlias, all nurtured by hand and with a love for the earth.
 

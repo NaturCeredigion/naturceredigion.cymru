@@ -13,6 +13,8 @@ partners_info:
     content: ""
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722534148/llais-y-goedwig-axe.webp
+translationKey: "Llais y Goedwig"
+
 ---
  Rydym yn parhau i gael ein llywio gan fwrdd o wirfoddolwyr sy’n cynnwys aelodau a chefnogwyr Grwpiau Coetiroedd Cymunedol ac yn parhau i lynu wrth ethos gwreiddiol Llais y Goedwig, sef ymateb i anghenion a chyfarwyddyd ein haelodau.
 

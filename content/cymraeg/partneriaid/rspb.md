@@ -13,6 +13,8 @@ partners_info:
     content: Conwy, Gwlyptiroedd Casnewydd, Ynys-hir, Ynys Ddewi, Clogwyni Ynys Lawd
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721752441/Reed-Bunting-on-reed-with-warm-sunlight.webp
+translationKey: "RSPB"
+
 ---
 Rydyn ni’n gweithio ar draws Cymru i roi cartref i fywyd gwyllt. Mae RSPB Cymru yn rheoli 18 o warchodfeydd ledled y wlad, yn amrywio o ynysoedd alltraeth i gopaon mynyddoedd, o wlyptiroedd i goetiroedd. Rydyn ni’n diogelu cynefinoedd amrywiol er mwyn i’r rhywogaethau fyw ynddyn nhw, fel bod llefydd gwyllt a chreaduriaid gwyllt yma am genedlaethau i ddod.
 

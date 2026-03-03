@@ -13,6 +13,8 @@ partners_info:
     content: ""
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_640/v1766320053/251221-cardished-carving-workshop.jpg
+translationKey: "Cardished"
+
 ---
 
 ## Carpentry

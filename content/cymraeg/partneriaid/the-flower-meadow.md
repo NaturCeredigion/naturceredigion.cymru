@@ -13,6 +13,8 @@ partners_info:
     content: Wedi’i leoli ym Mhenrhiw-pâl, pentref bach i’r gogledd o Gastellnewydd Emlyn
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/v1755099104/the-flower-meadow-background.jpg
+translationKey: "The Flower Meadow"
+
 ---
 Sara sydd wrth wraidd The Flower Meadow, ac mae hi’n frwd dros ffermio blodau. Ar fy fferm flodau fach gynaliadwy yn y Gorllewin, rwy’n tyfu amrywiaeth o flodau tymhorol, o flodau haul llachar i dahlias tlws, pob un wedi’i dyfu â llaw, gan fod yn ystyriol o’r ddaear.
 

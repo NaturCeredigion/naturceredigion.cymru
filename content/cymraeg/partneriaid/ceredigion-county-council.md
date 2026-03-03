@@ -12,6 +12,8 @@ partners_info:
   content: "Coed y Cwm, Pen Dinas a Thanybwlch, Parc Natur Penglais"
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721732647/ceredigion-council-coastal-walk-castell-bach.jpg"
+translationKey: "Ceredigion County Council"
+
 ---
 Mae Cyngor Sir Ceredigion wedi ymrwymo i reoli gwarchodfeydd natur lleol, ardaloedd morol a mannau gwyrdd. Rydym yn credu bod diogelu bioamrywiaeth yn rhan annatod o ddatblygu cynaliadwy.
 

@@ -13,6 +13,8 @@ partners_info:
     content: ""
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722525603/cavo-website.webp
+translationKey: "CAVO"
+
 ---
 The CAVO Team champions volunteering and community action across Ceredigion, supporting everything from helping individuals find the right volunteering opportunity to providing grants that bring local projects to life. 
 

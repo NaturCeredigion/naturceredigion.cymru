@@ -12,6 +12,8 @@ partners_info:
   content: ""
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722535217/bwyd-ceredigion-facebook.webp"
+translationKey: "Ceredigion Food Partnership"
+
 ---
 The Partnership invites individuals and private businesses, farmers and growers, local government, health services, educators and academics as well as charities and community organisations to collaborate in creating a sustainable and resilient food strategy for the people of Ceredigion.
 

@@ -3,6 +3,7 @@ title: "Calendr digwyddiadau natur Ceredigion"
 description: "Rhestr wedi’i churadu o ddigwyddiadau natur a bywyd gwyllt Ceredigion"
 draft: false
 alias: "/calendr/"
+translationKey: "calendar"
 ---
 
 <iframe 

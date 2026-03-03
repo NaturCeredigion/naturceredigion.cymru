@@ -13,6 +13,8 @@ partners_info:
     content: Mwnt bay, Hafod Estate, Penbryn bay, Llanerchaeron estate
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721731751/240720-llanerchaeron-meadow-house.webp
+translationKey: "National Trust"
+
 ---
 As Europe’s largest conservation charity, we look after nature, beauty and history for everyone to enjoy. We do it with the help of millions of members, volunteers, staff and donors. Without this, we couldn’t care for the miles of coastline, woodlands, countryside and the hundreds of historic buildings, gardens and precious collections we protect.
 

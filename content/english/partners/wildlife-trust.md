@@ -13,6 +13,8 @@ partners_info:
     content: 93 nature reserves in West Wales, 18&nbsp;reserves in Ceredigion
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721753348/wildlife-trust-badger.webp
+translationKey: "Wildlife Trust of South & West Wales"
+
 ---
 The Wildlife Trust of South and West Wales is one of 46 Wildlife Trusts across the UK. We cover an area of 9,787 km² in South and West Wales - including around half of Wales’ coastline! We own and manage 110 nature reserves covering 2,007 hectares, 50 of which are designated SSSIs, 10 are National Nature Reserves and 4 are islands, including [Skomer](https://www.welshwildlife.org/visit/skomer-island) and [Skokholm](https://www.welshwildlife.org/visit/skokholm-island) island. We have around 800 volunteers and over 10,000 members!
 ### What we do

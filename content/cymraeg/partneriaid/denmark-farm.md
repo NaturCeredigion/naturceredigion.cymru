@@ -13,6 +13,8 @@ partners_info:
     content: Cronfa Arian Cyfatebol Gwyrdd, Fy Nghoeden Ein Coedwig, Dathlu’r 30, Cynaliadwyedd Dŵr
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721736351/bog-field-denmark-farm.webp
+translationKey: "Denmark Farm"
+
 ---
 Yng Nghanolfan Gadwraeth Fferm Denmark, ein nod yw tynnu sylw at y berthynas rhwng pobl a natur, gan archwilio gwerth ac amrywiaeth bywyd a thirweddau.
 

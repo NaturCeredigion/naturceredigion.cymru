@@ -6,6 +6,8 @@ altText: Grainy photo showing rows of new beds and fruit trees in a row
 caption: Wildlife pond
 draft: false
 alias: /small-grant-scheme
+translationKey: "small-grant-scheme"
+
 ---
 # Small Grant Scheme
 The Ceredigion Nature Partnership manages funding for capital projects focussed on “nature on your doorstep”, targeting biodiversity and disadvantaged communities.

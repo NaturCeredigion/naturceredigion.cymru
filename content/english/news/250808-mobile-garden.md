@@ -6,6 +6,7 @@ image: "https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v17
 author: "Jake Rayson"
 draft: false
 featured: false
+translationKey: "Mobile Wildlife Garden"
 ---
 1. Pond - 1000mm high, 1000mm diameter, durable plastic pipe fitted on waterproof wooden base. Delivered empty (!), please include delivery price. 
 2. Planter -  1 tonne bag filled with assorted rubble/sand/growing medium (TBC). 

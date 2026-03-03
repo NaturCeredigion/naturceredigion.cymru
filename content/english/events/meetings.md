@@ -6,6 +6,8 @@ altText: Meeting being held in university room with wood panelling and portraits
 caption: Partnership meeting at University Wales Trinity St David
 draft: false
 alias: /partnership-meetings/
+translationKey: "partnership-meetings"
+
 ---
 # Partnership meetings
 ![Meeting being held in university room with wood panelling and portraits on the wall, speaker at a podium with a crest of arms](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771518127/260219-partnership-meeting-uwtsd.jpg)<br>*Partnership meeting at University Wales Trinity St David*

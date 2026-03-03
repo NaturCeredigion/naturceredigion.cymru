@@ -13,6 +13,8 @@ partners_info:
     content: Green Match Fund, My Tree Our Forest, Celebrating our 30th Anniversary, Water Sustainability
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721736351/bog-field-denmark-farm.webp
+translationKey: "Denmark Farm"
+
 ---
 At Denmark Farm Conservation Centre, we aim to highlight the relationships between people and nature, exploring the value and diversity of life and landscapes.
 

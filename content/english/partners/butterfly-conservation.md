@@ -18,6 +18,8 @@ relations:
   - "[[wild-spaces]]"
 tags:
   - partner
+translationKey: "Butterfly Conservation"
+
 ---
 
 Butterfly Conservation chooses to be a leader in the fight for our natural world. To do that we need to build on our successes and be even more effective, to focus our resources to have a greater impact. We must build stronger collaborations, be part of nature’s recovery at a larger scale, and broaden our reach to ensure that everyone has access to and can enjoy the wonders of butterflies and moths.

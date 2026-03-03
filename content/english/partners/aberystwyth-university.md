@@ -18,6 +18,8 @@ relations:
   - "[[penglais-campus]]"
 tags:
   - partner
+translationKey: "Aberystwyth University"
+
 ---
 
 We’re living through a climate emergency. At Aberystwyth, we’re leading the sector in sustainability, not just in our ambitions to become a carbon neutral campus by 2030 but also through our teaching and our ground-breaking research into combatting climate change.  

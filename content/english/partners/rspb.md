@@ -13,6 +13,8 @@ partners_info:
     content: Conwy, Newport Wetlands, Ynys-hir, Ramsey Island, South Stack Cliffs
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721752441/Reed-Bunting-on-reed-with-warm-sunlight.webp
+translationKey: "RSPB"
+
 ---
 We work across Wales to give wildlife a home. RSPB Cymru manages 18 reserves across the country, ranging from offshore islands to mountain tops, from wetlands to woodlands. We’re safeguarding diverse habitats for the wildlife that live in them, to protect them for generations to come.
 

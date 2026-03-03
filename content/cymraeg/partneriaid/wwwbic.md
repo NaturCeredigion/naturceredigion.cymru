@@ -12,6 +12,8 @@ partners_info:
   content: "Ymholiadau bioamrywiaeth, gwirio rhestrau cynllunio, haenau rhybudd GIS, rheoli data, digideiddio, dosbarthiad rhywogaethau, dadansoddi a modelu data GIS"
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721751874/wwbic-Ramalina-fraxinea-Tremella-ramalinae.jpg"
+translationKey: "WWBIC"
+
 ---
 Mae Canolfan Gwybodaeth Bioamrywiaeth Gorllewin Cymru yn un o bedair Canolfan Gofnodi Leol ac mae'n cwmpasu siroedd Sir Benfro, Ceredigion a Sir Gaerfyrddin (ac eithrio Parc Cenedlaethol Bannau Brycheiniog).
 

@@ -13,6 +13,8 @@ partners_info:
     content: ""
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722534941/fwag-cymru-group.jpg
+translationKey: "Farmers Wildlife Advisory Group Cymru"
+
 ---
 For more than five decades, FWAG has provided trusted, independent environmental advice to the farming community, building a reputation for its ethical ethos and high standards of service.
 

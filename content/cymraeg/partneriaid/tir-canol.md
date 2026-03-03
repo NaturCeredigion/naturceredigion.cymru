@@ -13,6 +13,8 @@ partners_info:
     content: Ardal rhwng afonydd Dyfi a Rheidol sy’n estyn hyd at Lanidloes yn y dwyrain ac yn dringo i gopaon Pumlumon
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721746175/tir-canol-valley.jpg
+translationKey: "Tir Canol"
+
 ---
 ### Beth yw Tir Canol?
 Cymuned sy’n dylunio ac yn darparu canlyniadau positif i natur a phobl drwy ein defnydd o’r tir a’r môr.

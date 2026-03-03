@@ -12,6 +12,8 @@ partners_info:
   content: "Prosiect Brithegion Brown Bro Morgannwg, Prosiect Brithegion y Gors De Rhondda, Prosiect Partneriaeth Coedwigaeth"
 partners_images:
 - image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1722523415/butterfly-conservation-high-brown-fritillary-iain-h-leach.jpg"
+translationKey: "Butterfly Conservation"
+
 ---
 Mae Gwarchod Glöynnod Byw yn dewis bod ar flaen y gad yn y frwydr dros ein byd naturiol. I wneud hyn, mae angen inni adeiladu ar ein llwyddiannau a bod hyd yn oed yn fwy effeithiol, i roi ffocws i’n hadnoddau er mwyn iddynt gael mwy o effaith. Rhaid inni greu cyfleoedd cryfach i gydweithio, bod yn rhan o’r gwaith o adfer natur ar raddfa fwy, ac ymgyrraedd ymhellach i sicrhau bod pawb yn gallu cael mynediad i fyd rhyfeddol glöynnod byw a gwyfynod.
 ### Mae i’r strategaeth Achub Glöynnod Byw a Gwyfynod dri nod strategol
