@@ -4,6 +4,7 @@ draft: false
 description : "Mae Tîm Bioamrywiaeth Partneriaeth Natur Ceredigion yn gyfrifol am iechyd cyffredinol bywyd gwyllt ac ecosystemau Ceredigion."
 image: "https://res.cloudinary.com/naturceredigion/image/upload/w_500/f_auto/v1720624187/owlets-squareish.jpg"
 layout : contact
+translationKey: "contact"
 ---
 
 Mae Tîm Bioamrywiaeth Partneriaeth Natur Ceredigion yn gyfrifol am iechyd cyffredinol bywyd gwyllt ac ecosystemau Ceredigion.

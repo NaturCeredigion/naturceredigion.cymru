@@ -4,6 +4,7 @@ draft: false
 description : "The Biodiversity Team at Ceredigion Nature Partnership are responsible for the overall health of our wildlife and ecosystems in Ceredigion."
 image: "https://res.cloudinary.com/naturceredigion/image/upload/w_500/f_auto/v1720624187/owlets-squareish.jpg"
 layout : contact
+translationKey: "contact"
 ---
 
 The Biodiversity Team at Ceredigion Nature Partnership are responsible for the overall health of our wildlife and ecosystems in Ceredigion.

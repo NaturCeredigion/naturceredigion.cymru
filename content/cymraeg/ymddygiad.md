@@ -4,6 +4,7 @@ layout: "page-with-image"
 description: "Cod Ymddygiad Partneriaeth Natur Ceredigion"
 image: "https://res.cloudinary.com/growdigital/image/upload/w_1920/f_auto/v1753896665/250613-cilgerran-dragonfly.webp"
 draft: false
+translationKey: "conduct"
 ---
 
 Mae Partneriaeth Natur Leol Ceredigion (y Bartneriaeth) yn seiliedig ar themâu amrywiaeth, cynwysoldeb, cydraddoldeb, cynaliadwyedd a hygyrchedd, ac mae’n dod â chyfranogwyr o wahanol gefndiroedd ynghyd o bob rhan o Geredigion a Chymru. Rydym yn gwneud ein gorau glas i sicrhau bod y Bartneriaeth yn ofod proffesiynol diogel a chroesawgar i bob aelod. I sicrhau bod hyn yn digwydd, rydym yn disgwyl i bob aelod ymlynu wrth y cod ymddygiad hwn bob amser pan fydd yn rhyngweithio â’r Bartneriaeth ac ar bob llwyfan y gellir ei gyrchu fel rhan o’r Bartneriaeth (fel gwefannau, cyfryngau cymdeithasol ac unrhyw lwyfan arall).

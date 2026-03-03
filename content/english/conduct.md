@@ -4,6 +4,7 @@ layout: "page-with-image"
 description: "The Code of Conduct for Ceredigion Local Nature Partnership"
 image: "https://res.cloudinary.com/growdigital/image/upload/v1753896665/w_1920/f_auto/250613-cilgerran-dragonfly.webp"
 draft: false
+translationKey: "conduct"
 ---
 
 The Ceredigion Local Nature Partnership (henceforth the Partnership) is based on the themes of diversity, inclusivity, equality, sustainability and accessibility and brings together participants from around Ceredigion and Wales with diverse backgrounds. We strive to ensure that the Partnership will be a safe and welcoming professional space for all members. To guarantee this, we expect all members to abide by this code of conduct, in all their interactions related to the Partnership and on all platforms which can be accessed as part of the Partnership (such as websites, social media and any other platform).

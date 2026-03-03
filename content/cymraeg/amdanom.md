@@ -4,6 +4,7 @@ layout: "about"
 image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/090211-Gliophorus-psittacinus-Chukchi-waxcap-portrait.jpg"
 background_shape: "images/banner-shape.png"
 draft: false
+translationKey: "about-us"
 
 # Fy mhrofiadau
 my_experiences:

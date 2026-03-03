@@ -4,6 +4,7 @@ layout: "page-with-image"
 description: "Copyright and licensing for Ceredigion Nature Partnership"
 image: "https://res.cloudinary.com/growdigital/image/upload/w_1920/f_auto/v1753896665/250613-cilgerran-dragonfly.webp" 
 draft: false
+translationKey: "licensing"
 ---
 
 - Logos & idents copyright of individual organisations
