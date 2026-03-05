@@ -13,8 +13,7 @@ partners_info:
     content: Cleddau Trail, Teifi Valley Trail
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721751043/west-wales-rivers-trust-towy.jpg
-translationKey: "West Wales Rivers Trust"
-
+translationKey: West Wales Rivers Trust
 ---
 Our vision is an enhanced living landscape, where communities value their local rivers and where productive land use and clean rivers with flourishing wildlife populations exist in harmony in catchments that are resilient to changing climates, so that rivers may continue to provide benefits for both people and wildlife.
 

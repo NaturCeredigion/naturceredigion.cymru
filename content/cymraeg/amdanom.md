@@ -14,24 +14,28 @@ my_experiences:
 
   experiences_item:
   - title: "Sarah Smyth"
-    job_title: "Uwch-ecolegydd Dros Dro"
-    enthusiasms: "Bywyd"
+    job_title: "Ecolegydd Uwch Dros Dro"
+    enthusiasms: "Canolbarth Gogledd Ceredigion. Coedlannau, bywyd y môr, Dyfrgwn a Draenogod, nofio yn y môr a phadlfyrddio 🏊️"
 
   - title: "Gillian Clark"
-    job_title: "Swyddog Cymorth Gwasanaethau"
-    enthusiasms: "Bywyd"    
+    job_title: "Cydlynydd Bioamrywiaeth"
+    enthusiasms: "Gorllewin Ceredigion. Cefnforoedd a moroedd, morloi, ymlusgiaid… Metel Trwm 🤘"    
+
+  - title: "Norman Birch"
+    job_title: "Swyddog Coed"
+    enthusiasms: "Dyffryn Aeron. Coed, coedyddiaeth, rheoli coedlannau, adfer prysglwyni’n gynaliadwy, cŵn saethu, hunan-gynhaliaeth ac amaethyddiaeth atgynhyrchiol, gwaith coed a thechnegau adeiladu traddodiadol, gwleidyddiaeth, teithio 🌳"
 
   - title: "Chris Harris"
-    job_title: "Cynorthwyydd Bioamrywiaeth"
-    enthusiasms: "Bywyd, canol Ceredigion"
+    job_title: "Cynorthwyydd Bioamrywiaeth, Rheolwr Gwarchodfeydd"
+    enthusiasms: "Canolbarth-Gogledd Ceredigion. 1000tr i fyny, coedlannau, bywyd gwyllt, cadwraeth, chwaraeon, hanes, teulu, bwyta iach, teithio 🐿️"
 
   - title: "Fiona Moran"
     job_title: "Cynorthwyydd Bioamrywiaeth"
-    enthusiasms: "Bywyd, gogledd Ceredigion"
+    enthusiasms: "Gogledd Ceredigion. Biosffer Dyfi, coedlannau, ecoleg, cymuned, cyswllt â  natur, gwersylla 🏕️"
 
   - title: "Jake Rayson"
     job_title: "Cynorthwyydd Bioamrywiaeth"
-    enthusiasms: "Grŵp Glaswelltir Ceredigion, gweirgloddiau coetir, gerddi coedwig, de Ceredigion"
+    enthusiasms: "De Ceredigion. Gweirgloddiau coed, gerddi coedwig, planhigion brodorol, Meddalwedd Open Source 🤓"
 
 about_info:
   enable: true

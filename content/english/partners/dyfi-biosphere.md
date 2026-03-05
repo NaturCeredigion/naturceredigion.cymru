@@ -13,8 +13,7 @@ partners_info:
     content: Cors Fochno, Coed Cwm Einion, Pen Llŷn a’r Sarnau
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721736803/dyfi-biosphere-view-trees.jpg
-translationKey: "Dyfi Biosphere"
-
+translationKey: Dyfi Biosphere
 ---
 ## Principles of Dyfi Biosphere
 1. People – their attitudes and activities – are central to the Biosphere process.

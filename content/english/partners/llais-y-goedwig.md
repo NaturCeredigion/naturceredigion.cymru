@@ -13,8 +13,7 @@ partners_info:
     content: ""
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722534148/llais-y-goedwig-axe.webp
-translationKey: "Llais y Goedwig"
-
+translationKey: Llais y Goedwig
 ---
 Llais y Goedwig literally translates as ‘voice of the woodlands’. We continue to be steered by a volunteer board made up of CWG members and supporters and continue to adhere to the original LlyG ethos of responding to the needs and direction of our members.
 

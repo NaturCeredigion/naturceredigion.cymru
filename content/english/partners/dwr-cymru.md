@@ -1,7 +1,7 @@
 ---
 title: Welsh Water
 date: 2020-07-07T05:00:00Z
-draft: true
+draft: false
 description: A not-for-profit company which supplies drinking water and wastewater services to most of Wales
 weight: 1
 categories:
@@ -13,8 +13,7 @@ partners_info:
     content: Llys-y-Frân, Pembrokeshire
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1720623561/dwr-cymru-valley.jpg
-translationKey: "Welsh Water"
-
+translationKey: Welsh Water
 ---
 <small><i>Photo copyright © Dwr Cymru, all rights reserved</i></small>
 

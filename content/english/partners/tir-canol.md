@@ -13,8 +13,7 @@ partners_info:
     content: Area between the rivers Dyfi and Rheidol and over to Llanidloes in the East, with the Pumlumon massif as it’s highest point
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1721746175/tir-canol-valley.jpg
-translationKey: "Tir Canol"
-
+translationKey: Tir Canol
 ---
 ### What is Tir Canol?
 A community that’s designing and providing positive outcomes for nature and people through our use of the land and sea.

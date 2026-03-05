@@ -4,12 +4,16 @@ draft: false
 description: How to add different content to the website
 ---
 How to add:
-- News post
-- Partner
-- Site
-- Project
+1. News post
+2. Partner
+3. Site
+4. Project
 
-## Partner
+## 1. News post
+- Page with top header banner image and H1 add this to Frontmatter `layout: "page-with-image"`
+- Possibly main image and caption, wrapped in `<figure>` tag?
+
+## 2. Partner
 ![](https://res.cloudinary.com/naturceredigion/image/upload/w_420/v1772023314/260225-naturceredigion-partners-page.webp)
 - Logo (preferably SVG vector format)
 - 15-20 word summary

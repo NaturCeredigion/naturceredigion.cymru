@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/about.md",
+                "file": "english/partners/wwrt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "wwrt"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/about.md",
+                "file": "english/partners/wwrt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for about"
+              "title": "Backlinks for wwrt"
             }
           },
           {
@@ -172,6 +172,17 @@
   "active": "9690bb68ddb11ec2",
   "lastOpenFiles": [
     "english/partners/tir-canol.md",
+    "english/partners/llais-y-goedwig.md",
+    "english/partners/dyfi-biosphere.md",
+    "english/partners/dwr-cymru.md",
+    "english/partners/coed-lleol.md",
+    "english/partners/aberystwyth-university.md",
+    "english/partners/rspb.md",
+    "english/partners/cavo.md",
+    "english/partners/wwrt.md",
+    "english/news/_index.md",
+    "cymraeg/newyddion/_index.md",
+    "english/about.md",
     "cymraeg/trwyddedu.md",
     "cymraeg/preifatrwydd.md",
     "cymraeg/ymddygiad.md",
@@ -187,17 +198,6 @@
     "cymraeg/partneriaid/the-flower-meadow.md",
     "cymraeg/partneriaid/rspb.md",
     "cymraeg/partneriaid/national-trust.md",
-    "cymraeg/partneriaid/llais-y-goedwig.md",
-    "cymraeg/partneriaid/gwct.md",
-    "cymraeg/partneriaid/fwag-cymru.md",
-    "cymraeg/partneriaid/dyfi-biosphere.md",
-    "cymraeg/partneriaid/dwr-cymru.md",
-    "cymraeg/partneriaid/denmark-farm.md",
-    "cymraeg/partneriaid/coed-lleol.md",
-    "cymraeg/partneriaid/ceredigion-county-council.md",
-    "cymraeg/partneriaid/cavo.md",
-    "cymraeg/partneriaid/bwyd-ceredigion.md",
-    "cymraeg/partneriaid/butterfly-conservation.md",
     "cymraeg/partneriaid",
     "cymraeg/digwyddiadau",
     "cymraeg/newyddion",

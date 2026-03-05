@@ -13,8 +13,7 @@ partners_info:
     content: ""
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722534359/coed-lleol-team.jpg
-translationKey: "Coed Lleol"
-
+translationKey: Coed Lleol
 ---
 [Small Woods](https://www.smallwoods.org.uk/) is a national charity and company limited by guarantee, with woodland programmes in England, Wales and Scotland. Small Woods was formed in 1988 as the national organisation for small woodlands, it has a significant track record in managing Social Forestry projects, as well as projects to promote sustainable management of small woodlands for social, environmental and economic benefit.
 
