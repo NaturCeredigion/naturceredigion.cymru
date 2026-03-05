@@ -1,19 +1,20 @@
 ---
-title: "WWBIC"
+title: WWBIC
 date: 2020-03-07T05:00:00Z
-draft: false
-description: "Canolfan Gwybodaeth Bioamrywiaeth Gorllewin Cymru yw’r Ganolfan Cofnodion Amgylcheddol Leol ar gyfer Sir Benfro, Ceredigion a Sir Gaerfyrddin"
+draft: true
+description: Canolfan Gwybodaeth Bioamrywiaeth Gorllewin Cymru yw’r Ganolfan Cofnodion Amgylcheddol Leol ar gyfer Sir Benfro, Ceredigion a Sir Gaerfyrddin
 weight: 2
-categories: ["Corff cyhoeddus"]
-thumbnail: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623557/wwbic.png"
-partners_website_link: "https://www.wwbic.org.uk/cy/"
+categories:
+  - Corff cyhoeddus
+thumbnail: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_480/v1720623557/wwbic.png
+partners_website_link: https://www.wwbic.org.uk/cy/
 partners_info:
-- title: "Gwasanaethau:"
-  content: "Ymholiadau bioamrywiaeth, gwirio rhestrau cynllunio, haenau rhybudd GIS, rheoli data, digideiddio, dosbarthiad rhywogaethau, dadansoddi a modelu data GIS"
+  - title: "Gwasanaethau:"
+    content: Ymholiadau bioamrywiaeth, gwirio rhestrau cynllunio, haenau rhybudd GIS, rheoli data, digideiddio, dosbarthiad rhywogaethau, dadansoddi a modelu data GIS
 partners_images:
-- image: "https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721751874/wwbic-Ramalina-fraxinea-Tremella-ramalinae.jpg"
-translationKey: "WWBIC"
-type: "partners"
+  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721751874/wwbic-Ramalina-fraxinea-Tremella-ramalinae.jpg
+translationKey: WWBIC
+type: partners
 ---
 Mae Canolfan Gwybodaeth Bioamrywiaeth Gorllewin Cymru yn un o bedair Canolfan Gofnodi Leol ac mae'n cwmpasu siroedd Sir Benfro, Ceredigion a Sir Gaerfyrddin (ac eithrio Parc Cenedlaethol Bannau Brycheiniog).
 

@@ -1,7 +1,7 @@
 ---
 title: Ceredigion Association of Voluntary Organisations CAVO
 date: 2020-08-07T05:00:00Z
-draft: false
+draft: true
 description: CAVO promotes, supports and empowers voluntary community action in Ceredigion.
 weight: 2
 categories:
