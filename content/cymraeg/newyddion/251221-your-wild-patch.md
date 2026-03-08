@@ -1,5 +1,5 @@
 ---
-title: Introducing Your Wild Patch
+title: Cyflwyno Eich Darn Gwyllt
 date: 2025-12-21T12:28:34+00:00
 description: Exciting new project, with custom wildlife ID areas and dashboards. Guest post by Yusef Samari
 image: https://res.cloudinary.com/naturceredigion/image/upload/w_640,h_360/v1764533266/251130-your-wild-patch-dashboard.jpg
@@ -8,61 +8,75 @@ featured: true
 categories:
   - Partnership
 author: Yusef Samari
-translationKey: "Introducing Your Wild Patch"
-type: "news"
+translationKey: Introducing Your Wild Patch
+type: news
 ---
-*Yusef Samari, WWBIC GIS Officer and Project Lead [yusef@westwalesbiodiversity.org.uk](mailto:yusef@westwalesbiodiversity.org.uk)*
-# Your Wild Patch
-What wildlife is living in your local patch – be that your garden, favourite nature reserve, local park, or whatever ‘your patch’ means to you? How is your patch contributing to the wider biodiversity of your area? What contribution could it potentially make? These are the kind of questions we would like to get people thinking about in the ‘Your Wild Patch’ project, which aims to both build natural history and recording skills in the community, and to help people to use those skills to record the wildlife on their local patch – or further afield! This project, running until March 2027, is funded by Welsh Government’s Local Places for Nature biodiversity grant scheme, via the Ceredigion, Carmarthenshire and Pembrokeshire Local Nature Partnerships, who we are working closely with on the project.
-![](https://res.cloudinary.com/naturceredigion/image/upload/w_300/v1764532625/251130-your-wild-patch-logo.png)
-*Current project logo – artwork by Carys May*
+_Yusef Samari, Swyddog GIS CGBGC ac Arweinydd Prosiect_ [_yusef@westwalesbiodiversity.org.uk_](mailto:yusef@westwalesbiodiversity.org.uk)
 
-Over the next two years, we will be developing a system for people to adopt a patch to record, alongside resources to help them start to identify their local wildlife and put their findings into context. We will also be running a program of sessions called ‘West Wales Wild Watch’ - regular, open recording sessions, at locations around the region, where people can develop their skills in an informal group setting. Get in touch to be added to the mailing list if you want more details on these!
+Pa fath o fywyd gwyllt sy’n byw yn eich lle gwyllt chi – eich gardd, eich hoff warchodfa natur, parc lleol neu beth bynnag mae ‘eich lle’ yn ei olygu i chi? Sut mae eich lle chi yn cyfrannu at fioamrywiaeth ehangach yn eich ardal? Pa gyfraniad y gallai ei wneud? 
 
-We are still in the early stages of the project, and are working with various groups, from beginners to seasoned recorders, to help us trial and develop resources. If you are interested in taking part, or hosting some recording sessions on your patch, please get in touch! This article outlines what we’ve been up to so far, what we have learned and where we are heading.
-## Work so far – resources
-### Recording Summaries
-These ‘recording summaries’ can be produced for any OS 1km square, or for any site boundary. The example below is for my ‘home square’ – including the southern portion of Cardigan and surrounding countryside. This summary gives an overall summary of the total records from the square, maps them and breaks down the number of different species recorded per taxon group. It also breaks down the number of records per year, to give an idea of periods of recording intensity. These are meant to complement the existing ‘What’s in My Area’ function on Aderyn, where users can search for a non-sensitive species list for any 1km square - [aderyn.lercwales.org.uk/public/search](https://aderyn.lercwales.org.uk/public/search)
-![](https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1764533266/251130-your-wild-patch-dashboard.jpg)
-*A recording summary for the Ordnance Survey 1km square SN1745*
+Dyma’r math o gwestiynau yr hoffem i bobl feddwl amdanyn nhw yn y prosiect ‘Eich Darn Gwyllt’, oherwydd nod hwnnw yw adeiladu hanes natur a chofnodi sgiliau yn y gymuned. Wedyn i ddefnyddio’r sgiliau hynny i gofnodi bywyd gwyllt yn eu lle gwyllt lleol – neu ymhellach i ffwrdd! 
 
-Many people are amazed to see just how many species have been recorded from their square, particularly if they are unfamiliar with certain groups and were not expecting to see hundreds of species of moth, or dozens of species of mollusc! Equally, many are amazed to see how few species have been recorded from certain groups. 
+Mae’r prosiect hwn a fydd yn para tan fis Mawrth 2027, yn cael ei redeg dan gynllun grant bioamrywiaeth Lleoedd Lleol ar gyfer Natur dan Lywodraeth Cymru. A chyda Phartneriaethau Natur Lleol Ceredigion, Sir Gaerfyrddin a Sir Benfro rydym yn gweithio’n agos ar y prosiect.
 
-So far, we have produced over 100 of these square summaries, and have yet to find one that doesn’t appear to have obvious gaps in at least one species group, even for squares with very large numbers of total records. These summaries are a work in progress and there are many ways they can be improved.
+![Your Wild Patch circular logo](https://res.cloudinary.com/naturceredigion/image/upload/w_300/f_auto/v1764532625/251130-your-wild-patch-logo.png)<br>
+_Logo presennol y prosiect – gwaith celf gan Carys May_
 
-Nonetheless, even in their current form though, they have been very effective in highlighting gaps, generating conversation and in many cases, motivating people to get out and try and fill those gaps.
+Yn ystod y dwy flynedd nesaf byddwn yn datblygu system i bobl gael mabwysiadu darn i’w gofnodi, ynghyd ag adnoddau i’w helpu i nodi eu bywyd gwyllt lleol a gosod eu darganfyddiadau mewn cyd-destun. Byddwn hefyd yn rhedeg rhaglen o sesiynau ‘Gwylio Bywyd Gwyllt Gorllewin Cymru’ – sesiynau cofnodi agored rheolaidd o gwmpas yr ardal, lle gall pobl ddatblygu eu sgiliau mewn grwpiau anffurfiol. Cysylltwch â ni i ychwanegu eich enw at y rhestr bostio os hoffech gael rhagor o fanylion am hyn!
 
-For example, I can see there are only 2 species of fungi recorded from my square, and no bryophytes, which gives me some interesting winter focuses as I look to improve on both of those groups.
-### ‘Starter Species Lists’
-These documents are produced to go alongside and complement the recording summaries. They provide a list of 100 readily identifiable species, covering all the major species groups outlined in the recording summary, and also note when they were last recorded in the patch, if at all – at least according to records held by WWBIC. Familiar species have deliberately been included. 
+Newydd ddechrau mae’r prosiect, a rydym yn gweithio gydag amrywiol grwpiau, o ddechreuwyr i gofnodwyr profiadol, i’n helpu i dreialu a datblygu adnoddau. Os hoffech gymryd rhan, neu os hoffech drefnu rhai o’r sesiynau cofnodi yn eich ardal, cofiwch gysylltu! Mae’r erthygl hon yn amlinellu’r hyn rydym wedi ei wneud hyd yma, beth rydym wedi ei ddysgu ac i ble rydym yn mynd.
+## Gwaith hyd yma – adnoddau
+### Crynodebau Cofnodi
+Gall y ‘crynodebau cofnodi’ hyn gael eu cynhyrchu ar gyfer unrhyw sgwâr 1km OS, neu ar gyfer ffin un rhyw safle. Er enghraifft, isod mae fy ‘sgwâr cartref’ i – yn cynnwys rhan ddeheuol Aberteifi a’r wlad o gwmpas. 
 
-For some of the often lesser-known groups, such as lichens, mosses, fungi and most invertebrates, a selection of species have been chosen that are relatively easy to identify for the beginner, have obvious features that can be confirmed without microscopy, and are very likely to be present in most patches. The screenshot below shows just the upper portion of the list for my home square.
+Mae’r crynodeb hwn yn rhoi talfyriad cyffredinol o’r holl gofnodion o’r sgwâr, yn eu mapio ac yn dadansoddi nifer y gwahanol rywogaethau sydd wedi eu cofnodi ar gyfer pob grŵp tacson. Mae hefyd yn dadansoddi nifer y cofnodion bob blwyddyn, i roi syniad o ddwysedd y dadansoddi. Y bwriad yw iddynt ychwanegu at y ‘Beth sydd yn fy Ardal i ar Aderyn, lle gall defnyddwyr chwilio am restr amhenodol ar gyfer unrhyw sgwâr o 1km - [aderyn.lercwales.org.uk/public/search](https://aderyn.lercwales.org.uk/public/search) 
 
-![](https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1764533420/251130-your-wild-patch-starter-species-list-screenshot-table.jpg)
-*Excerpt from a ‘Starter Species List’ for SN1745*
+![Infographic dashboard for wildlife observations, showing maps, tables and bar charts](https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1764533266/251130-your-wild-patch-dashboard.jpg)<br>
+_Crynodeb cofnodi ar gyfer sgwâr 1lm Arolwg Ordnans SN1745_
 
-The list is not proscriptive of what to record, but it is hoped that it can provide some good starting points, for those that would find that helpful, especially beginners, for who recording can potentially seem like an endless and daunting task. The full list of 100 species prints onto one double-sided sheet of A4, so we have been able to take one along to each session we have run, specific for that location.
+Mae llawer o bobl yn rhyfeddu gweld cynifer o rywogaethau sydd wedi eu cofnodi o’u sgwâr nhw, yn enwedig os nad ydynt yn gyfarwydd â rhai grwpiau neu heb fod yn disgwyl gweld cannoedd o fathau o wyfynod, neu ddwsinau o folysgiaid! Yn yr un ffordd, bydd llawer yn rhyfeddu gweld cyn lleied o fathau sydd wedi eu cofnodi o rai rhywogaethau.
 
-Most of the time, when these are shown to a group, at least one person exclaims “ooh, I’ve seen that here before!”. Even though the list is full of common species, we have yet to come across a square for which this list is ‘complete’, or even one which has at least one ‘tick’ for every species group!
-## Work so far – events
-As of 19th November 2025, we have run 29 recording events across the region, including 10 each in Ceredigion and Pembrokeshire and 9 in Carmarthenshire, with a total of 176 attendees so far and 200+ people on the mailing list. This will probably be out of date by the time you read this, so check here for the latest info – [wwbic.org.uk/projects/your-wild-patch-eich-darn-gwyllt/](https://www.wwbic.org.uk/projects/your-wild-patch-eich-darn-gwyllt/)
+Hyd yn hyn rydym wedi cynhyrchu dros 100 o’r crynodebau hyn, a dydyn ni ddim eto wedi dod ar draws un lle nad oes bylchau amlwg mewn o leiaf un grŵp, hyd yn oed ar gyfer sgwariau gyda nifer fawr o grynodebau cofnodi. Mae’r gwaith ar y crynodebau hyn yn parhau, ac mae nifer o ffyrdd y gellir eu gwella.
 
-Most of these have been advertised as part of our ‘**West Wales** **Wild** **Watch**’ series. These are free, open, informal sessions that provide a space for identification and recording training, and an opportunity to practise skills in a friendly group setting. Each session usually runs from 10am – 1pm. We cover the basics of recording, introduce the LERC Wales app, then explore the local habitats, identifying and recording what we find along the way, focusing on different groups in different seasons.
+Fodd bynnag, hyd yn oed yn eu ffurf bresennol, maent wedi bod yn ffordd effeithiol iawn i dynnu sylw at fylchau gan gychwyn trafodaeth, ac mewn llawer achos yn ysgogi pobl i fynd allan i geisio llenwi’r bylchau hynny.
 
-![](https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1764533558/251130-your-wild-patch-events-montage.jpg)
-*Photos from WWBIC recording/ training events – from both Your Wild Patch and Recording Toolkit projects.*
+Er enghraifft, rwy’n gweld mai 2 rywogaeth yn unig sydd wedi eu cofnodi o ffyngau yn fy sgwâr i, a dim bryoffytau, sy’n rhoi syniadau diddorol imi ganolbwyntio arnynt yn y gaeaf wrth geisio gwella’r ddau grŵp hyn.
 
-As well as these open, outdoor sessions, we continue to run more focused training with specific community groups, often featuring an indoor classroom session. Groups we have worked with so far include Carmarthenshire Meadows Group, Parc Cerrig Community Garden from Goodwick, Borth Community Hub, Pobwl y Fforest at Keepers, Brechfa and several others. 
+### ‘Rhestri Rhywogaethau Cychwyn’
+Caiff y dogfennau hyn eu paratoi i gyd-fynd â’r crynodebau cofnodi ac ychwanegu atynt. Maent yn rhoi rhestr o 100 o rywogaethau sy’n hawdd eu hadnabod, gan gwmpasu’r holl brif rywogaethau wedi eu cofnodi yn y crynodebau cofnodi. Maent hefyd yn dweud pryd y cawsant eu cofnodi ddiwethaf yn y sgwâr, os o gwbl - o leiaf yn ôl y cofnodion sydd gan CGBGC. Mae rhywogaethau cyfarwydd wedi eu cynnwys yn fwriadol. 
 
-Feedback from the sessions have been very positive, with responses indicating the sessions have helped people to build confidence in recording and identification, and to notice more in nature. We are starting to see a small but steadily growing cohort of regular attendees and regular recorders emerge.
-## Where we’re going
-The map below shows event locations for the project and all the 1km squares for which we have sent out information packs to people, as of 18/11/2025. In addition to this, something like 45 people have been sent resources for specific site boundaries, which are also spread across the region, and range from private gardens covering a few square metres, to community woodlands covering hundreds of hectares.
+Ar gyfer rhai o’r grwpiau llai cyfarwydd, megis cen, ffyngau a’r rhai fwyaf o greaduriaid di-asgwrn-cefn, mae detholiad o rywogaethau wedi eu dewis sy’n gymharol hawdd i’r dechreuwr eu hadnabod, gyda nodweddion amlwg y gellir eu cadarnhau heb gymorth microsgop ac sy’n debygol o fod yn bresennol yn y rhan fwyaf o ddarnau tir. Mae’r llun yn dangos rhan uchaf y rhestr yn unig ar gyfer fy sgwâr cartref i.
 
-![](https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1764533645/251130-your-wild-patch-engagement-map.jpg)
-*Locations of events and squares that have been sent resources for the project so far*
+![Screenshot of table of species from WWBIC starter species list](https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1764533420/251130-your-wild-patch-starter-species-list-screenshot-table.jpg)<br>
+_Detholiad o ‘Rhestr Rhywogaethau Cychwyn’ ar gyfer SN1745_
 
-Even at this early stage of the project, this represents a significant reach. We plan to keep on building and growing this community, but we also want to help them to build their skills, and put those skills to use. The next step is refining what ‘adopting’ a patch might formally look like. 
+Dydy’r rhestr hon ddim yn cynnwys popeth y gellir ei gofnodi, ond gobeithio y gall ddarparu mannau cychwyn da i’r rheiny a fyddai’n gweld hynny’n ddefnyddiol, yn enwedig dechreuwyr. Iddyn nhw gall cofnodi ymddangos yn dasg ddiddiwedd a thorcalonnus. Gellir printio’r rhestr gyfan o 100 o rywogaethau ar ddwy ochr dalen A4, felly rydym wedi gallu mynd ag un copi i bob sesiwn sydd wedi ei rhedeg, yn benodol ar gyfer y lleoliad hwnnw.
 
-We are taking an open, co-design approach to this process, starting out with conversations with our local partners in conservation who use WWBIC data, local species experts, budding and seasoned recorders, and the various groups we are working with. This is a slower approach than us just knocking something together, but hopefully increases the chances of creating something meaningful and robust. We aim to work towards a flexible ‘recording plan’ that can be followed over a year for a patch, that works through the different species groups, seasons, habitats, and links into local nature recovery objectives.
+Y rhan fwyaf o’r amser, pan gaiff y rhain eu dangos i grŵp, bydd o leiaf un person yn dweud ‘o, rydw i wedi gweld hwn yma o’r blaen!’. Er bod y rhestr yn llawn o rywogaethau cyfarwydd, dydyn ni ddim wedi dod ar draws sgwâr lle mae’r rhestr hon yn ‘gyflawn’, neu hyd yn oed un sydd ag o leiaf un marc am bob grŵp o rywogaethau!
 
-There will be plenty to do over the next 18 months, which is why we are currently recruiting for a full-time Project Officer to support WWBIC staff on the project. Keep your eyes peeled for that advert soon, and watch this space for future updates! If you would like to join any West Wales Wild Watch events, or receive any information on your own patch, get in touch!
+## Gwaith hyd yma - digwyddiadau
+Ers 19 Tachwedd 2025 rydym wedi rhedeg 29 o ddigwyddiadau cofnodi ledled y rhanbarth, 10 yr un yng Ngheredigion a Sir Benfro a 9 yn Sir Gaerfyrddin gyda 176 o bobl yn bresennol a 200+ o enwau ar y rhestr bostio. Mae’n siwr y bydd y rhestr hon yn hen erbyn ichi ei darllen, felly darllenwch y wybodaeth ddiweddaraf yn – [wwbic.org.uk/projects/your-wild-patch-eich-darn-gwyllt/](https://www.wwbic.org.uk/projects/your-wild-patch-eich-darn-gwyllt/)
+
+Mae’r rhan fwyaf o’r rhain wedi eu hysbysebu fel rhan o’n cyfres ‘**Bywyd Gwyllt Gorllewin Cymru’**. Sesiynau agored, anffurfiol am ddim yw’r rhain sy’n rhoi lle i nodi a chofnodi hyfforddiant, a chyfle i ymarfer sgiliau mewn grŵp cyfeillgar. Bydd pob sesiwn fel rheol yn digwydd o 10am i 1pm. Byddwn yn cynnwys sgiliau sylfaenol cofnodi, yn cyflwyno app LERC Cymru, yna’n cyflwyno cynefinoedd lleol, ac yn nodi a chofnodi’r hyn welwn ni ar y ffordd, gan ganolbwyntio ar wahanol grwpiau mewn gwahanol dymhorau.
+
+![Montage of photos of people IDing species in different situations](https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1764533558/251130-your-wild-patch-events-montage.jpg)<br>
+_Lluniau o ddigwyddiadau cofnodi/hyfforddi CGBGC – o’r prosiectau Eich Darn Gwyllt a’r Pecyn Cofnodi._
+
+Yn ogystal â’r sesiynau agored hyn yn yr awyr agored, rydym yn dal i ddarparu hyfforddiant yn canolbwyntio mwy, ac yn arbennig gyda grwpiau cymunedol yn aml yn cynnwys sesiwn ystafell ddosbarth dan do. Ymhlith y grwpiau rydym wedi gweithio gyda nhw hyd yma mae Carmarthenshire Meadows Group, Gardd Gymunedol Parc Cerrig yn Wdig, Pobl y Fforest yn Keepers, Brechfa a nifer o rai eraill.
+
+Mae’r adborth o’r sesiynau wedi bod yn gadarnhaol iawn, a'r ymatebion yn dangos bod y sesiynau wedi helpu pobl i fod yn hyderus wrth gofnodi a nodi ac wrth sylwi ar natur. Rydym yn dechrau gweld nifer fach sy’n tyfu’n gyson o bobl yn dod yn rheolaidd a chofnodi’n rheolaidd.
+
+## I ble rydym yn mynd
+Yn y map isod gwelir lleoliadau digwyddiadau ar gyfer y prosiect, a'r holl sgwariau 1km lle rydym wedi anfon pecynnau gwybodaeth at bobl ar 18/11/2025. At hynny, mae tua 45 o bobl wedi cael adnoddau ar gyfer ffiniau safleoedd penodol ar draws y rhanbarth. Mae’r rhain yn amrywio o ychydig fetrau sgwâr i goedlannau cymunedol o gannoedd o hectarau.
+
+![Map of Your Wild Patch engagement across Ceredigion, Pembrokeshire and Carmarthenshire](https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1764533645/251130-your-wild-patch-engagement-map.jpg)<br>
+_Lleoliadau digwyddiadau a sgwariau lle mae pobl wedi cael adnoddau ar gyfer y prosiect hyd yma_
+
+Hyd yn oed mor gynnar â hyn yn hanes y prosiect, mae hwn yn gylch sylweddol. Bwriadwn ddal i adeiladu a thyfu’r gymuned hon, ond rydyn ni hefyd am eu helpu i gynyddu eu sgiliau a’u defnyddio’n dda. Y cam nesaf yw gwella’r hyn y gall ‘mabwysiadu’ darn tir ei olygu’n ffurfiol.
+
+Rydym yn defnyddio dull agored o gyd-gynllunio yn y broses hon, gan gychwyn drwy sgyrsiau gyda’n harbenigwyr lleol mewn cadwraeth sy’n defnyddio data CGBGC, arbenigwyr rhywogaethau lleol, cofnodwyr addawol a phrofiadol a’r amrywiol grwpiau rydym yn gweithio gyda nhw. Mae hwn yn ddull arafach na dim ond taro rhywbeth at ei gilydd, ond gobeithio’i fod yn cynyddu’r cyfle i greu rhywbeth ystyrlon a chadarn. 
+
+Rydym yn anelu at weithio tuag at ‘gynllun cofnodi’ y gellir ei ddilyn am flwyddyn ar gyfer darn tir, sy’n gweithio drwy wahanol grwpiau o rywogaethau, tymhorau a chynefinoedd, ac yn cysylltu ag amcanion lleol i adfer natur.
+
+Bydd digon i’w wneud yn ystod y 18 mis nesaf, a dyna pam rydym yn recriwtio Swyddog Prosiect amser llawn i gefnogi staff CGBGC gyda’r prosiect. Cadwch eich llygaid ar agor am ddiweddariadau yn y dyfodol! Os hoffech ymuno â digwyddiadau Gwylio Natur Wyllt Gorllewin Cymru neu gael unrhyw wybodaeth am eich darn tir chi, cysylltwch â ni!
+
