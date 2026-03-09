@@ -27,7 +27,7 @@ menu_align = "center"
 sidebar = "right" # Sidebar value ("left", "right" or false)
 
 # Main Sections
-mainSections = ["news"]
+mainSections = ["news", "newyddion"]
 
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]

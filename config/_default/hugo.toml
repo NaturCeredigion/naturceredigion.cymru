@@ -14,6 +14,7 @@ disableLanguages = [
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
+debug = true
 
 
 ############################# Modules ############################
