@@ -39,13 +39,13 @@ weight = 1
 [[main]]
 parent = "Diweddaraf"
 name = "Calendr digwyddiadau"
-url = "/digwyddiadau/calendr/"
+url = "digwyddiadau/calendr/"
 weight = 2
 
 [[main]]
 parent = "Diweddaraf"
 name = "Cyfarfodydd y Bartneriaeth"
-url = "/digwyddiadau/cyfarfodydd-bartneriaeth/"
+url = "digwyddiadau/cyfarfodydd-bartneriaeth/"
 weight = 3
 
 [[main]]
