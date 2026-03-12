@@ -66,11 +66,11 @@ name = "Our Partners"
 url = "partners/"
 weight = 1
 
-[[main]]
-parent = "Partners"
-name = "Partner Projects"
-url = "projects/"
-weight = 1
+#[[main]]
+#parent = "Partners"
+#name = "Partner Projects"
+#url = "projects/"
+#weight = 1
 
 [[main]]
 parent = "Partners"
