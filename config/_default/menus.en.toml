@@ -3,7 +3,7 @@
 # Main menu
 [[main]]
 name = "Home"
-url = "preview/" # don't use a slash for home url
+url = "" # don't use a slash for home url
 weight = 1
 
 [[main]]
