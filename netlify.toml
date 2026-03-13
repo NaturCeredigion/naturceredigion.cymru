@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "npm install && npx postcss --version && npm run build"
+command = "git submodule update --init --remote && npm install && npx postcss --version && npm run build"
 
 [build.environment]
 HUGO_VERSION = "0.149.0"
