@@ -34,27 +34,6 @@
   {{ block "main" . }}{{ end }}
 </main>
 
-<script>
-  // Set your password here
-  const PASSWORD = "naturceredigion";
-
-  // Skip check on homepage
-  if (window.location.pathname !== "/en/") {
-
-    // Check if user is already logged in
-    if (localStorage.getItem("loggedIn") !== "true") {
-      const input = prompt("Enter password to view this page:");
-      if (input === PASSWORD) {
-        localStorage.setItem("loggedIn", "true"); // store login state
-        alert("Access granted!");
-      } else {
-        alert("Wrong password! Redirecting to homepage...");
-        window.location.href = "/en/";
-      }
-    }
-  }
-</script>
-
 <!-- cache partial only in production -->
 {{ if hugo.IsProduction }}
 {{ partialCached "essentials/footer.html" . }}
