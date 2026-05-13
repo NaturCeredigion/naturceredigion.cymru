@@ -11,10 +11,14 @@
             "id": "794e84ecf5f08454",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/cymraeg/partneriaid/wwwbic.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "wwwbic"
             }
           }
         ]
@@ -168,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b09e5c6d035385e7",
+  "active": "794e84ecf5f08454",
   "lastOpenFiles": [
     "content/english/partners/wwwbic.md",
     "content/cymraeg/partneriaid/wwwbic.md",

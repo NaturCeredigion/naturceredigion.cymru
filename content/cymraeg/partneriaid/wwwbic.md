@@ -1,7 +1,7 @@
 ---
 title: WWBIC
 date: 2020-03-07T05:00:00Z
-draft: true
+draft: false
 description: Canolfan Gwybodaeth Bioamrywiaeth Gorllewin Cymru yw’r Ganolfan Cofnodion Amgylcheddol Leol ar gyfer Sir Benfro, Ceredigion a Sir Gaerfyrddin
 weight: 2
 categories:

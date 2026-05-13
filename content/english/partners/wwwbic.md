@@ -1,7 +1,7 @@
 ---
 title: WWBIC
 date: 2020-03-07T05:00:00Z
-draft: true
+draft: false
 description: West Wales Biodiversity Information Centre is the Local Environmental Records Centre covering Pembrokeshire, Ceredigion & Carmarthenshire
 weight: 2
 categories:
@@ -13,8 +13,7 @@ partners_info:
     content: Biodiversity Enquiry, Planning List Checking, Alert GIS layers, Data management, Digitisation, Species distribution, GIS Data analysis and modelling
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/v1778680444/260513-saturnia-pavonia-emperor-moth-male.webp
-translationKey: "WWBIC"
-
+translationKey: WWBIC
 ---
 West Wales Biodiversity Information Centre (WWBIC) is one of the four Local Environmental Records Centres in Wales (LERCs), covering the counties of Pembrokeshire, Ceredigion, and Carmarthenshire (excluding the Brecon Beacons National Park). 
 
