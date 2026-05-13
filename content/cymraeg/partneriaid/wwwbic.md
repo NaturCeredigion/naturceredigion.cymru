@@ -12,7 +12,7 @@ partners_info:
   - title: "Gwasanaethau:"
     content: Ymholiadau bioamrywiaeth, gwirio rhestrau cynllunio, haenau rhybudd GIS, rheoli data, digideiddio, dosbarthiad rhywogaethau, dadansoddi a modelu data GIS
 partners_images:
-  - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto,w_860/v1721751874/wwbic-Ramalina-fraxinea-Tremella-ramalinae.jpg
+  - image: https://res.cloudinary.com/naturceredigion/image/upload/v1778680444/260513-saturnia-pavonia-emperor-moth-male.webp
 translationKey: WWBIC
 type: partners
 ---
