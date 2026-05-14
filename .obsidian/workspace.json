@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "221d90c6e6334521",
+        "id": "dbd8630f4881ecfe",
         "type": "tabs",
         "children": [
           {
-            "id": "794e84ecf5f08454",
+            "id": "00097bcc56291676",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cymraeg/partneriaid/wwwbic.md",
+                "file": "content/english/partners/llanfair-clydogau-cellan.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "wwwbic"
+              "title": "llanfair-clydogau-cellan"
             }
           }
         ]
@@ -172,10 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "794e84ecf5f08454",
+  "active": "00097bcc56291676",
   "lastOpenFiles": [
-    "content/english/partners/wwwbic.md",
+    "content/english/partners/coed-y-bont.md",
+    "content/english/partners/llanfair-clydogau-cellan.md",
+    "Untitled.md",
+    "content/english/partners/coed-lleol.md",
+    "content/english/docs/process/profile.md",
+    "content/english/news/260428-penglais-school-habitat.md",
+    "content/english/news/251221-your-wild-patch.md",
+    "Untitled 1.md",
     "content/cymraeg/partneriaid/wwwbic.md",
+    "content/english/partners/wwwbic.md",
     "content/english/docs/process/calendar.md",
     "english/docs/process/calendar.md",
     "english/docs/process/profile.md",
@@ -192,14 +200,6 @@
     "cymraeg/partneriaid/wwwbic.md",
     "english/partners/wwrt.md",
     "english/partners/tir-canol.md",
-    "english/partners/llais-y-goedwig.md",
-    "english/partners/dyfi-biosphere.md",
-    "english/partners/coed-lleol.md",
-    "english/partners/aberystwyth-university.md",
-    "english/news/_index.md",
-    "cymraeg/newyddion/_index.md",
-    "english/about.md",
-    "cymraeg/trwyddedu.md",
     "cymraeg/cyllid",
     "cymraeg/partneriaid",
     "cymraeg/digwyddiadau",
