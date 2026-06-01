@@ -1,6 +1,6 @@
 {
   "biggerIcons": "mobile",
-  "clickableIcons": "desktop",
+  "clickableIcons": "off",
   "showAllFileIcons": true,
   "showAllFolderIcons": true,
   "minimalFolderIcons": true,
@@ -50,20 +50,5 @@
       "icon": "lucide-file-text"
     }
   ],
-  "folderRules": [
-    {
-      "id": "Z8cW2",
-      "name": "News",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "name",
-          "operator": "is",
-          "value": "news"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-newspaper"
-    }
-  ]
+  "folderRules": []
 }
