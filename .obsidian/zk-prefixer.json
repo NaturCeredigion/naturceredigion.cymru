@@ -1,0 +1,5 @@
+{
+  "folder": "content/english/news",
+  "template": "assets/templates/post",
+  "format": "YYMMDD-"
+}

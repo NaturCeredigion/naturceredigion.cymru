@@ -11,6 +11,7 @@
   "obsidian-excalidraw-plugin",
   "excalibrain",
   "obsidian-style-settings",
-  "iconic",
-  "obsidian-git"
+  "obsidian-git",
+  "front-matter-timestamps",
+  "iconic"
 ]

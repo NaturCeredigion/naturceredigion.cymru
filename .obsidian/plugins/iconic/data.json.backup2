@@ -7,7 +7,7 @@
   "showMarkdownTabIcons": true,
   "showTitleIcons": true,
   "showTagPillIcons": false,
-  "showMenuActions": true,
+  "showMenuActions": false,
   "showSuggestionIcons": false,
   "showQuickSwitcherIcons": true,
   "showMoveFileIcons": true,
