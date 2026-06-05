@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Nature Festival 2026
 date: 2026-06-04T14:02:29+01:00
-modified: 2026-06-05T14:28:28+01:00
+modified: 2026-06-05T19:25:21+01:00
 ---
 Ymunwch â ni am ddiwrnod o fywyd gwyllt, creadigrwydd, darganfod a chymuned yng Ngŵyl Natur Ceredigion, a gynhelir **ddydd Sadwrn 11 Gorffennaf, 10am–4pm**, ar Dir y Castell, Aberystwyth.
 
@@ -43,7 +43,7 @@ Archwiliwch arddangosiadau a gweithgareddau sy'n canolbwyntio ar:
 Dysgwch sut mae cymunedau, gwirfoddolwyr a sefydliadau cadwraeth lleol yn cydweithio i wella cynefinoedd ar gyfer bywyd gwyllt ac adeiladu amgylchedd naturiol mwy gwydn.
 ## Gweithgareddau i'r Teulu
 ![Family at the Seawatch stall](https://res.cloudinary.com/naturceredigion/image/upload/v1780588108/250705-nature-festival-seawatch-stall.webp)
-*Mae yna lawer o weithgareddau -- teulu wrth y stondin Seawatch Foundation*
+*Mae yna lawer o weithgareddau -- teulu wrth y stondin [Seawatch Foundation](https://www.seawatchfoundation.org.uk/)*
 
 Bwriedir i'r ŵyl fod yn hwyl ac yn ddiddorol i bob oedran, gydag amrywiaeth o weithgareddau ymarferol gan gynnwys:
 * Rhyngweithio ag Anifeiliaid
@@ -56,6 +56,9 @@ Bwriedir i'r ŵyl fod yn hwyl ac yn ddiddorol i bob oedran, gydag amrywiaeth o w
 
 Gall plant a theuluoedd ddarganfod natur trwy chwarae, creadigrwydd ac archwilio.
 ## Y Celfyddydau a Diwylliant
+![Photo of a framed photo of Puffins and a small pot](https://res.cloudinary.com/naturceredigion/image/upload/v1780683677/260605-puffin-picture-hannah-kerr.jpg)
+*Pâr o Balod, gan y ffotograffydd Hannah Kerr [Hannah Kerr](https://www.etsy.com/uk/shop/HGKerrPhotography)*
+
 Mae natur yn ysbrydoli artistiaid, ffotograffwyr a storïwyr ers amser maith. Bydd yr ŵyl yn arddangos:
 * Ffotograffiaeth natur
 * Gwaith gan artistiaid lleol

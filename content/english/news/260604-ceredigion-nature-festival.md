@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Nature Festival 2026
 date: 2026-06-04T14:02:29+01:00
-modified: 2026-06-05T14:25:42+01:00
+modified: 2026-06-05T19:23:46+01:00
 ---
 Join us for a day of wildlife, creativity, discovery and community at the Ceredigion Nature Festival, taking place on **Saturday 11 July, 10am–4pm**, at the Castle Green, Aberystwyth.
 
@@ -43,7 +43,7 @@ Explore exhibits and activities focusing on:
 Learn how local communities, volunteers and conservation organisations are working together to improve habitats for wildlife and build a more resilient natural environment.
 ## Family Activities
 ![Family at the Seawatch stall](https://res.cloudinary.com/naturceredigion/image/upload/v1780588108/250705-nature-festival-seawatch-stall.webp)
-*A whole range of activities -- family at the Seawatch Foundation stall*
+*A whole range of activities -- family at the [Seawatch Foundation](https://www.seawatchfoundation.org.uk/) stall*
 
 The festival is designed to be fun and engaging for all ages, with a range of hands-on activities including:
 - Animal Interactions
@@ -56,6 +56,9 @@ The festival is designed to be fun and engaging for all ages, with a range of ha
 
 Children and families can discover nature through play, creativity and exploration.
 ## Arts and Culture
+![Photo of a framed photo of Puffins and a small pot](https://res.cloudinary.com/naturceredigion/image/upload/v1780683677/260605-puffin-picture-hannah-kerr.jpg)
+*Pair of Puffins by photographer [Hannah Kerr](https://www.etsy.com/uk/shop/HGKerrPhotography)*
+
 Nature has long inspired artists, photographers and storytellers. The festival will showcase:
 - Nature photography
 - Work by local artists

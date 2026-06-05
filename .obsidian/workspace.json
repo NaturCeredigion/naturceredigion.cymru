@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/english/news/260601-ceredigion-catchment-meeting.md",
+                "file": "content/english/news/260604-ceredigion-nature-festival.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "260601-ceredigion-catchment-meeting"
+              "title": "260604-ceredigion-nature-festival"
             }
           }
         ]
@@ -175,9 +175,10 @@
   },
   "active": "f1a7df1456aebd99",
   "lastOpenFiles": [
-    "content/cymraeg/newyddion/260601-ceredigion-catchment-meeting.md",
     "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
     "content/english/news/260604-ceredigion-nature-festival.md",
+    "content/english/news/260601-ceredigion-catchment-meeting.md",
+    "content/cymraeg/newyddion/260601-ceredigion-catchment-meeting.md",
     "public/cy/newyddion/260604-ceredigion-nature-festival/index.html",
     "public/cy/newyddion/260604-ceredigion-nature-festival",
     "public/cy/tags/naturceredigion/page/1/index.html",
@@ -190,7 +191,6 @@
     "public/cy/tags/naturefestival/page/1",
     "content/english/news/binme.md",
     "assets/templates/post.md",
-    "content/english/news/260601-ceredigion-catchment-meeting.md",
     "content/cymraeg/newyddion/251221-your-wild-patch.md",
     "content/english/news/240611-plans.md",
     "content/english/news/250808-mobile-garden.md",
