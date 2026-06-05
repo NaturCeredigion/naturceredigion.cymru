@@ -42,8 +42,8 @@ Archwiliwch arddangosiadau a gweithgareddau sy'n canolbwyntio ar:
 
 Dysgwch sut mae cymunedau, gwirfoddolwyr a sefydliadau cadwraeth lleol yn cydweithio i wella cynefinoedd ar gyfer bywyd gwyllt ac adeiladu amgylchedd naturiol mwy gwydn.
 ## Gweithgareddau i'r Teulu
-![Ymarferydd ysgol goedwig yn dangos i blant sut mae cynnau tân](https://res.cloudinary.com/naturceredigion/image/upload/w_1200/v1780588107/250705-nature-festival-fire-stall.webp)
-*Gweithgareddau ysgol goedwig, fel cynnau tân*
+![Family at the Seawatch stall](https://res.cloudinary.com/naturceredigion/image/upload/v1780588108/250705-nature-festival-seawatch-stall.webp)
+*Mae yna lawer o weithgareddau -- teulu wrth y stondin Seawatch Foundation*
 
 Bwriedir i'r ŵyl fod yn hwyl ac yn ddiddorol i bob oedran, gydag amrywiaeth o weithgareddau ymarferol gan gynnwys:
 * Rhyngweithio ag Anifeiliaid
