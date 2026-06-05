@@ -10,10 +10,11 @@ categories:
 author: Gill Clark
 translationKey: Ceredigion Catchment Meeting
 type: news
+modified: 2026-06-05T14:28:41+01:00
 ---
 ### Partneriaethau Dalgylch Gorllewin Cymru –<br>Teifi (Ceredigion)
 - **Dydd Mercher 17 Mehefin 2026 13:00 – 14:30**  
-- Penmorfa, Swyddfeydd Cyngor Sir Ceredigion, SA46 0PA
+- Ystafell Teifi, Penmorfa, Swyddfeydd Cyngor Sir Ceredigion, SA46 0PA
 - *Hyrbid. Ymuno ar-lein: [Dolen y Cyfarfod](https://teams.microsoft.com/meet/312077779953060?p=lctcsLD1VlF6d2vRAQ)*
 
 Cyfarfod rhanddeiliaid i drafod y **posibiliadau a’r cyfleoedd o ran datblygu Partneriaeth Dalgylch ar gyfer Afon Teifi (Ceredigion)**.
