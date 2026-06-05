@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
+                "file": "content/english/news/260604-ceredigion-nature-festival.md",
                 "mode": "source",
                 "source": false
               },
@@ -175,6 +175,7 @@
   },
   "active": "f1a7df1456aebd99",
   "lastOpenFiles": [
+    "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
     "public/cy/newyddion/260604-ceredigion-nature-festival/index.html",
     "public/cy/newyddion/260604-ceredigion-nature-festival",
     "public/cy/tags/naturceredigion/page/1/index.html",
@@ -185,9 +186,7 @@
     "public/cy/tags/naturceredigion",
     "public/cy/tags/naturefestival/page/1/index.html",
     "public/cy/tags/naturefestival/page/1",
-    "public/cy/tags/naturefestival/page",
     "content/english/news/260604-ceredigion-nature-festival.md",
-    "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
     "content/english/news/binme.md",
     "assets/templates/post.md",
     "content/english/news/260601-ceredigion-catchment-meeting.md",

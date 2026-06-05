@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Nature Festival 2026
 date: 2026-06-04T14:02:29+01:00
-modified: 2026-06-05T10:26:25+01:00
+modified: 2026-06-05T10:38:50+01:00
 ---
 Ymunwch â ni am ddiwrnod o fywyd gwyllt, creadigrwydd, darganfod a chymuned yng Ngŵyl Natur Ceredigion, a gynhelir **ddydd Sadwrn 11 Gorffennaf, 10am–4pm**, ar Dir y Castell, Aberystwyth.
 
