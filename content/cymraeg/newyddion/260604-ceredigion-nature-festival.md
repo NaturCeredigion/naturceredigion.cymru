@@ -29,7 +29,7 @@ Bydd ymwelwyr yn cael cyfle i gwrdd â sefydliadau sy'n gweithio ledled Ceredigi
 Gweler y rhestr o fynychwyr a gadarnhawyd..
 ## Bywyd Gwyllt a Chadwraeth
 ![Dau blentyn ifanc, un o dan 5, yn defnyddio morthwyl i fwrw blodyn ar fwrdd diddorol yn llawn o bethau diddorol](https://res.cloudinary.com/naturceredigion/image/upload/w_1200/v1780588108/250705-nature-festival-hammer-kids-stall.webp)
-*Gwasgu blodau yn yr Ŵyl*
+*Gwasgu blodau yn yr Ŵyl. Ffoto Neil Constable.*
 
 Archwiliwch arddangosiadau a gweithgareddau sy'n canolbwyntio ar:
 - Warchod afancod ac adfer afonydd
@@ -43,7 +43,7 @@ Archwiliwch arddangosiadau a gweithgareddau sy'n canolbwyntio ar:
 Dysgwch sut mae cymunedau, gwirfoddolwyr a sefydliadau cadwraeth lleol yn cydweithio i wella cynefinoedd ar gyfer bywyd gwyllt ac adeiladu amgylchedd naturiol mwy gwydn.
 ## Gweithgareddau i'r Teulu
 ![Family at the Seawatch stall](https://res.cloudinary.com/naturceredigion/image/upload/v1780588108/250705-nature-festival-seawatch-stall.webp)
-*Mae yna lawer o weithgareddau -- teulu wrth y stondin [Seawatch Foundation](https://www.seawatchfoundation.org.uk/)*
+*Mae yna lawer o weithgareddau -- teulu wrth y stondin [Seawatch Foundation](https://www.seawatchfoundation.org.uk/). Ffoto Neil Constable.*
 
 Bwriedir i'r ŵyl fod yn hwyl ac yn ddiddorol i bob oedran, gydag amrywiaeth o weithgareddau ymarferol gan gynnwys:
 * Rhyngweithio ag Anifeiliaid
@@ -72,7 +72,7 @@ Mae natur o fudd i'n hiechyd a'n lles mewn llawer o ffyrdd. Gall ymwelwyr archwi
 - Lluniaeth a chynnyrch wedi'u hysbrydoli'n lleol
 ## Gŵyl i Bawb
 ![Merch ifanc a’i hwyneb wedi’i beintio fel Spiderman, yn ymestyn ei llaw i ddangos ei thechneg lluchio gwe ](https://res.cloudinary.com/naturceredigion/image/upload/w_1200/v1780588109/250705-nature-festival-spidergrrrl.webp)
-*Peintio wynebau i bry cop – mae anifeiliaid eraill ar gael hefyd.*
+*Peintio wynebau i bry cop – mae anifeiliaid eraill ar gael hefyd. Ffoto Neil Constable.*
 
 Mae Gŵyl Natur Ceredigion yn gyfle i ddarganfod amrywiaeth anhygoel y bywyd gwyllt a’r cynefinoedd a geir ledled ein sir, o afonydd a choetiroedd i ddolydd, gwlypdiroedd a'r amgylchedd morol. Mae hefyd yn gyfle i gwrdd â'r bobl sy'n helpu natur i ffynnu a dysgu sut y gall pawb chwarae rhan mewn adferiad natur.
 

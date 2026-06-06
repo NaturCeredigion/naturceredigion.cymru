@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Nature Festival 2026
 date: 2026-06-04T14:02:29+01:00
-modified: 2026-06-05T19:23:46+01:00
+modified: 2026-06-06T14:30:25+01:00
 ---
 Join us for a day of wildlife, creativity, discovery and community at the Ceredigion Nature Festival, taking place on **Saturday 11 July, 10am–4pm**, at the Castle Green, Aberystwyth.
 
@@ -29,7 +29,7 @@ Visitors will have the opportunity to meet organisations working across Ceredigi
 See the list below of confirmed attendees.
 ## Wildlife and Conservation
 ![Two young kids, one under 5 with a hammer bashing something on an interesting table strewn with interesting things](https://res.cloudinary.com/naturceredigion/image/upload/w_1200/v1780588108/250705-nature-festival-hammer-kids-stall.webp)
-*Flattening flowers at the festival*
+*Flattening flowers at the festival. Photo Neil Constable.*
 
 Explore exhibits and activities focusing on:
 - Beaver conservation and river restoration
@@ -43,7 +43,7 @@ Explore exhibits and activities focusing on:
 Learn how local communities, volunteers and conservation organisations are working together to improve habitats for wildlife and build a more resilient natural environment.
 ## Family Activities
 ![Family at the Seawatch stall](https://res.cloudinary.com/naturceredigion/image/upload/v1780588108/250705-nature-festival-seawatch-stall.webp)
-*A whole range of activities -- family at the [Seawatch Foundation](https://www.seawatchfoundation.org.uk/) stall*
+*A whole range of activities -- family at the [Seawatch Foundation](https://www.seawatchfoundation.org.uk/) stall. Photo Neil Constable.*
 
 The festival is designed to be fun and engaging for all ages, with a range of hands-on activities including:
 - Animal Interactions
@@ -72,7 +72,7 @@ Nature benefits our health and wellbeing in many ways. Visitors can explore:
 - Refreshments and locally inspired produce
 ## A Festival for Everyone
 ![Young person with face painted like Spider-man, with hand outstretched showing their web slinging technique](https://res.cloudinary.com/naturceredigion/image/upload/w_1200/v1780588109/250705-nature-festival-spidergrrrl.webp)
-*Face painting for Spiders-. Other animals also available.*
+*Face painting for Spiders-. Other animals also available. Photo Neil Constable.*
 
 The Ceredigion Nature Festival is a chance to discover the incredible variety of wildlife and habitats found across our county, from rivers and woodlands to meadows, wetlands and the marine environment. It is also an opportunity to meet the people helping nature thrive and to learn how everyone can play a role in nature recovery.
 
