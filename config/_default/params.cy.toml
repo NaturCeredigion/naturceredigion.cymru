@@ -16,7 +16,7 @@ image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618
 [metadata]
 author = "Partneriaeth Natur Ceredigion"
 description = "Mae Partneriaeth Natur Ceredigion yn bartneriaeth gydweithredol strategol o asiantaethau cyhoeddus, sefydliadau gwirfoddol lleol, busnesau, grwpiau cymunedol ac unigolion sy’n cydweithio i ddiogelu natur ac i fynd ati mewn ffordd radical i’w chyfoethogi."
-image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
+image = "https://res.cloudinary.com/naturceredigion/image/upload/v1720616052/favicon.png" # this image will be used as fallback if a page has no image of its own
 keywords = []
 
 # cookies

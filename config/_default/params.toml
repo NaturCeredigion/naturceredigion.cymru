@@ -86,7 +86,7 @@ mobile = "+447966312065"
 [metadata]
 author = "Partneriaeth Natur Ceredigion"
 description = "Ceredigion Nature Partnership is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature."
-image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
+image = "https://res.cloudinary.com/naturceredigion/image/upload/v1720616052/favicon.png" # this image will be used as fallback if a page has no image of its own
 keywords = []
 
 # matomo tracking: see https://matomo.org/

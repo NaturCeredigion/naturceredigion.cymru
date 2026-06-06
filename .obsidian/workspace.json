@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fc1bc113642a8197",
+        "id": "3157fe1b955fc255",
         "type": "tabs",
         "children": [
           {
-            "id": "f1a7df1456aebd99",
+            "id": "52fa323a760bf18b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/english/news/260604-ceredigion-nature-festival.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "260604-ceredigion-nature-festival"
+              "title": "New tab"
             }
           }
         ]
@@ -173,10 +169,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f1a7df1456aebd99",
+  "active": "52fa323a760bf18b",
   "lastOpenFiles": [
-    "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
+    "assets/images/logo.svg",
+    "assets/images/hugo-muscot.svg",
+    "assets/images/contact.svg",
+    "assets/images/favicon.png",
+    "assets/images/banner-image.png",
+    "assets/images/about.jpg",
+    "assets/images/MailChimp.jpg",
+    "assets/images",
+    "assets/images/gallery/06.jpg",
+    "assets/images/gallery/05.jpg",
+    "assets/images/gallery/04.jpg",
+    "assets/images/gallery/03.jpg",
     "content/english/news/260604-ceredigion-nature-festival.md",
+    "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
     "content/english/news/260601-ceredigion-catchment-meeting.md",
     "content/cymraeg/newyddion/260601-ceredigion-catchment-meeting.md",
     "public/cy/newyddion/260604-ceredigion-nature-festival/index.html",
@@ -188,7 +196,6 @@
     "public/cy/tags/naturceredigion/index.html",
     "public/cy/tags/naturceredigion",
     "public/cy/tags/naturefestival/page/1/index.html",
-    "public/cy/tags/naturefestival/page/1",
     "content/english/news/binme.md",
     "assets/templates/post.md",
     "content/cymraeg/newyddion/251221-your-wild-patch.md",
