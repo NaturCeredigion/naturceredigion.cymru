@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3157fe1b955fc255",
+        "id": "0833cd39a52d4187",
         "type": "tabs",
         "children": [
           {
-            "id": "52fa323a760bf18b",
+            "id": "3429de2adf1109d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
+                "file": "content/english/news/260604-ceredigion-nature-festival.md",
                 "mode": "source",
                 "source": false
               },
@@ -173,11 +173,50 @@
       "zk-prefixer:Create new unique note": false
     }
   },
+  "floating": {
+    "id": "fa010b3f4c141c55",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b433fb4dfde4ba4b",
+        "type": "window",
+        "children": [
+          {
+            "id": "a0b9cd1c03739622",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "52fa323a760bf18b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "260604-ceredigion-nature-festival"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 172,
+        "y": 6,
+        "width": 1576,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "52fa323a760bf18b",
   "lastOpenFiles": [
     "content/english/news/260604-ceredigion-nature-festival.md",
-    "content/cymraeg/newyddion/260601-ceredigion-catchment-meeting.md",
     "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
+    "content/cymraeg/newyddion/260601-ceredigion-catchment-meeting.md",
     "assets/images/logo.svg",
     "assets/images/hugo-muscot.svg",
     "assets/images/contact.svg",
