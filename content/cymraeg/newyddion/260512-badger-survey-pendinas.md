@@ -19,7 +19,7 @@ featured: false
 draft: true
 translationKey: Badger Survey Pendinas
 date: 2026-06-09T17:42:58+01:00
-modified: 2026-06-09T17:55:52+01:00
+modified: 2026-06-09T17:59:13+01:00
 ---
 *Guest update by Reserves Manager Chris Harris*
 
