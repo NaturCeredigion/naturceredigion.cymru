@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/english/news/260604-ceredigion-nature-festival.md",
+                "file": "content/cymraeg/newyddion/260512-badger-survey-pendinas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260604-ceredigion-nature-festival"
+              "title": "260512-badger-survey-pendinas"
             }
           }
         ]
@@ -173,47 +173,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "floating": {
-    "id": "fa010b3f4c141c55",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b433fb4dfde4ba4b",
-        "type": "window",
-        "children": [
-          {
-            "id": "a0b9cd1c03739622",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "52fa323a760bf18b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "260604-ceredigion-nature-festival"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 172,
-        "y": 6,
-        "width": 1576,
-        "height": 1040,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "52fa323a760bf18b",
+  "active": "3429de2adf1109d1",
   "lastOpenFiles": [
+    "content/english/news/260512-badger-survey-pendinas.md",
+    "content/cymraeg/newyddion/260512-badger-survey-pendinas.md",
     "content/english/news/260604-ceredigion-nature-festival.md",
     "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
     "content/cymraeg/newyddion/260601-ceredigion-catchment-meeting.md",
@@ -257,7 +220,6 @@
     "content/cymraeg/partneriaid/wwwbic.md",
     "content/english/partners/wwwbic.md",
     "content/english/docs/process/calendar.md",
-    "english/docs/process/calendar.md",
-    "english/docs/process/profile.md"
+    "english/docs/process/calendar.md"
   ]
 }
