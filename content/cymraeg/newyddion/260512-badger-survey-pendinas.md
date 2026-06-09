@@ -8,6 +8,9 @@ tags:
   - LNR
   - LocalNatureReserve
   - ChrisHarris
+  - CeredigionBadgerSociety
+  - badger
+  - survey
 categories:
   - Partnership
 type: news
