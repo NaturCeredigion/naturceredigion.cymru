@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cymraeg/newyddion/260518-cat-ecological-towers.md",
+                "file": "content/english/news/260616-cardished-bat-box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260518-cat-ecological-towers"
+              "title": "260616-cardished-bat-box"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 518.5
   },
   "right": {
     "id": "f3fba19a3b62a115",
@@ -175,8 +175,13 @@
   },
   "active": "3429de2adf1109d1",
   "lastOpenFiles": [
-    "content/english/news/260518-cat-ecological-towers.md",
+    "content/english/news/260615-cwrt-william-experiment.md",
+    "content/english/news/260616-cardished-bat-box.md",
+    "public/en/news/260615-cwrt-william/index.html",
+    "public/en/news/260615-cwrt-william",
+    "content/english/news/260428-twr-gwyllt-ysgol-penglais.md",
     "content/cymraeg/newyddion/260518-cat-ecological-towers.md",
+    "content/english/news/260518-cat-ecological-towers.md",
     "public/en/tags/cat/index.xml",
     "public/en/tags/twrgwyllt/index.xml",
     "public/en/tags/cat/page/1/index.html",
@@ -185,8 +190,6 @@
     "public/en/tags/twrgwyllt/page/1/index.html",
     "public/en/tags/twrgwyllt/page/1",
     "public/en/tags/twrgwyllt/page",
-    "public/en/tags/cat/index.html",
-    "public/en/tags/cat",
     "content/cymraeg/newyddion/260517-cletwr-pollinator-festival.md",
     "content/english/news/260517-cletwr-pollinator-festival.md",
     "content/cymraeg/newyddion/260512-badger-survey-pendinas.md",
@@ -217,9 +220,6 @@
     "content/english/news/260519-cletwr-pollinator-festival.md",
     "Untitled.md",
     "Untitled 1.md",
-    "content/english/partners/llanfair-clydogau-cellan.md",
-    "content/english/partners/coed-y-bont.md",
-    "content/english/partners/coed-lleol.md",
-    "content/english/docs/process/profile.md"
+    "content/english/partners/llanfair-clydogau-cellan.md"
   ]
 }
