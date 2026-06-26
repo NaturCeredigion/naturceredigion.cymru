@@ -4,12 +4,13 @@ date: 2026-05-31T12:28:34+00:00
 description: A stakeholder meeting to discuss the possibilities and opportunities for developing a Catchment Partnership for the Teifi (Ceredigion)
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1780329150/260601-cardigan-bay-aerial-joe.jpg
 draft: false
-featured: true
+featured: false
 categories:
   - Partnership
 author: Gill Clark
 translationKey: Ceredigion Catchment Meeting
 type: news
+modified: 2026-06-18T10:45:12+01:00
 ---
 ### West Wales Catchment Partnerships –<br>Teifi (Ceredigion)
 - **Wednesday 17 June 2026 13:00 – 14:30**  

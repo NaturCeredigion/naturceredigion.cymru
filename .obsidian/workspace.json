@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3429de2adf1109d1",
+            "id": "4804d2ecbe637edf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/english/news/260616-cardished-bat-box.md",
+                "file": "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260616-cardished-bat-box"
+              "title": "260604-ceredigion-nature-festival"
+            }
+          },
+          {
+            "id": "2d6859e94fa33259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/english/news/260604-ceredigion-nature-festival.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260604-ceredigion-nature-festival"
             }
           }
         ]
@@ -173,29 +187,31 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "3429de2adf1109d1",
+  "active": "4804d2ecbe637edf",
   "lastOpenFiles": [
-    "content/english/news/260615-cwrt-william-experiment.md",
-    "content/english/news/260616-cardished-bat-box.md",
-    "public/en/news/260615-cwrt-william/index.html",
-    "public/en/news/260615-cwrt-william",
-    "content/english/news/260428-twr-gwyllt-ysgol-penglais.md",
-    "content/cymraeg/newyddion/260518-cat-ecological-towers.md",
-    "content/english/news/260518-cat-ecological-towers.md",
-    "public/en/tags/cat/index.xml",
-    "public/en/tags/twrgwyllt/index.xml",
-    "public/en/tags/cat/page/1/index.html",
-    "public/en/tags/cat/page/1",
-    "public/en/tags/cat/page",
-    "public/en/tags/twrgwyllt/page/1/index.html",
-    "public/en/tags/twrgwyllt/page/1",
-    "public/en/tags/twrgwyllt/page",
-    "content/cymraeg/newyddion/260517-cletwr-pollinator-festival.md",
-    "content/english/news/260517-cletwr-pollinator-festival.md",
-    "content/cymraeg/newyddion/260512-badger-survey-pendinas.md",
-    "content/english/news/260512-badger-survey-pendinas.md",
-    "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
     "content/english/news/260604-ceredigion-nature-festival.md",
+    "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
+    "content/english/news/260428-twr-gwyllt-penglais-school-habitat.md",
+    "content/english/news/X260615-cwrt-william-experiment.md",
+    "content/english/news/260518-cat-ecological-towers.md",
+    "content/english/news/260517-cletwr-pollinator-festival.md",
+    "content/english/news/260512-badger-survey-pendinas.md",
+    "content/english/news/260601-ceredigion-catchment-meeting.md",
+    "public/en/categories/partnership/page/2/index.html",
+    "public/en/categories/partnership/page/2",
+    "content/english/news/X260616-cardished-bat-box.md",
+    "public/en/news/x260616-cardished-bat-box/index.html",
+    "public/en/news/x260616-cardished-bat-box",
+    "public/en/news/x260615-cwrt-william-experiment/index.html",
+    "public/en/news/x260615-cwrt-william-experiment",
+    "public/en/amp/page/2/index.html",
+    "public/en/amp/page/2",
+    "public/en/page/2/index.html",
+    "public/en/page/2",
+    "content/english/news/X260428-twr-gwyllt-ysgol-penglais.md",
+    "content/cymraeg/newyddion/260518-cat-ecological-towers.md",
+    "content/cymraeg/newyddion/260517-cletwr-pollinator-festival.md",
+    "content/cymraeg/newyddion/260512-badger-survey-pendinas.md",
     "content/cymraeg/newyddion/260601-ceredigion-catchment-meeting.md",
     "assets/images/logo.svg",
     "assets/images/hugo-muscot.svg",
@@ -207,19 +223,16 @@
     "assets/images/gallery/06.jpg",
     "assets/images/gallery/05.jpg",
     "assets/images/gallery/04.jpg",
-    "content/english/news/260601-ceredigion-catchment-meeting.md",
     "content/english/news/binme.md",
     "assets/templates/post.md",
     "content/cymraeg/newyddion/251221-your-wild-patch.md",
     "content/english/news/240611-plans.md",
     "content/english/news/250808-mobile-garden.md",
-    "content/english/news/260428-penglais-school-habitat.md",
     "content/english/news/251221-your-wild-patch.md",
     "content/english/partners/fishermans-rest.md",
     "content/english/partners/cavo.md",
     "content/english/news/260519-cletwr-pollinator-festival.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "content/english/partners/llanfair-clydogau-cellan.md"
+    "Untitled 1.md"
   ]
 }

@@ -12,11 +12,11 @@ categories:
   - Partnership
 type: news
 author: Chris Harris
-featured: false
-draft: true
+featured: true
+draft: false
 translationKey: Badger Survey Pendinas
 date: 2026-06-09T17:42:58+01:00
-modified: 2026-06-09T17:55:52+01:00
+modified: 2026-06-18T09:37:35+01:00
 ---
 *Guest update by Reserve Officer Chris Harris*
 

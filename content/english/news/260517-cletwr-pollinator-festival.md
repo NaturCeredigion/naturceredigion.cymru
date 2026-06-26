@@ -14,11 +14,11 @@ categories:
   - Partnership
 type: news
 author: Fiona Moran
-featured: false
-draft: true
+featured: true
+draft: false
 translationKey: Cletwr Pollinator Festival
 date: 2026-05-17T16:48:48+01:00
-modified: 2026-06-16T17:06:59+01:00
+modified: 2026-06-18T09:40:26+01:00
 ---
 I visited the [Cletwr](https://cletwr.com/) [Pollinator Festival](https://www.cambrian-news.co.uk/news/entertainment/cletwr-to-host-pollinator-festival-celebrating-bees-and-plants-788435) at the weekend. It was a brilliant event with stalls, activities and information about beautiful and fascinating butterflies, moths and bees so I thought I would fill a gap and give people a chance to make their own mini hoverfly lagoon,  based on the [Buzz Club project ideas](https://www.thebuzzclub.uk/hoverfly-lagoons), which is a micro-habitat where hoverflies can lay their eggs and complete their life-cycle
 
