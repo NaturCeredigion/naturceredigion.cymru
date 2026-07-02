@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Nature Festival 2026
 date: 2026-06-04T14:02:29+01:00
-modified: 2026-06-26T16:58:08+01:00
+modified: 2026-07-02T09:38:33+01:00
 ---
 Join us for a day of wildlife, creativity, discovery and community at the Ceredigion Nature Festival, taking place on **Saturday 11 July, 10am–4pm**, at the Castle Green, Aberystwyth.
 
@@ -103,7 +103,6 @@ Come along, meet local organisations, get involved in activities, and celebrate 
 | [Coed Rhosmaen Crug](https://rhosmaencrug.uk/), [Nature Ni](https://naturni.co.uk/), [Maeve Moran](https://www.instagram.com/maevem0ran/)                                 | Promotion of the woodland and 2 different workshops                                                                 |
 | Dave Price                                                                                                                                                                | Turned wood and crafts made from locally grown or recycled timber                                                   |
 | [Denmark Farm](https://www.denmarkfarm.org.uk/)                                                                                                                           | Nature ID, activities and information                                                                               |
-| [Dolen Teifi Transport](https://www.dolenteifi.org.uk/home)                                                                                                               | Community transport information                                                                                     |
 | Dolphin Spotting Boat Trips                                                                                                                                               | Information on Dolphin Spotting Boat Trips, Tour boat. New Quay                                                     |
 | [Dros y Ddôl](https://www.instagram.com/drosyddol/)                                                                                                                       | Organic wildflowers                                                                                                 |
 | Dyfed Powys                                                                                                                                                               | Awaiting Confirmation                                                                                               |
