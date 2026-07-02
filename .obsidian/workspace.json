@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0833cd39a52d4187",
+        "id": "a78c4a9efb4e238c",
         "type": "tabs",
         "children": [
           {
-            "id": "4804d2ecbe637edf",
+            "id": "7f4766e4768a90a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
+                "file": "content/english/docs/infrastructure/Newsletter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260604-ceredigion-nature-festival"
-            }
-          },
-          {
-            "id": "2d6859e94fa33259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/english/news/260604-ceredigion-nature-festival.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260604-ceredigion-nature-festival"
+              "title": "Newsletter"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 259.5
   },
   "right": {
     "id": "f3fba19a3b62a115",
@@ -187,8 +173,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b09e5c6d035385e7",
+  "active": "7f4766e4768a90a2",
   "lastOpenFiles": [
+    "content/english/docs/infrastructure/url-shortener.md",
+    "content/english/docs/infrastructure/Newsletter.md",
     "content/english/news/260604-ceredigion-nature-festival.md",
     "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
     "content/english/news/260428-twr-gwyllt-penglais-school-habitat.md",
@@ -232,7 +220,6 @@
     "content/english/partners/fishermans-rest.md",
     "content/english/partners/cavo.md",
     "content/english/news/260519-cletwr-pollinator-festival.md",
-    "Untitled.md",
-    "Untitled 1.md"
+    "Untitled.md"
   ]
 }
