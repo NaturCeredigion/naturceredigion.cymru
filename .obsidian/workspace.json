@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a78c4a9efb4e238c",
+        "id": "ab438f3c320596f5",
         "type": "tabs",
         "children": [
           {
-            "id": "7f4766e4768a90a2",
+            "id": "b78687b2b71f40ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/english/docs/infrastructure/Newsletter.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Newsletter"
+              "title": "New tab"
             }
           }
         ]
@@ -173,33 +169,37 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7f4766e4768a90a2",
+  "active": "b78687b2b71f40ed",
   "lastOpenFiles": [
+    "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
+    "content/cymraeg/newyddion/260512-badger-survey-pendinas.md",
+    "content/english/news/260604-ceredigion-nature-festival.md",
+    "content/english/news/260512-badger-survey-pendinas.md",
+    "public/en/docs/infrastructure/url-shortener/index.html",
+    "public/en/docs/infrastructure/newsletter/index.html",
+    "public/en/docs/infrastructure/url-shortener",
+    "public/en/docs/infrastructure/newsletter",
+    "public/en/docs/infrastructure",
+    "content/english/news/260601-ceredigion-catchment-meeting.md",
+    "content/english/partners/aberystwyth-university.md",
+    "content/english/licensing.md",
+    "content/english/newsletter.md",
+    "content/english/partner.md",
     "content/english/docs/infrastructure/Newsletter.md",
     "content/english/docs/infrastructure/url-shortener.md",
-    "content/english/news/260604-ceredigion-nature-festival.md",
-    "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
     "content/english/news/260428-twr-gwyllt-penglais-school-habitat.md",
     "content/english/news/X260615-cwrt-william-experiment.md",
     "content/english/news/260518-cat-ecological-towers.md",
     "content/english/news/260517-cletwr-pollinator-festival.md",
-    "content/english/news/260512-badger-survey-pendinas.md",
-    "content/english/news/260601-ceredigion-catchment-meeting.md",
     "public/en/categories/partnership/page/2/index.html",
     "public/en/categories/partnership/page/2",
     "content/english/news/X260616-cardished-bat-box.md",
     "public/en/news/x260616-cardished-bat-box/index.html",
     "public/en/news/x260616-cardished-bat-box",
     "public/en/news/x260615-cwrt-william-experiment/index.html",
-    "public/en/news/x260615-cwrt-william-experiment",
-    "public/en/amp/page/2/index.html",
-    "public/en/amp/page/2",
-    "public/en/page/2/index.html",
-    "public/en/page/2",
     "content/english/news/X260428-twr-gwyllt-ysgol-penglais.md",
     "content/cymraeg/newyddion/260518-cat-ecological-towers.md",
     "content/cymraeg/newyddion/260517-cletwr-pollinator-festival.md",
-    "content/cymraeg/newyddion/260512-badger-survey-pendinas.md",
     "content/cymraeg/newyddion/260601-ceredigion-catchment-meeting.md",
     "assets/images/logo.svg",
     "assets/images/hugo-muscot.svg",
@@ -215,11 +215,6 @@
     "assets/templates/post.md",
     "content/cymraeg/newyddion/251221-your-wild-patch.md",
     "content/english/news/240611-plans.md",
-    "content/english/news/250808-mobile-garden.md",
-    "content/english/news/251221-your-wild-patch.md",
-    "content/english/partners/fishermans-rest.md",
-    "content/english/partners/cavo.md",
-    "content/english/news/260519-cletwr-pollinator-festival.md",
-    "Untitled.md"
+    "content/english/news/250808-mobile-garden.md"
   ]
 }

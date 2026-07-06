@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Nature Festival 2026
 date: 2026-06-04T14:02:29+01:00
-modified: 2026-07-02T09:38:33+01:00
+modified: 2026-07-06T19:49:09+01:00
 ---
 Join us for a day of wildlife, creativity, discovery and community at the Ceredigion Nature Festival, taking place on **Saturday 11 July, 10am–4pm**, at the Castle Green, Aberystwyth.
 
@@ -104,7 +104,6 @@ Come along, meet local organisations, get involved in activities, and celebrate 
 | Dave Price                                                                                                                                                                | Turned wood and crafts made from locally grown or recycled timber                                                   |
 | [Denmark Farm](https://www.denmarkfarm.org.uk/)                                                                                                                           | Nature ID, activities and information                                                                               |
 | Dolphin Spotting Boat Trips                                                                                                                                               | Information on Dolphin Spotting Boat Trips, Tour boat. New Quay                                                     |
-| [Dros y Ddôl](https://www.instagram.com/drosyddol/)                                                                                                                       | Organic wildflowers                                                                                                 |
 | Dyfed Powys                                                                                                                                                               | Awaiting Confirmation                                                                                               |
 | [Enviroculture](https://www.enviroculture.uk/)                                                                                                                            | Information stall and promotional materials                                                                         |
 | Garden Medicinals                                                                                                                                                         | Medicinal and native plant nursery                                                                                  |

@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Nature Festival 2026
 date: 2026-06-04T14:02:29+01:00
-modified: 2026-07-02T09:39:21+01:00
+modified: 2026-07-06T19:49:34+01:00
 ---
 Ymunwch â ni am ddiwrnod o fywyd gwyllt, creadigrwydd, darganfod a chymuned yng Ngŵyl Natur Ceredigion, a gynhelir **ddydd Sadwrn 11 Gorffennaf, 10am–4pm**, ar Dir y Castell, Aberystwyth.
 
@@ -104,7 +104,6 @@ Dewch yn llu, i gwrdd â sefydliadau lleol, cymryd rhan mewn gweithgareddau, a d
 | Cyngor Sir Ceredigion, Tîm Cydraddoldeb a Chynhwysiant                                                                                                              | Arolwg llesiant a gwneud bathodynnau                                                                            |
 | Cwtsh Natur Ceredigion                                                                                                                                              | Man i eistedd a sgwrsio, bwyta cinio ac ati                                                                     |
 | Dave Price                                                                                                                                                          | Pren turniedig a chrefftau wedi'u gwneud o bren wedi'i ailgylchu neu ei dyfu'n lleol                            |
-| [Dros y Ddôl](https://www.instagram.com/drosyddol/)                                                                                                                 | Blodau gwyllt organig                                                                                           |
 | Dyfed Powys                                                                                                                                                         | Yn disgwyl cadarnhad                                                                                            |
 | [Dysgu Gydol Oes Prifysgol Aberystwyth](https://www.aber.ac.uk/en/lifelong-learning/)                                                                               | Deunyddiau hyrwyddo eu cyrsiau Ecoleg, Cadwraeth a Gwyddoniaeth                                                 |
 | Eglwys Eco Santes Anne                                                                                                                                              | Rhannu gwybodaeth am eu Heglwys Eco                                                                             |
