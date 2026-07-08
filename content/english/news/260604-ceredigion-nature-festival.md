@@ -70,6 +70,12 @@ Nature benefits our health and wellbeing in many ways. Visitors can explore:
 - Wild food information
 - Herbal and traditional plant uses
 - Refreshments and locally inspired produce
+## Queer Eco Walk
+![Multi-coloured spiral snail shells on a fern](https://res.cloudinary.com/naturceredigion/image/upload/v1783501916/260708-malwen-snails.webp)
+
+Nurturing queer land based community in Wales with [Malwen](https://malwen.cymru/). Tom will be facilitating a Queer Eco Walk exploring queerness and ecology.
+
+Meet 1.45pm for a prompt **2pm start** at Penglais Parc Natur w3w.co/nutty.radiating.prevents next to Penglais Lodge.
 ## A Festival for Everyone
 ![Young person with face painted like Spider-man, with hand outstretched showing their web slinging technique](https://res.cloudinary.com/naturceredigion/image/upload/w_1200/v1780588109/250705-nature-festival-spidergrrrl.webp)
 *Face painting for Spiders-. Other animals also available. Photo Neil Constable.*

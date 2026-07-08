@@ -11,10 +11,14 @@
             "id": "b78687b2b71f40ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/english/news/260604-ceredigion-nature-festival.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "260604-ceredigion-nature-festival"
             }
           }
         ]
