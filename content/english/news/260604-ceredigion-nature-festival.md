@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Nature Festival 2026
 date: 2026-06-04T14:02:29+01:00
-modified: 2026-07-06T19:49:09+01:00
+modified: 2026-07-09T11:35:43+01:00
 ---
 Join us for a day of wildlife, creativity, discovery and community at the Ceredigion Nature Festival, taking place on **Saturday 11 July, 10am–4pm**, at the Castle Green, Aberystwyth.
 
@@ -101,7 +101,6 @@ Come along, meet local organisations, get involved in activities, and celebrate 
 | [Age Cymru Dyfed](https://www.ageuk.org.uk/cymru/dyfed/)                                                                                                                  | Information stall and promotional materials                                                                         |
 | [Animal Cwtch](https://animalcwtch.co.uk/)                                                                                                                                | Interactive animal experience                                                                                       |
 | [Borth Animalarium](https://www.borthzoo.co.uk/)                                                                                                                          | Harvest Mouse Project animal experience and information stall, promotional material                                 |
-| [Borth Community Hub](https://borthcommunityhub.co.uk/)                                                                                                                   | Information stall and nature activity                                                                               |
 | [British Trust for Ornithology](https://www.bto.org/)                                                                                                                     | Information stall and promotional materials                                                                         |
 | [Cefn Garthenor](https://www.cefngarthenor.co.uk/)                                                                                                                        | Beaver project, rewilding information stall and promotional materials                                               |
 | Ceredigion County Council, Equality & Inclusion team                                                                                                                      | Well-being survey and badge making                                                                                  |
