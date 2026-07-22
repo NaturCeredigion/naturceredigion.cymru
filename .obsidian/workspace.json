@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ab438f3c320596f5",
+        "id": "bd05e5c03402941a",
         "type": "tabs",
         "children": [
           {
-            "id": "b78687b2b71f40ed",
+            "id": "5c70759b454e2e60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "260604-ceredigion-nature-festival"
+              "title": "New tab"
             }
           }
         ]
@@ -173,7 +169,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b78687b2b71f40ed",
+  "active": "b09e5c6d035385e7",
   "lastOpenFiles": [
     "content/english/news/260604-ceredigion-nature-festival.md",
     "content/cymraeg/newyddion/260604-ceredigion-nature-festival.md",
