@@ -22,7 +22,7 @@
 
       <div class="{{ if $has_sidebar }}col-lg-8{{ else }}col-lg-10{{ end }} {{ if eq $sidebar `left` }}order-1 order-lg-2{{ end }}">
         <div class="block shadow mb-4">
-          <h2>{{ .Title | markdownify }}</h2>
+          <h1>{{ .Title | markdownify }}</h1>
           <div class="mb-4 mt-3 post-meta">
             <a href="{{ `author/` | absLangURL }}{{ .Params.Author | urlize | lower }}/">{{ .Params.Author | title }}</a> <span class="mx-2">|</span>
             {{ .PublishDate.Format "Jan 2, 2006" }}<span class="mx-2">|</span> {{ range .Params.Categories }}
@@ -37,7 +37,7 @@
             {{ .Content }}
           </div>
           <div class="mb-3 post-meta">
-            {{range .Params.Tags }} <a class="bg-light py-2 px-3" href="{{ `tags/` | absLangURL}}{{ . | urlize | lower }}/">#{{ . | title }}</a>
+            {{range .Params.Tags }} <a class="tags bg-light py-2 px-3" href="{{ `tags/` | absLangURL}}{{ . | urlize | lower }}/">#{{ . | title }}</a>
             {{ end }}
           </div>
         </div>
@@ -45,7 +45,7 @@
         <div class="block shadow">
           {{ $related := site.RegularPages.Related . | first 5 }}
           {{ with $related }}
-          <h3 class="mb-3">See Also</h3>
+          <h3 class="mb-3">See also</h3>
           <ul class="list-unstyled related-post-list">
             {{ range . }}
             <li><a class="d-inline-block py-1 text-dark" href="{{ .RelPermalink }}"><small class="fas fa-external-link-alt me-2"></small>{{.Title}}</a></li>

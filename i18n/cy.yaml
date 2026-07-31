@@ -8,13 +8,13 @@
   translation: Ein Instagram
 
 - id: our_partners
-  translation: Ein partneriaid
+  translation: Ein Partneriaid
 
 - id: our_partners_desc
   translation: Mae ein partneriaid yn dod â sgiliau, profiad ac angerdd o bob rhan o Geredigion ynghyd i helpu adfer a diogelu ein hamgylchedd naturiol. Drwy weithio gyda’n gilydd gallwn sicrhau canlyniadau mwy, gwell a mwy cyfunol ar gyfer natur a chymunedau.
 
 - id: all_partners
-  translation: Holl partneriaid
+  translation: Holl Partneriaid
 
 - id: name
   translation: Eich enw
@@ -27,6 +27,9 @@
 
 - id: message
   translation: Eich neges yma
+
+- id: see_also
+  translation: Gweler hefyd
 
 - id: send_message
   translation: Anfon y neges
@@ -98,7 +101,7 @@
   translation: Ein cylchlythyr
 
 - id: latest_news
-  translation: Newyddion Diweddaraf
+  translation: Newyddion diweddaraf
 
 - id: subscribe
   translation: Tanysgrifiwch nawr

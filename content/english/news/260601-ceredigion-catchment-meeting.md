@@ -1,5 +1,5 @@
 ---
-title: Ceredigion Catchment Partnership - Stakeholder Meeting
+title: Ceredigion Catchment Partnership
 date: 2026-05-31T12:28:34+00:00
 description: A stakeholder meeting to discuss the possibilities and opportunities for developing a Catchment Partnership for the Teifi (Ceredigion)
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1780329150/260601-cardigan-bay-aerial-joe.jpg
@@ -44,7 +44,7 @@ Penmorfa
 Ceredigion County Council Offices  
 Aberaeron  
 SA46 0PA
-#### Google Maps:  
+#### Google Maps:
 [https://www.google.com/maps/place/Penmorfa+Aberaeron](https://www.google.com/maps/place/Penmorfa+Aberaeron)
 
 [![Google Map of Penmorfa offices](https://res.cloudinary.com/naturceredigion/image/upload/v1780327663/260601-penmorfa-google-map.png)](https://www.google.com/maps/place/Penmorfa+Aberaeron)

@@ -1,5 +1,5 @@
 ---
-title: Ceredigion Nature Festival 2026
+title: Ceredigion Nature Festival
 description: A day of wildlife, creativity, discovery and community on Saturday 11 July 10am–4pm, Castle Green, Aberystwyth
 image: https://res.cloudinary.com/naturceredigion/image/upload/w_1200/v1780588105/250705-nature-festival-butterfly-house-stall.webp
 image_altText: Two members of staff at stall in front Butterfly House banner, behind some butterfly containers on the table, two young people looking on

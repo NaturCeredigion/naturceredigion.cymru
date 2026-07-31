@@ -6,8 +6,27 @@ body {
 p, .paragraph, li {
   font-size: 16px;
 }
+h1,h2,h3,h4,h5,h6 {
+  font-family: $font-secondary;
+  font-weight: 600;
+}
+h1 {
+  font-weight: 800;
+}
+h1.title {
+  font-family: $font-primary;
+  position: relative;
+  top: -38px;
+}
+.latest-news .card-block .h4 {
+  font-weight: 600 !important;
+}
 .btn {
+  font-family: $font-secondary;
   text-transform: none;
+}
+.taxonomies-list, .tags {
+  font-family: $font-secondary;
 }
 .banner-image {
   border-radius: 50%;
@@ -40,10 +59,6 @@ p, .paragraph, li {
 .slider-block {
   top: -2rem;
 }
-h1,h2,h3,h4,h5,h6 {
-  font-family: $font-secondary;
-  font-weight: 500;
-}
 .navbar {
   font-family: $font-secondary;
 }
@@ -72,10 +87,15 @@ h1,h2,h3,h4,h5,h6 {
   border-radius: 2px;
 }
 
+.related-post-list li {
+  font-family: $font-secondary;
+  font-weight: 600;
+}
+
 .navbar-nav li a {
   // color: #ea4a2c !important;
   color: $color_primary !important;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .navbar-nav li a:hover {
@@ -83,6 +103,12 @@ h1,h2,h3,h4,h5,h6 {
 }
 .navbar-nav li a:active {
   background-color: $hilite;
+}
+
+.badge {
+  font-family: $font-secondary;
+  font-size: 11px !important;
+  font-weight: 400;
 }
 
 .card-overlapped .badge {
@@ -96,6 +122,14 @@ h1,h2,h3,h4,h5,h6 {
 }
 .article-overlapped-list .card-block {
   box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.1);
+}
+
+.article .h4 {
+  font-weight: 600 !important;
+}
+
+.article h3 {
+  font-size: 18px;
 }
 
 .navbar-nav li, .navbar-nav .dropdown-item {
@@ -139,10 +173,14 @@ a.text-dark:active {
   font-size: 0.75rem;
 }
 
+.footer-nav {
+  font-family: $font-secondary;
+}
+
 .footer-nav a {
   color: $text_color;
   font-size: 1.4rem;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .banner-creative .banner-image {
@@ -178,10 +216,6 @@ a.text-dark:active {
   list-style-type: disc;
 }
 
-h1.title {
-  position: relative;
-  top: -38px;
-}
 
 .featured-post-slider::before {
   height: 0;

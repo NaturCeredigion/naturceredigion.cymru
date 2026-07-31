@@ -1,5 +1,5 @@
 ---
-title: Badger survey at Pendinas Local Nature Reserve
+title: Badger survey at Pendinas
 description: Ceredigion Council’s Reserves Manager Chris Harris helped organise a badger survey with Gretchen Taylor & Jo Flanagan from the Ceredigion Badger Society, at the Pendinas Local Nature Reserve, just to the south of Aberystwyth
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1781023741/230610-pen-dinas-nature-resereve-Llywelyn2000.jpg
 image_altText: Big hill with paths on it and a columnar monument, sea beyond

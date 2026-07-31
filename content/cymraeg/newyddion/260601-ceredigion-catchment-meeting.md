@@ -1,5 +1,5 @@
 ---
-title: Partneriaeth Dalgylch Ceredigion - Cyfarfod Rhanddeiliaid
+title: Partneriaeth Dalgylch Ceredigion
 date: 2026-05-31T12:28:34+00:00
 description: Cyfarfod rhanddeiliaid i drafod y posibiliadau a’r cyfleoedd o ran datblygu Partneriaeth Dalgylch ar gyfer Afon Teifi (Ceredigion).
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1780329150/260601-cardigan-bay-aerial-joe.jpg
@@ -44,7 +44,7 @@ Penmorfa
 Swyddfeydd Cyngor Sir Ceredigion  
 Aberaeron  
 SA46 0PA
-#### Google Maps:  
+#### Google Maps:
 [https://www.google.com/maps/place/Penmorfa+Aberaeron](https://www.google.com/maps/place/Penmorfa+Aberaeron)
 
 [![Google Map of Penmorfa offices](https://res.cloudinary.com/naturceredigion/image/upload/v1780327663/260601-penmorfa-google-map.png)](https://www.google.com/maps/place/Penmorfa+Aberaeron) 

@@ -94,7 +94,7 @@
 <!-- blog -->
 <section class="section">
   <div class="container">
-    <div class="row">
+    <div class="row latest-news">
       <h2 class="text-center mb-5">{{ i18n `latest_news` }}</h2>
       <div class="col-lg-10 mx-auto">
         {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.mainSections ) }}
