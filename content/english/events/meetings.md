@@ -13,8 +13,8 @@ translationKey: "partnership-meetings"
 ![Meeting being held in university room with wood panelling and portraits on the wall, speaker at a podium with a crest of arms](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771518127/260219-partnership-meeting-uwtsd.jpg)<br>*Partnership meeting at University Wales Trinity St David*
 ## Next meetings
 *Tuesday Meetings: 10am-4pm.*
-- 20th October 2026 - [Caerwedros](https://www.openstreetmap.org/node/6266412806#map=16/52.17295/-4.37694&layers=P)
-- 19th January 2027 – TBC
+- Tue 20th October 2026 - [Caerwedros](https://www.openstreetmap.org/node/6266412806#map=16/52.17295/-4.37694&layers=P)
+- Tue 19th January 2027 – TBC
 
 The Ceredigion Local Nature Partnership (LNP) holds quarterly meetings that bring together members of the public, organisations and practitioners with a shared interest in nature.
 

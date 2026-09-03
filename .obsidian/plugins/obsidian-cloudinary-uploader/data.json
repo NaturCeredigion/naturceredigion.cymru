@@ -1,0 +1,20 @@
+{
+  "cloudName": "naturceredigion",
+  "uploadPreset": "Upload",
+  "folder": "",
+  "f_auto": true,
+  "transformParams": "c_fit,h_1600,w_1600",
+  "dropUpload": true,
+  "clipboardUpload": true,
+  "imageUpload": true,
+  "audioUpload": false,
+  "videoUpload": false,
+  "rawUpload": false,
+  "imageSubfolder": "",
+  "audioSubfolder": "",
+  "videoSubfolder": "",
+  "rawSubfolder": "",
+  "preserveBackupFilePath": false,
+  "backupFolder": "",
+  "ignoreWarnings": false
+}

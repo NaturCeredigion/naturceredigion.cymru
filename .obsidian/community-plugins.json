@@ -12,5 +12,7 @@
   "obsidian-style-settings",
   "obsidian-git",
   "front-matter-timestamps",
-  "iconic"
+  "iconic",
+  "obsidian-cloudinary-uploader",
+  "image-converter"
 ]
