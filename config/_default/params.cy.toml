@@ -23,5 +23,5 @@ keywords = []
 [cookies]
 enable = false
 expire_days = 2
-button = "Rwy'n derbyn"
-content = "Mae'r wefan hon yn defnyddio cwcis. Drwy barhau i ddefnyddio'r wefan hon, rydych chi'n cytuno iddynt gael eu defnyddio."
+button = "Rwy’n derbyn"
+content = "Mae’r wefan hon yn defnyddio cwcis. Drwy barhau i ddefnyddio’r wefan hon, rydych chi’n cytuno iddynt gael eu defnyddio."

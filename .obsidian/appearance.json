@@ -2,5 +2,6 @@
   "cssTheme": "Everforest",
   "accentColor": "#5c82f5",
   "theme": "moonstone",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "baseFontSizeAction": true
 }
