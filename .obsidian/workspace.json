@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd05e5c03402941a",
+        "id": "7dba595525ee5c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "5c70759b454e2e60",
+            "id": "c233c76616414c10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cymraeg/newyddion/260726-festival-diolch.md",
+                "file": "content/english/news/260903-diolch-mor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260726-festival-diolch"
-            }
-          },
-          {
-            "id": "ec4a46e2a98c402e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/english/news/260726-festival-diolch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260726-festival-diolch"
+              "title": "260903-diolch-mor"
             }
           }
         ]
@@ -189,8 +175,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5c70759b454e2e60",
+  "active": "c233c76616414c10",
   "lastOpenFiles": [
+    "content/english/news/260902-ceredigion-barn-owl-project.md",
+    "content/english/news/260903-diolch-mor.md",
     "content/english/news/260726-festival-diolch.md",
     "content/cymraeg/newyddion/260726-festival-diolch.md",
     "tmp/images",
@@ -234,8 +222,6 @@
     "assets/images/gallery/05.jpg",
     "assets/images/gallery/04.jpg",
     "content/english/news/binme.md",
-    "assets/templates/post.md",
-    "content/cymraeg/newyddion/251221-your-wild-patch.md",
-    "content/english/news/240611-plans.md"
+    "assets/templates/post.md"
   ]
 }
