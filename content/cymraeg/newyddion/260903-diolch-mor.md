@@ -23,6 +23,8 @@ modified: 2026-09-10T15:47:48+01:00
 ---
 Wedi’i chreu gan grŵp Rhieni ar gyfer Dyfodol Ceredigion ar y cyd â [Phartneriaeth Natur Leol Ceredigion](https://naturceredigion.cymru/cy/), gyda chyllid o gynllun Lleoedd Lleol ar gyfer Natur, ffilm gymunedol newydd yw _Diolch, Môr – Thank You, Sea_ sy’n dathlu arfordir Ceredigion ac yn amlygu mor bwysig yw gwarchod yr amgylchedd morol.
 
+<iframe title="Diolch, Môr" width="560" height="315" src="https://tv.naturceredigion.cymru/videos/embed/aHeJje1N5otgHD65Km1NDJ" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+
 Cynhyrchwyd _Diolch, Môr – Thank You, Sea_ gan Rhieni ar gyfer Dyfodol Ceredigion, sef cangen leol o’r sefydliad cenedlaethol sy’n gweithio i sicrhau dyfodol mwy diogel a theg i blant. Daw’r ffilm â lleisiau, profiadau ac atgofion pobl leol o bob cwr o’r sir ynghyd, gan archwilio’r hyn y mae’r môr yn ei olygu iddyn nhw a pham mae’n bwysig ei ddiogelu i genedlaethau’r dyfodol.
 
 Wedi’i ysbrodoli gan ddarllediad cyhoeddus o _Ocean_ gyda David Attenborough yn Aberystwyth yn gynharach eleni, gwahoddodd y prosiect bobl o bob rhan o Geredigion i rannu deunydd a straeon personol sy’n dathlu eu cysylltiad â’r môr a’r amgylchedd arfordirol.

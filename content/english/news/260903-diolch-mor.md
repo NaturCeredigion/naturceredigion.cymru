@@ -17,9 +17,11 @@ featured: true
 draft: false
 translationKey: Diolch Môr
 date: 2026-09-03T14:28:43+01:00
-modified: 2026-09-10T15:45:05+01:00
+modified: 2026-09-10T19:49:52+01:00
 ---
 Created by [Parents for Future Ceredigion](https://www.facebook.com/p/Parents-For-Future-Ceredigion-61557468430667/) in partnership with the Ceredigion Local Nature Partnership, with funding from the Local Places for Nature scheme, *Diolch, Môr – Thank You, Sea* is a new community film celebrating Ceredigion’s coastline and highlighting the importance of protecting the marine environment.
+
+<iframe title="Thank You, Sea" width="560" height="315" src="https://tv.naturceredigion.cymru/videos/embed/3GcJNESLjM48J7c9vWVooi" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 *Diolch, Môr – Thank You, Sea* has been produced by Parents for Future Ceredigion, a local branch of the national organisation working to secure a safer and fairer future for children. The film brings together the voices, experiences and memories of local people from across the county, exploring what the sea means to them and why it is important to protect it for future generations.
 

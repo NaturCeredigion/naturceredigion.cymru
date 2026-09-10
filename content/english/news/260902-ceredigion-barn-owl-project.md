@@ -25,7 +25,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Barn Owl Project
 date: 2026-09-02T14:33:12+01:00
-modified: 2026-09-10T15:58:39+01:00
+modified: 2026-09-10T16:29:16+01:00
 ---
 Barn owls numbers are declining across the United Kingdom due to habitat loss, food supply reduction and increased mortality risks.
 
