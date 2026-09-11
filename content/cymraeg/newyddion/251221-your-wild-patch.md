@@ -4,12 +4,13 @@ date: 2025-12-21T12:28:34+00:00
 description: Exciting new project, with custom wildlife ID areas and dashboards. Guest post by Yusef Samari
 image: https://res.cloudinary.com/naturceredigion/image/upload/w_640,h_360/v1764533266/251130-your-wild-patch-dashboard.jpg
 draft: false
-featured: true
+featured: false
 categories:
   - Partnership
 author: Yusef Samari
 translationKey: Introducing Your Wild Patch
 type: news
+modified: 2026-09-11T17:01:58+01:00
 ---
 _Yusef Samari, Swyddog GIS CGBGC ac Arweinydd Prosiect_ [_yusef@westwalesbiodiversity.org.uk_](mailto:yusef@westwalesbiodiversity.org.uk)
 

@@ -4,13 +4,13 @@ date: 2026-05-31T12:28:34+00:00
 description: Cyfarfod rhanddeiliaid i drafod y posibiliadau a’r cyfleoedd o ran datblygu Partneriaeth Dalgylch ar gyfer Afon Teifi (Ceredigion).
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1780329150/260601-cardigan-bay-aerial-joe.jpg
 draft: false
-featured: true
+featured: false
 categories:
   - Partnership
 author: Gill Clark
 translationKey: Ceredigion Catchment Meeting
 type: news
-modified: 2026-06-05T14:28:41+01:00
+modified: 2026-09-11T17:02:13+01:00
 ---
 ### Partneriaethau Dalgylch Gorllewin Cymru –<br>Teifi (Ceredigion)
 - **Dydd Mercher 17 Mehefin 2026 13:00 – 14:30**  

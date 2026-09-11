@@ -1,9 +1,9 @@
 ---
-title: Nature Festival thank you
-description: Thank you to everyone who came along to the Ceredigion Nature Festival during Wales Nature Week
-image:
-image_altText:
-image_caption:
+title: Diolch am Ŵyl Natur
+description: Diolch yn fawr iawn i bawb a ddaeth draw i Ŵyl Natur Ceredigion yn ystod Wythnos Natur Cymru!
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1789141808/260726-festival-diolch-20-169.jpg
+image_altText: Face paint artist paints young girls face like some sort of bird
+image_caption: Paentio wynebau yn yr Ŵyl
 tags:
   - NatureFestival
 categories:
@@ -11,10 +11,10 @@ categories:
 type: news
 author: Gill Clark
 featured: true
-draft: true
+draft: false
 translationKey: Festival 2026 Diolch
 date: 2026-08-04T15:20:53+01:00
-modified: 2026-08-22T12:57:11+01:00
+modified: 2026-09-11T16:59:34+01:00
 ---
 Diolch yn fawr iawn i bawb a ddaeth draw i **Ŵyl Natur Ceredigion** yn ystod **Wythnos Natur Cymru**! 
 
@@ -33,6 +33,9 @@ Roedd gennym ddiogelwch yn ei le, ac fe wnaeth y gwarchodwyr erlid yr unigolyn i
 Fodd bynnag, helpodd ein hymgyrch cyfryngau cymdeithasol i ledaenu'r gair, ac rydym yn gyffrous y bydd gan Bartneriaeth Natur Ceredigion ei sianeli cyfryngau cymdeithasol pwrpasol ei hun, y flwyddyn nesaf, gan ein galluogi i gyrraedd hyd yn oed mwy o bobl a gwneud yr ŵyl yn fwy ac yn well nag erioed. 
 
 Mae'r adborth rydyn ni wedi'i dderbyn hyd yma wedi bod yn hynod gadarnhaol. Mae ymwelwyr wedi dweud wrthym faint maen nhw'n caru'r amrywiaeth anhygoel o stondinau a'r amrywiaeth o sefydliadau, prosiectau ac unigolion sy'n cymryd rhan. Roedd yn wych arddangos cymaint o wahanol ffyrdd y mae pobl yn gweithio i ddiogelu a dathlu natur ar draws Ceredigion a thu hwnt. 
+
+![Woman standing behind plant stall](https://res.cloudinary.com/naturceredigion/image/upload/v1785860433/260726-festival-diolch-24.jpg)
+*Stondin blanhigion yn yr Ŵyl*
 
 Rydym hefyd wedi derbyn llawer o adborth gwych gan ddeiliaid ein stondinau, a helpodd i wneud y digwyddiad mor llwyddiannus. Mae'n hyfryd clywed bod cymaint ohonoch wedi mwynhau'r diwrnod cymaint â'n hymwelwyr. 
 

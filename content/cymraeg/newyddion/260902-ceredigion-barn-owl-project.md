@@ -25,7 +25,7 @@ featured: true
 draft: false
 translationKey: Ceredigion Barn Owl Project
 date: 2026-09-02T14:33:12+01:00
-modified: 2026-09-10T16:09:47+01:00
+modified: 2026-09-11T17:02:19+01:00
 ---
 Mae nifer y tylluanod gwynion yn gostwng ledled y Deyrnas Unedig oherwydd colli cynefin, lleihau cyflenwad bwyd a chynyddu risgiau marwolaeth.
 

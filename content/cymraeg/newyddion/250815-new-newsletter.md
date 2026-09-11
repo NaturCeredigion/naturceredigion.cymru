@@ -4,7 +4,7 @@ date: 2025-08-15T14:59:50+01:00
 description: Mae'r Bartneriaeth wedi symud i blatfform cylchlythyr newydd o'r enw Buttondown
 image: https://res.cloudinary.com/naturceredigion/image/upload/w_640/f_auto/v1748385154/250527-buttondown-screenshot.webp
 draft: false
-featured: true
+featured: false
 categories:
   - Partnership
 author: Jake Rayson

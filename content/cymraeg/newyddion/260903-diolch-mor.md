@@ -1,5 +1,5 @@
 ---
-title: Diolch, Môr – Thank You, Sea
+title: Diolch, Môr
 description: Ffilm gymunedol newydd yw dathlu arfordir Ceredigion ac yn amlygu mor bwysig yw gwarchod yr amgylchedd morol
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1789050616/diolch-mor-beach-169.webp
 image_altText: Young child standing on a sandy beach, arms in the air, looks out to the sea
@@ -19,7 +19,7 @@ featured: true
 draft: false
 translationKey: Diolch Môr
 date: 2026-09-03T14:28:43+01:00
-modified: 2026-09-10T15:47:48+01:00
+modified: 2026-09-11T17:02:57+01:00
 ---
 Wedi’i chreu gan grŵp Rhieni ar gyfer Dyfodol Ceredigion ar y cyd â [Phartneriaeth Natur Leol Ceredigion](https://naturceredigion.cymru/cy/), gyda chyllid o gynllun Lleoedd Lleol ar gyfer Natur, ffilm gymunedol newydd yw _Diolch, Môr – Thank You, Sea_ sy’n dathlu arfordir Ceredigion ac yn amlygu mor bwysig yw gwarchod yr amgylchedd morol.
 

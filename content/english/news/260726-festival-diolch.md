@@ -1,9 +1,9 @@
 ---
 title: Nature Festival thank you
 description: Thank you to everyone who came along to the Ceredigion Nature Festival during Wales Nature Week
-image:
-image_altText:
-image_caption:
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1789141808/260726-festival-diolch-20-169.jpg
+image_altText: Face paint artist paints young girls face like some sort of bird
+image_caption: Face painting at the Festival
 tags:
   - NatureFestival
 categories:
@@ -11,10 +11,10 @@ categories:
 type: news
 author: Gill Clark
 featured: true
-draft: true
+draft: false
 translationKey: Festival 2026 Diolch
 date: 2026-08-04T15:20:53+01:00
-modified: 2026-08-22T12:56:20+01:00
+modified: 2026-09-11T16:59:00+01:00
 ---
 A huge **thank you** to everyone who came along to the **Ceredigion Nature Festival** during **Wales Nature Week**!
 
@@ -29,6 +29,9 @@ We were also disappointed that we weren't able to promote the festival with our 
 I had placed posters at the entrances to the site, but unfortunately these were removed during the night by a young person. We did have security in place, and the guards chased the individual away. However, they were unaware that our signage had been removed and were therefore unable to alert us to the issue.
 
 The feedback we've received so far has been overwhelmingly positive. Visitors have told us how much they loved the incredible range of stalls and the diversity of organisations, projects and individuals taking part. It was wonderful to showcase so many different ways people are working to protect and celebrate nature across Ceredigion and beyond.
+
+![Woman standing behind plant stall](https://res.cloudinary.com/naturceredigion/image/upload/v1785860433/260726-festival-diolch-24.jpg)
+*Plant stall at the Festival*
 
 We've also received lots of fantastic feedback from our stall holders, who helped make the event such a success. It's wonderful to hear that so many of you enjoyed the day as much as our visitors did.
 
