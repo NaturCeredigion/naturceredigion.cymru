@@ -12,13 +12,15 @@ categories:
   - Partnership
 type: news
 author: Caerwedros Swift Group
-featured: false
+featured: true
 draft: true
 translationKey: Caerwedros Swift tower
 date: 2026-08-26T14:22:52+01:00
-modified: 2026-09-15T15:22:08+01:00
+modified: 2026-09-18T15:58:10+01:00
 ---
 This year has marked an exciting step forward for nature conservation in Caerwedros, thanks to generous support from the **Ceredigion Nature Partnership (CNP)**. Their funding will enable us to buy and build **25 new Swift call systems**, designed to attract swifts to the nest boxes installed around the village earlier in the year.
+
+<iframe title="Official opening of the Swift tower at Caerwedros" width="560" height="315" src="https://tv.naturceredigion.cymru/videos/embed/roRw9YRy6hDqJy4mnuonQX" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 CNP’s commitment to Swift conservation has already made history in the area. Earlier this year, they funded **Ceredigion’s first-ever Swift tower**, unveiled as part of the **75th Anniversary celebrations of Neuadd Goffa Caerwedros**. The ‘’official opening’’ of the Tower in April was a really enjoyable event attended by over 100 people who came to hear Edward Mayer, the Founder of Swift Conservation and Jack Gradidge, the Conservation Officer from Folly Farm (aka ‘The Pembrokeshire Rhino Whisperer’) talk about the swifts and the animals these wonderful birds will have seen on their repeat migrations to Afric.
 
