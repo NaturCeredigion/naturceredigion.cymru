@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/english/docs/branding/voice.md",
+                "file": "content/english/docs/process/newsletter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "voice"
+              "title": "newsletter"
             }
           }
         ],
@@ -192,10 +192,12 @@
   },
   "active": "718ea9b6d9d7646d",
   "lastOpenFiles": [
+    "content/english/docs/process/profile.md",
+    "content/english/docs/process/newsletter.md",
+    "content/english/docs/process/calendar.md",
+    "content/english/docs/branding/voice.md",
     "content/english/docs/process/blog.md",
     "content/english/news/260826-caerwedros-swift-tower.md",
-    "content/english/docs/process/profile.md",
-    "content/english/docs/branding/voice.md",
     "content/english/news/260604-ceredigion-nature-festival.md",
     "content/cymraeg/newyddion/260726-festival-diolch.md",
     "content/english/docs/branding/colours.md",
@@ -222,8 +224,6 @@
     "content/english/news/260428-twr-gwyllt-penglais-school-habitat.md",
     "content/english/news/260512-badger-survey-pendinas.md",
     "content/english/news/260517-cletwr-pollinator-festival.md",
-    "content/english/news/260518-cat-ecological-towers.md",
-    "content/english/news/260726-festival-diolch.md",
     "public/cy/newyddion/260726-festival-diolch/index.html",
     "public/cy/newyddion/260726-festival-diolch",
     "public/en/news/260726-festival-diolch/index.html",
