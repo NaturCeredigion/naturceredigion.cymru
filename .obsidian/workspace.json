@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/english/docs/process/blog.md",
+                "file": "content/english/docs/branding/voice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blog"
+              "title": "voice"
             }
           }
         ],
@@ -192,8 +192,8 @@
   },
   "active": "718ea9b6d9d7646d",
   "lastOpenFiles": [
-    "content/english/news/260826-caerwedros-swift-tower.md",
     "content/english/docs/process/blog.md",
+    "content/english/news/260826-caerwedros-swift-tower.md",
     "content/english/docs/process/profile.md",
     "content/english/docs/branding/voice.md",
     "content/english/news/260604-ceredigion-nature-festival.md",
