@@ -11,12 +11,12 @@ tags:
 categories:
   - Partnership
 type: news
-author: Caerwedros Swift Group
+author: Guest
 featured: true
 draft: false
 translationKey: Caerwedros Swift tower
 date: 2026-09-22T14:22:52+01:00
-modified: 2026-09-22T15:20:31+01:00
+modified: 2026-09-22T15:43:04+01:00
 ---
 #### Dathlu cymuned, cadwraeth, a’r Gwenoliaid Duon yn dychwelyd i Gaerwedros
 Eleni cafwyd cam cyffrous ymlaen i gadwraeth natur yng Nghaerwedros, a hynny yn sgil cefnogaeth hael **Partneriaeth Natur Ceredigion**. Bydd ei chyllid yn ein galluogi i brynu ac adeiladu **25 o systemau galw newydd ar gyfer Gwenoliaid Duon**, wedi’u dylunio i ddenu gwenoliaid duon i'r blychau nythu a osodwyd o amgylch y pentref yn gynharach yn y flwyddyn.

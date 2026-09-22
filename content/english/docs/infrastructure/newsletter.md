@@ -1,6 +1,7 @@
 ---
+title: Newsletter
 date: 2026-07-02T17:31:07+01:00
-modified: 2026-07-02T17:31:13+01:00
+modified: 2026-09-22T15:44:31+01:00
 description: We use Buttondown for our newsletters
 author: Jake Rayson
 ---
