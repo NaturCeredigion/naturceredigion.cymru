@@ -27,7 +27,7 @@
             {{ range where site.RegularPages ".Params.featured" "=" true }}
             <div class="swiper-slide">
               <article class="card-overlapped post-item col mb-5">
-                <div class="badge">Featured</div>
+                <div class="badge">{{ i18n `featured` }}</div>
                 {{ if .Params.image }}
                 <a href="{{ .Permalink }}">
                   {{ partial "image.html" (dict "Src" .Params.image "Alt" .Title "Class" `w-100`) }}

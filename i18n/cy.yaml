@@ -85,6 +85,9 @@
 - id: featured_post
   translation: Postiadau nodedig
 
+- id: featured
+  translation: Dan Sylw
+
 - id: recent_post
   translation: Postiad diweddar
 

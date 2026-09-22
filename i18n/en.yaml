@@ -85,6 +85,9 @@
 - id: featured_post
   translation: Featured posts
 
+- id: featured
+  translation: Featured
+
 - id: recent_post
   translation: Recent post
 
