@@ -8,20 +8,20 @@
         <div class="content">{{ .Content }}</div>
         <form method="POST" action="{{ site.Params.contact_form_action | safeURL}}" class="row mb-4">
           <div class="col-md-6">
-            <input type="text" class="form-control mb-4" placeholder="Name" name="name" id="name" required>
+            <input type="text" class="form-control mb-4" placeholder="{{ i18n `contact_name` }}" name="name" id="name" required>
           </div>
           <div class="col-md-6">
-            <input type="email" class="form-control mb-4" placeholder="Email" name="email" id="email" required>
+            <input type="email" class="form-control mb-4" placeholder="{{ i18n `contact_email` }}" name="email" id="email" required>
           </div>
           <div class="col-12">
-            <input type="text" class="form-control mb-4" placeholder="Subject" name="subject" id="subject" required>
+            <input type="text" class="form-control mb-4" placeholder="{{ i18n `contact_subject` }}" name="subject" id="subject" required>
           </div>
           <div class="col-12">
-            <textarea name="message" id="message" class="form-control mb-4" placeholder="Type your message here"
+            <textarea name="message" id="message" class="form-control mb-4" placeholder="{{ i18n `contact_message` }}"
                       rows="5" required></textarea>
           </div>
           <div class="col-12">
-            <button class="btn btn-primary btn-block w-100" type="submit">Send</button>
+            <button class="btn btn-primary btn-block w-100" type="submit">{{ i18n `send` }}</button>
           </div>
         </form>
         

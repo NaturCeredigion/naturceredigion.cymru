@@ -1,8 +1,59 @@
+- id: about_me
+  translation: About me
+
+- id: all_partners
+  translation: All Partners
+
+- id: categories
+  translation: Categories
+
 - id: cnp_desc
   translation: Ceredigion Nature Partnership is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature.
 
-- id: search_placeholder
-  translation: Search…
+- id: copyright-text
+  translation: Designed & developed by
+
+- id: contact_name
+  translation: Name
+
+- id: contact_email
+  translation: Email
+
+- id: contact_subject
+  translation: Subject
+
+- id: contact_message
+  translation: Type your message here
+
+- id: email
+  translation: Email address
+
+- id: featured
+  translation: Featured
+
+- id: featured_post
+  translation: Featured posts
+
+- id: home
+  translation: Home
+
+- id: message
+  translation: Your message here
+
+- id: most_recent_post
+  translation: Our most recent post
+
+- id: name
+  translation: Your name
+
+- id: newsletter_intro
+  translation: Sign up for a monthly round-up of nature news in Ceredigion plus a weekly news flash! You can also join our nature recovery network for free, to help monitor and protect wildlife and improve community well-being.
+
+- id: newsletter_label
+  translation: Sign up to Ceredigion Nature News
+
+- id: our_aims
+  translation: Our aims
 
 - id: our_instagram
   translation: Our Instagram
@@ -13,92 +64,56 @@
 - id: our_partners_desc
   translation: Our partners bring together skills, experience and passion from across Ceredigion to help restore and protect our natural environment. By working together, we can deliver bigger, better and more joined-up outcomes for nature and communities.
 
-- id: all_partners
-  translation: All Partners
-
-- id: name
-  translation: Your name
-
-- id: email
-  translation: Email address
-
-- id: subject
-  translation: Subject
-
-- id: message
-  translation: Your message here
-
-- id: see_also
-  translation: See also
-
-- id: send_message
-  translation: Send message
-
-- id: search_result_for
-  translation: Search results for
-
-- id: you_may_also_like
-  translation: You may also like
-
-- id: most_recent_post
-  translation: Our most recent post
-
-- id: written_by
-  translation: Written by
-
-- id: read_more
-  translation: Read more
+- id: popular_categories
+  translation: Popular categories
 
 - id: read_article
   translation: Read article
 
-- id: showing_posts_from
-  translation: Showing posts from
+- id: read_more
+  translation: Read more
 
-- id: home
-  translation: Home
+- id: search_placeholder
+  translation: Search…
+
+- id: see_also
+  translation: See also
 
 - id: search
   translation: Search
 
-- id: categories
-  translation: Categories
+- id: search_result_for
+  translation: Search results for
 
-- id: tags
-  translation: Tags
+- id: send
+  translation: Send
+
+- id: send_message
+  translation: Send message
+
+- id: showing_posts_from
+  translation: Showing posts from
 
 - id: social
   translation: Social
 
-- id: copyright-text
-  translation: Designed & developed by
+- id: subject
+  translation: Subject
 
-- id: popular_categories
-  translation: Popular categories
+- id: tags
+  translation: Tags
 
-- id: our_aims
-  translation: Our aims
+- id: written_by
+  translation: Written by
 
-- id: about_me
-  translation: About me
-
-- id: featured_post
-  translation: Featured posts
-
-- id: featured
-  translation: Featured
+- id: you_may_also_like
+  translation: You may also like
 
 - id: recent_post
   translation: Recent post
 
 - id: subscribe_newsletter
   translation: Never miss a news
-
-- id: newsletter_intro
-  translation: Sign up for a monthly round-up of nature news in Ceredigion plus a weekly news flash! You can also join our nature recovery network for free, to help monitor and protect wildlife and improve community well-being.
-
-- id: newsletter_label
-  translation: Sign up to Natur Ceredigion newsletter
 
 - id: our_newsletter
   translation: Our newsletter

@@ -36,11 +36,11 @@ name = "News"
 url = "news/"
 weight = 1
 
-[[main]]
-parent = "Latest"
-name = "Events Calendar"
-url = "events/calendar/"
-weight = 2
+# [[main]]
+# parent = "Latest"
+# name = "Events Calendar"
+# url = "events/calendar/"
+# weight = 2
 
 [[main]]
 parent = "Latest"

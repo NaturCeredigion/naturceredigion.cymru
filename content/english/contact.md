@@ -22,8 +22,8 @@ For nature incidents, please phone Natural Resources Wales [0300 065 300](tel:~+
 We are on the following social media channels, use the hashtag **#NaturCeredigion**
 
 **Facebook**: [facebook.com/NaturCeredigion](https://facebook.com/NaturCeredigion)  
-**Pixelfed on [the Fediverse](https://jointhefediverse.net/learn/?lang=en-us)**: [pixelfed.social/NaturCeredigion](https://pixelfed.social/NaturCeredigion)  
+<!-- **Pixelfed on [the Fediverse](https://jointhefediverse.net/learn/?lang=en-us)**: [pixelfed.social/NaturCeredigion](https://pixelfed.social/NaturCeredigion)  
 **Twitter**: [x.com/NaturCeredigion](https://x.com/NaturCeredigion)  
-**Instagram**: [instagram.com/NaturCeredigion](https://instagram.com/NaturCeredigion)  
+**Instagram**: [instagram.com/NaturCeredigion](https://instagram.com/NaturCeredigion)   -->
 
 ### Contact us

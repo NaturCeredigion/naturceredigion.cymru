@@ -22,8 +22,8 @@ I roi gwybod am ddigwyddiadau natur, ffoniwch Cyfoeth Naturiol Cymru ar[0300 065
 Rydym ar y sianeli cyfryngau cymdeithasol canlynol, defnyddiwch yr hashnod **#NaturCeredigion**
 
 **Facebook**: [facebook.com/NaturCeredigion](https://facebook.com/NaturCeredigion)  
-**Pixelfed ar [the Fediverse](https://jointhefediverse.net/learn/?lang=en-us)**: [pixelfed.social/NaturCeredigion](https://pixelfed.social/NaturCeredigion)  
+<!-- **Pixelfed ar [the Fediverse](https://jointhefediverse.net/learn/?lang=en-us)**: [pixelfed.social/NaturCeredigion](https://pixelfed.social/NaturCeredigion)  
 **Twitter**: [x.com/NaturCeredigion](https://x.com/NaturCeredigion)  
-**Instagram**: [instagram.com/NaturCeredigion](https://instagram.com/NaturCeredigion)
+**Instagram**: [instagram.com/NaturCeredigion](https://instagram.com/NaturCeredigion) -->
 
 ### Cysylltwch â ni

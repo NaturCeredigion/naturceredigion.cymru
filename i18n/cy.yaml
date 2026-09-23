@@ -1,6 +1,18 @@
 - id: cnp_desc
   translation: Mae Partneriaeth Natur Ceredigion yn bartneriaeth gydweithredol strategol o asiantaethau cyhoeddus, sefydliadau gwirfoddol lleol, busnesau, grwpiau cymunedol ac unigolion sy’n cydweithio i ddiogelu natur ac i fynd ati mewn ffordd radical i’w chyfoethogi.
 
+- id: contact_name
+  translation: Enw
+
+- id: contact_email
+  translation: Ebost
+
+- id: contact_subject
+  translation: Pwnc
+
+- id: contact_message
+  translation: Teipiwch eich neges yma
+
 - id: search_placeholder
   translation: Chwilio…
 
@@ -30,6 +42,9 @@
 
 - id: see_also
   translation: Gweler hefyd
+
+- id: send
+  translation: Anfon
 
 - id: send_message
   translation: Anfon y neges
@@ -98,7 +113,7 @@
   translation: Cofrestrwch i gael ein crynodeb misol o newyddion natur Ceredigion, ynghyd â phenawdau wythnosol! Gallwch hefyd ymuno â'n rhwydwaith adfer natur am ddim i'n helpu i fonitro a diogelu bywyd gwyllt ac i wella llesiant cymunedol.
 
 - id: newsletter_label
-  translation: Cofrestrwch i gael cylchlythyr Natur Ceredigion
+  translation: Cofrestrwch i gael Newyddion Natur Ceredigion
 
 - id: our_newsletter
   translation: Ein cylchlythyr
