@@ -153,7 +153,7 @@ sidebar = [
 ############################# social site ########################
 [[social]]
 icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.facebook.com/naturceredigion"
+link = "https://www.facebook.com/CeredigionCC"
 title = "Facebook"
 
 # [[social]]

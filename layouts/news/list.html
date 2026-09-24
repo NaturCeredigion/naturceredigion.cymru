@@ -15,7 +15,7 @@
         <!-- Commented out the "posts related to x" -->
         <!-- <h2 class="mb-4">{{ i18n `post_related_to` }} <span class="text-primary">{{ .Title }}</span></h2> -->
         <div class="{{ if $has_sidebar }}col-lg-8{{ else }}col-lg-10{{ end }} {{ if eq $sidebar `left` }}order-1 order-lg-2{{ end }}">
-          <h2 class="mb-4">{{ .Section  | title }}: {{ .Title }}</h2>
+          <h2 class="mb-4"><!--{{ .Section  | title }}: -->{{ .Title }}</h2>
 
           <div class="bg-white shadow block">
             {{ $paginator := .Paginate (where .Data.Pages "Section" "in" site.Params.mainSections ) }}
