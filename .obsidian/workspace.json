@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "322c0d28f5638609",
+        "id": "ecdb9a5f65b72a7c",
         "type": "tabs",
         "children": [
           {
-            "id": "7553801f8598f623",
+            "id": "1eca9330d05c9ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cymraeg/digwyddiadau/cyfarfodydd.md",
+                "file": "content/cymraeg/newyddion/260826-caerwedros-swift-tower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cyfarfodydd"
+              "title": "260826-caerwedros-swift-tower"
             }
           },
           {
-            "id": "789777b823ff3b6c",
+            "id": "34978a6f66c145ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cymraeg/digwyddiadau/cyfarfodydd.md",
+                "file": "content/english/news/260826-caerwedros-swift-tower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cyfarfodydd"
+              "title": "260826-caerwedros-swift-tower"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,12 +189,14 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "789777b823ff3b6c",
+  "active": "1eca9330d05c9ab7",
   "lastOpenFiles": [
+    "content/english/news/260826-caerwedros-swift-tower.md",
+    "content/cymraeg/newyddion/260826-caerwedros-swift-tower.md",
+    "content/cymraeg/digwyddiadau/cyfarfodydd.md",
     "public/cy/digwyddiadau/cyfarfodydd.docx",
     "content/cymraeg/digwyddiadau/cyfarfodydd.docx",
     "content/english/events/meetings.md",
-    "content/cymraeg/digwyddiadau/cyfarfodydd.md",
     "public/cy/digwyddiadau/cyfarfodydd/index.html",
     "public/cy/digwyddiadau/cyfarfodydd",
     "content/cymraeg/digwyddiadau/calendr.md",
@@ -214,14 +215,11 @@
     "public/en/author/mark-dinn",
     "public/en/author/gill-clark/index.html",
     "public/en/author/gill-clark",
-    "public/en/author/index.xml",
     "content/english/author/mark-dinn.md",
     "content/english/author/john-doe.md",
-    "content/english/news/260826-caerwedros-swift-tower.md",
     "content/english/docs/infrastructure/newsletter.md",
     "content/english/docs/infrastructure/url-shortener.md",
     "content/english/docs/test.md",
-    "content/cymraeg/newyddion/260826-caerwedros-swift-tower.md",
     "content/english/news/260918-tree-warden-network.md",
     "content/cymraeg/newyddion/260918-tree-warden-network.md",
     "Untitled.md",
