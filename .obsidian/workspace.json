@@ -35,7 +35,8 @@
               "title": "260826-caerwedros-swift-tower"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +190,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "1eca9330d05c9ab7",
+  "active": "34978a6f66c145ad",
   "lastOpenFiles": [
-    "content/english/news/260826-caerwedros-swift-tower.md",
     "content/cymraeg/newyddion/260826-caerwedros-swift-tower.md",
+    "content/english/news/260826-caerwedros-swift-tower.md",
     "content/cymraeg/digwyddiadau/cyfarfodydd.md",
     "public/cy/digwyddiadau/cyfarfodydd.docx",
     "content/cymraeg/digwyddiadau/cyfarfodydd.docx",

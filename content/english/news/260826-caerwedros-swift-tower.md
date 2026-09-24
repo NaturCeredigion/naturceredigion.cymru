@@ -30,6 +30,7 @@ The Caerwedros Swift Group has been at the heart of this movement. What began as
 We’re also grateful for the ongoing support of Jack ‘Rhino Whisperer’ Gradidge, who has been involved throughout and will be helping us assemble the new sound systems this autumn. His expertise has been invaluable.
 
 ![View of top part of swift tower - a pole going up to an octogonal stepped down structure with circular nest boxes on each face](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1789479613/260826-swift-tower-caerwedros-169.jpg)
+
 *The top of the Swift tower*
 
 Perhaps the most pleasing outcome of all has been the way this project has demonstrated that people **do** care for our surroundings and can come together to make a difference. A perfect example of which was that during the recent heatwaves, villagers independently monitored a fire outbreak in a nearby woodland for over a week to prevent a repeat flare-up —something that simply wouldn’t have happened without the connections first formed through the swift project.
