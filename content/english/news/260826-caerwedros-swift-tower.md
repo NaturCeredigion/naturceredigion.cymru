@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Caerwedros Swift tower
 date: 2026-09-22T14:22:52+01:00
-modified: 2026-09-24T17:46:51+01:00
+modified: 2026-09-24T17:50:49+01:00
 ---
 #### Celebrating community, conservation, and the return of the Swifts in Caerwedros
 This year has marked an exciting step forward for nature conservation in Caerwedros, thanks to generous support from the **Ceredigion Nature Partnership**. Their funding will enable us to buy and build **25 new Swift call systems**, designed to attract swifts to the nest boxes installed around the village earlier in the year.
@@ -29,8 +29,7 @@ The Caerwedros Swift Group has been at the heart of this movement. What began as
 
 We’re also grateful for the ongoing support of Jack ‘Rhino Whisperer’ Gradidge, who has been involved throughout and will be helping us assemble the new sound systems this autumn. His expertise has been invaluable.
 
-![View of top part of swift tower - a pole going up to an octogonal stepped down structure with circular nest boxes on each face](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1789479613/260826-swift-tower-caerwedros-169.jpg)
-
+![View of top part of swift tower - a pole going up to an octogonal stepped down structure with circular nest boxes on each face](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1789479613/260826-swift-tower-caerwedros-169.jpg)  
 *The top of the Swift tower*
 
 Perhaps the most pleasing outcome of all has been the way this project has demonstrated that people **do** care for our surroundings and can come together to make a difference. A perfect example of which was that during the recent heatwaves, villagers independently monitored a fire outbreak in a nearby woodland for over a week to prevent a repeat flare-up —something that simply wouldn’t have happened without the connections first formed through the swift project.
@@ -39,4 +38,4 @@ The swifts have brought more than just beauty to the summer skies of Caerwedros.
 
 > *Local Swift facts* – we now know of 13 active nest sites in the village, up from 6 previously. In addition a screaming party of 25 birds was observed hurtling around the village skies in August, the previous ‘record’ having been a party of 15 two years ago.
 
-If you fancy lending a hand to build your very own Swift call system, just drop a line to [caerwedrosswifts@gmail.com](mailto:caerwedrosswifts@gmail.com))
+If you fancy lending a hand to build your very own Swift call system, just drop a line to [caerwedrosswifts@gmail.com](mailto:caerwedrosswifts@gmail.com)

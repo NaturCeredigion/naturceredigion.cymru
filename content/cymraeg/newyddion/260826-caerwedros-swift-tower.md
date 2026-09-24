@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Caerwedros Swift tower
 date: 2026-09-22T14:22:52+01:00
-modified: 2026-09-24T17:50:13+01:00
+modified: 2026-09-24T17:53:09+01:00
 ---
 #### Dathlu cymuned, cadwraeth, a’r Gwenoliaid Duon yn dychwelyd i Gaerwedros
 Eleni cafwyd cam cyffrous ymlaen i gadwraeth natur yng Nghaerwedros, a hynny yn sgil cefnogaeth hael **Partneriaeth Natur Ceredigion**. Bydd ei chyllid yn ein galluogi i brynu ac adeiladu **25 o systemau galw newydd ar gyfer Gwenoliaid Duon**, wedi’u dylunio i ddenu gwenoliaid duon i'r blychau nythu a osodwyd o amgylch y pentref yn gynharach yn y flwyddyn.
@@ -29,8 +29,7 @@ Bu Grŵp Gwenoliaid Duon Caerwedros wrth wraidd y mudiad hwn. Mae'r hyn a ddechr
 
 Rydym hefyd yn ddiolchgar am gefnogaeth barhaus Jack _'Rhino Whisperer'_ Gradidge, a fu’n weithgar drwy gydol y prosiect ac a fydd yn ein helpu i gydosod y systemau sain newydd yr hydref hwn. Bu ei arbenigedd yn amhrisiadwy.
 
-![View of top part of swift tower - a pole going up to an octogonal stepped down structure with circular nest boxes on each face](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1789479613/260826-swift-tower-caerwedros-169.jpg)
-
+![View of top part of swift tower - a pole going up to an octogonal stepped down structure with circular nest boxes on each face](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1789479613/260826-swift-tower-caerwedros-169.jpg)  
 *Brig tŵr y gwenoliaid duon*
 
 Efallai mai'r canlyniad mwyaf pleserus oll oedd y ffordd y mae'r prosiect hwn wedi dangos **bod** pobl yn ymboeni am ein hamgylchedd ac y gallant ddod ynghyd i wneud gwahaniaeth. Un enghraifft berffaith o hyn oedd y pentrefwyr, yn ystod y tonnau gwres diweddar, yn mynd ati’n annibynnol i fonitro achosion o dân mewn coetir cyfagos am fwy nag wythnos i atal ffaglu ailadroddus—ac ni fyddai hyn wedi digwydd heb y cysylltiadau a ffurfiwyd gyntaf trwy brosiect y Gwenoliaid Duon.
