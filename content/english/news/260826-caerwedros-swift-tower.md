@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Caerwedros Swift tower
 date: 2026-09-22T14:22:52+01:00
-modified: 2026-09-24T17:50:49+01:00
+modified: 2026-09-24T17:53:35+01:00
 ---
 #### Celebrating community, conservation, and the return of the Swifts in Caerwedros
 This year has marked an exciting step forward for nature conservation in Caerwedros, thanks to generous support from the **Ceredigion Nature Partnership**. Their funding will enable us to buy and build **25 new Swift call systems**, designed to attract swifts to the nest boxes installed around the village earlier in the year.
