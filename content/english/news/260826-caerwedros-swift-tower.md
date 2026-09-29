@@ -16,9 +16,11 @@ featured: true
 draft: false
 translationKey: Caerwedros Swift tower
 date: 2026-09-22T14:22:52+01:00
-modified: 2026-09-24T17:53:35+01:00
+modified: 2026-09-29T16:11:00+01:00
 ---
 #### Celebrating community, conservation, and the return of the Swifts in Caerwedros
+*Guest post by Wayne Lewis*
+
 This year has marked an exciting step forward for nature conservation in Caerwedros, thanks to generous support from the **Ceredigion Nature Partnership**. Their funding will enable us to buy and build **25 new Swift call systems**, designed to attract swifts to the nest boxes installed around the village earlier in the year.
 
 <iframe title="Official opening of the Swift tower at Caerwedros" width="560" height="315" src="https://tv.naturceredigion.cymru/videos/embed/roRw9YRy6hDqJy4mnuonQX" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>

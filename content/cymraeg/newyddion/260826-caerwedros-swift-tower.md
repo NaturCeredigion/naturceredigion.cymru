@@ -19,6 +19,8 @@ date: 2026-09-22T14:22:52+01:00
 modified: 2026-09-24T17:53:09+01:00
 ---
 #### Dathlu cymuned, cadwraeth, a’r Gwenoliaid Duon yn dychwelyd i Gaerwedros
+*Post gwadd gan Wayne Lewis*
+
 Eleni cafwyd cam cyffrous ymlaen i gadwraeth natur yng Nghaerwedros, a hynny yn sgil cefnogaeth hael **Partneriaeth Natur Ceredigion**. Bydd ei chyllid yn ein galluogi i brynu ac adeiladu **25 o systemau galw newydd ar gyfer Gwenoliaid Duon**, wedi’u dylunio i ddenu gwenoliaid duon i'r blychau nythu a osodwyd o amgylch y pentref yn gynharach yn y flwyddyn.
 
 <iframe title="Official opening of the Swift tower at Caerwedros" width="560" height="315" src="https://tv.naturceredigion.cymru/videos/embed/roRw9YRy6hDqJy4mnuonQX" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
