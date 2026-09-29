@@ -9,4 +9,4 @@ modified: 2026-09-29T17:15:55+01:00
 ---
 Fiona lives in North Ceredigion. She works in the Dyfi Biosphere extensively, and is particularly interested in woodlands, ecology, community and nature connection.
 
-Whenever possible, she likes to go out camping 🏕️
+Whenever possible, she likes to go camping 🏕️
