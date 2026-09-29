@@ -16,7 +16,7 @@ featured: true
 draft: false
 translationKey: Caerwedros Swift tower
 date: 2026-09-22T14:22:52+01:00
-modified: 2026-09-24T17:53:09+01:00
+modified: 2026-09-29T17:11:43+01:00
 ---
 #### Dathlu cymuned, cadwraeth, a’r Gwenoliaid Duon yn dychwelyd i Gaerwedros
 *Post gwadd gan Wayne Lewis*
