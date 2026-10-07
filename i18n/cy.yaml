@@ -91,6 +91,9 @@
 - id: popular_categories
   translation: Categorïau poblogaidd
 
+- id: posts_by
+  translation: Postiadau gan
+
 - id: our_aims
   translation: Ein nodau
 

@@ -6,6 +6,7 @@ description: Biodiversity Assistant
 draft: false
 date: 2026-09-22T15:52:15+01:00
 modified: 2026-09-29T17:15:49+01:00
+translationKey: Jake Rayson
 ---
 Jake lives in South Ceredigion. He is passionate about the role of education in nature recovery, wood meadows, forest gardens and native plants. 
 

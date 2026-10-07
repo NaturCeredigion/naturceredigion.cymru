@@ -6,6 +6,7 @@ description: Coordinator Ceredigion Local Nature Partnership
 draft: false
 date: 2026-09-22T15:52:15+01:00
 modified: 2026-09-29T17:15:52+01:00
+translationKey: Gillian Clark
 ---
 Gill is the organisational brains behind the scenes, coordinating our projects, meetings and budgets.
 

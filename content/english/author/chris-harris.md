@@ -6,6 +6,7 @@ description: Biodiversity Assistant & Nature Reserve Officer
 draft: false
 date: 2026-09-22T15:52:15+01:00
 modified: 2026-09-29T17:16:19+01:00
+translationKey: Chris Harris
 ---
 As Nature Reserve Officer, Chris deals with 10 reserves. He‘s been involved with Ceredigion Nature Partnership since 2014, as Chair of Coed Y Bont Community Woodland, and has involved with Red Squirrel and Pine Marten conservation since 2012. 
 

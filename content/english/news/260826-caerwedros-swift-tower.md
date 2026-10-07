@@ -11,7 +11,7 @@ tags:
 categories:
   - Partnership
 type: news
-author: Guest
+author: guest
 featured: true
 draft: false
 translationKey: Caerwedros Swift tower
