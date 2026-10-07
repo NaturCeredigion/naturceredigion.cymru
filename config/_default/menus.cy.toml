@@ -80,8 +80,8 @@ weight = 5
 
 [[main]]
 parent = "Cyllid"
-name = "Cynllun Grantiau Bach"
-url = "cyllid/cynllun-grantiau-bach/"
+name = "Cynllun Grantiau"
+url = "cyllid/cynllun-grantiau/"
 weight = 1
 
 [[main]]

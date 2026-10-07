@@ -1,13 +1,15 @@
 ---
-title: "Cynllun Grantiau Bach"
-description: "The Ceredigion Nature Partnership manages funding for capital projects focussed on “nature on your doorstep”, targeting biodiversity and disadvantaged communities."
-image: "https://res.cloudinary.com/naturceredigion/image/upload/v1771514260/260219-wildlife-pond-small-grants-scheme.jpg"
+title: Grant Scheme
+description: The Ceredigion Nature Partnership manages funding for capital projects focussed on “nature on your doorstep”, targeting biodiversity and disadvantaged communities.
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1771514260/260219-wildlife-pond-small-grants-scheme.jpg
+altText: Grainy photo showing rows of new beds and fruit trees in a row
+caption: Wildlife pond
 draft: false
-alias: "/cynllun-grantiau-bach"
-translationKey: "small-grant-scheme"
----
+alias: /small-grant-scheme
+translationKey: grant-scheme
 
-# Cynllun Grantiau Bach
+---
+# Grant Scheme
 The Ceredigion Nature Partnership manages funding for capital projects focussed on “nature on your doorstep”, targeting biodiversity and disadvantaged communities.
 
 ![Grainy photo showing rows of new beds and fruit trees in a row](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771514260/260219-fruit-tree-planting-small-grants-scheme-169.jpg)<br>
