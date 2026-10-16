@@ -54,6 +54,12 @@ name = "Ein cylchlythyr"
 url = "cylchlythyr/"
 weight = 4
 
+# [[main]]
+# parent = "Diweddaraf"
+# name = "Gŵyl Natur"
+# url = "digwyddiadau/gwyl/"
+# weight = 5
+
 [[main]]
 name = "Partneriaid"
 hasChildren = true

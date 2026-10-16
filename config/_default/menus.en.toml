@@ -54,6 +54,12 @@ name = "Our Newsletter"
 url = "newsletter/"
 weight = 4
 
+# [[main]]
+# parent = "Latest"
+# name = "Nature Festival"
+# url = "events/festival/"
+# weight = 5
+
 [[main]]
 name = "Partners"
 hasChildren = true
