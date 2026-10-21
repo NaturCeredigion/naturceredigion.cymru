@@ -2,8 +2,8 @@
 title: Diolch am Ŵyl Natur
 description: Diolch yn fawr iawn i bawb a ddaeth draw i Ŵyl Natur Ceredigion yn ystod Wythnos Natur Cymru!
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1789141808/260726-festival-diolch-20-169.jpg
-image_altText: Face paint artist paints young girls face like some sort of bird
-image_caption: Paentio wynebau yn yr Ŵyl
+altText: Face paint artist paints young girls face like some sort of bird
+caption: Paentio wynebau yn yr Ŵyl
 tags:
   - NatureFestival
 categories:
@@ -16,6 +16,7 @@ translationKey: Festival 2026 Diolch
 date: 2026-08-04T15:20:53+01:00
 modified: 2026-09-11T16:59:34+01:00
 ---
+
 Diolch yn fawr iawn i bawb a ddaeth draw i **Ŵyl Natur Ceredigion** yn ystod **Wythnos Natur Cymru**! 
 
 Am ddiwrnod anhygoel oedd hi! Roedd yr ŵyl eleni yn llwyddiant ysgubol, gyda thair gwaith cymaint o stondinau na'r llynedd, gan ei gwneud yn ddigwyddiad mwyaf a mwyaf bywiog eto. 

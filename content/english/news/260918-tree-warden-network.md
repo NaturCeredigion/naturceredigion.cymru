@@ -2,8 +2,8 @@
 title: Tree Warden Network
 description: Become a Tree Warden with the Ceredigion Local Nature Partnership.
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1785488252/260703-llanilar-bats-03-tree-crowns.jpg
-image_altText: View up to the crown shyness of trees, the canopies a bit apart
-image_caption: Coed
+altText: View up to the crown shyness of trees, the canopies a bit apart
+caption: Crown shyness up in the canopy
 tags:
   - TreeWardenNetwork
   - TreeWarden
@@ -19,6 +19,7 @@ translationKey: 260918 Ceredigion Tree Warden Network
 date: 2026-09-18T15:58:21+01:00
 modified: 2026-09-18T16:29:08+01:00
 ---
+
 ### Ceredigion Tree Warden Network
 Become a Tree Warden with the Ceredigion Local Nature Partnership.
 

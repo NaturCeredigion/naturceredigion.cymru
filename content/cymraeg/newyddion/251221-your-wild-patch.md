@@ -11,7 +11,9 @@ author: Yusef Samari
 translationKey: Introducing Your Wild Patch
 type: news
 modified: 2026-09-11T17:01:58+01:00
+
 ---
+
 _Yusef Samari, Swyddog GIS CGBGC ac Arweinydd Prosiect_ [_yusef@westwalesbiodiversity.org.uk_](mailto:yusef@westwalesbiodiversity.org.uk)
 
 Pa fath o fywyd gwyllt sy’n byw yn eich lle gwyllt chi – eich gardd, eich hoff warchodfa natur, parc lleol neu beth bynnag mae ‘eich lle’ yn ei olygu i chi? Sut mae eich lle chi yn cyfrannu at fioamrywiaeth ehangach yn eich ardal? Pa gyfraniad y gallai ei wneud? 

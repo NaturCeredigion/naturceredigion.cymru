@@ -12,6 +12,7 @@ translationKey: Ceredigion Catchment Meeting
 type: news
 modified: 2026-06-18T10:45:12+01:00
 ---
+
 ### West Wales Catchment Partnerships –<br>Teifi (Ceredigion)
 - **Wednesday 17 June 2026 13:00 – 14:30**  
 - Room Teifi, Penmorfa, Ceredigion County Council Offices, SA46 0PA

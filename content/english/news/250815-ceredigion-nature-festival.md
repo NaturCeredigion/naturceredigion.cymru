@@ -11,4 +11,5 @@ author: Jake Rayson
 translationKey: "Inaugural Ceredigion Nature Festival"
 
 ---
+
 The Ceredigion Nature Festival was fantastic. There were lots of people there and charities and donkeys.

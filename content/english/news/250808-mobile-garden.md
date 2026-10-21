@@ -8,6 +8,7 @@ draft: true
 featured: false
 translationKey: Mobile Wildlife Garden
 ---
+
 1. Pond - 1000mm high, 1000mm diameter, durable plastic pipe fitted on waterproof wooden base. Delivered empty (!), please include delivery price. 
 2. Planter -  1 tonne bag filled with assorted rubble/sand/growing medium (TBC). 
 3. Standing dead - 1 tonne bag, artistically filled with rubble and standing dead wood, 50mm mesh gabion filled withs alternating layers of 75mm rubble and old sheeps wool.

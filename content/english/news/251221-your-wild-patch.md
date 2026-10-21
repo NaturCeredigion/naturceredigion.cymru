@@ -11,6 +11,7 @@ author: Yusef Samari
 translationKey: Introducing Your Wild Patch
 modified: 2026-09-11T17:00:38+01:00
 ---
+
 *Yusef Samari, WWBIC GIS Officer and Project Lead [yusef@westwalesbiodiversity.org.uk](mailto:yusef@westwalesbiodiversity.org.uk)*
 What wildlife is living in your local patch – be that your garden, favourite nature reserve, local park, or whatever ‘your patch’ means to you? How is your patch contributing to the wider biodiversity of your area? What contribution could it potentially make? 
 

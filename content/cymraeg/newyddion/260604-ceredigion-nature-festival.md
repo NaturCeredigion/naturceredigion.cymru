@@ -2,8 +2,8 @@
 title: Gŵyl Natur Ceredigion
 description: Diwrnod o fywyd gwyllt, creadigrwydd, darganfod a chymuned, a gynhelir ddydd Sadwrn 11 Gorffennaf, 10am–4pm, ar Dir y Castell, Aberystwyth.
 image: https://res.cloudinary.com/naturceredigion/image/upload/w_1200/v1780588105/250705-nature-festival-butterfly-house-stall.webp
-image_altText: Dau aelod o staff wrth stondin o flaen baner y Tŷ Glöyn Byw, y tu ôl i gynwysyddion gloÿnnod byw ar y bwrdd, a dau o blant yn edrych arnynt
-image_caption: Stondin y Tŷ Glöyn Byw, gyda llawer o loÿnnod byw i’r teulu
+altText: Dau aelod o staff wrth stondin o flaen baner y Tŷ Glöyn Byw, y tu ôl i gynwysyddion gloÿnnod byw ar y bwrdd, a dau o blant yn edrych arnynt
+caption: Stondin y Tŷ Glöyn Byw, gyda llawer o loÿnnod byw i’r teulu
 tags:
   - NatureFestival
   - NaturCeredigion
@@ -17,7 +17,9 @@ draft: false
 translationKey: Ceredigion Nature Festival 2026
 date: 2026-06-04T14:02:29+01:00
 modified: 2026-07-09T11:36:29+01:00
+
 ---
+
 Ymunwch â ni am ddiwrnod o fywyd gwyllt, creadigrwydd, darganfod a chymuned yng Ngŵyl Natur Ceredigion, a gynhelir **ddydd Sadwrn 11 Gorffennaf, 10am–4pm**, ar Dir y Castell, Aberystwyth.
 
 Mae'r ŵyl yn ddathliad rhad ac am ddim o amgylchedd naturiol rhyfeddol Ceredigion, ynghyd â'r bobl, y prosiectau a'r sefydliadau sy'n gweithio i'w warchod a'i adfer. Yn rhan o Wythnos Natur Cymru, daw'r digwyddiad â grwpiau cadwraeth, sefydliadau cymunedol, artistiaid, ymchwilwyr a gwirfoddolwyr lleol ynghyd i ysbrydoli gweithredu dros natur a helpu pobl i gysylltu â'r bywyd gwyllt ar garreg eu drws.

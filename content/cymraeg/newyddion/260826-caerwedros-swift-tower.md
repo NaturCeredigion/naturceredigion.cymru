@@ -2,8 +2,8 @@
 title: Gwenoliaid Duon yng Nghaerwedros
 description: Tŵr Gwenoliaid Duon cyntaf erioed Ceredigion, gyda chefnogaeth Partneriaeth Natur Ceredigion
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1790268203/060719-swift-Pawel-Kuzniar.jpg
-image_altText: Swift in flight
-image_caption: Gwenoliaid Duon
+altText: Swift in flight
+caption: Gwenoliaid Duon
 tags:
   - habitat
   - community
@@ -17,7 +17,9 @@ draft: false
 translationKey: Caerwedros Swift tower
 date: 2026-09-22T14:22:52+01:00
 modified: 2026-09-29T17:11:43+01:00
+
 ---
+
 #### Dathlu cymuned, cadwraeth, a’r Gwenoliaid Duon yn dychwelyd i Gaerwedros
 *Post gwadd gan Wayne Lewis*
 

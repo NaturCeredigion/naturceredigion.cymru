@@ -2,8 +2,8 @@
 title: Ceredigion Nature Festival
 description: Ceredigion Nature Partnership‘s annual Nature Festival
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1789141808/260726-festival-diolch-20-169.jpg
-image_altText: Face paint artist paints young girls face like some sort of bird
-image_caption: Face painting at the Festival
+altText: Face paint artist paints young girls face like some sort of bird
+caption: Face painting at the Festival
 draft: true
 alias: /festival/
 translationKey: festival

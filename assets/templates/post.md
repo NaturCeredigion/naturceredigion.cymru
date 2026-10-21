@@ -2,8 +2,8 @@
 title:
 description:
 image:
-image_altText:
-image_caption:
+altText:
+caption:
 tags:
 categories:
   - Partnership

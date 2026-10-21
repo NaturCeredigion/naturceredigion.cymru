@@ -11,4 +11,5 @@ author: Jake Rayson
 translationKey: New Partnership newsletter
 modified: 2026-09-11T17:01:15+01:00
 ---
+
 We’ve upgraded our newsletter to a new system called Buttondown. Archives are now available online, and you can control your subscription preferences.

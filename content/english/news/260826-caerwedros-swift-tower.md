@@ -2,8 +2,8 @@
 title: Swifts in Caerwedros
 description: Ceredigion‘s first ever Swift tower at Caerwedros, supported by Ceredigion Nature Partnership
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1790268203/060719-swift-Pawel-Kuzniar.jpg
-image_altText: Swift in flight
-image_caption: A Swift
+altText: Swift in flight
+caption: A Swift, silhoutted against a brilliant blue summer sky
 tags:
   - habitat
   - community
@@ -18,6 +18,7 @@ translationKey: Caerwedros Swift tower
 date: 2026-09-22T14:22:52+01:00
 modified: 2026-09-29T16:11:00+01:00
 ---
+
 #### Celebrating community, conservation, and the return of the Swifts in Caerwedros
 *Guest post by Wayne Lewis*
 

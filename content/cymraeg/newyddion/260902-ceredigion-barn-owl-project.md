@@ -2,8 +2,8 @@
 title: Prosiect Tylluanod Gwynion Ceredigion
 description: Nod y prosiect yw gosod blychau nythu tylluanod gwynion ac adfer cynefinoedd ledled Ceredigion, gan ganolbwyntio i ddechrau ar Cross Inn a Caerwedros
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1789052857/110604-barn-owl-flying-edd-deane.webp
-image_altText: Whitish owl flying against blue sky
-image_caption: Tylluan wen yn hedfan, llun gan Edd deane
+altText: Whitish owl flying against blue sky
+caption: Tylluan wen yn hedfan, llun gan Edd deane
 tags:
   - birds
   - owl
@@ -26,7 +26,9 @@ draft: false
 translationKey: Ceredigion Barn Owl Project
 date: 2026-09-02T14:33:12+01:00
 modified: 2026-09-11T17:02:19+01:00
+
 ---
+
 Mae nifer y tylluanod gwynion yn gostwng ledled y Deyrnas Unedig oherwydd colli cynefin, lleihau cyflenwad bwyd a chynyddu risgiau marwolaeth.
 
 Nod Prosiect Tylluanod Gwynion Ceredigion yw gosod blychau nythu ac adfer cynefinoedd i dylluanod gwynion ledled Ceredigion. I ddechrau, bydd y prosiect yn canolbwyntio ar Cross Inn a Chaerwedros gan fod poblogaeth nythu hysbys y dylluan wen yn yr ardal.

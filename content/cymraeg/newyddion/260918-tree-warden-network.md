@@ -2,8 +2,8 @@
 title: Rhwydwaith Wardeiniaid Coed Ceredigion
 description: Dewch i fod yn Warden Coed gyda Phartneriaeth Natur Leol Ceredigion.
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1785488252/260703-llanilar-bats-03-tree-crowns.jpg
-image_altText: View up to the crown shyness of trees, the canopies a bit apart
-image_caption: Coed
+altText: View up to the crown shyness of trees, the canopies a bit apart
+caption: Coed
 tags:
   - TreeWardenNetwork
   - TreeWarden
@@ -18,7 +18,9 @@ draft: false
 translationKey: 260918 Ceredigion Tree Warden Network
 date: 2026-09-18T15:58:21+01:00
 modified: 2026-09-18T16:29:23+01:00
+
 ---
+
 Dewch i fod yn Warden Coed gyda Phartneriaeth Natur Leol Ceredigion.
 
 Oes gennych chi ychydig oriau i’w sbario ac a hoffech chi wneud gwahaniaeth go iawn i natur yn eich cymuned?

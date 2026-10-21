@@ -30,7 +30,12 @@
             {{ end }}
           </div>
           {{ if .Params.Image }}
-          {{ partial "image.html" (dict "Src" .Params.image "Alt" (.Title | markdownify)  "Class" "w-100 mb-4") }}
+          <figure class="figure">
+              <img class="w-100 mb-4" src="{{ .Params.Image }}" alt="{{ .Params.altText }}">
+              <figcaption class="figure__caption">
+                <p>{{ .Params.Caption }}</p>
+              </figcaption>
+          </figure>
           {{ end }}
 
           <div class="content mb-5">

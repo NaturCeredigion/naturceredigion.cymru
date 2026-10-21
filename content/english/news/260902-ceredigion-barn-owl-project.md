@@ -2,8 +2,8 @@
 title: Ceredigion Barn Owl Project
 description: The project aims to install barn owl nest boxes and habitat restoration across Ceredigion, initially focussing on Cross Inn and Caerwedros
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1789052857/110604-barn-owl-flying-edd-deane.webp
-image_altText: Whitish owl flying against blue sky
-image_caption: Barn Owl in flight, photo by Edd deane
+altText: Whitish owl flying against blue sky
+caption: Barn Owl in flight, photo by Edd deane
 tags:
   - birds
   - owl
@@ -27,6 +27,7 @@ translationKey: Ceredigion Barn Owl Project
 date: 2026-09-02T14:33:12+01:00
 modified: 2026-09-10T16:29:16+01:00
 ---
+
 Barn owls numbers are declining across the United Kingdom due to habitat loss, food supply reduction and increased mortality risks.
 
 The aim of the Ceredigion Barn Owl Project is to install barn owl nest boxes and habitat restoration across Ceredigion. Initially the project will focus on Cross Inn and Caerwedros as there is a known nesting population of barn owls in the area.
