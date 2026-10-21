@@ -1,19 +1,21 @@
 ---
 title: Cynllun Grantiau
-description: The Ceredigion Nature Partnership manages funding for capital projects focussed on “nature on your doorstep”, targeting biodiversity and disadvantaged communities.
-image: https://res.cloudinary.com/naturceredigion/image/upload/v1771514260/260219-wildlife-pond-small-grants-scheme.jpg
+description: Mae Partneriaeth Natur Ceredigion yn rheoli cyllid ar gyfer prosiectau cyfalaf sy'n canolbwyntio ar “natur ar garreg eich drws”, gan dargedu bioamrywiaeth a chymunedau difreintiedig.
+image: https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771514260/260219-fruit-tree-planting-small-grants-scheme-169.jpg
+altText: Grainy photo showing rows of new beds and fruit trees in a row
+caption: Coed ffrwythau a rhandir
 draft: false
 alias: /cynllun-grantiau-bach
 translationKey: grant-scheme
+
 ---
 
-# Cynllun Grantiau
-Mae Partneriaeth Natur Ceredigion yn rheoli cyllid ar gyfer prosiectau cyfalaf sy'n canolbwyntio ar “natur ar garreg eich drws”, gan dargedu bioamrywiaeth a chymunedau difreintiedig.
-
-![Grainy photo showing rows of new beds and fruit trees in a row](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771514260/260219-fruit-tree-planting-small-grants-scheme-169.jpg)<br>
-*Coed ffrwythau a rhandir*
 ## Cynllun Grant Lleoedd Lleol ar gyfer Natur 25/26
 Nid ydym bellach yn derbyn ceisiadau ar gyfer y cynllun hwn, gan fod yr holl gyllid sydd ar gael wedi’i ddyrannu. Bydd cyhoeddiadau ynglŷn ag unrhyw gynlluniau grant yn y dyfodol yn cael eu gwneud yma ac ar wefan Natur Ceredigion.
+
+![Wildlife pond behind fence, surrounded by mown grass, with mature spike irises](https://res.cloudinary.com/naturceredigion/image/upload/v1771514260/260219-wildlife-pond-small-grants-scheme.jpg "Pwll bywyd gwyllt")<br>
+*Pwll bywyd gwyllt*
+
 ## Cynllun Grant Lleoedd Lleol ar gyfer Natur 24/25
 Lansiodd Partneriaeth Natur Ceredigion ei chynllun grantiau Lleoedd Lleol ar gyfer Natur ar gyfer 2024 gyda £350,000 i'w ddosbarthu. Roedd y cynllun yn gwahodd ceisiadau gan brosiectau gwerth hyd at £50,000 am gyllid Cyfalaf.
 

@@ -9,9 +9,6 @@ alias: /partnership-meetings/
 translationKey: partnership-meetings
 modified: 2026-09-25T10:39:58+01:00
 ---
-# Partnership meetings
-![Naturalists in the hot weather on the banks of a depleted pond](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1789736363/260721-beaver-visit-cefn-garthenor-quarterly-meeting-tregaron.webp)  
-*Partnership visit to the Beaver enclosure at Cefn Garthenor in July 2026*
 ## Next meetings
 *Tuesday Meetings: 10am-4pm.*
 - **Tuesday 20 October 2026 - [Caerwedros](https://www.openstreetmap.org/node/6266412806#map=16/52.17295/-4.37694&layers=P)**

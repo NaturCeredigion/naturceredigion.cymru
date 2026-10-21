@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- checking blog -->
+<!-- Checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
 {{ $sidebar := site.Params.sidebar }}
@@ -32,7 +32,6 @@
           {{ if .Params.Image }}
           {{ partial "image.html" (dict "Src" .Params.image "Alt" (.Title | markdownify)  "Class" "w-100 mb-4") }}
           {{ end }}
-
           <div class="content mb-5">
             {{ .Content }}
           </div>
@@ -80,8 +79,18 @@
 <section class="section">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-10">
+      <div class="col-lg-7">
         <div class="content">
+          <h1>{{ .Params.Title }}</h1>
+          <p class="content__description">{{ .Params.Description }}</p>
+          {{ if .Params.Image}}
+          <figure class="figure">
+              <img class="figure__image" src="{{ .Params.Image }}" alt="{{ .Params.altText }}">
+              <figcaption class="figure__caption">
+                <p>{{ .Params.Caption }}</p>
+              </figcaption>
+          </figure>
+          {{ end }}
           {{.Content}}
         </div>
       </div>

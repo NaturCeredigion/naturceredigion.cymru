@@ -1,7 +1,6 @@
 {{ define "main" }}
 
-
-<!-- checking blog -->
+<!-- Checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
 {{ $sidebar := site.Params.sidebar }}
@@ -12,7 +11,7 @@
 <section class="section">
   <div class="container">
     <div class="row">
-        <!-- Commented out the "posts related to x" -->
+        <!-- Comment "posts related to x" -->
         <!-- <h2 class="mb-4">{{ i18n `post_related_to` }} <span class="text-primary">{{ .Title }}</span></h2> -->
         <div class="{{ if $has_sidebar }}col-lg-8{{ else }}col-lg-10{{ end }} {{ if eq $sidebar `left` }}order-1 order-lg-2{{ end }}">
           <h2 class="mb-4">{{ .Section  | title }}x: {{ .Title }}</h2>
@@ -100,7 +99,7 @@
             </div>
           </div>
         </div>
-          <!-- right sidebar -->
+          <!-- Right sidebar -->
           {{ if eq $sidebar "right" }}
           <aside class="col-lg-4 mt-5 mt-lg-0">
             <div class="{{ if eq $sidebar `left` }}pe-lg-4{{ end }}{{ if eq $sidebar `right` }}ps-lg-4{{ end }}">
@@ -109,9 +108,7 @@
           </aside>
           {{ end }}
           <!-- /right sidebar -->
-        
       </div>
-    
   </div>
 </section>
 <!-- /blog -->
@@ -131,6 +128,5 @@
 </section>
 
 {{ end }}
-
 
 {{ end }}
