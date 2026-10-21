@@ -5,9 +5,9 @@ description:
 categories: 
 tags: 
   - NaturCeredigion
-images: 
-imageAlt: 
-imageCap: 
+image: 
+altText: 
+caption: 
 draft: true
 ---
 

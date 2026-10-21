@@ -3,15 +3,17 @@ title: Penglais school wildlife habitat
 date: 2026-04-28T12:28:34+00:00
 description: Short progress report on first three sessions. Guest post by Rebecca Wyn Kelly
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1781627136/260428-twr-gwyllt-ysgol-penglais-prototypes-finished-169.jpg
-imageAlt: Students on grass with finished prototype towers built from kids plastic construction kit
+altText: Students on grass with finished prototype towers built from kids plastic construction kit
 draft: true
 featured: false
 categories:
   - Partnership
-author: Rebecca Wyn Kelly
+author: Guest
 translationKey: Penglais school habitat
 modified: 2026-06-18T10:52:55+01:00
 ---
+
+*Guest post by Rebecca Wyn Kelly*
 
 We began by slowing things down and asking some simple but important questions: what is a Tŵr Gwyllt, who is it for, and what could this place become. The group spent time observing what is already here, thinking about what we can see and what we can’t, and noticing the different forms of life that might call this space home.
 
