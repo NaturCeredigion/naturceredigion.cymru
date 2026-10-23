@@ -1,16 +1,15 @@
 ---
 title: Cyfleoedd cyllid
-description: Nature recovery funding opportunities from Climate Cymru in Wales and beyond
+description: Cyfleoedd ariannu adfer natur, yng Nghymru a thu hwnt
 image: https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1791537398/261009-climate-cymru-funding-spreadsheet-screenshot.jpg
 altText: Screenshot of a cyan blue spreadsheet titled CC Funding database SEPTEMBER, with highlighted funds in bright yellow in the left column
-caption: Screenshot of Climate Cymru’s Funding Database Google spreadhseet
+caption: Ciplun o daenlen Google Cronfa ddata Gyllid Climate Cymru
 draft: false
 translationKey: funding-opportunities
 ---
 
-We have permission from [Climate Cymru](https://climate.cymru/), a broad movement to tackle the climate and nature emergencies, to share their incredibly useful and regularly updated [Funding database](https://docs.google.com/spreadsheets/d/1O3A_4R2d4JfrNowLZ1j6eUfy9VMOU7iksDOhkAEbffc/edit?gid=1408434340#gid=1408434340). 
+Mae gennym ganiatâd gan [Climate Cymru](https://climate.cymru/), mudiad eang i fynd i’r afael â’r argyfyngau hinsawdd a natur, i rannu ei [gronfa ddata Gyllid](https://docs.google.com/spreadsheets/d/1O3A_4R2d4JfrNowLZ1j6eUfy9VMOU7iksDOhkAEbffc/edit?gid=1408434340#gid=1408434340) sy’n hynod ddefnyddiol ac sy’n cael ei diweddaru’n rheolaidd.
 
-It has about 70 active funds out of 130+ in total. If you are looking for nature recovery funding, come back regularly to see which funds are open.
+Mae’n cynnwys tua 70 o gronfeydd gweithredol o fwy na 130+ i gyd. Os ydych yn chwilio am gyllid adfer natur, dewch yn ôl yn rheolaidd i weld pa gronfeydd sydd ar agor.
 
-#### [Climate Cymru’s Funding database](https://docs.google.com/spreadsheets/d/1O3A_4R2d4JfrNowLZ1j6eUfy9VMOU7iksDOhkAEbffc/edit?gid=1408434340#gid=1408434340)
-
+#### [Cronfa ddata Gyllid Climate Cymru](https://docs.google.com/spreadsheets/d/1O3A_4R2d4JfrNowLZ1j6eUfy9VMOU7iksDOhkAEbffc/edit?gid=1408434340#gid=1408434340)
