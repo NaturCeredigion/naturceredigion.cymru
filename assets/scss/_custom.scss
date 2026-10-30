@@ -4,6 +4,7 @@ body {
   font-size: 16px;
 }
 p, .paragraph, li {
+  color: #333333;
   font-size: 16px;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -18,6 +19,12 @@ h1.title {
   position: relative;
   top: -38px;
 }
+label {
+  color: #333333;
+}
+
+
+/* Classes */
 
 .latest-news .card-block .h4 {
   font-weight: 600 !important;

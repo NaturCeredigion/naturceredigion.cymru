@@ -12,7 +12,7 @@ modified: 2026-09-25T10:36:54+01:00
 *Ymweliad y bartneriaeth â lloc yr Afancod yng Nghefn Garthenor ym mis Gorffennaf 2026*
 ## Cyfarfodydd nesaf
 _Cyfarfodydd dydd Mawrth: 10am-4pm._
-- Ionawr 2027 – a’r lein
+- Ionawr 2027 – A’r lein
 - Ebrill 2027 - [Ceinewydd](https://www.openstreetmap.org/node/29228098)
 
 Mae Partneriaeth Natur Leol (PNL) Ceredigion yn cynnal cyfarfodydd chwarterol sy'n dwyn ynghyd aelodau o'r cyhoedd, sefydliadau ac ymarferwyr sydd â diddordeb cyffredin mewn natur.
