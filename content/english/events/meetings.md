@@ -11,8 +11,8 @@ modified: 2026-09-25T10:39:58+01:00
 ---
 ## Next meetings
 *Tuesday Meetings: 10am-4pm.*
-- **Tuesday 20 October 2026 - [Caerwedros](https://www.openstreetmap.org/node/6266412806#map=16/52.17295/-4.37694&layers=P)**
-- Tuesday 19 January 2027 – TBC
+- January 2027 – Online
+- April 2027 - [New Quay](https://www.openstreetmap.org/node/29228098)
 
 The Ceredigion Local Nature Partnership (LNP) holds quarterly meetings that bring together members of the public, organisations and practitioners with a shared interest in nature.
 
@@ -29,7 +29,8 @@ From time to time, meetings may also include site visits to local nature areas, 
 All meetings are free and open to everyone. Whether you are part of an organisation, a land manager, a volunteer or simply interested in nature, you are very welcome to join us.
 ## Previous meetings
 ![Meeting being held in university room with wood panelling and portraits on the wall, speaker at a podium with a crest of arms](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771518127/260219-partnership-meeting-uwtsd.jpg)<br>*Partnership meeting at University Wales Trinity St David*
-- 21 July 2026 - [Tregaron Memorial Hall](https://what3words.com/excavated.jazz.winks), Ceredigion SY25 6JL
+- 20 October 2026 - [Caerwedros Memorial Hall](https://www.openstreetmap.org/node/6266412806#map=16/52.17295/-4.37694&layers=P), Caerwedros, SA44 6BS 
+- 21 July 2026 - [Tregaron Memorial Hall](https://what3words.com/excavated.jazz.winks), Tregaron, SY25 6JL
 - 21 April 2026 - [New Quay Memorial Hall](https://neuaddgoffaceinewydd.cymru/gb/), New Quay SA45 9QQ
 - 20 January 2026 — Online
 - 23 October 2025 — [Cardigan Castle](https://www.openstreetmap.org/way/568794249), Aberteifi SA43 1JA

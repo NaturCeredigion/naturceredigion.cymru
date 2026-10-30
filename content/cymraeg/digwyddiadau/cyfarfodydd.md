@@ -12,8 +12,8 @@ modified: 2026-09-25T10:36:54+01:00
 *Ymweliad y bartneriaeth â lloc yr Afancod yng Nghefn Garthenor ym mis Gorffennaf 2026*
 ## Cyfarfodydd nesaf
 _Cyfarfodydd dydd Mawrth: 10am-4pm._
-- **Dydd Mawrth 20 Hydref 2026 - [Caerwedros](https://www.openstreetmap.org/node/6266412806#map=16/52.17295/-4.37694&layers=P)** 
-- Dydd Mawrth 19 Ionawr 2027 – i'w gadarnhau
+- Ionawr 2027 – a’r lein
+- Ebrill 2027 - [Ceinewydd](https://www.openstreetmap.org/node/29228098)
 
 Mae Partneriaeth Natur Leol (PNL) Ceredigion yn cynnal cyfarfodydd chwarterol sy'n dwyn ynghyd aelodau o'r cyhoedd, sefydliadau ac ymarferwyr sydd â diddordeb cyffredin mewn natur.
 
@@ -31,6 +31,7 @@ Mae pob cyfarfod yn rhad ac am ddim ac yn agored i bawb. P'un a ydych chi'n rhan
 ## Cyfarfodydd blaenorol
 ![Meeting being held in university room with wood panelling and portraits on the wall, speaker at a podium with a crest of arms](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1771518127/260219-partnership-meeting-uwtsd.jpg)  
 *Cyfarfod y bartneriaeth ym Mhrifysgol Cymru Y Drindod Dewi Sant*
+- 20 Hydref 2026 - [Neuadd Goffa Caerwedros](https://www.openstreetmap.org/node/6266412806#map=16/52.17295/-4.37694&layers=P), Caerwedros, SA44 6BS
 - 21 Gorffennaf 2026 - [Neuadd Goffa Tregaron](https://what3words.com/excavated.jazz.winks), Ceredigion SY25 6JL
 - 21 Ebrill 2026 - [Neuadd Goffa Ceinewydd](https://neuaddgoffaceinewydd.cymru/gb/), Ceinewydd SA45 9QQ
 - 20 Ionawr 2026 — Ar-lein
