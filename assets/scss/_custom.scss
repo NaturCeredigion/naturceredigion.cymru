@@ -4,10 +4,11 @@ body {
   font-size: 16px;
 }
 p, .paragraph, li {
-  color: #333333;
+  color: #373434;
   font-size: 16px;
 }
 h1,h2,h3,h4,h5,h6 {
+  color: #222121;
   font-family: $font-secondary;
   font-weight: 600;
 }
@@ -20,7 +21,7 @@ h1.title {
   top: -38px;
 }
 label {
-  color: #333333;
+  color: #373434;
 }
 
 
@@ -45,8 +46,9 @@ label {
 }
 .banner-creative .title {
   background-color: rgba(0, 0, 0, 0.5);
-  padding: 1rem 1.5rem 1rem 4rem;
   border-radius: 5px;
+  max-width: 770px;
+  padding: 1rem 1.5rem 1rem 4rem;
 }
 .nav-link {
   text-transform: none;
