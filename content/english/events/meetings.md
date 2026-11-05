@@ -11,8 +11,8 @@ modified: 2026-09-25T10:39:58+01:00
 ---
 ## Next meetings
 *Tuesday Meetings: 10am-4pm.*
-- January 2027 – Online
-- April 2027 - [New Quay](https://www.openstreetmap.org/node/29228098)
+- Tuesday 22nd January 2027 – Online
+- Tuesday 20th April 2027 - TBC & hybrid
 
 The Ceredigion Local Nature Partnership (LNP) holds quarterly meetings that bring together members of the public, organisations and practitioners with a shared interest in nature.
 
