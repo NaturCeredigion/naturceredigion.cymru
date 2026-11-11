@@ -6,6 +6,7 @@ draft: false
 alias: /cyfarfodydd-y-bartneriaeth/
 translationKey: partnership-meetings
 modified: 2026-09-25T10:36:54+01:00
+date: 2026-11-11T10:44:00+00:00
 ---
 # Cyfarfodydd y Bartneriaeth
 ![Naturalists in the hot weather on the banks of a depleted pond](https://res.cloudinary.com/naturceredigion/image/upload/w_640/v1789736363/260721-beaver-visit-cefn-garthenor-quarterly-meeting-tregaron.webp)  

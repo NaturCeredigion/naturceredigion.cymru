@@ -8,6 +8,7 @@ draft: false
 alias: /partnership-meetings/
 translationKey: partnership-meetings
 modified: 2026-09-25T10:39:58+01:00
+date: 2026-11-11T10:44:00+00:00
 ---
 ## Next meetings
 *Tuesday Meetings: 10am-4pm.*
