@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14d3de8f328c25ae",
+        "id": "360d6643a2789917",
         "type": "tabs",
         "children": [
           {
-            "id": "0920fa53cfca58cb",
+            "id": "3340ab0d3db37cfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/english/docs/newsletter.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "newsletter"
+              "title": "New tab"
             }
           }
         ]
@@ -175,11 +171,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "0920fa53cfca58cb",
+  "active": "3340ab0d3db37cfb",
   "lastOpenFiles": [
-    "content/english/docs/infrastructure/newsletter.md",
     "content/english/docs/newsletter.md",
     "content/english/docs/_index.md",
+    "content/english/docs/infrastructure/newsletter.md",
     "content/english/docs/profile.md",
     "content/english/docs/process/_index.md",
     "public/en/docs/profile/index.html",

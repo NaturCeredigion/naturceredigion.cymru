@@ -3,7 +3,7 @@ title: Newsletter process & infrastructure
 draft: false
 description: Things to look out for in creating the newsletter in Buttondown
 date: 2026-09-18T15:05:46+01:00
-modified: 2026-11-11T10:58:17+00:00
+modified: 2026-11-12T14:18:57+00:00
 ---
 1. [Process](#1-process)
 	1. [Buttondown Markdown notes](#11-buttondown-markdown-notes)
@@ -35,6 +35,7 @@ We’d love to see what you’ve noticed.
 To book your slot and save money per tonne call:  
 Birch Farm Plastics on 01792 869 776.
 ```
+- **Scheduled posts** - these cannot be edited! Make sure to unschedule them before editing.
 
 [↑ Top ↑](#)
 ### 1.2 Images, URLs & PDFs
