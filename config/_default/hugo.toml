@@ -16,7 +16,6 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 debug = true
 
-
 ############################# Modules ############################
 [module]
 [[module.mounts]]
@@ -27,7 +26,6 @@ target = "assets"
 source = "hugo_stats.json"
 target = "assets/watching/hugo_stats.json"
 
-
 ########################### Services #############################
 [services]
 [services.googleAnalytics]
@@ -35,7 +33,6 @@ ID = 'G-MEASUREMENT_ID' # see https://gohugo.io/templates/internal/#configure-go
 
 #[services.disqus]
 #shortname = 'themefisher-template' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
-
 
 ############################# Build ##############################
 [build]
@@ -77,7 +74,6 @@ maxAge = "720h"
 dir = ":resourceDir/_gen"
 maxAge = "720h"
 
-
 ############################# Markup ###############################
 [markup]
 [markup.goldmark.renderer]
@@ -90,7 +86,6 @@ style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
 startLevel = 2
 endLevel = 5
 ordered = true
-
 
 ############################ Media types ############################
 [mediaTypes]
