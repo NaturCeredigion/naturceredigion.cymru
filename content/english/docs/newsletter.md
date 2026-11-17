@@ -3,7 +3,7 @@ title: Newsletter process & infrastructure
 draft: false
 description: Things to look out for in creating the newsletter in Buttondown
 date: 2026-09-18T15:05:46+01:00
-modified: 2026-11-12T14:18:57+00:00
+modified: 2026-11-17T11:43:32+00:00
 ---
 1. [Process](#1-process)
 	1. [Buttondown Markdown notes](#11-buttondown-markdown-notes)
@@ -12,6 +12,7 @@ modified: 2026-11-12T14:18:57+00:00
 	4. [Sections](#14-sections)
 2. [Infrastructure](#2-infrastructure)
 	1. [Spam](#21-spam)
+	2. Translation
 3. [Template](#3-template)
 ## 1. Process
 ### 1.1 Buttondown Markdown notes
@@ -89,12 +90,14 @@ Birch Farm Plastics on 01792 869 776.
 - A reply email address is set up for this subdomain, `biodiversity@newsletter.naturceredigion.cymru`
 - We are using the [ImprovMX](https://app.improvmx.com/) service to route email sent to `biodiversity@newsletter.naturceredigion.cymru` to go to biodiversity@ceredigion.gov.uk 
 - I have add some [MX records](https://en.wikipedia.org/wiki/MX_record) and a [TXT record](https://en.wikipedia.org/wiki/TXT_record) to the DNS server on Netlify for this to work.
+### 2.2 Translation
+- Community groups & organisations can use the Welsh govt. [Helo Blod](https://businesswales.gov.wales/heloblod/) translation service.
 
 [↑ Top ↑](#)
 
-## Template
+## 3. Template
 ```
-### Heading 3, four/five words
+### Heading 3, four or five words
 
 ![Montage with brown butterfly with orange spot on forewing on Bracken, and to the right a small white egg where a dark branch joins a stem](https://res.cloudinary.com/naturceredigion/image/upload/v1794913947/261117-brown-hairstreak-egg-survey-paul-taylor.webp)
 *Image caption. Image 16:9. Include AltText*
@@ -105,7 +108,7 @@ Copy, about 50 words, with [links](https://www.lipsum.com/). Lorem ipsum dolor s
 **Saturday 21st November 10am**
 ```
 Looks like:
-### Heading 3, four/five words
+### Heading 3, four or five words
 
 ![Montage with brown butterfly with orange spot on forewing on Bracken, and to the right a small white egg where a dark branch joins a stem](https://res.cloudinary.com/naturceredigion/image/upload/v1794913947/261117-brown-hairstreak-egg-survey-paul-taylor.webp)
 *Image caption. Image 16:9. Include AltText*

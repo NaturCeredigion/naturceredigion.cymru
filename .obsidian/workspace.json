@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "360d6643a2789917",
+        "id": "cf34399700129aa5",
         "type": "tabs",
         "children": [
           {
-            "id": "3340ab0d3db37cfb",
+            "id": "9cc4360c3994c24e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,7 +175,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "3340ab0d3db37cfb",
+  "active": "9cc4360c3994c24e",
   "lastOpenFiles": [
     "content/english/docs/newsletter.md",
     "content/english/docs/_index.md",
