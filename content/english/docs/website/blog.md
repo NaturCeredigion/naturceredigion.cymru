@@ -9,6 +9,8 @@ altText: Screenshot of Thank You, Sea blog post
 caption: Blog post screenshot
 aliases:
   - /docs/blog
+alias:
+  - /docs/blog
 ---
 
 1. Title
