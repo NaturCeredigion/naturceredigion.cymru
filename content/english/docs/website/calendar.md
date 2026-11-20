@@ -2,6 +2,9 @@
 title: Publish a calendar
 draft: false
 description: How to embed a published Outlook calendar on a web page
+aliases:
+  - /docs/calendar
+modified: 2026-11-20T21:40:20+00:00
 ---
 
 `Settings > Calendar > Shared calendars > Publish a calendar`

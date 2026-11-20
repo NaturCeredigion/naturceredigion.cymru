@@ -2,8 +2,11 @@
 title: Voice
 draft: false
 description: Logos, colours, fonts & usage for Ceredigion Nature Partnership
-modified: 2026-09-25T10:39:23+01:00
+modified: 2026-11-20T21:38:30+00:00
 date: 2026-09-15T14:25:56+01:00
+aliases:
+  - /voice
+  - /docs/voice
 ---
 - Capitalise species names eg Robin Goch
 - Headings use **[Sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case)** (ie first word capitalised)

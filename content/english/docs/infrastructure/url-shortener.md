@@ -2,7 +2,10 @@
 title: URL shortener
 draft: false
 description: We use Dub.co to shorten our URLs
-modified: 2026-09-10T15:35:51+01:00
+modified: 2026-11-20T21:38:44+00:00
+alias:
+  - /docs/url-shortener
+  - /url-shortener
 ---
 - We have an account for the [Dub](https://dub.co/) URL shortener 
 - Login details in the password file
@@ -18,4 +21,3 @@ modified: 2026-09-10T15:35:51+01:00
 	- https://cnp.cymru/prow ➡ https://ceredigion.gov.uk/resident/coast-countryside/public-rights-of-way/the-definitive-map-public-right-of-way-registers/rights-of-way-map
 - Also use for Fixed Point Photography posts eg
 	- cnp.cymru/fpp/penglais/principal/
-	

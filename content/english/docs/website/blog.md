@@ -3,10 +3,12 @@ title: Partner profile
 draft: false
 description: How to add a Partner profile
 date: 2026-09-15T16:20:23+01:00
-modified: 2026-09-15T16:25:59+01:00
+modified: 2026-11-20T21:40:11+00:00
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1789485897/260915-thank-you-sea-blog-screenshot.webp
 altText: Screenshot of Thank You, Sea blog post
 caption: Blog post screenshot
+aliases:
+  - /docs/blog
 ---
 
 1. Title

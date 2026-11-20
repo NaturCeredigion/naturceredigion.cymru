@@ -2,6 +2,10 @@
 title: Logos
 draft: false
 description: Logos, colours, fonts & usage for Ceredigion Nature Partnership
+aliases:
+  - /logos
+  - /docs/logos
+modified: 2026-11-20T21:38:18+00:00
 ---
 ## Ceredigion Nature Partnership
 Logos available here:<br>[github.com/NaturCeredigion/graphics/tree/main/logos/partnership](https://github.com/NaturCeredigion/graphics/tree/main/logos/partnership)
