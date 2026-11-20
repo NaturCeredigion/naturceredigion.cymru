@@ -2,10 +2,9 @@
 title: URL shortener
 draft: false
 description: We use Dub.co to shorten our URLs
-modified: 2026-11-20T21:38:44+00:00
+modified: 2026-11-20T21:43:08+00:00
 alias:
   - /docs/url-shortener
-  - /url-shortener
 ---
 - We have an account for the [Dub](https://dub.co/) URL shortener 
 - Login details in the password file

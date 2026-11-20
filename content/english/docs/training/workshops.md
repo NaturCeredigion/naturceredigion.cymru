@@ -3,12 +3,11 @@ title: Internal workshops
 draft: false
 description: List of internal workshops to offer for staff
 date: 2026-09-15T16:20:23+01:00
-modified: 2026-11-20T21:39:29+00:00
+modified: 2026-11-20T21:43:16+00:00
 image:
 altText:
 caption:
 aliases:
-  - /workshops
   - /docs/workshops
 ---
 

@@ -3,10 +3,9 @@ title: Newsletter process & infrastructure
 draft: false
 description: Things to look out for in creating the newsletter in Buttondown
 date: 2026-09-18T15:05:46+01:00
-modified: 2026-11-20T21:38:37+00:00
+modified: 2026-11-20T21:43:04+00:00
 aliases:
   - /docs/newsletter
-  - /newsletter
 ---
 1. [Process](#1-process)
 	1. [Buttondown Markdown notes](#11-buttondown-markdown-notes)

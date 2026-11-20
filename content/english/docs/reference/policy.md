@@ -4,9 +4,8 @@ draft: false
 description: Nature Recovery Policy Landscape
 author: " Gabriella Waugh"
 aliases:
-  - /policy
   - /docs/policy
-modified: 2026-11-20T21:39:12+00:00
+modified: 2026-11-20T21:43:12+00:00
 ---
 *Author: Gabriella Waugh*
 
