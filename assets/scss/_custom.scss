@@ -201,7 +201,11 @@ a.text-dark:active {
   width:9rem;
   filter: invert(1);
 }
-.footer.bg-dark, .footer.bg-dark p, .footer.bg-dark a {
+.footer.bg-dark,
+.footer.bg-dark label,
+.footer.bg-dark p,
+.footer.bg-dark li,
+.footer.bg-dark a {
   color:#f0f0f0 !important;
   background-color:#3e6693 !important;
 }
