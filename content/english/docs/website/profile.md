@@ -2,6 +2,9 @@
 title: Partner profile
 draft: false
 description: How to add a Partner profile
+modified: 2026-11-20T21:43:32+00:00
+aliases:
+  - /docs/profile
 ---
 
 - ![Screenshot of partners page](https://res.cloudinary.com/naturceredigion/image/upload/w_420,bo_1px_solid_gray80/v1772023314/260225-naturceredigion-partners-page.webp)<br>*Partner page*

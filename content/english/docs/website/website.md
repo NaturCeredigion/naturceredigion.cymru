@@ -1,9 +1,11 @@
 ---
 title: Website
 date: 2026-07-02T17:31:07+01:00
-modified: 2026-09-22T15:50:13+01:00
+modified: 2026-11-20T21:41:18+00:00
 description: We use Hugo for our website
 author: Jake Rayson
+aliases:
+  - /docs/website
 ---
 - We use the [Hugo](https://gohugo.io/) static site generator software for our website
 - Git repository on GitHub github.com/NaturCeredigion/naturceredigion.cymru
