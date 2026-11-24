@@ -1,0 +1,19 @@
+{{ range $siteKey, $site := .Site.Data.fpp }}
+  {{ range $pointKey, $pointName := $site.points }}
+    {{ $path := printf "%s/%s" $siteKey $pointKey }}
+    {{ $params := dict
+      "site_key" $siteKey
+      "site_name" $site.name
+      "point_key" $pointKey
+      "point_name" $pointName
+    }}
+    {{ $.AddPage (dict
+      "path" $path
+      "url" (printf "/fpp/%s/" $path)
+      "type" "fpp"
+      "title" (printf "%s – %s" $site.name $pointName)
+      "build" (dict "list" "never")
+      "params" $params
+    ) }}
+  {{ end }}
+{{ end }}

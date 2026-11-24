@@ -1,0 +1,13 @@
+# Add a site or point to generate its QR destination at /fpp/<site>/<point>/.
+# Use lowercase letters, numbers, and underscores for keys.
+# Keep existing keys stable: they are used in printed QR codes and Cloudinary folders.
+penglais:
+  name: Penglais
+  points:
+    principal: Principal Gate
+
+testsite:
+  name: Test Site
+  points:
+    testpoint: Test Point 1
+    testpoint2: Test Point 2
