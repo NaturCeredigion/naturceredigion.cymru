@@ -1,6 +1,22 @@
-# Add a site or point to generate its QR destination at /fpp/<site>/<point>/.
-# Use lowercase letters, numbers, and underscores for keys.
-# Keep existing keys stable: they are used in printed QR codes and Cloudinary folders.
+# Fixed Point Photography site list
+#
+# Adding sites and points
+# 1. Copy an existing site block and update the site key, display name, and
+#    points. To add a point to an existing site, add a line under its points.
+# 2. Use only lowercase letters (a–z), digits (0–9), and underscores in keys.
+#    Keys appear in QR URLs and Cloudinary folders. Keep existing keys stable.
+# 3. Display names can contain spaces, punctuation, and accented characters.
+# 4. Indent with two spaces per level. Use spaces instead of tabs.
+#
+# Creating QR codes and testing
+# 5. Each point generates a page at /fpp/<site>/<point>/. Create the QR code
+#    using the full website URL for that page. If you change a key, update
+#    and retest any QR codes that use it, including labels already in use.
+# 6. Build the site and check the affected pages and QR codes before printing
+#    labels. Confirm each page shows the intended site and photography point.
+#
+# Hugo reads this file at build time. Keep it valid YAML. An indentation or
+# syntax error can stop the build, and changing a key can break existing URLs.
 penglais:
   name: Penglais
   points:
