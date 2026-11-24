@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/english/docs/infrastructure/qrfpp.md",
+                "file": "content/english/docs/infrastructure/newsletter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qrfpp"
+              "title": "newsletter"
             }
           }
         ]
@@ -175,10 +175,13 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "9cc4360c3994c24e",
+  "active": "b09e5c6d035385e7",
   "lastOpenFiles": [
-    "content/english/docs/infrastructure/filestorage.md",
+    "assets/images/fpp/penglais/principal",
+    "assets/images/fpp/penglais",
+    "content/english/docs/website/profile.md",
     "content/english/docs/infrastructure/qrfpp.md",
+    "content/english/docs/infrastructure/filestorage.md",
     "content/english/docs/reference/policy.md",
     "content/english/docs/reference/_index.md",
     "assets/images/fpp/Untitled Document",
@@ -189,7 +192,6 @@
     "content/english/docs/infrastructure/url-shortener.md",
     "content/english/docs/website/blog.md",
     "content/english/docs/website/website.md",
-    "content/english/docs/website/profile.md",
     "content/english/docs/website/calendar.md",
     "content/english/docs/training/workshops.md",
     "content/english/slides/_index.md",
@@ -207,12 +209,10 @@
     "content/english/docs/process/_index.md",
     "public/en/docs/profile/index.html",
     "public/en/docs/profile",
-    "public/en/docs/calendar/index.html",
     "content/english/docs/test.md",
     "content/english/author/fiona-moran.md",
     "content/english/author/gill-clark.md",
     "content/english/author/jake-rayson.md",
-    "content/english/author/guest.md",
     "assets/images/logo.svg",
     "assets/images/hugo-muscot.svg",
     "assets/images/contact.svg",
