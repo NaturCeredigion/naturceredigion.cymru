@@ -13,10 +13,6 @@ my_experiences:
   description: Our team is committed to improving nature in Ceredigion, working with a range of dedicated partners and engaged members of the public
 
   experiences_item:
-  - title: Sarah Smyth
-    job_title: Interim Senior Ecologist
-    enthusiasms: Mid-North Ceredigion. Woodlands, marine life, Otters and Hedgehogs, sea swimming and paddleboarding 🏊️
-
   - title: Gillian Clark
     job_title: Coordinator Ceredigion Local Nature Partnership
     enthusiasms: West Ceredigion. Oceans and seas, seals, reptiles… Heavy Metal 🤘
@@ -26,7 +22,7 @@ my_experiences:
     enthusiasms: Dyffryn Aeron. Trees, arboriculture, woodland management, sustainable coppice restoration, working gundogs, self-sufficiency & regenerative agriculture, carpentry & traditional building techniques, politics, travel 🌳
     
   - title: Chris Harris
-    job_title: Biodiversity Assistant, Reserves Manager
+    job_title: Biodiversity Assistant, Reserves
     enthusiasms: Mid-North Ceredigion. 1000ft up, woodlands, wildlife, conservation, sport, history, family, healthy eating, travelling 🐿️
 
   - title: Fiona Moran
@@ -77,4 +73,3 @@ partneriaid:
 The Ceredigion Nature Partnership is a strategic collaboration of public agencies, local voluntary organisations, businesses, community groups and individuals working together to protect and radically enhance nature.
 
 From Rhos pastures and ancient woodland to its rich coastline, Ceredigion has an amazing diversity of landscapes and wildlife; but they are precious, fragile, and under threat from a variety of environmental pressures.
-

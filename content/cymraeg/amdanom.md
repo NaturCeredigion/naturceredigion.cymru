@@ -13,10 +13,6 @@ my_experiences:
   description: Mae ein tîm wedi ymrwymo i wella natur yng Ngheredigion, gan gydweithio ag amrywiaeth o bartneriaid ymroddedig ac aelodau gweithgar o’r cyhoedd
 
   experiences_item:
-  - title: Sarah Smyth
-    job_title: Ecolegydd Uwch Dros Dro
-    enthusiasms: Canolbarth Gogledd Ceredigion. Coedlannau, bywyd y môr, Dyfrgwn a Draenogod, nofio yn y môr a phadlfyrddio 🏊️
-
   - title: Gillian Clark
     job_title: Cydlynnydd Partneriaeth Natur Lleol Ceredigion
     enthusiasms: Gorllewin Ceredigion. Cefnforoedd a moroedd, morloi, ymlusgiaid… Metel Trwm 🤘    
@@ -26,7 +22,7 @@ my_experiences:
     enthusiasms: Dyffryn Aeron. Coed, coedyddiaeth, rheoli coedlannau, adfer prysglwyni’n gynaliadwy, cŵn saethu, hunan-gynhaliaeth ac amaethyddiaeth atgynhyrchiol, gwaith coed a thechnegau adeiladu traddodiadol, gwleidyddiaeth, teithio 🌳
 
   - title: Chris Harris
-    job_title: Cynorthwyydd Bioamrywiaeth, Rheolwr Gwarchodfeydd
+    job_title: Cynorthwyydd Bioamrywiaeth, Gwarchodfeydd
     enthusiasms: Canolbarth-Gogledd Ceredigion. 1000tr i fyny, coedlannau, bywyd gwyllt, cadwraeth, chwaraeon, hanes, teulu, bwyta iach, teithio 🐿️
 
   - title: Fiona Moran
@@ -76,5 +72,3 @@ partneriaid:
 Mae Partneriaeth Natur Ceredigion yn bartneriaeth gydweithredol strategol o asiantaethau cyhoeddus, sefydliadau gwirfoddol lleol, busnesau, grwpiau cymunedol ac unigolion sy’n cydweithio i ddiogelu natur ac i fynd ati mewn ffordd radical i’w chyfoethogi.
 
 O’i phorfeydd rhos a’i choetiroedd hynafol i’w harfordir cyfoethog, mae gan Geredigion amrywiaeth anhygoel o dirweddau a bywyd gwyllt; ond mae'r rhain yn werthfawr ac yn fregus, ac mae amrywiaeth o ffactorau amgylcheddol yn eu bygwth.
-
-
