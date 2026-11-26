@@ -17,10 +17,6 @@ my_experiences:
     job_title: Cydlynnydd Partneriaeth Natur Lleol Ceredigion
     enthusiasms: Gorllewin Ceredigion. Cefnforoedd a moroedd, morloi, ymlusgiaid… Metel Trwm 🤘    
 
-  - title: Norman Birch
-    job_title: Swyddog Coed
-    enthusiasms: Dyffryn Aeron. Coed, coedyddiaeth, rheoli coedlannau, adfer prysglwyni’n gynaliadwy, cŵn saethu, hunan-gynhaliaeth ac amaethyddiaeth atgynhyrchiol, gwaith coed a thechnegau adeiladu traddodiadol, gwleidyddiaeth, teithio 🌳
-
   - title: Chris Harris
     job_title: Cynorthwyydd Bioamrywiaeth, Gwarchodfeydd
     enthusiasms: Canolbarth-Gogledd Ceredigion. 1000tr i fyny, coedlannau, bywyd gwyllt, cadwraeth, chwaraeon, hanes, teulu, bwyta iach, teithio 🐿️
@@ -32,6 +28,10 @@ my_experiences:
   - title: Jake Rayson
     job_title: Cynorthwyydd Bioamrywiaeth
     enthusiasms: De Ceredigion. Gweirgloddiau coed, gerddi coedwig, planhigion brodorol, Meddalwedd Open Source 🤓
+
+  - title: Norman Birch
+    job_title: Swyddog Coed
+    enthusiasms: Dyffryn Aeron. Coed, coedyddiaeth, rheoli coedlannau, adfer prysglwyni’n gynaliadwy, cŵn saethu, hunan-gynhaliaeth ac amaethyddiaeth atgynhyrchiol, gwaith coed a thechnegau adeiladu traddodiadol, gwleidyddiaeth, teithio 🌳
 
 about_info:
   enable: true

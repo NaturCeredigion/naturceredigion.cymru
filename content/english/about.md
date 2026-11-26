@@ -17,10 +17,6 @@ my_experiences:
     job_title: Coordinator Ceredigion Local Nature Partnership
     enthusiasms: West Ceredigion. Oceans and seas, seals, reptiles… Heavy Metal 🤘
     
-  - title: Norman Birch
-    job_title: Tree Officer
-    enthusiasms: Dyffryn Aeron. Trees, arboriculture, woodland management, sustainable coppice restoration, working gundogs, self-sufficiency & regenerative agriculture, carpentry & traditional building techniques, politics, travel 🌳
-    
   - title: Chris Harris
     job_title: Biodiversity Assistant, Reserves
     enthusiasms: Mid-North Ceredigion. 1000ft up, woodlands, wildlife, conservation, sport, history, family, healthy eating, travelling 🐿️
@@ -32,6 +28,10 @@ my_experiences:
   - title: Jake Rayson
     job_title: Biodiversity Assistant
     enthusiasms: South Ceredigion. Wood meadows, forest gardens, native plants, Open Source Software 🤓
+    
+  - title: Norman Birch
+    job_title: Tree Officer
+    enthusiasms: Dyffryn Aeron. Trees, arboriculture, woodland management, sustainable coppice restoration, working gundogs, self-sufficiency & regenerative agriculture, carpentry & traditional building techniques, politics, travel 🌳
     
 # About info
 about_info:
