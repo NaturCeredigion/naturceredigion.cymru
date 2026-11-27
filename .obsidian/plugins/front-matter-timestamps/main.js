@@ -21,13 +21,15 @@ var __copyProps = (to, from, except, desc) => {
 };
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
-// main.ts
+// src/main.ts
 var main_exports = {};
 __export(main_exports, {
   default: () => FrontMatterTimestampsPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian = require("obsidian");
+var import_obsidian3 = require("obsidian");
+
+// src/settings.ts
 var DEFAULT_SETTINGS = {
   autoUpdate: true,
   autoAddTimestamps: true,
@@ -36,289 +38,115 @@ var DEFAULT_SETTINGS = {
   dateFormat: "YYYY-MM-DDTHH:mm:ssZ",
   allowNonEmptyNewFile: false,
   delayAddingTimestamps: 1e3,
+  delayModifiedUpdate: 1e3,
   excludedFolders: [],
   customCommand: "",
   debug: false
 };
-async function calculateChecksum(file, vault) {
-  const fileContent = await vault.read(file);
-  const buffer = new TextEncoder().encode(fileContent);
-  const hashBuffer = await crypto.subtle.digest("SHA-256", buffer);
-  const hashArray = Array.from(new Uint8Array(hashBuffer));
-  const hashHex = hashArray.map((b) => b.toString(16).padStart(2, "0")).join("");
-  return hashHex;
-}
-var FrontMatterTimestampsPlugin = class extends import_obsidian.Plugin {
-  constructor() {
-    super(...arguments);
-    this.lastActiveFile = null;
-    this.lastChecksum = null;
-    this.pendingNewFiles = /* @__PURE__ */ new Set();
+
+// src/utils.ts
+var import_obsidian = require("obsidian");
+var import_state = require("@codemirror/state");
+var timestampEditors = /* @__PURE__ */ new WeakSet();
+var timestampHistoryExtension = import_state.EditorState.transactionExtender.of(
+  (transaction) => {
+    var _a;
+    const editor = (_a = transaction.startState.field(
+      import_obsidian.editorInfoField,
+      false
+    )) == null ? void 0 : _a.editor;
+    return editor && timestampEditors.has(editor) ? { annotations: import_state.Transaction.addToHistory.of(false) } : null;
   }
-  isPathExcluded(filePath) {
-    if (this.settings.excludedFolders.length === 0) {
-      return false;
-    }
-    const pathSegments = filePath.split("/");
-    const fullPathChecks = pathSegments.map(
-      (_, index) => pathSegments.slice(0, index + 1).join("/")
-    );
-    return this.settings.excludedFolders.some(
-      (excludedPath) => fullPathChecks.includes(excludedPath)
-    );
-  }
-  async onload() {
-    await this.loadSettings();
-    this.addSettingTab(new FrontMatterTimestampsSettingTab(this.app, this));
-    this.addCommand({
-      id: "update-modified-time",
-      name: "Update modified time",
-      checkCallback: (checking) => {
-        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian.MarkdownView);
-        if (markdownView) {
-          if (!checking) {
-            this.updateModifiedTime(markdownView.file);
-          }
-          return true;
-        }
-        return false;
+);
+async function processFrontMatter(app, file, update) {
+  var _a, _b;
+  for (const leaf of app.workspace.getLeavesOfType("markdown")) {
+    const view = leaf.view;
+    if (view instanceof import_obsidian.MarkdownView && ((_a = view.file) == null ? void 0 : _a.path) === file.path && view.getMode() === "source") {
+      const editor = view.editor;
+      const content = editor.getValue();
+      const info = (0, import_obsidian.getFrontMatterInfo)(content);
+      const frontmatter = info.exists ? (_b = (0, import_obsidian.parseYaml)(info.frontmatter)) != null ? _b : {} : {};
+      if (typeof frontmatter !== "object" || Array.isArray(frontmatter)) {
+        throw new Error("Frontmatter must be a YAML mapping.");
       }
-    });
-    this.registerEvent(
-      this.app.vault.on("create", (f) => {
-        if (this.settings.debug) {
-          console.log(`File created: ${f.path}`);
-        }
-        switch (f.constructor) {
-          case import_obsidian.TFile:
-            break;
-          default:
-            return;
-        }
-        const file = f;
-        if (Date.now() - file.stat.ctime > 3e4) {
-          if (this.settings.debug) {
-            console.log(
-              `Skipping timestamps on ${file.path}; ctime is older than 60s.`
-            );
-          }
-          return;
-        }
-        if (this.settings.autoAddTimestamps && file.extension === "md" && !this.isPathExcluded(file.path)) {
-          this.pendingNewFiles.add(file.path);
-          this.handleNewFileTimestamps(file);
-        }
-      })
-    );
-    if (this.settings.autoUpdate) {
-      this.registerEvent(
-        this.app.workspace.on(
-          "active-leaf-change",
-          () => this.handleFileChange()
-        )
+      update(frontmatter);
+      const replacement = `---
+${(0, import_obsidian.stringifyYaml)(frontmatter)}---
+`;
+      const current = content.slice(
+        0,
+        info.exists ? info.contentStart : 0
       );
-    }
-  }
-  async handleNewFileTimestamps(file) {
-    const { debug } = this.settings;
-    if (!this.settings.allowNonEmptyNewFile) {
-      const fileContent = await this.app.vault.read(file);
-      if (fileContent.trim()) {
-        if (debug) {
-          console.log(
-            `File ${file.path} is not empty, skipping initial timestamps.`
-          );
-        }
-        this.pendingNewFiles.delete(file.path);
+      if (current === replacement)
         return;
-      }
-    }
-    if (debug) {
-      console.log(
-        `Waiting ${this.settings.delayAddingTimestamps}ms before adding timestamps to ${file.path}.`
-      );
-    }
-    await new Promise(
-      (resolve) => setTimeout(resolve, this.settings.delayAddingTimestamps)
-    );
-    if (!await this.app.vault.adapter.exists(file.path)) {
-      if (debug) {
-        console.log(
-          `File ${file.path} no longer exists after delay, skipping timestamp addition.`
-        );
-      }
-      this.pendingNewFiles.delete(file.path);
-      return;
-    }
-    const currentTime = (0, import_obsidian.moment)().format(this.settings.dateFormat);
-    try {
-      await this.app.fileManager.processFrontMatter(
-        file,
-        (frontmatter) => {
-          if (!frontmatter[this.settings.createdPropertyName]) {
-            frontmatter[this.settings.createdPropertyName] = currentTime;
-          }
-          if (!frontmatter[this.settings.modifiedPropertyName]) {
-            frontmatter[this.settings.modifiedPropertyName] = currentTime;
-          }
-        }
-      );
-      if (debug) {
-        console.log(`Timestamps added to new file ${file.path}`);
-      }
-    } catch (error) {
-      console.error(
-        `Error adding timestamps to new file ${file.path}`,
-        error
-      );
-    } finally {
-      this.pendingNewFiles.delete(file.path);
-    }
-  }
-  async handleFileChange() {
-    const { debug } = this.settings;
-    const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian.MarkdownView);
-    const currentFile = markdownView ? markdownView.file : null;
-    if (debug) {
-      console.log("handleFileChange called");
-    }
-    if (!currentFile) {
-      if (this.lastActiveFile && !this.isPathExcluded(this.lastActiveFile.path)) {
-        try {
-          const fileExists = await this.app.vault.adapter.exists(
-            this.lastActiveFile.path
-          );
-          if (fileExists) {
-            const currentChecksum = await calculateChecksum(
-              this.lastActiveFile,
-              this.app.vault
-            );
-            if (this.lastChecksum !== currentChecksum) {
-              if (debug) {
-                console.log(
-                  `File ${this.lastActiveFile.path} changed while inactive, updating modified time.`
-                );
-              }
-              await this.updateModifiedTime(this.lastActiveFile);
-            }
-          } else if (debug) {
-            console.log(
-              `Last active file ${this.lastActiveFile.path} no longer exists.`
-            );
-          }
-        } catch (error) {
-          console.error(
-            `Error checking checksum for ${this.lastActiveFile.path}:`,
-            error
-          );
-        }
-      }
-      this.lastActiveFile = null;
-      this.lastChecksum = null;
-      return;
-    }
-    if (this.isPathExcluded(currentFile.path))
-      return;
-    if (this.lastActiveFile && this.lastActiveFile.path !== currentFile.path) {
+      const { from, to, insert } = getMinimalChange(current, replacement);
+      timestampEditors.add(editor);
       try {
-        const lastFileExists = await this.app.vault.adapter.exists(
-          this.lastActiveFile.path
+        editor.replaceRange(
+          insert,
+          editor.offsetToPos(from),
+          editor.offsetToPos(to)
         );
-        if (lastFileExists) {
-          const lastFileChecksum = await calculateChecksum(
-            this.lastActiveFile,
-            this.app.vault
-          );
-          if (this.lastChecksum !== lastFileChecksum) {
-            if (debug) {
-              console.log(
-                `File ${this.lastActiveFile.path} changed before switching, updating modified time.`
-              );
-            }
-            await this.updateModifiedTime(this.lastActiveFile);
-          }
-        }
-      } catch (error) {
-        console.error(
-          `Error checking checksum for ${this.lastActiveFile.path}:`,
-          error
-        );
+      } finally {
+        timestampEditors.delete(editor);
       }
-    }
-    if (!this.lastActiveFile || this.lastActiveFile.path !== currentFile.path) {
-      this.lastActiveFile = currentFile;
-      this.lastChecksum = await calculateChecksum(
-        currentFile,
-        this.app.vault
-      );
-    }
-  }
-  async updateModifiedTime(file) {
-    const { debug } = this.settings;
-    if (!file || !file.path)
-      return;
-    if (this.isPathExcluded(file.path))
-      return;
-    if (file.extension !== "md") {
-      if (debug) {
-        console.log("File is not a markdown file, skipping.");
-      }
+      await view.save();
       return;
     }
-    const currentTime = (0, import_obsidian.moment)().format(this.settings.dateFormat);
-    if (debug) {
-      console.log(
-        `Updating modified time for ${file.path} after a delay of ${this.settings.delayAddingTimestamps}ms.`
-      );
+  }
+  await app.fileManager.processFrontMatter(file, update);
+}
+function getMinimalChange(current, replacement) {
+  let start = 0;
+  const maxStart = Math.min(current.length, replacement.length);
+  while (start < maxStart && current[start] === replacement[start])
+    start++;
+  let currentEnd = current.length;
+  let replacementEnd = replacement.length;
+  while (currentEnd > start && replacementEnd > start && current[currentEnd - 1] === replacement[replacementEnd - 1]) {
+    currentEnd--;
+    replacementEnd--;
+  }
+  return {
+    from: start,
+    to: currentEnd,
+    insert: replacement.slice(start, replacementEnd)
+  };
+}
+function normalizeForComparison(content) {
+  return content.replace(/\r\n?/g, "\n").replace(/\n+$/, "");
+}
+function getComparableContent(content, modifiedProperty) {
+  var _a;
+  content = normalizeForComparison(content);
+  const info = (0, import_obsidian.getFrontMatterInfo)(content);
+  try {
+    const frontmatter = info.exists ? (_a = (0, import_obsidian.parseYaml)(info.frontmatter)) != null ? _a : {} : {};
+    if (typeof frontmatter !== "object" || Array.isArray(frontmatter))
+      return content;
+    delete frontmatter[modifiedProperty];
+    return JSON.stringify(frontmatter) + "\n" + content.slice(info.contentStart);
+  } catch (e) {
+    return content;
+  }
+}
+async function getFileContent(app, file, modifiedProperty) {
+  var _a;
+  for (const leaf of app.workspace.getLeavesOfType("markdown")) {
+    const view = leaf.view;
+    if (view instanceof import_obsidian.MarkdownView && ((_a = view.file) == null ? void 0 : _a.path) === file.path) {
+      await view.save();
+      break;
     }
-    await new Promise(
-      (resolve) => setTimeout(resolve, this.settings.delayAddingTimestamps)
-    );
-    if (!await this.app.vault.adapter.exists(file.path)) {
-      if (debug) {
-        console.log(
-          `File ${file.path} no longer exists after delay, skipping modified time update.`
-        );
-      }
-      return;
-    }
-    try {
-      await this.app.fileManager.processFrontMatter(
-        file,
-        (frontmatter) => {
-          frontmatter[this.settings.modifiedPropertyName] = currentTime;
-        }
-      );
-      if (debug) {
-        console.log(`File frontmatter updated for ${file.path}`);
-      }
-      if (this.settings.customCommand) {
-        this.app.commands.executeCommandById(
-          this.settings.customCommand
-        );
-      }
-    } catch (error) {
-      console.error(
-        `Error updating frontmatter for file ${file.path}`,
-        error
-      );
-    }
   }
-  onunload() {
-    console.log("Unloading Front Matter Timestamps plugin");
-  }
-  async loadSettings() {
-    this.settings = Object.assign(
-      {},
-      DEFAULT_SETTINGS,
-      await this.loadData()
-    );
-  }
-  async saveSettings() {
-    await this.saveData(this.settings);
-  }
-};
-var FrontMatterTimestampsSettingTab = class extends import_obsidian.PluginSettingTab {
+  const content = await app.vault.read(file);
+  return modifiedProperty === void 0 ? normalizeForComparison(content) : getComparableContent(content, modifiedProperty);
+}
+
+// src/settings-tab.ts
+var import_obsidian2 = require("obsidian");
+var FrontMatterTimestampsSettingTab = class extends import_obsidian2.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -326,13 +154,13 @@ var FrontMatterTimestampsSettingTab = class extends import_obsidian.PluginSettin
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    new import_obsidian.Setting(containerEl).setName("Automatic update").setDesc("Automatically update modified time on file change").addToggle(
+    new import_obsidian2.Setting(containerEl).setName("Automatic update").setDesc("Automatically update modified time after editing").addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.autoUpdate).onChange(async (value) => {
         this.plugin.settings.autoUpdate = value;
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian.Setting(containerEl).setName("Automatic timestamps").setDesc(
+    new import_obsidian2.Setting(containerEl).setName("Automatic timestamps").setDesc(
       "Automatically add created and modified timestamps to new notes"
     ).addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.autoAddTimestamps).onChange(async (value) => {
@@ -340,19 +168,19 @@ var FrontMatterTimestampsSettingTab = class extends import_obsidian.PluginSettin
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian.Setting(containerEl).setName("Created property name").setDesc("Customise the property name for creation timestamp").addText(
+    new import_obsidian2.Setting(containerEl).setName("Created property name").setDesc("Customise the property name for creation timestamp").addText(
       (text) => text.setValue(this.plugin.settings.createdPropertyName).onChange(async (value) => {
         this.plugin.settings.createdPropertyName = value.trim();
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian.Setting(containerEl).setName("Modified property name").setDesc("Customise the property name for modification timestamp").addText(
+    new import_obsidian2.Setting(containerEl).setName("Modified property name").setDesc("Customise the property name for modification timestamp").addText(
       (text) => text.setValue(this.plugin.settings.modifiedPropertyName).onChange(async (value) => {
         this.plugin.settings.modifiedPropertyName = value.trim();
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian.Setting(containerEl).setName("Date and time format").setDesc(
+    new import_obsidian2.Setting(containerEl).setName("Date and time format").setDesc(
       "Specify the desired date and time format using Moment.js tokens. Example: YYYY-MM-DDTHH:mm"
     ).addText((text) => {
       text.setPlaceholder("YYYY-MM-DDTHH:mm:ssZ").setValue(this.plugin.settings.dateFormat).onChange(async (value) => {
@@ -372,7 +200,7 @@ var FrontMatterTimestampsSettingTab = class extends import_obsidian.PluginSettin
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian.Setting(containerEl).setName("Allow non-empty file to be treated as new note").setDesc(
+    new import_obsidian2.Setting(containerEl).setName("Allow non-empty file to be treated as new note").setDesc(
       "Newly created file does not have to be empty to add timestamps. Enable if using plugins that automatically add content to new notes (Templater, Daily Notes, etc.)."
     ).addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.allowNonEmptyNewFile).onChange(async (value) => {
@@ -380,7 +208,7 @@ var FrontMatterTimestampsSettingTab = class extends import_obsidian.PluginSettin
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian.Setting(containerEl).setName("Delay adding timestamps to new notes").setDesc(
+    new import_obsidian2.Setting(containerEl).setName("Delay adding timestamps to new notes").setDesc(
       "Delay in milliseconds before adding timestamps to new notes to avoid conflicts with other plugins that also add content to new notes. The default value of 1000 milliseconds should be sufficient for most cases, but you can adjust it as needed. Set to 0 to disable the delay if you are not experiencing any issues or not using such plugins."
     ).addText(
       (text) => text.setValue(
@@ -393,7 +221,20 @@ var FrontMatterTimestampsSettingTab = class extends import_obsidian.PluginSettin
         }
       })
     );
-    const excludedFoldersSetting = new import_obsidian.Setting(containerEl).setName("Excluded folders").setDesc(
+    new import_obsidian2.Setting(containerEl).setName("Delay modified time update").setDesc(
+      "Idle time in milliseconds after an edit before updating the modified timestamp."
+    ).addText(
+      (text) => text.setValue(
+        this.plugin.settings.delayModifiedUpdate.toString()
+      ).onChange(async (value) => {
+        const delay = parseInt(value.trim(), 10);
+        if (!isNaN(delay)) {
+          this.plugin.settings.delayModifiedUpdate = delay;
+          await this.plugin.saveSettings();
+        }
+      })
+    );
+    const excludedFoldersSetting = new import_obsidian2.Setting(containerEl).setName("Excluded folders").setDesc(
       "Manage folders that are excluded from timestamp updates. You can add subfolder paths as needed. For example, 'folder/subfolder' will exclude 'subfolder' but not 'folder'."
     );
     const listContainer = excludedFoldersSetting.settingEl.createDiv();
@@ -448,7 +289,7 @@ var FrontMatterTimestampsSettingTab = class extends import_obsidian.PluginSettin
       };
     };
     updateFolderList();
-    const commandSetting = new import_obsidian.Setting(containerEl).setName("Execute command after update").setDesc(
+    const commandSetting = new import_obsidian2.Setting(containerEl).setName("Execute command after update").setDesc(
       "Select a command to run after the modified time is successfully updated"
     );
     const select = commandSetting.controlEl.createEl("select");
@@ -457,7 +298,9 @@ var FrontMatterTimestampsSettingTab = class extends import_obsidian.PluginSettin
     if (this.plugin.settings.customCommand === "") {
       noneOption.selected = true;
     }
-    this.app.commands.listCommands().forEach((command) => {
+    this.app.commands.listCommands().filter(
+      (command) => command.id !== this.plugin.updateModifiedTimeCommandId
+    ).forEach((command) => {
       let option = select.createEl("option", { text: command.name });
       option.value = command.id;
       if (command.id === this.plugin.settings.customCommand) {
@@ -468,12 +311,433 @@ var FrontMatterTimestampsSettingTab = class extends import_obsidian.PluginSettin
       this.plugin.settings.customCommand = select.value;
       await this.plugin.saveSettings();
     });
-    new import_obsidian.Setting(containerEl).setName("Debug mode").setDesc("Enable debug mode to display detailed logs").addToggle(
+    new import_obsidian2.Setting(containerEl).setName("Debug mode").setDesc("Enable debug mode to display detailed logs").addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.debug).onChange(async (value) => {
         this.plugin.settings.debug = value;
         await this.plugin.saveSettings();
       })
     );
+  }
+};
+
+// src/main.ts
+var FrontMatterTimestampsPlugin = class extends import_obsidian3.Plugin {
+  constructor() {
+    super(...arguments);
+    this.lastActiveFile = null;
+    this.lastChecksum = null;
+    this.pendingNewFiles = /* @__PURE__ */ new Set();
+    this.pendingModifiedUpdates = /* @__PURE__ */ new Map();
+    this.fileChangeQueue = Promise.resolve();
+    this.editorContents = /* @__PURE__ */ new WeakMap();
+    this.pendingEditorUpdates = /* @__PURE__ */ new Map();
+    this.lastUpdatedContents = /* @__PURE__ */ new WeakMap();
+    this.runningCustomCommand = false;
+    this.unloaded = false;
+  }
+  get updateModifiedTimeCommandId() {
+    return `${this.manifest.id}:update-modified-time`;
+  }
+  async executeAfterUpdateCommand(file) {
+    var _a;
+    const command = this.settings.customCommand;
+    if (!command || command === this.updateModifiedTimeCommandId || this.runningCustomCommand)
+      return;
+    if (((_a = this.app.workspace.getActiveViewOfType(import_obsidian3.MarkdownView)) == null ? void 0 : _a.file) !== file) {
+      return;
+    }
+    this.runningCustomCommand = true;
+    try {
+      await this.app.commands.executeCommandById(command);
+    } finally {
+      this.runningCustomCommand = false;
+    }
+  }
+  isPathExcluded(filePath) {
+    if (this.settings.excludedFolders.length === 0) {
+      return false;
+    }
+    const pathSegments = filePath.split("/");
+    const fullPathChecks = pathSegments.map(
+      (_, index) => pathSegments.slice(0, index + 1).join("/")
+    );
+    return this.settings.excludedFolders.some(
+      (excludedPath) => fullPathChecks.includes(excludedPath.replace(/\\/g, "/"))
+    );
+  }
+  async onload() {
+    this.unloaded = false;
+    await this.loadSettings();
+    this.registerEditorExtension(timestampHistoryExtension);
+    this.addSettingTab(new FrontMatterTimestampsSettingTab(this.app, this));
+    this.addCommand({
+      id: "update-modified-time",
+      name: "Update modified time",
+      checkCallback: (checking) => {
+        const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian3.MarkdownView);
+        if (markdownView == null ? void 0 : markdownView.file) {
+          if (!checking) {
+            void this.updateModifiedTime(markdownView.file, true);
+          }
+          return true;
+        }
+        return false;
+      }
+    });
+    this.registerEvent(
+      this.app.workspace.on(
+        "active-leaf-change",
+        () => this.handleFileChange()
+      )
+    );
+    this.registerEvent(
+      this.app.workspace.on("editor-change", (editor, info) => {
+        const file = info.file;
+        if (!file || file.extension !== "md")
+          return;
+        const content = getComparableContent(
+          editor.getValue(),
+          this.settings.modifiedPropertyName
+        );
+        const previous = this.editorContents.get(editor);
+        this.editorContents.set(editor, content);
+        if (previous === content || !this.settings.autoUpdate || this.isPathExcluded(file.path))
+          return;
+        if (this.pendingNewFiles.has(file.path))
+          return;
+        const pending = this.pendingEditorUpdates.get(file);
+        if (pending !== void 0)
+          window.clearTimeout(pending);
+        this.pendingEditorUpdates.set(
+          file,
+          window.setTimeout(
+            () => {
+              this.pendingEditorUpdates.delete(file);
+              if (this.settings.autoUpdate) {
+                void this.updateModifiedTime(
+                  file,
+                  true,
+                  true
+                ).catch(console.error);
+              }
+            },
+            Math.max(0, this.settings.delayModifiedUpdate)
+          )
+        );
+      })
+    );
+    this.app.workspace.onLayoutReady(() => {
+      if (this.unloaded)
+        return;
+      this.registerFileCreationHandler();
+      this.handleFileChange();
+    });
+  }
+  registerFileCreationHandler() {
+    this.registerEvent(
+      this.app.vault.on("create", (f) => {
+        if (this.settings.debug) {
+          console.log(`File created: ${f.path}`);
+        }
+        switch (f.constructor) {
+          case import_obsidian3.TFile:
+            break;
+          default:
+            return;
+        }
+        const file = f;
+        if (file.stat.ctime > 0 && Date.now() - file.stat.ctime > 3e4) {
+          if (this.settings.debug) {
+            console.log(
+              `Skipping timestamps on ${file.path}; ctime is older than 30s.`
+            );
+          }
+          return;
+        }
+        if (this.settings.autoAddTimestamps && file.extension === "md" && !this.isPathExcluded(file.path)) {
+          this.pendingNewFiles.add(file.path);
+          this.handleNewFileTimestamps(file);
+        }
+      })
+    );
+  }
+  cancelPendingModifiedUpdate(filePath) {
+    const timeoutId = this.pendingModifiedUpdates.get(filePath);
+    if (timeoutId !== void 0) {
+      window.clearTimeout(timeoutId);
+      this.pendingModifiedUpdates.delete(filePath);
+    }
+  }
+  async handleNewFileTimestamps(file) {
+    const { debug } = this.settings;
+    if (!this.settings.allowNonEmptyNewFile) {
+      const fileContent = await this.app.vault.read(file);
+      if (fileContent.trim()) {
+        if (debug) {
+          console.log(
+            `File ${file.path} is not empty, skipping initial timestamps.`
+          );
+        }
+        this.pendingNewFiles.delete(file.path);
+        return;
+      }
+    }
+    if (debug) {
+      console.log(
+        `Waiting ${this.settings.delayAddingTimestamps}ms before adding timestamps to ${file.path}.`
+      );
+    }
+    await new Promise(
+      (resolve) => setTimeout(resolve, this.settings.delayAddingTimestamps)
+    );
+    if (!await this.app.vault.adapter.exists(file.path)) {
+      if (debug) {
+        console.log(
+          `File ${file.path} no longer exists after delay, skipping timestamp addition.`
+        );
+      }
+      this.pendingNewFiles.delete(file.path);
+      return;
+    }
+    const currentTime = (0, import_obsidian3.moment)().format(this.settings.dateFormat);
+    try {
+      await processFrontMatter(this.app, file, (frontmatter) => {
+        if (!frontmatter[this.settings.createdPropertyName]) {
+          frontmatter[this.settings.createdPropertyName] = currentTime;
+        }
+        if (!frontmatter[this.settings.modifiedPropertyName]) {
+          frontmatter[this.settings.modifiedPropertyName] = currentTime;
+        }
+      });
+      if (debug) {
+        console.log(`Timestamps added to new file ${file.path}`);
+      }
+    } catch (error) {
+      console.error(
+        `Error adding timestamps to new file ${file.path}`,
+        error
+      );
+    } finally {
+      this.pendingNewFiles.delete(file.path);
+    }
+  }
+  handleFileChange() {
+    for (const leaf of this.app.workspace.getLeavesOfType("markdown")) {
+      const view = leaf.view;
+      if (view instanceof import_obsidian3.MarkdownView) {
+        this.editorContents.set(
+          view.editor,
+          getComparableContent(
+            view.editor.getValue(),
+            this.settings.modifiedPropertyName
+          )
+        );
+      }
+    }
+    if (!this.settings.autoUpdate)
+      return;
+    const activeFile = this.app.workspace.getActiveFile();
+    const currentFile = activeFile && activeFile.extension === "md" ? activeFile : null;
+    if (currentFile && this.isPathExcluded(currentFile.path))
+      return;
+    if (currentFile)
+      this.cancelPendingModifiedUpdate(currentFile.path);
+    const checksum = currentFile ? getFileContent(
+      this.app,
+      currentFile,
+      this.settings.modifiedPropertyName
+    ).catch((error) => {
+      console.error(
+        `Error reading baseline for ${currentFile.path}:`,
+        error
+      );
+      return null;
+    }) : Promise.resolve(null);
+    this.fileChangeQueue = this.fileChangeQueue.then(() => this.processFileChange(currentFile, checksum)).catch((error) => {
+      console.error("Error processing file change:", error);
+    });
+  }
+  async processFileChange(currentFile, checksum) {
+    const { debug } = this.settings;
+    if (debug) {
+      console.log("handleFileChange called");
+    }
+    if (!currentFile) {
+      if (this.lastActiveFile && !this.isPathExcluded(this.lastActiveFile.path)) {
+        try {
+          const fileExists = await this.app.vault.adapter.exists(
+            this.lastActiveFile.path
+          );
+          if (fileExists) {
+            const currentChecksum = await getFileContent(
+              this.app,
+              this.lastActiveFile,
+              this.settings.modifiedPropertyName
+            );
+            if (this.lastChecksum !== null && this.lastChecksum !== currentChecksum) {
+              if (debug) {
+                console.log(
+                  `File ${this.lastActiveFile.path} changed while inactive, updating modified time.`
+                );
+              }
+              void this.updateModifiedTime(this.lastActiveFile);
+            }
+          } else if (debug) {
+            console.log(
+              `Last active file ${this.lastActiveFile.path} no longer exists.`
+            );
+          }
+        } catch (error) {
+          console.error(
+            `Error checking checksum for ${this.lastActiveFile.path}:`,
+            error
+          );
+        }
+      }
+      this.lastActiveFile = null;
+      this.lastChecksum = null;
+      return;
+    }
+    if (this.lastActiveFile && this.lastActiveFile.path !== currentFile.path) {
+      try {
+        const lastFileExists = await this.app.vault.adapter.exists(
+          this.lastActiveFile.path
+        );
+        if (lastFileExists) {
+          const lastFileChecksum = await getFileContent(
+            this.app,
+            this.lastActiveFile,
+            this.settings.modifiedPropertyName
+          );
+          if (this.lastChecksum !== null && this.lastChecksum !== lastFileChecksum) {
+            if (debug) {
+              console.log(
+                `File ${this.lastActiveFile.path} changed before switching, updating modified time.`
+              );
+            }
+            void this.updateModifiedTime(this.lastActiveFile);
+          }
+        }
+      } catch (error) {
+        console.error(
+          `Error checking checksum for ${this.lastActiveFile.path}:`,
+          error
+        );
+      }
+    }
+    if (!this.lastActiveFile || this.lastActiveFile.path !== currentFile.path) {
+      const baseline = await checksum;
+      this.lastActiveFile = currentFile;
+      this.lastChecksum = baseline;
+    }
+  }
+  async updateModifiedTime(file, immediate = false, editorUpdate = false) {
+    const runCustomCommand = !this.runningCustomCommand;
+    const { debug } = this.settings;
+    if (!(file == null ? void 0 : file.path))
+      return;
+    if (this.isPathExcluded(file.path))
+      return;
+    if (file.extension !== "md") {
+      if (debug) {
+        console.log("File is not a markdown file, skipping.");
+      }
+      return;
+    }
+    const apply = async () => {
+      var _a;
+      if (!immediate && !this.settings.autoUpdate)
+        return;
+      if (!immediate) {
+        const activeFile = this.app.workspace.getActiveFile();
+        if ((activeFile == null ? void 0 : activeFile.path) === file.path) {
+          if (debug) {
+            console.log(
+              `Skipping modified time update for ${file.path}; file is currently active.`
+            );
+          }
+          return;
+        }
+      }
+      if (!await this.app.vault.adapter.exists(file.path)) {
+        if (debug) {
+          console.log(
+            `File ${file.path} no longer exists, skipping modified time update.`
+          );
+        }
+        return;
+      }
+      const content = await getFileContent(
+        this.app,
+        file,
+        this.settings.modifiedPropertyName
+      );
+      if ((!immediate || editorUpdate) && this.lastUpdatedContents.get(file) === content)
+        return;
+      const currentTime = (0, import_obsidian3.moment)().format(this.settings.dateFormat);
+      try {
+        await processFrontMatter(this.app, file, (frontmatter) => {
+          frontmatter[this.settings.modifiedPropertyName] = currentTime;
+        });
+        this.lastUpdatedContents.set(file, content);
+        if (((_a = this.lastActiveFile) == null ? void 0 : _a.path) === file.path) {
+          this.lastChecksum = content;
+        }
+        if (debug) {
+          console.log(`File frontmatter updated for ${file.path}`);
+        }
+        if (runCustomCommand) {
+          await this.executeAfterUpdateCommand(file);
+        }
+      } catch (error) {
+        console.error(
+          `Error updating frontmatter for file ${file.path}`,
+          error
+        );
+      }
+    };
+    if (immediate) {
+      this.cancelPendingModifiedUpdate(file.path);
+      await apply();
+      return;
+    }
+    this.cancelPendingModifiedUpdate(file.path);
+    const delay = Math.min(this.settings.delayModifiedUpdate, 250);
+    if (debug) {
+      console.log(
+        `Updating modified time for ${file.path} after a delay of ${delay}ms.`
+      );
+    }
+    const timeoutId = window.setTimeout(() => {
+      this.pendingModifiedUpdates.delete(file.path);
+      void apply();
+    }, delay);
+    this.pendingModifiedUpdates.set(file.path, timeoutId);
+  }
+  onunload() {
+    this.unloaded = true;
+    for (const timeoutId of this.pendingEditorUpdates.values()) {
+      window.clearTimeout(timeoutId);
+    }
+    this.pendingEditorUpdates.clear();
+    for (const timeoutId of this.pendingModifiedUpdates.values()) {
+      window.clearTimeout(timeoutId);
+    }
+    this.pendingModifiedUpdates.clear();
+  }
+  async loadSettings() {
+    var _a;
+    const loaded = await this.loadData();
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, loaded);
+    if (this.settings.customCommand === this.updateModifiedTimeCommandId) {
+      this.settings.customCommand = "";
+    }
+    if ((loaded == null ? void 0 : loaded.delayModifiedUpdate) === void 0) {
+      this.settings.delayModifiedUpdate = (_a = loaded == null ? void 0 : loaded.delayAddingTimestamps) != null ? _a : DEFAULT_SETTINGS.delayModifiedUpdate;
+    }
+  }
+  async saveSettings() {
+    await this.saveData(this.settings);
   }
 };
 

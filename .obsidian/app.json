@@ -1,5 +1,5 @@
 {
-  "spellcheck": false,
-  "alwaysUpdateLinks": true,
-  "settingsPopoutWindow": false
+  "settingsPopoutWindow": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/english/news"
 }

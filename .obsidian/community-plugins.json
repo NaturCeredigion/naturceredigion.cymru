@@ -1,18 +1,10 @@
 [
-  "better-word-count",
-  "obsidian-editor-shortcuts",
-  "copy-as-html",
   "emoji-shortcodes",
-  "obsidian-pandoc",
-  "obsidian-text-format",
-  "dataview",
-  "obsidian-excalidraw-plugin",
-  "excalibrain",
-  "obsidian-style-settings",
-  "obsidian-git",
+  "copy-as-html",
+  "better-word-count",
   "front-matter-timestamps",
-  "iconic",
-  "obsidian-cloudinary-uploader",
-  "image-converter",
-  "obsidian-sort-and-permute-lines"
+  "obsidian-git",
+  "obsidian-sort-and-permute-lines",
+  "obsidian-text-format",
+  "obsidian-pandoc"
 ]
