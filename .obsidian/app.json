@@ -1,5 +1,7 @@
 {
   "settingsPopoutWindow": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "content/english/news"
+  "newFileFolderPath": "content/english/news",
+  "spellcheck": false,
+  "useTab": false
 }

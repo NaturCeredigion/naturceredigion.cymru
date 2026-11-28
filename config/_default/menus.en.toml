@@ -44,13 +44,13 @@ weight = 1
 
 [[main]]
 parent = "Latest"
-name = "Partnership Meetings"
+name = "Partnership meetings"
 url = "events/meetings/"
 weight = 3
 
 [[main]]
 parent = "Latest"
-name = "Our Newsletter"
+name = "Our newsletter"
 url = "newsletter/"
 weight = 4
 
@@ -74,21 +74,27 @@ weight = 1
 
 # [[main]]
 # parent = "Partners"
-# name = "Partner Projects"
+# name = "Partner projects"
 # url = "projects/"
 # weight = 2
 
 # [[main]]
 # parent = "Partners"
-# name = "Partner Sites"
+# name = "Partner sites"
 # url = "sites/"
 # weight = 3
+
+# [[main]]
+# parent = "Partners"
+# name = "Partner Package"
+# url = "sites/"
+# weight = 4
 
 [[main]]
 parent = "Partners"
 name = "County Map"
 url = "map/"
-weight = 4
+weight = 5
 
 [[main]]
 name = "Funding"
