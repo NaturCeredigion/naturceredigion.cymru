@@ -11,10 +11,14 @@
             "id": "66f68043f7e8ad7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "assets/templates/post.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "post"
             }
           }
         ]
@@ -182,14 +186,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "f4379305e2a792d8",
+  "active": "66f68043f7e8ad7b",
   "lastOpenFiles": [
+    "content/english/news/261128-facebook.md",
+    "assets/templates/post.md",
     "content/english/news/Untitled.md",
     "README.md",
     "assets/templates/site.md",
     "assets/templates/project.md",
     "assets/templates/profile.md",
-    "assets/templates/post.md",
     "content/english/news/260918-tree-warden-network.md",
     "content/english/author/chris-harris.md",
     "content/cymraeg/amdanom.md"
