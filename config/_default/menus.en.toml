@@ -14,13 +14,13 @@ weight = 2
 
 [[main]]
 parent = "About"
-name = "About Us"
+name = "About us"
 url = "about/"
 weight = 1
 
 [[main]]
 parent = "About"
-name = "Contact Us"
+name = "Contact us"
 url = "contact/"
 weight = 1
 
@@ -72,17 +72,23 @@ name = "Our Partners"
 url = "partners/"
 weight = 1
 
-#[[main]]
-#parent = "Partners"
-#name = "Partner Projects"
-#url = "projects/"
-#weight = 1
+[[main]]
+parent = "Partners"
+name = "Partner Projects"
+url = "projects/"
+weight = 2
+
+[[main]]
+parent = "Partners"
+name = "Partner Sites"
+url = "sites/"
+weight = 3
 
 [[main]]
 parent = "Partners"
 name = "Partner Map"
 url = "map/"
-weight = 1
+weight = 4
 
 [[main]]
 name = "Funding"
@@ -123,5 +129,3 @@ weight = 3
 name = "Licensing"
 url = "licensing/"
 weight = 4
-
-

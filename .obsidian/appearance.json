@@ -1,8 +1,5 @@
 {
-  "cssTheme": "Everforest",
-  "accentColor": "#5c82f5",
-  "theme": "moonstone",
-  "baseFontSize": 19,
-  "baseFontSizeAction": true,
-  "showRibbon": true
+  "showRibbon": false,
+  "cssTheme": "Things",
+  "interfaceFontFamily": ""
 }

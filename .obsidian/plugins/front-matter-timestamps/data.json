@@ -3,11 +3,12 @@
   "autoAddTimestamps": true,
   "createdPropertyName": "date",
   "modifiedPropertyName": "modified",
-  "dateFormat": "YYYY-MM-DDTHH:mm:ssZ",
+  "dateFormat": "YYYY-MM-DDTHH:mm:ss",
   "allowNonEmptyNewFile": true,
-  "delayAddingTimestamps": 0,
+  "delayAddingTimestamps": 1000,
+  "delayModifiedUpdate": 1000,
   "excludedFolders": [
-    "assets"
+    "assets/templates"
   ],
   "customCommand": "",
   "debug": false

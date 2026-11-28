@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "ceec0ddcbe93d71b",
+    "id": "6faaed232545ca92",
     "type": "split",
     "children": [
       {
-        "id": "cf34399700129aa5",
+        "id": "8784db175fbefb88",
         "type": "tabs",
         "children": [
           {
-            "id": "9cc4360c3994c24e",
+            "id": "66f68043f7e8ad7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/english/docs/infrastructure/newsletter.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "newsletter"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8248e7c482066ec7",
+    "id": "805de41d03ab7df2",
     "type": "split",
     "children": [
       {
-        "id": "268ce0ceefa9626b",
+        "id": "c755942fa992160c",
         "type": "tabs",
         "children": [
           {
-            "id": "b09e5c6d035385e7",
+            "id": "f4379305e2a792d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "e9d7b8f80e21cc7f",
+            "id": "7ab8d484c19e10ab",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,11 +63,14 @@
             }
           },
           {
-            "id": "56a50f30c07c746c",
+            "id": "2961cbef2cb326ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -80,23 +79,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 300
   },
   "right": {
-    "id": "f3fba19a3b62a115",
+    "id": "f26f86c3368f1b7c",
     "type": "split",
     "children": [
       {
-        "id": "2367cf0c37d47dce",
+        "id": "7f1132354d6d650b",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb8cae35739857f",
+            "id": "f999c1b1dde72ba4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/partners/rspb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for rspb"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "9ea7249f4e0e4cbf",
+            "id": "0c1d815c39bfb22a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english/partners/aberystwyth-university.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from aberystwyth-university"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5fdb4189fe887231",
+            "id": "05131266e51e4532",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,18 +136,31 @@
             }
           },
           {
-            "id": "abf89449ae6f92ef",
+            "id": "74a40cddcaf60dbe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0217193286ef173b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "english/partners/aberystwyth-university.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aberystwyth-university"
+              "title": "Outline"
             }
           }
         ]
@@ -162,66 +172,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "iconic:Open rulebook": false
+      "bases:Create new base": false
     }
   },
-  "active": "b09e5c6d035385e7",
+  "active": "f4379305e2a792d8",
   "lastOpenFiles": [
-    "layouts/fpp/single.html",
-    "layouts/fpp",
-    "data/fpp.yaml",
-    "data",
-    "content/english/fpp/_content.gotmpl",
-    "content/english/fpp",
-    "assets/images/fpp/penglais/principal",
-    "assets/images/fpp/penglais",
-    "content/english/docs/website/profile.md",
-    "content/english/docs/infrastructure/qrfpp.md",
-    "content/english/docs/infrastructure/filestorage.md",
-    "content/english/docs/reference/policy.md",
-    "content/english/docs/reference/_index.md",
-    "assets/images/fpp/Untitled Document",
-    "assets/images/fpp",
-    "assets/images/qrfpp",
-    "content/english/docs/infrastructure/groupchat.md",
-    "content/english/docs/infrastructure/newsletter.md",
-    "content/english/docs/infrastructure/url-shortener.md",
-    "content/english/docs/website/blog.md",
-    "content/english/docs/website/website.md",
-    "content/english/docs/website/calendar.md",
-    "content/english/docs/training/workshops.md",
-    "content/english/slides/_index.md",
-    "content/english/about.md",
-    "content/english/docs/_index.md",
-    "content/english/docs/branding/_index.md",
-    "content/english/docs/branding/voice.md",
-    "content/english/docs/branding/logos.md",
-    "content/english/docs/branding/fonts.md",
-    "content/english/docs/branding/colours.md",
-    "content/english/docs/process/_index.md",
-    "content/english/docs/test.md",
-    "content/english/author/fiona-moran.md",
-    "content/english/author/gill-clark.md",
-    "content/english/author/jake-rayson.md",
-    "assets/images/logo.svg",
-    "assets/images/hugo-muscot.svg",
-    "assets/images/contact.svg",
-    "assets/images/favicon.png",
-    "assets/images/banner-image.png",
-    "assets/images/about.jpg",
-    "assets/images/MailChimp.jpg",
-    "assets/images/gallery/06.jpg",
-    "assets/images/gallery/05.jpg",
-    "assets/images/gallery/04.jpg"
+    "content/english/news/Untitled.md",
+    "README.md",
+    "assets/templates/site.md",
+    "assets/templates/project.md",
+    "assets/templates/profile.md",
+    "assets/templates/post.md",
+    "content/english/news/260918-tree-warden-network.md",
+    "content/english/author/chris-harris.md",
+    "content/cymraeg/amdanom.md"
   ]
 }
