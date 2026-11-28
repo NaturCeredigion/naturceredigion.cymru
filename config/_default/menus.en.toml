@@ -86,14 +86,14 @@ weight = 3
 
 [[main]]
 parent = "Partners"
-name = "Partner Package"
-url = "sites/"
+name = "County Map"
+url = "map/"
 weight = 4
 
 [[main]]
 parent = "Partners"
-name = "County Map"
-url = "map/"
+name = "Sign up!"
+url = "package/"
 weight = 5
 
 [[main]]

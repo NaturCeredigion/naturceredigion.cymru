@@ -8,7 +8,7 @@ tags:
 categories:
   - Partnership
 type: news
-author: Jake Rayson
+author: Gill Clark
 featured: false
 draft: true
 translationKey:
