@@ -72,17 +72,17 @@ name = "Our Partners"
 url = "partners/"
 weight = 1
 
-# [[main]]
-# parent = "Partners"
-# name = "Partner Projects"
-# url = "projects/"
-# weight = 2
+[[main]]
+parent = "Partners"
+name = "Partner Projects"
+url = "projects/"
+weight = 2
 
-# [[main]]
-# parent = "Partners"
-# name = "Partner Sites"
-# url = "sites/"
-# weight = 3
+[[main]]
+parent = "Partners"
+name = "Partner Sites"
+url = "sites/"
+weight = 3
 
 [[main]]
 parent = "Partners"
